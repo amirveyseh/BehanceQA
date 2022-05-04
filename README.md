@@ -4,7 +4,7 @@ A Dataset for Identifying Question-Answer Pairs in Video Transcripts
 
 # Licenses
 
-The dataset provided in this repo is licensed under [CC BY-NC-SA 4.0 international license](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+The dataset provided in this repo is licensed under [CC BY-NC 4.0 international license](https://creativecommons.org/licenses/by-nc/4.0/legalcode).
 
 # Citation
 
