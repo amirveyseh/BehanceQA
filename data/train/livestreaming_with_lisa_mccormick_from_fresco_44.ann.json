@@ -1,0 +1,168 @@
+{
+  "sentence": [
+    "It doesn't make sense.",
+    "Um, and since this isn't a perfect circle that it didn't quite follow.",
+    "The edge over here, so I'm going to read.",
+    "Reduce some of those just to make sure.",
+    "It hugs.",
+    "The Circle Edge a little better.",
+    "OK.",
+    "Can And I'm very much like Eyeballing everything, which is kind of, I guess, my style I'm I'm not a perfectionist.",
+    "By any means, uhm?",
+    "But it also kind of hopefully give it that more like hands-on look.",
+    "You can tell that this was created by a human in that computer.",
+    "So in a lot of people really enjoy that about kind of like the imperfections so.",
+    "But definitely try to make everything look pretty close and cohesive, but I'm not always worried about.",
+    "Making everything exact unless it it needs to be exact, then obviously I will.",
+    "OK, so.",
+    "That's a fun little badge, and now.",
+    "Trying to think.",
+    "Most don't know if that monogram really goes.",
+    "But I also Man\u00e1.",
+    "Maybe do something here.",
+    "Um?",
+    "So, since we're already kind of playing with.",
+    "This being.",
+    "Such like a long piece, I think I'm just going to kind of carry on.",
+    "Uh, who isn't actually an adventure filmmaker?",
+    "To go around and help him on video shoots and what not.",
+    "Invariable to see more and more of these, it's really beautiful places.",
+    "In the wild and I just want to bring that experience back with me since I am I'm from a place that you know, we're in the Midwest.",
+    "I'm outside of Chicago, so pretty much landlocked and far away from any mountain, any ocean.",
+    "But I do just love being outside and I love how it can reset you in a deep way.",
+    "Kind of gives you that mental break that.",
+    "That that almost like spiritual filling up.",
+    "To just kind of pause and.",
+    "Yes, that.",
+    "That's been something I've always wanted to at least share those experiences through my art with others and.",
+    "Also for myself to kind of remember what it feels like to slow down and be still.",
+    "Um?",
+    "And so now it's been really cool because it's.",
+    "Can I getting more and more popular of of using the outdoors as almost like a therapy and one of my favorite things ever that I'll get to do from time to time?",
+    "Is lead these like art in?",
+    "Well, I can't like art and hike workshop, so it's just it's whether it's we're going on a hike in drawing or painting.",
+    "Uh, it's just one of my favorite things and so.",
+    "I'll lead people on like a.",
+    "Relatively.",
+    "You know, moderate.",
+    "Um hike?",
+    "Up and I've done.",
+    "I've done it in the Washington.",
+    "Cascade mountain range and up in Carbondale Co.",
+    "Which is right outside of Aspen.",
+    "It's just one of my favorite things ever.",
+    "Is just to spend an afternoon with a small group and.",
+    "Hike out through nature together and then.",
+    "Teach them how to really look at what.",
+    "What's in front of them?",
+    "Teach them how to see what you know.",
+    "The landscape is really looking like and to study it and use use different art materials to capture it, and then you know sit down, have lunch, break bread.",
+    "I get to know each other.",
+    "An and then go home and take back and.",
+    "It's just a sick, a beautiful experience that I want to keep doing more once.",
+    "Obviously, once the world goes back to normal in terms of opening up, but.",
+    "Yeah, it's definitely something that is still that.",
+    "I hope that.",
+    "If you guys.",
+    "However, in kind of like a tough spot, mentally, emotionally.",
+    "I would encourage you to try.",
+    "Taking a sketchbook.",
+    "Maybe just a piece of paper and a pencil, nothing fancy and leaving your phone.",
+    "Um at home.",
+    "I do that all the time.",
+    "Like leave your phone somewhere else and then go outside and walk around your neighborhood.",
+    "Again, doesn't have to be fancy.",
+    "I live in a suburb in Chicago, so trust me, there's nothing that.",
+    "Crazy inspiring, but that you still do find these little things like sketching trees or sketching the clouds, rolling or.",
+    "I mean, I love our forest preserves.",
+    "In just even you know 20 minutes of doing that can.",
+    "Can kind of be a reset for you for the whole rest of your day and then.",
+    "You know the next person that you come into contact with you yourself will be in a better.",
+    "Place emotionally to, uhm, you know.",
+    "Show love.",
+    "And then it's a ripple effect from there, right?",
+    "But I I still, I've really never seen much like anime at all, which I know you are like the king of anime, uhm?",
+    "It's probably like a sin to to confess this to you, but.",
+    "Will have to.",
+    "Will have to do like a movie night or something.",
+    "And you can.",
+    "You can pick out What to watch.",
+    "So for those listening in and.",
+    "Hearing hearing me, my conversation was look so, um.",
+    "Basically, Luke and his family are like.",
+    "Family friends um slash.",
+    "Like family members for me and my husband, um Luke's dad actually married me and my husband and dumb.",
+    "Yeah, the Karachi cruiser great.",
+    "Great bunch of folks.",
+    "Um?",
+    "Alright, so.",
+    "Huh?",
+    "So it's a little weird, but.",
+    "I guess I'm I'm just not feeling super confident today with.",
+    "A lot of my drawings.",
+    ""
+  ],
+  "entity": {
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        24,
+        25
+      ],
+      "sentence": [
+        "Uh, who isn't actually an adventure filmmaker?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        38,
+        40
+      ],
+      "sentence": [
+        "Can I getting more and more popular of of using the outdoors as almost like a therapy and one of my favorite things ever that I'll get to do from time to time?",
+        "Is lead these like art in?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "ANSWER",
+      "span": [
+        40,
+        41
+      ],
+      "sentence": [
+        "Well, I can't like art and hike workshop, so it's just it's whether it's we're going on a hike in drawing or painting."
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        79,
+        81
+      ],
+      "sentence": [
+        "Show love.",
+        "And then it's a ripple effect from there, right?"
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T1",
+      "answer": "T3",
+      "question_sentence": [
+        "Can I getting more and more popular of of using the outdoors as almost like a therapy and one of my favorite things ever that I'll get to do from time to time?",
+        "Is lead these like art in?"
+      ],
+      "answer_sentence": [
+        "Well, I can't like art and hike workshop, so it's just it's whether it's we're going on a hike in drawing or painting."
+      ]
+    }
+  }
+}

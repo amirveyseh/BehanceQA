@@ -1,0 +1,243 @@
+{
+  "sentence": [
+    "That might be a little bit too soft.",
+    "About is that.",
+    "Brighter red Now I feel like I'm making like a children's book.",
+    "Which I actually did.",
+    "Just make a children's book, so I guess that's.",
+    "That's not too far out of my.",
+    "Comfort zone uhm.",
+    "I don't know should I keep the red?",
+    "I don't know if it is making sense, uh, what about a little bit more replica?",
+    "Pink know maybe more orange.",
+    "Speech.",
+    "Yeah, I Uhm, Oh Camden Sorry didn't see this, Kansas says yeah I don't mean to ask a lot of questions is just going to be able to ask other pro zombie hands questions.",
+    "Everyone is so nice, insightful Oh my gosh no ask all the questions you want.",
+    "Yeah, I actually love talking and um in giving like sharing any insight and feedback that I've learned over the years so.",
+    "Yeah, I actually really appreciate you asking questions and engaging um.",
+    "In this so yeah, thank you.",
+    "Thanks for taking the time to.",
+    "To listen and watch, UM.",
+    "I hope that this is.",
+    "Able to help you in your own career and dumb.",
+    "You know, that's something that I feel like as a whole, the creative community.",
+    "Does really well with is?",
+    "I feel like uhm.",
+    "Pretty much everyone is.",
+    "Pretty nice, which is awesome.",
+    "I'm super thankful for that and I know.",
+    "Definitely is a lot to situate off at first with the price, I think you can get a you know gently used or older versions.",
+    "Just make sure that.",
+    "They work with UM in Apple pencil.",
+    "That way you can just draw and.",
+    "I would recommend it.",
+    "Laura, where where are you from?",
+    "Oh, thank you.",
+    "Yeah, I, I hope that this is an inspiring piece, uhm?",
+    "And now it's my heart has been just so heavy.",
+    "Uhm this whole week and I just I want to just continue using my art too.",
+    "To just spread a message of peace and Love and unity and so um yeah, doctor Martin Luther King.",
+    "I I've been reading a lot of his work this week.",
+    "Um, especially and uhm, yeah, I I wanted to make this piece around it, so I hope that inspires others to love.",
+    "Love more, love better and um that we all.",
+    "Yeah, that that.",
+    "That people matter and we need to.",
+    "We need to love people.",
+    "So, um, Laura says that she's located in Copenhagen.",
+    "That's awesome.",
+    "I've never been there, but I I would absolutely love to go.",
+    "Anna says thanks for the tip, fast.",
+    "Will prefer sketching by hands on iPad.",
+    "Sounds amazing.",
+    "Going to buy it instead of an iPhone 11.",
+    "Yes, I would definitely recommend it.",
+    "I mean iPhones are.",
+    "Great and all, um, of course, but uh, yeah, I if I if I had to choose between an iPad and iPhone, it would be at least for my work and stuff.",
+    "It would be an iPad all day everyday so I'm super excited for you.",
+    "That's really exciting.",
+    "I think that's going to just.",
+    "I think you're gonna love it.",
+    "And yes, fresco is really, really fun.",
+    "Um, so I was kind of showing earlier.",
+    "There's a couple different types of brushes, so on the left hand side, when I click on this, there's the pixel brushes and it comes with like.",
+    "I mean, I don't even know how many brushes that says this is.",
+    "I mean I have.",
+    "I have hundreds and hundreds of brushes in here.",
+    "Uhm, and they're all free to completely comes.",
+    "With fresco and then all of these at the bottom to like this mega pack is 316 and then there the second little icon is the live fresh is so these are like going to be like watercolor and oil brushes which is really cool.",
+    "And then this third one is all vector based brushes which I use these a lot too when I'm doing more of like graphic design illustration type of work.",
+    "But yeah, so it's a.",
+    "It's a good time in Frisco for sure.",
+    "Alright, just kind of see where we're at, so we added.",
+    "I was like like turning this on and off and just kind of seeing like.",
+    "But what kind of difference this is making so far?",
+    "I think it's looking pretty cool, OK, uhm.",
+    "Definitely one just keep on adding in details and building texture.",
+    "Laura, what kind of artwork do you like to do?",
+    "So I just thought I would come.",
+    "Yeah, sure, show everyone how I can I come up with an idea and then my sketching out and now right now I'm playing with like How do I want to end up coloring it in?",
+    "So this is just.",
+    "This is just like a little piece of.",
+    "What I will end up doing.",
+    "I'm just kind of testing it out, so I think that is definitely not enough contrast.",
+    "This gets pretty lost, so I either have to change this color.",
+    "Yes, clear content.",
+    "Since that could workout wanna see, uhm?",
+    "If I did background color.",
+    "It might be.",
+    "Fun to keep the background color the same as the outline one so that it gives it this kind of cool.",
+    "Um, like play with negative space.",
+    "Oh, it is this called the Dahlia Flower.",
+    "That's good to know.",
+    "Yeah, this is definitely one of my favorite Flowers too.",
+    "It is a pretty one.",
+    "Yeah, so this is the potential idea.",
+    "Still kind of playing with.",
+    "Playing with different ideas.",
+    "Social thinking I could do like a blue.",
+    "Outline.",
+    "And it's kind of completely break away from.",
+    "What we're doing, but I think that's a little bit too intense.",
+    "Uhm, but then of course, always black.",
+    "Does make everything pop really nicely?",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        7,
+        8
+      ],
+      "sentence": [
+        "I don't know should I keep the red?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        8,
+        9
+      ],
+      "sentence": [
+        "I don't know if it is making sense, uh, what about a little bit more replica?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        31,
+        32
+      ],
+      "sentence": [
+        "Laura, where where are you from?"
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        70,
+        71
+      ],
+      "sentence": [
+        "But what kind of difference this is making so far?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        73,
+        74
+      ],
+      "sentence": [
+        "Laura, what kind of artwork do you like to do?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        75,
+        76
+      ],
+      "sentence": [
+        "Yeah, sure, show everyone how I can I come up with an idea and then my sketching out and now right now I'm playing with like How do I want to end up coloring it in?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "ANSWER",
+      "span": [
+        71,
+        73
+      ],
+      "sentence": [
+        "I think it's looking pretty cool, OK, uhm.",
+        "Definitely one just keep on adding in details and building texture."
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "ANSWER",
+      "span": [
+        76,
+        87
+      ],
+      "sentence": [
+        "So this is just.",
+        "This is just like a little piece of.",
+        "What I will end up doing.",
+        "I'm just kind of testing it out, so I think that is definitely not enough contrast.",
+        "This gets pretty lost, so I either have to change this color.",
+        "Yes, clear content.",
+        "Since that could workout wanna see, uhm?",
+        "If I did background color.",
+        "It might be.",
+        "Fun to keep the background color the same as the outline one so that it gives it this kind of cool.",
+        "Um, like play with negative space."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Relevance",
+      "question": "T5",
+      "answer": "T2",
+      "question_sentence": [
+        "But what kind of difference this is making so far?"
+      ],
+      "answer_sentence": [
+        "I think it's looking pretty cool, OK, uhm.",
+        "Definitely one just keep on adding in details and building texture."
+      ]
+    },
+    "R2": {
+      "id": "R2",
+      "label": "Relevance",
+      "question": "T7",
+      "answer": "T4",
+      "question_sentence": [
+        "Yeah, sure, show everyone how I can I come up with an idea and then my sketching out and now right now I'm playing with like How do I want to end up coloring it in?"
+      ],
+      "answer_sentence": [
+        "So this is just.",
+        "This is just like a little piece of.",
+        "What I will end up doing.",
+        "I'm just kind of testing it out, so I think that is definitely not enough contrast.",
+        "This gets pretty lost, so I either have to change this color.",
+        "Yes, clear content.",
+        "Since that could workout wanna see, uhm?",
+        "If I did background color.",
+        "It might be.",
+        "Fun to keep the background color the same as the outline one so that it gives it this kind of cool.",
+        "Um, like play with negative space."
+      ]
+    }
+  }
+}

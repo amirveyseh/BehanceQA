@@ -1,0 +1,126 @@
+{
+  "sentence": [
+    "Clearer.",
+    "It could be my mind playing tricks on me, but I'm not sure.",
+    "Just feels, but we'll see when I like finish him up.",
+    "I think them I might actually show him off later.",
+    "That's why I wonder like Are we getting the emails here and we make our own?",
+    "Probably not something about.",
+    "He called Vine.",
+    "It would be cool.",
+    "If we had emails.",
+    "Finally, I think that would be more more trouble than it's worth here.",
+    "As then you would need like a team to improve email to make sure that they are safe for work content wise.",
+    "After Bill, I know a new structure or the chat windows.",
+    "That compensate both desktop and mobile versions of it.",
+    "Is not as simple as like we want emails here boom you got.",
+    "You know it's like there's a lot of logistics.",
+    "I have to go on with that war.",
+    "How do you like it?",
+    "I think I'm done.",
+    "Psylocke.",
+    "A lot of work in this one.",
+    "I'm going to make this hand smaller.",
+    "And I think I made it too big.",
+    "Too big.",
+    "Coming down just a tad.",
+    "There you go.",
+    "There you go.",
+    "Feel like I've been.",
+    "There's a lot of things that which is done right, like for sure has been doing, like streaming for how many decades like close to a decade.",
+    "Um?",
+    "I would say it's an innovator, but it's done a lot of things right, but at the same time they said a lot of things for us as well.",
+    "So I think like for this I think it should.",
+    "It should naturally turn into something that is unique to itself, you know.",
+    "To try to emulate trying to try to be the art, which I think is the wrong approach, at least in my opinion.",
+    "It's the wrong approach.",
+    "You have to know your market.",
+    "You have to know your user base 'cause the user bases are extremely different.",
+    "If you go to any single live stream on be hands, the chill factor is like exponentially higher compared to like Twitch, where it's like we need the hype whereas the hype where is the give me the hype train.",
+    "Give me, you know the hype and then like here it's like, hey, we're working we're learning for sharing thing that that sort of thing so hey Bander.",
+    "Bander, where is your character.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        4,
+        5
+      ],
+      "sentence": [
+        "That's why I wonder like Are we getting the emails here and we make our own?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        16,
+        17
+      ],
+      "sentence": [
+        "How do you like it?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "ANSWER",
+      "span": [
+        5,
+        9
+      ],
+      "sentence": [
+        "Probably not something about.",
+        "He called Vine.",
+        "It would be cool.",
+        "If we had emails."
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "ANSWER",
+      "span": [
+        17,
+        20
+      ],
+      "sentence": [
+        "I think I'm done.",
+        "Psylocke.",
+        "A lot of work in this one."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T1",
+      "answer": "T4",
+      "question_sentence": [
+        "How do you like it?"
+      ],
+      "answer_sentence": [
+        "I think I'm done.",
+        "Psylocke.",
+        "A lot of work in this one."
+      ]
+    },
+    "R2": {
+      "id": "R2",
+      "label": "Chitchat",
+      "question": "T0",
+      "answer": "T3",
+      "question_sentence": [
+        "That's why I wonder like Are we getting the emails here and we make our own?"
+      ],
+      "answer_sentence": [
+        "Probably not something about.",
+        "He called Vine.",
+        "It would be cool.",
+        "If we had emails."
+      ]
+    }
+  }
+}

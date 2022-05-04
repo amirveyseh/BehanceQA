@@ -1,0 +1,165 @@
+{
+  "sentence": [
+    "Midwest.",
+    "In this text.",
+    "Yeah no problem.",
+    "Camden Uhm Yeah, I hope that helps you come out and.",
+    "You know, I think another big thing is just persistence and, um.",
+    "So yeah, I totally believe that if you stick to it and just keep.",
+    "Keep learning, keep developing your skills.",
+    "You can totally do it so.",
+    "OK, so.",
+    "Now that I cannot have like some different random sketches mapped out.",
+    "I think I want to take a step back and.",
+    "Start 2.",
+    "Put this a little bit more into like text.",
+    "Let's see.",
+    "So so for these I'm going to group them together.",
+    "Duplicate.",
+    "I was like keeping all of my layers on.",
+    "Um?",
+    "I guess like.",
+    "Only together with uhm.",
+    "Oh, Why is that?",
+    "Did you that wrong?",
+    "OK, never mind there it is.",
+    "OK, so that's for the scroll.",
+    "Just how.",
+    "I guess yeah, when someone really really dedicates themselves and gives give that gives them self holy over 2.",
+    "You know A cause or a craft store.",
+    "You know just just anything it's like.",
+    "It's just so inspiring I guess.",
+    "To me in.",
+    "Yeah, it's amazing what people have been able to accomplish and.",
+    "It's definitely a very uplifting message.",
+    "I thought.",
+    "Um, especially for.",
+    "Just for everything, all the all the hard things that we've been walking through is, uhm.",
+    "An entire world so.",
+    "Could always use some positive.",
+    "Stories.",
+    "OK, so.",
+    "I'm turning.",
+    "The shadows and textures on enough, and you can kind of just see the difference that it makes.",
+    "So it's definitely starting to pop a little bit.",
+    "I also have a long way to go.",
+    "But it's fun to see.",
+    "Progress slowly.",
+    "Anna says a question about fresco because I'm thinking of getting getting an iPad pro.",
+    "Does it use vector lines?",
+    "It does, which is really, really awesome.",
+    "Here I can show you so, um.",
+    "So right now I'm using pixel brushes, but if I do a new layer so over on the left hand so there's pixel brushes right here.",
+    "And then there's actually live brushes, which is like what they're supposed to act more like real paint.",
+    "The watercolor oil brushes.",
+    "But then there is.",
+    "This third one is vector.",
+    "So I'm I'm not using vector right now, but you can and I'll show you so if I do a couple of strokes right there and then, I can zoom in, zoom in and nothing.",
+    "I want my trying to say none of the resolution gets lost 'cause it's a vector brush and you can actually open this right up into Adobe illustrator and.",
+    "You know, mess with the point.",
+    "Um in there.",
+    "So yeah, it's great.",
+    "Totally, yeah, that is definitely been one of my favorite things about fresco.",
+    "Yeah, they.",
+    "There's that and then also they do have now um, where you can draw a straight line feature.",
+    "So if you see how that just bounced up, um.",
+    "He just draw a line and hold down and it'll make it like perfectly straight and you can drag it.",
+    "And yeah, so there's there's a couple cool.",
+    "Features for the more like graphic side.",
+    "Which is actually I usually work in that more vector based side, but.",
+    "Today I just kind of wanted to play with more of like this organic type of, uh, just like rougher brushes.",
+    "But yeah, no problem.",
+    "I'm always happy to uhm.",
+    "Yep, give any feedback at all.",
+    "Answer any questions.",
+    "I definitely think that.",
+    "Um, if you can get an iPad.",
+    "I think it's so so so worth it.",
+    "It's.",
+    "Uh, it's completely, I think, changed.",
+    "My I mean, I would say probably my whole like career 'cause it's even changed my style a little bit.",
+    "Gonna make it to the final piece but.",
+    "That was just like a quick monogram idea that I had for Olympic National Park.",
+    "And then some lettering.",
+    "Which this sketch is really small for that part I'm going to.",
+    "Turn it up.",
+    "Um, I'll turn my flower layer off so I can see.",
+    "And.",
+    "OK.",
+    "So.",
+    "So so basically this one is.",
+    "Super simple.",
+    "Flattering.",
+    "Um?",
+    "By no means.",
+    "A very good letter.",
+    "Most of my lettering is.",
+    "Pretty much just my own handwriting and then.",
+    "I'll do some like flight.",
+    "Changes to it like.",
+    "Giving the Give me a couple of these letters.",
+    "A little swish.",
+    "Huh?",
+    ""
+  ],
+  "entity": {
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        20,
+        21
+      ],
+      "sentence": [
+        "Oh, Why is that?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        21,
+        22
+      ],
+      "sentence": [
+        "Did you that wrong?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        46,
+        47
+      ],
+      "sentence": [
+        "Does it use vector lines?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "ANSWER",
+      "span": [
+        47,
+        48
+      ],
+      "sentence": [
+        "It does, which is really, really awesome."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Relevance",
+      "question": "T3",
+      "answer": "T6",
+      "question_sentence": [
+        "Does it use vector lines?"
+      ],
+      "answer_sentence": [
+        "It does, which is really, really awesome."
+      ]
+    }
+  }
+}

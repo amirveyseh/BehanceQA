@@ -1,0 +1,2913 @@
+{
+  "sentence": [
+    "I feel like.",
+    "The.",
+    "Are we stable yet?",
+    "I'm uh I'm losing frames like crazy.",
+    "I don't know what the problem is.",
+    "Let's try let's see if we're looking alright here.",
+    "Let's try movement tests, Yeah Laggy, it is.",
+    "Hi everybody, um welcome.",
+    "I need to turn on something 1st and uh.",
+    "I will do that now wherever it went hold on a second.",
+    "Hold on a second.",
+    "Tool timeline that's right the tool timeline will pop that bad boy on real quick?",
+    "How are y'all doing today?",
+    "I'm Ben.",
+    "And today we're going to do what is written right here.",
+    "Man my Camera is all over the place to just give me one second.",
+    "Give me one second?",
+    "How are you all doing today?",
+    "I don't know why my night stand is visible.",
+    "Now it's never usually visible there.",
+    "We go that's better.",
+    "We're going to be working with some screentones today and the reason I'm doing that is because it is contextually relevant to what I'm working on personally.",
+    "There we go.",
+    "I've been working on my own little comic for the last while it's been awhile since I've started working on it, I guess I can get rid of our.",
+    "Let me let me get rid of this.",
+    "We don't need this anymore.",
+    "Um.",
+    "But working on a comic for awhile and as you may know some of you may not most of you probably won't have a big fan of manga manga anime.",
+    "Stuff like that, but mostly the art in manga.",
+    "It's insane looking at the history of manga using screentones and not using screentones manually doing hand toning with like cross hatching.",
+    "Even a little bit of Point Alyssum.",
+    "It's insane.",
+    "It really is.",
+    "It's crazy.",
+    "And now we're in what 2020 now.",
+    "Welcome to 2020 years going well by the way.",
+    "Now that we're in 2020 and it's been this way for about 2.",
+    "Decades now but we have access to water called computers in computers, are fantastic.",
+    "They allow you to do all kinds of really handy stuff that would be otherwise really tedious to do manually with traditional work so.",
+    "That brings me to screen tones and screen tones for those of you unaware.",
+    "I imagine most of you are aware but a lot of people probably aren't as well.",
+    "Screen tones are basically implying grayscale value like from black to white and not even just grayscale.",
+    "But just value in general really you can use colored screen tones that's totally valid.",
+    "Um.",
+    "They're meant to imply value by density and what I can do to kind of show you what I mean here is I'll use a very simple brush and I'll put a couple of these dots together here will zoom in a little bit closer.",
+    "And depending on how close and big.",
+    "These dots are.",
+    "They will imply.",
+    "A different level of value also I'll just drop a few dots in here and I'm going to get fewer.",
+    "I can't really make a much smaller because well, we're actually working at a pretty small resolution here.",
+    "But basically if we just put a couple in between.",
+    "These dots here as we go back there's a whole like math and logic to all this that.",
+    "I'm not too familiar with, but I will touch on that a little bit as we go along.",
+    "But yeah, as as I kind of fill these in you can see that it's not a very good example right now, but basically at a distance.",
+    "This area looks a bit darker in this looks a bit lighter and that's the whole principle to screen tones.",
+    "It's pretty simple to be completely honest.",
+    "But it can be a very complicated.",
+    "Thing there's a lot of much like any form of Art.",
+    "Watercolor acrylics crosshatching all those different things that fall into really any category.",
+    "Can appear simple but very rapidly get complicated and have a lot of contextual decisions to make?",
+    "Technical aspects as well all of which I will do my best to cover today on the stream.",
+    "An I'm not a pro.",
+    "I don't know everything there is to know about Screentones and this is a learning experience for me as well.",
+    "Hey Turtle, how's it going?",
+    "You're using?",
+    "Uh your anonymous turtle handle today?",
+    "I saw you on Ryan stream like a couple months back and you had your own professional.",
+    "Handle much like I am here now how you doing.",
+    "I'm glad you came by Are you ready to learn about screentones I sure AM.",
+    "A couple of things I want to talk about for screentones.",
+    "There's going to be these custom brushes.",
+    "Similar already have the Kyle brushes specifically that come with your creative cloud subscription.",
+    "So if you've got the creative cloud subscription.",
+    "You can go to like I think it's the exchange Adobe exchange.",
+    "It could pick up all these brushes that I'm going today.",
+    "I'm sure there's more, but what I have right now is probably sufficient.",
+    "And then also in Enjun solutions to making screen tones and I don't want to simply say screentones halftones are also going to fall into this category, and they get a little bit more.",
+    "Diverse and their usage typically screentones as the name goes are just grayscale screen tones, primarily for doing illustrations and black and white and.",
+    "And actually got this little illustration here where you can see.",
+    "I've actually used some screentones practically.",
+    "It's really hard to tell.",
+    "I know I'm sorry, but you can maybe see a little bit of dots there and those dots are there.",
+    "They're not part of the the cameras lack of quality those are actually little dots to make up a grayscale value.",
+    "So I've got about 2 hours today before I have to go.",
+    "And I will do my best to cover most of the basics and also talk about some examples to first of all I'm going by the way Journal.",
+    "There's a tremendous amount of latency between what I say, and when you hear it.",
+    "So I said that about.",
+    "3 minutes ago so there's roughly at 3 minute gap.",
+    "So hopefully that's not to interrupt if.",
+    "This is the beta program so I'm guessing that as they roll out more official stuff.",
+    "It's going to be a lot tighter at least I hope so.",
+    "I'm sure it's mostly Codex and things like that.",
+    "But That being said, I'm going to follow.",
+    "These exactly as I have a drawn out here and I'm actually working on a?",
+    "A format for an actual thing that I need to keep clean so let me just make a new save up here and will get back to it.",
+    "OK.",
+    "I had talked about perhaps.",
+    "I'm going back to value paintings or something today or I talked about my next stream and maybe that but I think this might be a little bit more fun and a little bit more relevant to what I'm working on right now, but yeah, so custom screentones.",
+    "Basically, you can make your own screentones.",
+    "If you want to now.",
+    "I watched a remember who it was, but what they've done is they made a pattern.",
+    "And then they just did the shift F5 fill with their own pattern.",
+    "We're going to do something similar here.",
+    "I've got a couple already there.",
+    "Maybe not ideal for this particular project.",
+    "But I will breakdown how to make your own screentones.",
+    "First, we're going to go through a very like loosen rough example of each of these 3 things here and then we'll break down to some more specific examples now.",
+    "Unfortunately, a lot of the Times that you can find.",
+    "Um.",
+    "Manga or things like that online or other screen tones that have been used.",
+    "There typically super low quality.",
+    "So the examples.",
+    "All have won't be all that useful because they just kind of look like grayscale values.",
+    "But I will try to share as best as I can some good examples.",
+    "OK so how to make a custom screen to know what I'm going to do right now is just make a selection here hit shift F5 to open up your fill options.",
+    "I've seen people I've seen people go to like edit Phil and like it just it.",
+    "Hurts me so ship 5 is the way to go for doing an actual feel like this and I'll select custom pattern contents pattern, custom pattern.",
+    "Now, this is a pattern that I've made already.",
+    "And I will go through the process of making the pattern as well.",
+    "But since I've got some ready to go go and open one up.",
+    "I don't know if these are going to look at or not, but we do have these guys.",
+    "These are basically 5 simple circles in a die pattern and I'm just going to press OK and they're a little bit weird.",
+    "But there you go you get basically what is the screen tone and that's oversimplified for sure.",
+    "And these are huge too.",
+    "I think I was actually using these for different project, not necessarily screentone related and that's why they were a little bit weird, but look through a couple more that I have here I think this one might be a good one.",
+    "That's also very huge very awkward as well, but that's fine.",
+    "Um.",
+    "And this is just a single dot which will end up looking like that.",
+    "I'm not a professional for using patterns in photo shop, so please bear with me as I work on this.",
+    "But what I'm going to do is.",
+    "This is for the people who just want to see the info and get out.",
+    "'Cause I know there's a lot of tutorials.",
+    "This is not a story by the way this is just kind of meh experimenting on my own but also trying to share my knowledge as I go along too.",
+    "But for people who want to just see what I have to have to say, and then get out.",
+    "Basically, we're going to make a very small piece of our pattern.",
+    "These are very bad dots or the screen tones, but will probably work nonetheless.",
+    "Will just make a quick 3 by 3 little box here and we're going to make a selection?",
+    "And then what you can do is go to edit.",
+    "Define pattern and will just call this 3 by 3 dots.",
+    "OK.",
+    "And that's pretty much it so now, what I can do is make a selection here shift F5 and then find my 3 by 3 dots here.",
+    "And then press OK and there, you go you get a very loose screentone.",
+    "Let me see if I have any illustrations that would be good, too.",
+    "To use as an example.",
+    "Hum.",
+    "I need to open bridge up I think.",
+    "As it turns out looking at photo shop icons doesn't really help.",
+    "That's gag in the sense of like a joke.",
+    "Not like something else don't worry.",
+    "OK.",
+    "Uhm yeah, I've got will work with.",
+    "Um.",
+    "Which of these would be a good example I think that?",
+    "Maybe this one.",
+    "Will try this one out or maybe?",
+    "Let me find a better example, something a little bit more.",
+    "Generic.",
+    "I tell myself that I'd like to prepare my.",
+    "My stuff in advance.",
+    "But it's rare that are actually do so there, you go.",
+    "OK, I've got some Fox is here that I've that I've studied.",
+    "Let's take a look at these Fox is going to add some screentones with these guys so they're not quite.",
+    "Not quite the cleanest there we go.",
+    "But they'll work.",
+    "Let me just make these flat black.",
+    "And what I basically do for this is there's a couple of options.",
+    "You have the option.",
+    "I like the most is to fill your entire canvas with your screen tone pattern.",
+    "Like like this.",
+    "Just fill the whole thing of course, we do have the issue of.",
+    "The White Alpha was retained from the from the initial initial creation of the pattern, which is unfortunate, but we can do a multiply and that will make it so that you can see right through the white.",
+    "So what you can do now is make a Hey, Leslie, Oh, cool fantastic.",
+    "I'm hoping that this will be a handy thing to follow along with I hesitate to call dictatorial but.",
+    "So now we have a very rough stream till made simply of our 3 by 3 dots, but now, what we can do is fill the whole canvas make a mask and then fill the mask using I think it's the black.",
+    "Oh, fantastic, Hey, how's it going lenardo?",
+    "Is that Leonardo yeah?",
+    "I think it?",
+    "Is isn't it?",
+    "So now that we filled the whole camp with black everything is invisible to black doesn't allow any light through that's kind of the idea of a mask.",
+    "I won't talk too much about the masks because that's a whole topic with of its own.",
+    "But what we can do now is erase the mask.",
+    "And that will reveal the screentone using white that is, we won't erase it will paint it with white that will get rid of the mask and now we can just.",
+    "Cut away the spots with the screen to show through.",
+    "And it will start to take effect and again this is a very crude way of doing it.",
+    "You can definitely put the effort in put the effort into your screen to look nice experiment with Densities, which is a big factor of a screen tone?",
+    "How close your dots are together and also how large the dots are too.",
+    "I tend to prefer something that's not too big but also not too small.",
+    "Typically, I feel like if you can see the individual dots at a full view on your display.",
+    "There may be a bit too big so I like to keep him a little bit smaller and a little bit tighter.",
+    "Let me make a additional screentone real quick.",
+    "And I'm going to get rid of my white background too.",
+    "So we have an issue with the Alpha anymore.",
+    "Although the Alpha might will find out will find out in a second.",
+    "So I'm going to get a hard round brush at a size of one and we're basically to be making pixel art here.",
+    "I'll make a couple do a 5 by 5.",
+    "And this is going to be an incredibly dark and dense screentone.",
+    "But I want to show you all what that will kind of look like now remember when you're making your selection.",
+    "The space around your object will also be included in the in the pattern, too, so that will definitely make an obvious and weird gap between your patterns.",
+    "Especially if something's tight and geometric is this So what I want to do is make sure that I get basically a pixel.",
+    "I want to get a space the width of the dot.",
+    "Around the selection here that way they should be able to connect up just right well actually will make only half of it have the gap as it makes sense because we only want this width here to space.",
+    "The two selections apart.",
+    "If you have it equidistant around the entire T of the selection.",
+    "It will have a 2 wide gap.",
+    "So you want to make sure that one side is one set off another one is not.",
+    "It's not what we'll do is go to edit defined pattern and will call this one.",
+    "Screentone example to about that.",
+    "So we're going to go back to our Fox is here make a new layer and then fill that layer with the new pattern.",
+    "We just made and that should look alright.",
+    "Yeah, you can see we get an ice equidistant pattern of pixels basically.",
+    "And will make a new mask will fill it with black and now, what I can do.",
+    "Is unlock the mask from the layer?",
+    "Which will allow us to move the layer itself really in the mask won't be interrupted so I'm going to do that because what I want to do.",
+    "Let's erase or clear out the mask again here.",
+    "So we can see the Fox.",
+    "I was feeling like these dots are a bit too.",
+    "Small So what I'm going to do is actually scale it up once I get him in place.",
+    "So remember, we're racing the mask were not painting anything here were just clearing the mask.",
+    "By doing this we're not actually affecting the image at all.",
+    "Now what I can do is select.",
+    "Here, the actual layer.",
+    "And now if I move this and scale it.",
+    "It will work independently of the mask below well, I guess the mask above in this case so I'll scale it out roughly to 200% and we can see the screen.",
+    "Tones are a lot bigger now you will get issues with distortion and what's called Moray.",
+    "And I think it's more a It's MOREI think there's like an accent on the E as well.",
+    "Why are maybe I don't know I've seen people say foray into more as like a learning example so it might be more right.",
+    "But you will get weird distortions when you scale and shrink and expand and change your screen tones and ice box.",
+    "Fox.",
+    "Box box.",
+    "So that the Maury stuff is a whole thing in its own an I'm not very knowledgeable on that I've only just learned about it actually but it will be a big issue when you work on like shrinking your images down to share them online.",
+    "If you're a smart artist to work at a high DPI at a higher resolution and then shrink it after.",
+    "Well, I guess, saying good artist based on that is a little bit, too, narrow to say.",
+    "But if you want to have nice clean artwork.",
+    "You'll typically work at high resolution and then you shrink it down.",
+    "It will change your screen tones, so that's a factor to keep in mind as well so that's a very quick and brief look into making custom screentones.",
+    "I'm not going to save these changes.",
+    "I'll keep the Fox is open actually will go ahead and close that.",
+    "The next thing that we talked about are the Kyle brushes and the Kyle brushes are like I said earlier included with your?",
+    "Creative Cloud subscription you can go to the exchange and you can get all these brushes to follow along with if you want.",
+    "An I'm not going to talk about how to like add the brushes.",
+    "I'm not going to show you where to get him.",
+    "It's not really the topic of the stream today, but you can find no problem.",
+    "If you look.",
+    "But once you've loaded the brushes.",
+    "You'll be able to access them in your?",
+    "And your brushes here we've got a few there are all labeled with the prefix of Kyle's so you know exactly which ones are, which I prefer to look at my brushes this way.",
+    "But I think for the sake of this go and show the stroke and.",
+    "What kind of scale this up a bit too, so you can see a little bit more specifically the brush I'm working with.",
+    "I don't like to work and this format specifically.",
+    "It's too.",
+    "There's too few brushes at once, but it's really handy for.",
+    "For president in.",
+    "Scale this up a little bit more.",
+    "If if Photoshop allows it.",
+    "It's very possible just crashed I may have to relaunch it.",
+    "I will say I don't know I don't know what the issue is I look at it, it caught up.",
+    "Uh the Kyle brushes in 2020 photo shop 2020 have seem to cause me some issues, where it will just kind of freeze.",
+    "My engine for a while.",
+    "My my photo shop and I don't know what the causes and I don't know if there's other like related issues to that that I don't know about.",
+    "But just bear that in mind.",
+    "If you work with the gold rush is just in general.",
+    "I'd recommend saving right away and often because I'll often work on a project and not know if I like it.",
+    "Until it's frozen and I have to lose it so.",
+    "Make sure you save in your stuff that's just a general rule that always be saving your stuff.",
+    "I grew up in a in a time playing games, where there wasn't autosave yet to save manually.",
+    "Whenever you wanted to save your game and you think with that history.",
+    "I would know to just be like constantly saving stuff, but still.",
+    "Uh.",
+    "So the Kyle brushes.",
+    "While there are a good assortment of regular inking type brushes very good traditional feeling brushes in a lot of ways.",
+    "It does come with a pack of.",
+    "Filled tones as well, and these are a little bit.",
+    "More thought out than the ones I just showed you they have a texture.",
+    "That's applied and it will be consistent.",
+    "No matter how many times you pick your brush up so that texture is always going to be hanging out there.",
+    "And no matter how much you paint over Top of it, it won't go away, and their pressure, based as well.",
+    "Anne what that will do is if you press hard.",
+    "It'll fill dark and as you lighten up and you go across your canvas.",
+    "Will get a little less dense so you can get some nice loosen rough tones here and there.",
+    "No big deal.",
+    "It's been pretty good, and you can build him up.",
+    "If you want as well.",
+    "And that's a really important aspect that I love.",
+    "But I think it's a bit sensitive for me.",
+    "Sometimes I just want to apply a smooth casual flat tone here and I'll get little variations like right in here, you can see little variations that well can be kind of cool as like an organic look too.",
+    "It's got a very hand painted feeling to it.",
+    "If you just want a nice clean tone.",
+    "It's kind of tough to get.",
+    "Now there's probably a way what you can do is you can actually click with your mouse and you can get some.",
+    "Depending on hard you click you can get some much lighter tones, but again, it's really tough to get it just right and I don't know of a way to fill a specific level of the tone either.",
+    "So you're kind of stuck with what my solution is to make a selection of what I want to tone and then make a really big brush and just gently touch over Top of it and that kind of works for Maine for some people with like less powerful computers.",
+    "These brushes when they're very large can take some time to render so it might.",
+    "Make you have to spend like a good you know 4 or 5 minutes waiting for the filled happen.",
+    "So this is something to bear in mind.",
+    "But these are really great tones.",
+    "I like him a lot there.",
+    "A lot handier than some of my other methods and they're already there, so win win win in my opinion.",
+    "I'm just going to make a couple of selections here.",
+    "I'm going to show you a couple of.",
+    "Gradients done the Screentone.",
+    "As best as I can.",
+    "Yeah, see pressure sensitive stuff on it, it's it's a.",
+    "Pretty sharp cut off.",
+    "Very gently try to modify how hard I'm pressing without.",
+    "Too hard.",
+    "OK, there and you can see this is a good example.",
+    "Now I've not really shown a good example of how these screentones can look like actual gradients actual proper grayscale values at a distance and that is the whole point.",
+    "As an experiment I'll make a red brush.",
+    "And you can see I initially said it was.",
+    "Screentones were for grayscale values, but this can also apply to other values as well doesn't have to be limited just entirely too.",
+    "Black and white but you can actually use colors and a lot of people will very actively do that.",
+    "They'll make that a point to make their skin tones.",
+    "Have a different Hue or saturation for a very specific reason.",
+    "And those are all the screens.",
+    "We have screen tones are cool because you can basically turn anything into a screen tone and you can make like a house or a background over tree.",
+    "There are a couple of more simple patterns.",
+    "Which ones do we have?",
+    "We have these crosshatches?",
+    "What the crosshatches here?",
+    "Which basically couldn't be used as like a chain link fence or just another type of appearance pretty flexible.",
+    "And again, these are all the cow brushes, which are available with creative cloud.",
+    "They're not paying me to say that I just wanted you guys to be very.",
+    "Very clear on where to get these guys because I think if you if you've got a creative.",
+    "Cloud subscription and you're not using the call brushes.",
+    "You're kind of like like these brushes alone are probably worth a monthly subscription to be completely honest, they're really great.",
+    "They do have their drawbacks, but you can fix those very easily.",
+    "Because you have the brush settings that you can change, so you know if maybe you don't want to have a size jitter based on Prem pressures turn it up turn it up.",
+    "You know it's just complete control.",
+    "It's super handy.",
+    "I might be something to think about though for flat tones.",
+    "And then I will now jump into the photo shop methods of making your own screen tones.",
+    "And that can be done fairly easily.",
+    "It's a little bit of of an awkward situation in some ways, but in other ways.",
+    "If you just kind of do it.",
+    "It's not a big deal.",
+    "I think I've got my.",
+    "It's alright OK, we're going to make a quick screen tone here.",
+    "I say Screeton, a gradient here.",
+    "This is a very clearly black to white with grey zone between and.",
+    "The important thing about a gradient is the gradual change from one value to the next.",
+    "And you can do that with screentones normally but this is another way of doing it.",
+    "So what you can do is take your grayscale and this could be anything.",
+    "I want to show you before.",
+    "We actually get into that.",
+    "Let me make a very brief rough grayscale not.",
+    "It is all thank you.",
+    "That dissolves are great will get into that.",
+    "At some point.",
+    "Those are in my opinion very relevant through screentones will just drop in like a very rough, something rather here.",
+    "See we've got like a a dark area and then maybe the foreground here could be a nice bright light bulb.",
+    "Just a light bulb here imagine that imagine it with me.",
+    "I know it's a bit tough to see but it's a light bulb.",
+    "And so we want to make that agree scale 2 just both of them together, So what we can do is we can select these and what I like to do is make a new document personally.",
+    "Yeah, it's incredible isn't it?",
+    "Thank you turtle.",
+    "Make a new document I'm just going to use my.",
+    "This guy here.",
+    "Make a new document of the same dimensions that I like to do and then we will.",
+    "Cut Copy whatever you prefer and then paste into your document.",
+    "I'd like to do paste in place for the work that I like to do.",
+    "Depending on what you like to do it might be a different topic, but now that we have this here.",
+    "All you do is go to image mode grayscale.",
+    "You can merge if you like if you don't like to won't matter because it's going to merge anyways and this next step, which will be image mode and then bitmap.",
+    "Now the bit mapping is where it's going to be important so.",
+    "Uh I typically just do you know diffusion dither?",
+    "I don't play around these too much diffusion do their works just fine for me but the resolution is the biggest factor here.",
+    "The size of your dots will be influenced by your DPI here, So what you can do I like to do have it?",
+    "And that will give you a screen tone.",
+    "Loke actually know what I'm going to make it 600.",
+    "Will keep it at 600?",
+    "'Cause that was looking a bit crusty wasn't it so there.",
+    "We get a lot more value here and you can see all of the grayscale has turned into dots.",
+    "Here is well, you see so all that is become entirely black or white.",
+    "There you go and this is a pretty bad example.",
+    "I've got a better example.",
+    "I'm going to grab a photograph that I've taken just use that for for reference.",
+    "Now this doesn't always look great.",
+    "Let me just find my photos.",
+    "Will take a look at?",
+    "I've got one in mind that I want to use.",
+    "Give me one second.",
+    "I thought I had it on hand.",
+    "Here we go I've used this before, in my value painting examples.",
+    "So we have this photo here of a nice little building environment.",
+    "Pretty straightforward I see we're dropping some frames again.",
+    "I hope it's not too bad.",
+    "But yeah, we've got this scene here and say, We want to make this look like it's got screen tones in it, so simply.",
+    "Select all copy it and just paste it right in and I think I look at that.",
+    "Why would it automatically made it into a screen tone just by leaving it as a bitmap there you go there's no color there, it's entirely black or white.",
+    "And this might be a little bit, too, simple.",
+    "It may not be exactly what you want and you can see at this particular level.",
+    "It gets really Moray.",
+    "Which I was talking about earlier?",
+    "And that will be addressed at some point in the future but not right now basically that's just the process, there and what you can do is obviously having this as a bitmap doesn't really help out So what do you do you just go back to mode and then grayscale the ratio here depending on if you change your DPI?",
+    "When you made.",
+    "Your grayscale your bitmap.",
+    "Rather, you want to change it here.",
+    "So if you set it to 300.",
+    "You'll need a double your ratio.",
+    "To make it go back to the exact size that it was when he brought it in for me, I changed to 600.",
+    "So I'll just leave it at scale ratio one and then send it back to RGB might as well.",
+    "So what I usually do not have one problem if you bring this back into your document.",
+    "It has a white background now an you know, we've talked about how to make that not a problem.",
+    "Just set it to multiply that's one option.",
+    "That is one option, you have, but what I prefer to do.",
+    "Is before I bring it back over?",
+    "I like to double click my layer?",
+    "Which you can adjust it here?",
+    "When you do that.",
+    "Unlocks your background.",
+    "I guess you just click.",
+    "The lock button as well.",
+    "But I have my method, you can choose your own if you'd like to.",
+    "Now you could do the one tool and select the white.",
+    "Which work in some cases, but sometimes you get a fairly dense batch of pixels like here for example, that won't be caught by those selections.",
+    "So I like to go to select color range and then select the white.",
+    "And there's only white or black so there's no issue of greys or anything like that.",
+    "So it'll get rid of everything that isn't black and now you can just drag it back into your working file.",
+    "And now you got a nice screentone there and it's fantastic.",
+    "Now it can look a little bit artificial.",
+    "No, the The Moray isn't what you want turtle that's the problem.",
+    "You don't want them or a?",
+    "The the wire.",
+    "I don't know how it's meant to be pronounced that's the problem.",
+    "It happens, you'll get like Plaid textures at a certain resolution.",
+    "I've got, I think it's here.",
+    "This is from Chapter 5, so if you might have actually deleted the one that had the yeah look at look at this guys hair here for example, you can kind of see, there's a bit of a Plaid texture, and that's caused by shrinking the.",
+    "Shrinking the screen tones down and that's really in a lot of cases, not what you want so that's the main wire.",
+    "The Moray that you want to try to avoid if you can.",
+    "And you can kind of solve that in one of two ways.",
+    "I'm not going to talk about it just yet 'cause.",
+    "I want to also show off a couple of different methods of making screen tones.",
+    "One that you can do, I've not really worked with this myself.",
+    "I've not found it to be very useful.",
+    "But if you want.",
+    "This particular look.",
+    "You can go with it.",
+    "I think it's under pixelate.",
+    "Color halftone and this will use colors and it's a little bit weird, too, but you can get some halftone looks out of it this way.",
+    "And I think what we can do is actually going to filter.",
+    "Thankfully halftone these channels here are going to be colors, so I think it would just zeros or maybe.",
+    "Moving maxes out 255.",
+    "It will come back as being just black and I'll set this Max radius to 2.",
+    "It needs to have 127.",
+    "Maybe just having him all the same will work.",
+    "Yeah, that works so that's one way of doing it.",
+    "And again that's filter.",
+    "No pixelate color halftone and these are all set to 0 right now and if you choose like a smaller number or bigger number of little change the size of these dots.",
+    "Let's make another gradient here.",
+    "Will do a radial from the inside out like that or the opposite rather?",
+    "Just like how about that looks pretty good.",
+    "I'll make a selection if you make a selection.",
+    "The filter will only apply that selection, so I'll do I think it's control.",
+    "Alt F to reapply my filter set it to 4 and then you get a nice a nice dinner.",
+    "There, too, so that's one option there.",
+    "And again if you do want to add some colors, you can change, these around.",
+    "And this should be.",
+    "I think it's RGB an Alpha.",
+    "I don't know what all the four channels are 4 typically was just 3 the red blue and green so the last might be either the Alpha or the key or it might be a CMYK, which I guess the key in the Alpha kind of the same thing, but that Channel 4.",
+    "It's for something.",
+    "I don't know I can teach you how to use these color halftones to this to this degree, but the default settings are probably work alright.",
+    "And you can get some cool colored values and their two if you want if that's what you're looking for again.",
+    "Screentones, you can get a lot of mileage out of him.",
+    "There's a lot of flexibility.",
+    "You can have a lot of fun with them.",
+    "Lots of stuff you can do, but there's also.",
+    "Eh.",
+    "Well, you just have all these pixeling options in here, which can be used for different things point, the lights might be cool.",
+    "Get a little preview here.",
+    "I don't really know what this is trying to do looks like it's kind of similar to the halftone, but maybe not.",
+    "Will set this cell size to like 4 and just see what it does?",
+    "Looks kind of like bacteria filter got it will take a look there.",
+    "Good good show.",
+    "Let me take a peek.",
+    "Let's see what they've got.",
+    "Would that be for a mosaic is that?",
+    "What you had in mind.",
+    "It could be under like textured whoa that's an interesting work isn't it.",
+    "Mosaic is there Stainglass, I'm not actually seen is this a new one or is this one.",
+    "I'm just not aware of.",
+    "What is that when called?",
+    "Halftone pattern.",
+    "Look you there and articulation as well, it's not quite right, but halftone pattern there.",
+    "Let's see if I can change the size Oh that's interesting.",
+    "It seems a little bit low user kind of cool aren't they?",
+    "I've not ever seen these before.",
+    "Are these new?",
+    "I think he's a little bit smaller.",
+    "I want to see though there's the one aspect, though I've actually not getting black or white.",
+    "These are actually grazed too.",
+    "So this does have Gray values in there as well.",
+    "But I guess you could double up on your filters if you do that again.",
+    "Or rather do a pixelate halftone.",
+    "I'm going to 0 these out again.",
+    "We might get like a stacked effect that looks kind of gross doesn't it.",
+    "Maybe if I change the cell size to 2 for that it needs to be 4 OK, you can't go any.",
+    "Any smaller than four with that one.",
+    "So then maybe what we can do is copy it and take it back over here.",
+    "How to get rid of this?",
+    "Get rid of all that stuff there.",
+    "And go back to grayscale.",
+    "Hitman.",
+    "That actually is very similar results to the color halftone method.",
+    "Kind of looks like a face doesn't it?",
+    "It's kind of creepy isn't it?",
+    "So there's a couple of ways to make your halftones.",
+    "Lots of ways to go about it.",
+    "One other method, I've used is I've actually made fulfills and then halftone them not just fills but also gradients of different levels, which has resulted with me, having quite a few different types of custom screen tones that I've made personally and I use these for quick convenience.",
+    "And I will briefly go into these guys so these are all named after their pixel density and what they do.",
+    "I don't really have it seems like my lightest Gray, which I have here seems like my lightest Gray is still pretty dark, so not quite got alot.",
+    "Of a huge, huge value range, but it is a value range.",
+    "Nonetheless, and this is going to operate very similarly to the first making your own pattern method that I talked about earlier just that.",
+    "This is a little bit more streamlined and a little bit more efficient and a little bit more I think.",
+    "Cleaner.",
+    "And these are screentones kind of made through photo shops bitmap algorithm so they aren't quite dots.",
+    "But they are pretty consistent and pretty handy.",
+    "You typically want to have your harness for your brushes when you use the masks at 100% because screen tones are either on or off and if you have isoft and soften the edge to your brush you will get some grayscale elements which is not really what you want.",
+    "And how I'd say go as far as using the pencil because that will never have.",
+    "Any feathering to it.",
+    "Now, some things to avoid when working with Screentones.",
+    "Typically, unless you know what you're doing, and let's see know about how the screen.",
+    "Tones work intimately you'll typically want to avoid overlapping screentones.",
+    "Because then you'll get definitely this is more a pattern.",
+    "I'm talking about.",
+    "But this might actually be.",
+    "Oh, there, it is there, it is see that's the problem there.",
+    "You'll get weird overlap and your initial screen tones will look different and if you zoom out of zoom in or scaling weirdly they will get strange affect supplied to them that you don't want to have so typically you want to try to avoid stacking screentones and less you know what you're doing.",
+    "There is a way to do it.",
+    "I don't know what that method is not right now at least.",
+    "It's a whole math in and of itself.",
+    "And I'm not I'm not at a place in my life where I want to care about it that much at the moment but at some point I probably learned how to do it.",
+    "And when I do.",
+    "I'll tell you I'll come back and I'll share everything guys.",
+    "But you can maybe get away with just like bumping up the edges of the screen.",
+    "Tones together that might be an option as well.",
+    "But once it starts to cross those lines, it will make the image darker.",
+    "It will accomplish that but it can look a bit gross so how do we deal with the Moray?",
+    "I've seen a couple of solutions.",
+    "The first of which seems to be the most convenient easiest method of doing it is to just add a slight blur before you shrink your screen tones, so we can merge these together.",
+    "The name my ruler again and.",
+    "Hold on a second.",
+    "Actually want to fill this in a little bit more.",
+    "I wanted to be more obvious what's happening here, so we make this a bit bigger.",
+    "Will get this Fox 2?",
+    "Will make him totally tone deaf?",
+    "So.",
+    "All right.",
+    "This will combine these 2 and first thing to do is right away.",
+    "I'm just going to shrink this down.",
+    "So we're going to go to image size and I'm going to have this percentage wise.",
+    "And you can see we get all kinds of weird stuff going on 1st of all.",
+    "It's Gray now don't know why that happened, I think that's the compression algorithm at work there.",
+    "Let me undo that and I'm going to change the compression from by linear to nearest neighbor, which is good for pixel art action.",
+    "And the screen turns are kind of pixel already so I think that it applies here too.",
+    "And you can see that.",
+    "From what I can tell it just completely ate the light.",
+    "The lighter screen tone.",
+    "It just gone not even there anymore.",
+    "You can maybe see like remnants in this tone here.",
+    "Maybe not it just gone doesn't even exist anymore.",
+    "There.",
+    "And now it's not so how do you fix that?",
+    "Well, let's try this out?",
+    "Let me go to filter and then blur and then Gaussian blur and we want it to be a very small amount not a huge amount just a small enough amount.",
+    "That, it makes them a little bit more anti aliased.",
+    "It's tough to see but there's definitely a couple of different grade skills in here.",
+    "I know it is tough to see though.",
+    "So now let's try shrinking this down.",
+    "We'll see if it goes away.",
+    "It had hit harder time alright.",
+    "Well.",
+    "But I can assure you if you shrink it down.",
+    "You won't get your maurey patterns anymore.",
+    "Well, there's that.",
+    "Not a good example, but not any other thoughts.",
+    "I have before I move on to examples.",
+    "It's not really.",
+    "I'll show off a couple of these patterns here.",
+    "I've got a deviant art account under the name.",
+    "Lt Tim if you can find that I've got these packs there, I might actually upload.",
+    "This pack to my Behance page as well, but you know, I made the effort of making these.",
+    "And just given away might be a little bit, too, generous, but got these clouds here any photograph.",
+    "You can take you can pretty much make a screen tone out of which is pretty handy.",
+    "These are some clouds.",
+    "I took a photo of for example.",
+    "Been more visible like this and it will take some time when you're experimenting with making your own, thank you.",
+    "I'm glad you like the Fox?",
+    "Is there a little study.",
+    "I did, but they'd be a good example.",
+    "You can basically turn any photograph into a screen tone.",
+    "But if you're not careful.",
+    "It'll look really stiff and that's the biggest factor of using an automatic algorithm to make your screen tones and I'll just look really kind of stiff not ideal, but you don't really get a lot of options, sometimes because.",
+    "You know, making clouds is hard enough on its own.",
+    "And doing it with just screentones like if you're gonna make this yourself.",
+    "It's just a nightmare.",
+    "So I find nothing wrong with just using these if using this background elements.",
+    "It's not too bad.",
+    "Some people like to implement full on screen tones.",
+    "Liechtenstein I think he was like around what like the 70s.",
+    "Let me take a peek.",
+    "Liechtenstein.",
+    "Not not the country.",
+    "But the artist when was he a thing?",
+    "Early wow.",
+    "He was born in the early 20s.",
+    "Impressive but he's responsible for.",
+    "If you've been to art school.",
+    "You've probably seen it before.",
+    "Like these.",
+    "These pop tarts.",
+    "And these will be much more half Tony than screentone.",
+    "But using a lot more visible screentone patterns.",
+    "I think like think of the name Screentone.",
+    "I imagine that what they did is they just had like a screen and they painted over Top of it a very literal screen to get these effects and that's kind of where the root of all this is from and that's super cool and I think, but it is different than like a screen tone done for manga, they don't.",
+    "Well, they do.",
+    "I don't know how screentones originated in the manga sense, but this is pretty much like.",
+    "Imagine a sheet of metal with like holes all throughout it and then they put that down and paint over Top of it.",
+    "And that's how they get these colors.",
+    "But yeah, one of the Founding Fathers that imagined of contemporary western screentones alot of comics from like Marvel, like Batman and Superman used this technique.",
+    "A lot and I guess you know Wonder Woman, here as you can probably tell.",
+    "And these are much more aggressively used screentones, making a point to show them off and there are a few brushes that you can get that I have for example, that can actually achieve this goal.",
+    "I don't remember where I got this brush pack from so you'll have to forgive me for not being able to provide a resource to that, but I've got a few.",
+    "Half Tony brushes here and these are great but they're a little bit weird, too, because unlike the Kyle brushes.",
+    "They don't.",
+    "They don't tile at all.",
+    "They kind of stack on each other so you'll get a weird build up like this, where you might not like it and in some cases, it's kind of nice but typically the use cases I have from my screen tones don't involve overlapping textures, now you could solve that probably by.",
+    "Well, the method.",
+    "I'm thinking of just ends up with Kyle Brush, but you could make these dots.",
+    "Just like build him up a little bit.",
+    "Maybe use your mouse actually to get a good click, and just choose that circle.",
+    "And then we just make a little pattern out of it.",
+    "And then you could save that pattern and just do a filled with that, but then again, you would just get a Kyle Brush at noon.",
+    "Today I think so.",
+    "You could say have like a character here for like an object.",
+    "I'll make like an egg.",
+    "The result brush.",
+    "Don't know what's going on my brushes that little annoying.",
+    "Got an egg got nyseg pretend.",
+    "Pretend it's an egg.",
+    "And now we can go back to this screen tone here this halftone brush and just do a fill.",
+    "When you get that effect.",
+    "Pretty straightforward.",
+    "And then if you're careful you can line up just right like that.",
+    "The overlap cleanly as an option you have for sure.",
+    "Do a couple of fills here in there.",
+    "And you kind of get the screen tons are thinking of.",
+    "Yeah, good question, I don't know I don't have any knowledge on like Western Screentones.",
+    "I think for mostly manga stuff, it must have been to save on time because you know if you're manually dotting everything.",
+    "It's going to take you like literally months to finish a single page of of any of any artwork.",
+    "You're working on so I don't know what the western reason was, I imagine it's mostly stylistic, though.",
+    "I have no idea, though, will have to look it up together.",
+    "So you can get some more stylistic looks with halftones and of course, you can always use colors.",
+    "I would recommend in any case, that using screentones yourself make them all on a separate layer at least 1 separate layer because as soon as you merge your halftones with your art.",
+    "You're kind of stuff there and especially in this case here?",
+    "What if I want to get rid of the screen tone well.",
+    "Part of the issue is, you can't use your wand tool to select it because well first of all their individual.",
+    "And 2nd of all the same color as your line art.",
+    "So you can't just delete it.",
+    "So if you have it on a separate layer.",
+    "You can adjust it.",
+    "You can change.",
+    "You can scale.",
+    "It you can delete it.",
+    "However, you like without affecting your art and that's I think a pretty important thing.",
+    "You can't quite see here.",
+    "I use this particular template that I've made myself to do all my art for my comic book an I have a specific folder just for tones back here that I sometimes use.",
+    "Sometimes they get ahead of myself and just start stacking tones wherever but",
+    "Typically, I like to have a whole folder dedicated screentones.",
+    "Some people go as far as labeling the screentones individually by their density and what their usages.",
+    "I've seen people do that to me.",
+    "That's too much.",
+    "It's too much too many files, too many layers not about that personally.",
+    "It's entirely up to you and what your workflow is though.",
+    "I often will just find myself stacking tones on random layers by accident.",
+    "And if I were to work, a little bit harder on my comic I would definitely make a point to separate them, so that's what I'd recommend now we're going to move on to some examples.",
+    "Of actual.",
+    "Real.",
+    "Screentones being used in manga and I'm going to use some of my examples.",
+    "When I talked about my I was doing.",
+    "Amongus study about a month ago, right around when I first started streaming on be hints.",
+    "We did a little deep dive.",
+    "And to manga mostly.",
+    "An mostly the line art actually but this time, we're going to take a little peek at as soon as I can find these.",
+    "Actual screentones implemented.",
+    "An manga.",
+    "So bear in mind.",
+    "For this series here that I'm going to be using there will likely be spoilers.",
+    "So if you have any interest at all, and not being spoiled on certain pages.",
+    "This is my warning to you OK.",
+    "Currently we're going to be looking at Demon Slayer.",
+    "Which is a pretty new anime Salada you probably haven't seen any of this stuff so bear in mind you may be spoiled OK, so taking a look at particularly this one lots of really cool screen tones here.",
+    "And.",
+    "I have a hard time identifying when a manga is done digitally or when it's done traditionally like for this one for example, I can't imagine manually making these screentones or any of this art in general.",
+    "I just prefer to do to do digital personally.",
+    "It's just so convenient and clean.",
+    "But this I don't know this may or may not be done traditionally.",
+    "Uh but lots of manga artists today still manually do all their work and it blows me away.",
+    "They'll get physical screentones and cut them out and that blows my mind.",
+    "It's incredible manga.",
+    "Artists work, so ridiculously hard.",
+    "It blows my mind, but I think that in this case.",
+    "They've probably done a like a white paint over Top of their screen tone to give it a cool effect and a lot of times will actually physically scrape away that owns which are typically.",
+    "Overlaid on Top of their final art.",
+    "You get you get some general gradients here and again.",
+    "We have the problem of looking at scanned pages so not terribly clean, but you can see a little bit of like.",
+    "Conspicuous pattern there, it's a little bit weird isn't it, it's interesting, though.",
+    "But they'll typically used ringtones is just a way of well in some dramatic cases, though you've probably seen it on shows like?",
+    "Chowder, it was called had a very distinct art style, but they would have static textures that were revealed.",
+    "And they wouldn't move the textures wouldn't move they would just stay in one place and sometimes screen tones are used in a similar way, where they just put like you know if there's folds in clothing.",
+    "It doesn't matter.",
+    "Just put in the screen tone and let it happen.",
+    "And that's used a lot of the cases.",
+    "Here, like on the back of this guy's jacket and maybe even on this robe here.",
+    "I think that's just a static screen tone.",
+    "Overlaid on an area to save time more likely sometimes stylistically, but usually to save some time.",
+    "Uh.",
+    "But also just for filling in black spaces now I don't know.",
+    "I imagine having like manually mask off an area and painting with watercolors was not interrupt your actual line art would take more time than just cutting out a sheet.",
+    "Of Grey screen tone so that's probably the main reason why screen tones were so popular but I wonder personally.",
+    "I think the screen?",
+    "Don't look good stylistically.",
+    "I wouldn't prefer to use values.",
+    "I would prefer to use the screen tones myself but.",
+    "I just I wonder why they would prefer to do that.",
+    "Interesting.",
+    "Next up, we've got another page.",
+    "I don't know which of these might be a good example, though I'm just kind of like I'm literally just grabbing any page.",
+    "An it's an incredible example right away.",
+    "I think just every single page of any manga, I've read in a long time.",
+    "Just exceptional.",
+    "Use of screentones Here's a good example.",
+    "Now, one problem you get with making some kind of custom preset.",
+    "Screentones is that you're kind of limited for their usage and I'm looking at specifically the Top right grayscale screen tone here.",
+    "Well, OK, imagine you have like a sheet of A4 paper and it's got a diagonal gradient.",
+    "You can rotate that a bunch.",
+    "But you're kind of limited on your real estate.",
+    "You know you can't really just drop a whole screen tone here and I think that this is really fascinating how they've managed to get this to be such a natural gradient that actually moves.",
+    "Along with the direction of the roof here.",
+    "That's typically something you don't often get as far as I can tell so I think it's really interesting.",
+    "Furthermore, what's really interesting is that there's not a lot of screen tone going on here, which is a good example of crosshatching which maybe I should do a whole whole stream based on cross hatching, too because that's a big a big thing as well.",
+    "But yeah, you get a really dynamic shot here and you know looking at this.",
+    "In my File Explorer.",
+    "I thought it had a lot more going on than it did for screentones, but not a lot of this is just.",
+    "Manually placed hatches and values and it's impressive.",
+    "This must have some screen Tom into it, though like I can't imagine.",
+    "Wow, that was done otherwise.",
+    "I guess carefully.",
+    "Carefully must be the other answer.",
+    "Um we're going to move on to another manga.",
+    "This ones attack on Titan.",
+    "I talked about this quite a bit in a previous stream, but this ones are really cool usage sometimes.",
+    "Just adding that one flat screen tone over over a whole piece adds a huge level of depth.",
+    "And this is a great example.",
+    "Now, taking look at this tone here it seems to like have a weird organic edge to it and.",
+    "I will I will actually share.",
+    "A method doing that one thing that I've been really interested in recently are.",
+    "Dissolve brushes now I was trying to figure out what these were back when I was working on.",
+    "I think it was.",
+    "My my rock rock.",
+    "Town you guys remember that the Little Rock town that I made about 3 weeks ago.",
+    "Now I think I was looking for how to get those cool.",
+    "I don't know like well, I I can call him now to solved looking brushes and I recently discovered that is fantastic and they work really well as Screentones, too, so let me just drop in a quick quick I'll fill.",
+    "Just a really quick, I'll fill right here.",
+    "My brush a bit bigger.",
+    "I like this brush a lot it's a little bit more.",
+    "Visually interesting little circles in there, I like that.",
+    "A lot, So what you can do actually is just get really any brush.",
+    "I'm going to get a softer round brush.",
+    "Make it reasonably large, not too huge, though Annan said it to dissolve which it already is thanks to the call brushes and now you can just push why is it Oh yeah, it's been set back to the brush?",
+    "Let me pick a racer and then go up to here and now we've got Oh.",
+    "You can't actually do a dissolve with the eraser.",
+    "You have to do it with the brush.",
+    "But you can very gently get in some nice fills to your screen tones here.",
+    "Without interrupting 2, obviously the flow of the tone itself, so these tend to flow pretty nicely with the screen.",
+    "Tones normally but what you can do is actually flip it go from black to white and actually chip away at your screen tones, too, and that is super handy and now you can make your brush really small and tight.",
+    "You can find the edge of your screen tone like here for example.",
+    "Yeah, there's so crazy, it's fantastic.",
+    "I think it's looking at the actual like I recently went back to the first few chapters of attack on Titan and they're pretty rough.",
+    "But the screen tones were always pretty nice, yeah, we can just ship.",
+    "These these away a little bit here.",
+    "And it will make the edges of that owns a lot more natural because it is making like a radius of attack to the area around it even filling tone a little bit more probably back here too.",
+    "And you can also do flow.",
+    "I imagine it's probably not really not really a factor.",
+    "What about opacity is that?",
+    "Yeah, the opacity works.",
+    "So you can change the opacity to change how densely comes in.",
+    "You get some nice nice effects out of that.",
+    "So if we had like a character's face.",
+    "OK, I'm gonna have to go back to my.",
+    "My typical method of looking at these brushes 'cause I can't I can't do this anymore.",
+    "Speaker.",
+    "Come on photo shop you can do it, I've moved back to not using my other PC because I wasn't doing the 360 panels and it still having hard time if that's OK.",
+    "So you can just have like a?",
+    "This is the face and say, We want to like bathe it and shadow.",
+    "Just like me, Casa on that reference page.",
+    "I'll start with just filling by safe Phil making a selection and I always expand.",
+    "My selection by 2.",
+    "I have a shortcut for it.",
+    "I've talked about it quite a bit.",
+    "It's basically just select modify expand by 2 because you do get even with the cow brushes quite a bit of Haloing unless you're using like a pencil you're always going to get.",
+    "This is using dissolves that's not really the case here, but you'll typically get like a small bit of like alias section.",
+    "That's Gray so I always just do a quick expansion.",
+    "Melons fill this.",
+    "Uh this is interesting this is a little bit more like A.",
+    "A crosshatch actually and this is the other direction, too, is this.",
+    "I think it is.",
+    "Here's the other direction, so we've actually got some some halftoning.",
+    "Some halftoning via cross hatching, which isn't really my plan.",
+    "Let me just don't do that, but that is interesting.",
+    "The Kyle brushes come with a diagonal like from Top left to bottom right and a Top right to bottom left brush so you can get some natural.",
+    "Natural consistent crosshatches another huge fan.",
+    "Personally, of of crosshatching like that, I prefer to do it manually but to each their own so now we just got this flat here this flat screen tone.",
+    "I'm going to go to softap round set dissolve set to white.",
+    "Just drop in some.",
+    "I'm just here and like an idiot.",
+    "I managed to make my screen tone attached my line art like I told you guys, literally just moments ago, not to do.",
+    "Are kind of stuck with that we can get that.",
+    "Just push these affluent.",
+    "And we get some you get some nice soft screentones there.",
+    "Just like going to exactly the same exactly the same as attack on Titan.",
+    "It's just fantastic, though it's really cool about this, though, is that it's 1 flat tone.",
+    "There's not overlap.",
+    "The only overlap you'll get is like in the blood here or in the mouth.",
+    "But that's not screen time.",
+    "That's all manually placed liner so the line art and the fills can work really well with the screen tones.",
+    "It typically work hand in hand in most cases.",
+    "And it really looks like there's just one tone applied to the entire page.",
+    "And so it looks like to Maine.",
+    "I think it's really cool.",
+    "I think the less you can use to make more of an affect the better as far as screentones go.",
+    "Another one we got here is similar situation.",
+    "This is an interesting, though I wonder how how these tones were overlaid because you have a street tone being used to give the look of.",
+    "Not just your hair better dresses well there's like a base value, which is this here.",
+    "And there's a second tone being applied over Top to give it that Shadow and I said earlier.",
+    "It's really difficult to do.",
+    "That, without getting the Moray but it's been accomplished.",
+    "I don't know how it was done.",
+    "But for the most part, there really is just um one tone being used other than that which is really cool.",
+    "It does give it a weirdly flat look.",
+    "Because if you were to come again so.",
+    "Uh the screen tones are used to apply changes of value.",
+    "That's the whole point of the screen tone at its core So what that means is there has to be value in your mind to start with.",
+    "So if you look at this and think yourself.",
+    "While there's meant to be the Screentone.",
+    "What is meant to be 2 values there?",
+    "That makes everything a little bit less dynamic right all you really get is a highlight.",
+    "A Shadow and amid tone and until you really get to play with when you're using screentones like this specifically.",
+    "There is some screentone variation up here actually.",
+    "Let me stand corrected.",
+    "So it does make it look a little bit flatter, but I think it's as flat as it needs to be.",
+    "I think it achieves its goal.",
+    "Now this is a really interesting one bra zerk.",
+    "Is our next example?",
+    "And it's an example in the sense of not really being an example.",
+    "It's not quite true.",
+    "This guy back here is got some screentone usage as well.",
+    "That guy does 2 and 2 distinct screentones.",
+    "May I add or at least distinct in the sense of.",
+    "They don't look quite the same.",
+    "It's very possible.",
+    "That's the same screen tone just chipped away differently.",
+    "And there's a little bit on guts here as well, but otherwise.",
+    "Mirta does a lot of manual tone in the form of crosshatching it's insane.",
+    "I would imagine they use like?",
+    "He must have used like masking tape to get such a clean line here.",
+    "But something like that.",
+    "You can see, there's like elements of a physical line there, but I would definitely personally 100%.",
+    "Artificially screentone this sort there's no way I would manually make all those lines.",
+    "'cause that is ludicrous and this guy had takes him awhile to pump out a chapter and you know why looking at this.",
+    "It's absolutely Lucas.",
+    "It's insane.",
+    "Again, you might look at this link Oh that's the Screentone.",
+    "There, too, Nope well.",
+    "That's not true.",
+    "There is some screentone Here for sure.",
+    "On the rocks.",
+    "But it's mostly just cross hatching.",
+    "Uh.",
+    "An interesting example is actually the text gets all the screen tones, but nothing else, really does except there is a little bit of area back here that gets it, but It's just it's it's incredible here man Eric there.",
+    "We go look OK.",
+    "I was, I was a little bit too, quick to uh.",
+    "To say there's no screentones happening here, but, yeah, a very affectively very thoughtfully placed typically in my experience screen tones are used to work as a shortcut to get quick.",
+    "Visual interest without a whole lot of ever put in but it looks to me like berserk is full of screentones only when they serve their purpose.",
+    "I don't know how in the world, you would ever do.",
+    "Grayscale value like this manually.",
+    "Without using screentones I don't know how you would I just don't know like the cross hatching would just get so messy.",
+    "Just so quickly if you're to manually do that so.",
+    "Very incredible in my opinion.",
+    "I'll take a look at Dragon Ball.",
+    "Because Dragonball I think is going to be a really interesting example.",
+    "There, the ones to use screentones.",
+    "Very sparingly.",
+    "Typically, just for things like clothes never really shadows.",
+    "Because Dragonball doesn't really have very heavy shadows.",
+    "You'll typically find your fills only done when it's really necessary or like relevant.",
+    "Like Goku's hair for example.",
+    "A lot of especially like kind of like Nori Comics, like something you've probably seen Watchmen.",
+    "They use a lot of lot of those fat fills for shadows and then they taper those shadows out.",
+    "Dragon Ball doesn't really seem to be the kind of.",
+    "Kind of manga to do that.",
+    "But you will have probably seen what I'm talking about how he will just get like a really fat fill like?",
+    "Uh.",
+    "Well, I guess like this except like.",
+    "Less contextually.",
+    "Let's contextual than that.",
+    "But otherwise yeah, it just screen tones for flat values and that's about it really.",
+    "Like even all of this is patched.",
+    "It's just really interesting to me, so many different artists will approach their screen tones and so many different ways.",
+    "Um.",
+    "And others will use them quite liberally this is from Vinland saga.",
+    "And here the whole background instead of showing like houses or environment.",
+    "They've limited just to just to screentones along with a little bit of cross hatching on the sides and this is much more exempt 3 of how I would personally use screentones just to kind of drop in some varied looks.",
+    "Without putting too much work in.",
+    "These what are what I would call Lazier Screentones, not to say that they're done effortlessly but there's a lot less thought.",
+    "I think to how they're implemented.",
+    "And they're a little bit more generic and broaden their usage too.",
+    "But you do get on this guys.",
+    "What is that I guess it's just like a little cloak?",
+    "Much more rougher texture looks a little bit like A.",
+    "Almost like a rocky texture in some ways.",
+    "But you get these sort of rough translations into one one to the next kind of like what I've done.",
+    "I've got 2 tones that have done something similar.",
+    "Got this one here.",
+    "Just making much rougher transitions from one to the next.",
+    "That's one thing I've done quite a bit and also this bumpy one this one is very bumpy.",
+    "A very bumpy screentone.",
+    "And those are really easy to do you just make a make some rough transitions from one to the next and then pop it into your bitmap adjustment and then there, you go you get your screen tones very simple.",
+    "And I do say um lazy, but it's very much oversimplifying it.",
+    "I would hardly say that Vinland sagas art is lazy, but it's more about the principle of the method of of how they're used little bit Lazier and nothing wrong with it just.",
+    "Just it's just that much quicker way of doing it, you know.",
+    "This is like an obvious example of?",
+    "The level of?",
+    "Of integrity of the artist here, you know.",
+    "All of this is probably manually patched in.",
+    "Just incredible.",
+    "And it's also a bit of an example of?",
+    "Just dropping in textures basically.",
+    "I would hesitate to say that this chain Mail is the screen tone, but it's very possible that they have done something like that, it would make total sense to me to turn like a chainmail texture into a screen tone and those are all things you can do you can make really anything into a screen tone like I said earlier.",
+    "Now I have been looking at ways of adding a halftone screen tone shader to blender.",
+    "But I have not quite gotten there yet, but that is something that I think would be interesting.",
+    "So that's a pretty rough example of just different types of usages for screen tones.",
+    "I.",
+    "I don't have any good example projects to work on.",
+    "Today.",
+    "As far as screen tons go, but maybe I'll do a few more examples.",
+    "I've got about 40 minutes left and we'll see what we can come up with along the way.",
+    "If any of you guys have questions so far, about like any of the methods that I've used up to now on how to actually get some screentones going on.",
+    "No means let me know.",
+    "Let's just see what we can come up with today so.",
+    "How about we make a chainmail screentone like I was talking about an that again so screen tones and patterns go along really well together.",
+    "Basically, a screen tone is just a pattern of like.",
+    "Dots.",
+    "Better just repeated of like you know different densities for the dots and everything.",
+    "So I'll just make a few while we're here.",
+    "Maybe some of these I'll actually have usage out of who knows?",
+    "But an interesting idea that kind of comes with Screentones is.",
+    "Go.",
+    "Is like the types of shape you used to compose your tones and most cases you'll use just circles just dots.",
+    "But you can also.",
+    "Say make a And X, You can make an X you can make a diamond.",
+    "You can even make little hearts if you wanted to.",
+    "Earlier, I had said that what you could do is just make a little grid of dots.",
+    "But you could really get away with just the 1.2 and then you can change the density based on how far away.",
+    "The edges of your selection are to make your?",
+    "To make your pattern in the 1st place, let me give this a?",
+    "Let's make this even on all sides of 44 by 44, based on nothing.",
+    "I've based that number off of nothing at all.",
+    "It's entirely based on just what I felt like doing at the moment.",
+    "I'll make it roughly centered that's usually pretty ideal.",
+    "Centering your tones to make a nice and even.",
+    "So, there, we got a little heart pretty simple and straightforward.",
+    "And when I go to edit.",
+    "I'm going to go to pattern define pattern that is.",
+    "Call this.",
+    "Part tone brilliant.",
+    "OK.",
+    "Now just zoom out here.",
+    "Do the selection fill that and I'll choose the little heart there.",
+    "And there, you go you get some hard screentones very nice.",
+    "And if that's not quite.",
+    "Do you want it for you, you can?",
+    "Scale it down a little bit.",
+    "You can make your selection of its smaller.",
+    "Make like a 20 by 20?",
+    "How is that?",
+    "You get a much smaller tone that way.",
+    "And that's entirely based off of one object.",
+    "So it looks a bit.",
+    "Artificial this way.",
+    "If you have a few more if you can make like a solid like I think it 3.",
+    "By 3 at minimum, maybe like a six or a 5 by 5.",
+    "You can get a lot more variation in the actual dots.",
+    "That might make it look a little bit more organic.",
+    "I like to make my art look as organic as possible because.",
+    "I like to pretend that I've done more work than I actually have and I'm sure a lot of people like that same feeling as well.",
+    "I honestly feel like just the principle of using screentones digitally.",
+    "Is kind of trying to look like it's got more effort put in than it does at the root of it.",
+    "Obviously, there's the factor of like just kind of looking nice and that is the thing as well.",
+    "There is somebody on Deviantart, who has remember who it is, and I don't have their files.",
+    "But they actually have a whole bunch of like actual patterns that you can load into photo shop.",
+    "You would just go to like import patterns and then choose the one that they've had as a dot PST file.",
+    "But they've got a whole load of very specific screen tones of different like Densities and also.",
+    "Dot sizes, too, so how closely are and how big they are.",
+    "I don't have any of that.",
+    "But what I do have and I should have mentioned this way.",
+    "Earlier is there is an extension on the Adobe extension store.",
+    "Let me just bring this up real quick.",
+    "It's the exchange.",
+    "Rather, the Adobe exchange together.",
+    "We could take a peek and find it as a team, so you go to hear this is exchange.adobe.com click on creative cloud.",
+    "In this particular instance and here you can filter by your product.",
+    "You want to go to photo shop and we'll see how many pages down.",
+    "It is so it's not here.",
+    "It is on the first page.",
+    "Comic kit just open that up.",
+    "It's free very nice and this is a manga comic oriented extension that you can get.",
+    "And they do have screen tones that you can make in photo shop very quickly and very easily.",
+    "So now that I've got this already have this just download.",
+    "This added to your exchange.",
+    "Whatever you need too, and you'll be good to go.",
+    "And the way to use it.",
+    "I didn't know at first, but I know now how to use it what you can do.",
+    "Is one of two things really you can make a selection?",
+    "So say that you have some line art of like character and maybe he's got like a nice cup of tea here.",
+    "This is literally just what's coming to mind.",
+    "Just having a little sympathy, perhaps and.",
+    "Go give him a nice like.",
+    "Line across is teacup here just having a little sip.",
+    "That's pretty good.",
+    "It's just an example.",
+    "Areas fantastic, he's got for whatever reason, he's got leather gloves on how does that sound?",
+    "He's got some leather gloves song for drinking dusty that's going to be a factor in just a second so we're going to do is we're going to make a selection of We want to fill.",
+    "And we want to fill this guys leather gloves in.",
+    "How's that sound you guys on board with that.",
+    "So we could do is go to shift F5 and once you've installed the.",
+    "The extension, you've added it to your exchange it should sync to your.",
+    "You know to your photo shop.",
+    "You can go to script.",
+    "Instructions.",
+    "For you guys as well if you want to.",
+    "And when you click on script you'll have.",
+    "OK.",
+    "Let me make sure though this might require yeah, you have to be on pattern first enable script and then select this drop down and you will find 4 new added scripts to your photo shop 2 of which are screen pattern screen pattern and speed lines.",
+    "One of 'em is English ones Japanese depending on your needs.",
+    "Choose whichever one works for you here.",
+    "We're going to choose screen pattern EX stand for English.",
+    "And then hit OK.",
+    "And it'll open up this window now.",
+    "My mouth is getting really dry.",
+    "Now this is a really tough tool to use.",
+    "And it took me a little while to really kind of get comfortable with it and I'm still not quite there yet.",
+    "But there's a couple of things to think about so the first of which is the preview zoom here at the bottom now.",
+    "This is a little bit vague.",
+    "I think that it's most accurate if you go to a very small.",
+    "Yeah, a tea sipping Bart.",
+    "I don't know that this is the accurate one or not, but typically it's either very smaller actual pixel will find out in just a second, but the size that this is will roughly represent what you're going to expect on your actual Phil.",
+    "But it will take some time to figure it out.",
+    "Now there are 2 major factors to consider when using this tool.",
+    "If you're going for just like a simple simple flat tone without any gradient to it at all.",
+    "You will have 2 literally.",
+    "Just the 2 things to think about and that is the pattern scale and the pixels per inch.",
+    "The pixels per inch is exactly how it sounds.",
+    "It's how many dots are going to be in A.",
+    "Well, an inch it's a little bit vague because what that inches is dependent on your file size for the most part your dimensions that you're working with.",
+    "But it will typically be that one by one.",
+    "And also the patterns scale so there is a flat scale.",
+    "You'll typically want to have your scale at like .2.",
+    "That's what I've tend to found to be pretty good, but depending on what you want to get you want to change that the smaller the scale is the more it is zero point number.",
+    "The lower that number is the smaller it will be the tighter your pixels will be so we scale is down.",
+    "Let me actually go to this is fine one to one you can see it's a very.",
+    "Small dots that aren't very close together.",
+    "Now, if we make the patterns per inch higher more patterns within an inch it will get.",
+    "Denser.",
+    "Right so you have to get this balancing act of size of your pixel.",
+    "Size of the scale in relation to how many there are in an inch so if the scale is bigger your dots will be larger.",
+    "And you will get a much closer to black image made of bigger circles, so if I make the scale here like .6.",
+    "You can see it's totally black because there's no room between the pixels.",
+    "So we drop this down a bit and you start to get a little bit of gap there eventually.",
+    "So if you have a large scale, but a small patterns per inch.",
+    "You'll get much bigger further apart dots like this.",
+    "And it looks pretty polka dot E so if that's what you want.",
+    "But that's not what I want in this case so knowing what I know now.",
+    "I want my dogs to be smaller.",
+    "So we dropped the pattern scale.",
+    "I want closer together as we increase the patterns per inch for some people that's incredibly obvious for me.",
+    "It was not told me a little bit of time to really get a good feel for exactly what those do an in fairness.",
+    "I tend to rush things.",
+    "I don't like to spend a lot of time learning?",
+    "What things do so.",
+    "I often will find myself.",
+    "Just like clicking buttons and seeing what changes without thinking, too hard about it.",
+    "But I thought about it a lot harder and I have a pretty good grasp of how it works.",
+    "Uh as far as like efficient workflow I'm not quite there.",
+    "Yet it will often probably take me a few times to figure out what's best for what I want to do, but this should be roughly OK for what we want here, so there, we go.",
+    "There is a quick screen tone pretty straightforward.",
+    "Weirdly, though they're not they're not aliased there grayscale tones, which will increase the size of your image that is one thing to bear in mind when working with screentones if their flat black and white they won't have all the grayscale information.",
+    "And just having the grayscale information will like probably double your file size.",
+    "So you may want to like do a pass on like grayscale or bitmap to reduce that color information, but that isn't going to bear in mind.",
+    "I think they all will be without color.",
+    "They should all be like a flat.",
+    "Grayscale value.",
+    "Which helps tremendously?",
+    "But that is something to bear in mind, if file size is a factor in most cases like it's 2020 typically having a sized image.",
+    "That's a little too.",
+    "Large won't be a problem.",
+    "Obviously, like a decade ago, maybe even 2, decades ago.",
+    "File size was super important optimization with super important you don't really have to worry so much about that.",
+    "Nowadays, but I like to keep my files as small as possible so I'd like to try to minimize that as much as I can.",
+    "Give a nice band to hear what I want to do for this band is actually give it a gradient, which this can do it's fantastic.",
+    "There's an advanced tab here.",
+    "You can change your pattern type so we've been using circle for the most part, but like you can do a heart like I did earlier you can do like a star.",
+    "You can do all kinds of things here pretty cool and even change your pattern color, which uses this weird like legacy color.",
+    "Picker I guess.",
+    "It's weird.",
+    "I don't like that.",
+    "And also you can change the PPI, which were using 600, so I'll just put that there.",
+    "Uh.",
+    "But I wanna add a gradient so you have this pattern gradation.",
+    "And it's got a couple of options here all of which are previewed pretty nicely.",
+    "This is return.",
+    "I don't know what half of these mean I don't know what happened imply so that's unfortunate, but we have, like a normal gradient, which is really just a pretty simple black to white.",
+    "Black to grey black to whatever gradient.",
+    "And you can influence how that looks based on now we have 2 sets of patterns skills and patterns per inch methods one for each side of the gradient so we'll get our first gradient looking pretty good.",
+    "A little bit, not, that one that's the scale to do this.",
+    "Smooth out there and then put this here like there.",
+    "There we go.",
+    "Sorry it's a little bit weird.",
+    "I want to get a much more clearly defined.",
+    "Camels my brain, a little bit there, we go.",
+    "There we go there is our gradient and you can also.",
+    "Change the rotation of that and the rotations have proven to be very weird the slider doesn't update.",
+    "Very quickly.",
+    "And you can't really manually put in values, too easily either trade zero and like you can't really click away 'cause it doesn't really update.",
+    "So you have to like click again.",
+    "It's just it's very awkward to use an it seems like the rotation happens based on nothing there's like no obvious.",
+    "No obvious.",
+    "Like bases that this uses for rotation roughly 0.",
+    "I guess you would think it would be straight up and down, but it's diagonal.",
+    "So you have to almost work in 90 degrees or 40 fives or fractions of 45, but say we moved to like 45.",
+    "We should expect vertical right at 45 years to expect vertical and see if that's the case.",
+    "It's not.",
+    "Or almost to 45 it rotated from the corner counterclockwise.",
+    "You would think that increasing from zero to 180.",
+    "Would be clockwise, but it's not?",
+    "We go to 0 is the same place so very awkward to figure out where you want to get your tone app and here we can do minus 45.",
+    "Is it just it all seems a little bit awkward and weird to use for me but of course the more you use it.",
+    "The more it'll be familiar and not so hard to figure out randomized patterns is pretty cool because you can get this too.",
+    "It'll like jitter stuff I think is the idea.",
+    "It'll it'll jitter the spacings of where the dots should be to where they're going to be, it's been cool textures out of that.",
+    "I'd say a little bit of randomization doesn't hurt.",
+    "And randomized size is a little bit dangerous.",
+    "Yeah, I guess it seems like randomized size just means make some of them bigger and some of them not I don't think that's a very good randomizer, but that's fine.",
+    "Can only do so much with tools like that?",
+    "But yeah, you can randomize the size a little bit get some junk going.",
+    "Little bit chunk doesn't hurt.",
+    "Up.",
+    "And, of course, we have all these different types of.",
+    "All these different types of.",
+    "Gradients, which are handy insects.",
+    "I think is really cool have not had a good chance to use it yet, but it looks like a cool usage and of course, you've got the same tools to influence both of those.",
+    "You got like a nice little.",
+    "Plaid look as well.",
+    "I'll see how these look if you stack.",
+    "So we want to have like a drop shadow here go back to just to.",
+    "Normal.",
+    "Increase the pixels per inch the patterns per inch.",
+    "Select that.",
+    "Yeah, you get some weird like cells, having a cell party going on off the back of that which is a bit of a mess.",
+    "So there's our our little Bart Simpson, sipping some tea.",
+    "Um.",
+    "And, of course, we can just use.",
+    "These are tones assault shadow as well.",
+    "It's a bit of a shame that I don't have any like good projects to work on revolving around this maybe what I'll do I don't like to work on my comic here on the hands, but maybe I'll do some do some pages on behaves.",
+    "This also.",
+    "It works alright.",
+    "So it's just a very rough example of a couple of Screentones and that's again using the comic kit, which is available on the Adobe exchange at exchange.adobe.com and you can also you know?",
+    "Why are there pick up the call brushes?",
+    "Maybe I will show you guys where to get those?",
+    "Let's together find out how to grab those guys were they at.",
+    "I think that you just click on it.",
+    "No.",
+    "How do you get the brushes?",
+    "Um.",
+    "I just like search by Kyle brushes.",
+    "I have no idea.",
+    "There somewhere.",
+    "There's somewhere you can find him just just look it up.",
+    "Kyle brushes Adobe exchange.",
+    "They're all, free is fantastic.",
+    "Are there any other projects any other ideas that I think should be talked about before he before you rap up for today.",
+    "I can't think of any right off the bat.",
+    "This was Done using a similar method to what I was using before where you convert your.",
+    "Your regular images.",
+    "Into halftone patterns.",
+    "Should I a deep dive into my really terrible?",
+    "Screentone comic work till I can do that, too also got this turtle here.",
+    "Which is using I think these are kind of blueish tones actually?",
+    "Yeah isn't it being kind of blue.",
+    "But just a general mixture using the screentone stylistically as opposed to practically.",
+    "Is that?",
+    "OK, I'll share with you all a brief example of some of the screen times, I've been using.",
+    "I think that this one was done.",
+    "Using the comic kids screen tones.",
+    "I just doesn't need an area for these did Phil and they went ahead and did the work for me.",
+    "Here you get a good example of the Moray that I so desperately want to avoid.",
+    "But I actually have exported this page.",
+    "I thought I did never mind.",
+    "Let me just go ahead and do that, and see how it looks so we go to image image size.",
+    "I'm going to actually need to blur.",
+    "This 1st and I think it might already be blurred.",
+    "Now let's just Blurt, a little bit.",
+    "Select that.",
+    "Which again will introduce a pretty dramatic level of grayscale value image size?",
+    "Drop this down to 24.",
+    "So the screentone itself has become basically.",
+    "Different levels of.",
+    "Of Grey, which isn't really ideal, but it does kind of give off the same look.",
+    "Without compromising too much of what I'd like to have.",
+    "And we just save that.",
+    "And we'll see upon.",
+    "Saving this, if it has got that more more A.",
+    "The more I look.",
+    "Here it is there shouldn't really be much, although maybe like here, you might see a bit of it.",
+    "You can see this is stop really becoming dots.",
+    "On the front of the turtle.",
+    "Let me take a peek.",
+    "I don't think there's any on the turtle but there may be.",
+    "No there are no screen tones on the turtle.",
+    "Those are all crosshatches.",
+    "Now I have had an issue where I'll look at my.",
+    "My screen tones in photo shop in the look just fine.",
+    "You do get a little bit of that.",
+    "I don't know if you guys can quite see but there's a little bit of Amore effect going on.",
+    "On the face here or if you're a little bit further out.",
+    "It looks a little bit different than it does when you zoom in a bit further, and that's exactly what I'm talking about so actually open this in my browser.",
+    "And you can see it's not too bad here.",
+    "That looks fine.",
+    "I typically find out looking at it in the browser is the best way to see if it looks OK.",
+    "Obviously, if you guys at home aren't making comics or anything for print like this, it won't be a problem at all.",
+    "They definitely get some weird effects going on with this guys hair specifically.",
+    "Or.",
+    "My earlier chapter think are much better example because I wasn't using very good techniques to make these screentones.",
+    "Um.",
+    "I think that this one looks rough on purpose that was the screentone I used intentionally.",
+    "To give up that look.",
+    "I can't move which of these specifically were so rough, though I think that these here might be a good example because these were very messy.",
+    "Let's take a look here.",
+    "Not quite but these are still fairly rough.",
+    "Screentones, I'm not very proud of.",
+    "What ended up doing for a lot of these pages here?",
+    "Was I had just gone to fully painting everything in a uh.",
+    "In a grayscale wash.",
+    "And then converting it using the bitmap method and pasting it all back into my scene and it didn't look ideal to be completely honest in my opinion at least it's one of my bigger bigger drawbacks.",
+    "Well.",
+    "Anyways I'm going to be wrapping up in about 15 minutes and 15 that is.",
+    "I think this is a good opportunity now to start looking at some other peoples art on Behance because typically get myself about 3 minutes to do that normally.",
+    "So spending some time, too.",
+    "Take a look at what people have on Behance, now get myself.",
+    "Some extra time is pretty nice.",
+    "And once I've done that will wrap up and I'll be back tomorrow, actually for another couple of hours and then on Sunday as well.",
+    "We're going to go for the full weekend full streams all throughout the weekend.",
+    "I've got a couple of things beforehand know Leslie followed my work.",
+    "As rough Oliver Ivan Julian.",
+    "And uh.",
+    "Well, that was 2 days ago.",
+    "Thank you to those 5 for a follow my work appreciate you.",
+    "OK let's take a peek.",
+    "Uh the The Discover Page hasn't been.",
+    "Changing 2 dramatically recently but this is looking like a pretty new batch of stuff to look at these are all featured things here all look we've got a From what I can tell.",
+    "Like I said look at there.",
+    "Some screentones Speaking of which huh?",
+    "How about that some good examples here.",
+    "This is work by.",
+    "Christoph.",
+    "Tastic.",
+    "These are really cool.",
+    "I'm really inspired by this kind of stuff I.",
+    "I have a hard time of coming up with good independent pieces like this.",
+    "A tiff file tiff files are usually pretty huge that's the thing tiff files are really good at like preserving details.",
+    "But not really too affective.",
+    "I think PNG is really slow are the way to go.",
+    "If you're talking about screentone stuff.",
+    "Still, I don't know what you're seeing right now.",
+    "Yeah, turtle if you have any specific questions.",
+    "You can just ask me on discord.",
+    "If you'd like to.",
+    "I can give you all the knowledge.",
+    "I know bearing in mind for very long amount of time I was saving all myself as Jpegs and it's not quite ideal.",
+    "I think I was doing that because like?",
+    "I think it was red bubble only accepts Jpegs I think.",
+    "So I had the impression that Jpegs were the way to go no they're not they're not great at all.",
+    "I think these are probably manually placed dots, but we do have some some screen to these are actually the halftones that people were talking about earlier or I guess I was talking about these earlier just pretty simple halftones.",
+    "This effect can be pretty easily achieved by just getting like a Gray and then converting it to 1/2 tone.",
+    "Those are super cool again that's Christoff Staras.",
+    "Super interesting I'm going to try to find exclusively screen and halftone work right now and studio build already has a couple in here.",
+    "Although the usage is a little bit less typical little less of what I've been sharing but that's kind of why I like it.",
+    "I like seeing implementations like this and what school is like.",
+    "Polka dots are kind of like halftones aren't they?",
+    "It's kind of the same idea.",
+    "Studio build their now lure Nicholas, who we can see right here.",
+    "I think yeah.",
+    "I I didn't seem at first, but I was thinking to myself that these look like the kinds of works that would really do good with some screentone action.",
+    "And right there, you got some looks great.",
+    "That's more of the Liechtenstein 1950s type of screentone usage as well that I talked a little bit about.",
+    "Very gentle usage, not every piece, I've seen has it.",
+    "In fact, just the one so far does but yeah, very gentle very mild usage.",
+    "I think works best.",
+    "For stuff like that.",
+    "I think that if you want to use screentones.",
+    "If you want it to look like you're using them use them as gently as possible.",
+    "Or as aggressively as possible.",
+    "Don't really think you can middle the road it's so, so easily.",
+    "Um.",
+    "Not really finding any other examples right off the bat, though, which is not weird to Maine.",
+    "I think that it's very expected that screen tones.",
+    "Aren't that often used here's some more stuff by Christophe?",
+    "I really like his usage of of the halftones in screen time, like these are really great.",
+    "They're just uh just an interesting mixture of what's almost like a watercolor look.",
+    "With a very sharp.",
+    "Comic book look to it.",
+    "While adding in those screentones really honestly, I feel like these are a very modern Liechtenstein.",
+    "Implementation it's a very modern look.",
+    "Of what you'd expect.",
+    "The evolution to be, I think is the exact same stuff actually as might just be the exact same stuff.",
+    "Oh yeah, we also had am I talked a little bit about this person's work, a while back it's interesting how?",
+    "Consistent these themes can be.",
+    "This is a very uh.",
+    "Interesting usage as well, though it's almost.",
+    "They're almost used in a way that.",
+    "They're not even screentones anymore.",
+    "It's very weird.",
+    "All my cars are coming back by the way friends.",
+    "Not sure why are where from but they are nonetheless?",
+    "I do aim to work on my comic a little bit on Twitch.",
+    "Once I'm done here, so turtle.",
+    "You might want to come.",
+    "Check out what I got going over there.",
+    "I imagine Danny still going on so I don't want to.",
+    "Have to fight with him too much for for viewership.",
+    "Imagine that we share pretty much the exact same audience for the most Part 2.",
+    "I thought that we had, we were going to be able to see some screentones Here But.",
+    "Can't quite tell.",
+    "These are very.",
+    "Gently used screentones or thing.",
+    "The squash looking guy.",
+    "Looks like you might have some tone is going on in there, but it's really tough to see.",
+    "Yes.",
+    "I'm glad that be Hans is slowly filling the void that pinchers left.",
+    "Pinterest Unfortunately.",
+    "Has become too difficult to find quality work on?",
+    "Point Alism and screentones share a very interesting space, I think that point, Alism.",
+    "Is?",
+    "Very distinctly different from screen tones.",
+    "While they are meant to do the same thing.",
+    "I think that the point.",
+    "Alism is much more intimate.",
+    "I think there's a much more personal.",
+    "You know age dot is put thoughtfully for the most part like oftentimes will just find yourself.",
+    "You know tapping dot cell just to get him out, but",
+    "They're much more thoughtful in their placement and a lot more personal too because the point of them dots usually you know.",
+    "Just just much bigger than a screen tone would be normally an the point.",
+    "Alism dots are there to be seen you know not not felt I guess it's a weird way of putting it but?",
+    "Thing is a super cool.",
+    "It's really great.",
+    "And you'll often get stuff like the Top of this horn for example, where you'll get really hard edges that taper out.",
+    "Oh yeah, all 3 screens.",
+    "Hope your desk is big enough.",
+    "Yes.",
+    "Point is I think is a lot more difficult to use the screen tones to personally.",
+    "I'm trying my hand at some point, alism stuff just not very good at it, although to be fair.",
+    "I'm not all that great at Screentones, either so maybe that's just a me problem.",
+    "Very possible.",
+    "I want to look at all these other things, too, but I want to try to keep it contextual you know, but I like it quite a bit like all this stuff.",
+    "Having some jittery issues, though.",
+    "What's going on?",
+    "Adobe.",
+    "Help me out guys will just use the scroll bar.",
+    "I think that I saw.",
+    "I've seen this before.",
+    "This is a manga about rugby now.",
+    "This is an interesting use of tones.",
+    "These touch much more in my opinion into the realm of like uh.",
+    "Just standard illustrations using like dissolved brushes.",
+    "'Cause these don't really feel this feel grainy more than they do screentone which I think is really interesting because there can be overlap, there as well.",
+    "You can see, though, that there's like that circular pattern.",
+    "I'd used before on.",
+    "With the Kyle brushes, they have a similar pattern to this so that could be artificially done.",
+    "I don't know.",
+    "Yeah, this is a good look.",
+    "This is like a full on comic hanging on the hands page.",
+    "So you guys go take a peek at this.",
+    "This was from.",
+    "I just said his name didn't I.",
+    "Oh, it's from ult it's Thomas Roofs, an Matthew Bertolet, so you can go check his out.",
+    "Oh here's some more modern.",
+    "Implementations of a more leakage time look as well.",
+    "See very pronounced large halftone patterns here.",
+    "Along with a little bit of.",
+    "Cross hatching to this ones by Van Orton design.",
+    "There's that for you.",
+    "Uhm yeah, some here as well fairly lithographic looking very cool.",
+    "Mostly Hatch, based but a little bit of that screen tones hanging out there.",
+    "That's actually pretty big theme for most of this so far, lots of cross hatching.",
+    "Little bit of halftones.",
+    "I think this is really cool, though it gives you some good examples and ideas of how you can maybe use screens in your own work, and this is interesting leave.",
+    "They've elected actually chop their screentones as opposed to let them just did it on their own, which to me.",
+    "I think is a bit too.",
+    "Bold of a move.",
+    "I wouldn't like that as much.",
+    "I like to keep my screen tones whole.",
+    "I like I don't like to jump my tones if I can help it.",
+    "Yeah, but this is very pop party so this is another good example.",
+    "I think of more modern approach to the to the pop art.",
+    "Interesting how this what I would call a rim light is being transitioned into 1/2 tone as well, and it's really cool clever usage.",
+    "Also, interesting to use a uh.",
+    "A flat combined with the halftones as well, typically you get one or the other.",
+    "It looks like it's kind of done both here for this one.",
+    "Is just a couple of cutaways?",
+    "I suppose of how the illustrations looked flat?",
+    "Pretty cool.",
+    "Um.",
+    "Anything else.",
+    "We'll see if we can get down there.",
+    "Oh, maybe I'll find some examples in here of what I was talking about earlier.",
+    "It just so choppy.",
+    "Yeah, little bit of that's present here, notably on like the leg where you can see a bit of a like a halftone dissolved but it's not quite a halftone.",
+    "It's a weird Gray area between using a flat color as a screen tone, but also as a blender.",
+    "Yeah, like red knees legs here.",
+    "Or you'll have to color overlaps.",
+    "Let me just show you what I mean.",
+    "You'll have 2 colours basically say we have like?",
+    "A person.",
+    "Like this and say, We want to like fill that and we want to go with only the colours.",
+    "We don't want to have any liner.",
+    "Yeah, you like the buzz Lightyear One I like that one, too.",
+    "So you want to have like a?",
+    "Like a typical orange color here.",
+    "Tried that one and then have like a shadow.",
+    "And what we can do is get a brush I'll keep it.",
+    "Well actually go to like a proper brush here will make the size bigger it's it dissolve already.",
+    "Then we could just like.",
+    "Oh, that's what some change the spacing.",
+    "Brush tip shape spacing all the way down there, we go.",
+    "How to get rid of our jitters?",
+    "And make sure the hardnesses all the way down to.",
+    "And then just delete all of that.",
+    "And you can get that really cool smooth.",
+    "Dillard transition, which does have some screentone elements to it, which I'm all about.",
+    "Just hide that select everything outside of the head here, I can delete that a little bit more cleanly.",
+    "That's what I was talking about earlier getting was nice, smooth, one color to the next transitions.",
+    "I'm going to lock.",
+    "The Opacity on this.",
+    "I'm going to push him fully is a little bit more.",
+    "Whoops.",
+    "Push and pull these a little bit more.",
+    "And I was wondering for a long time how to get this look and that's how you do it is this purple to you guys 'cause.",
+    "It looks like it's a bit more pink on my other monitor.",
+    "I hope that is not too pinkish.",
+    "I'm going to say that this display is wrong, and this ones right.",
+    "This one is the correct one.",
+    "I've got to assume yeah.",
+    "That's how you get those cool transitions and of course, if you.",
+    "If you blur it a little bit too.",
+    "Just get a little bit of a blur going on.",
+    "That will smooth out those those colors, a little bit more so than us so sharp.",
+    "So it's a little hard to look at, I don't know how other people do it, but I think that's a totally valid valid route date for that.",
+    "OK, well that's it for me today.",
+    "That's it for me on Behance today go back tomorrow.",
+    "With maybe somewhere Screentone Studies, not really sure just yet.",
+    "But I like to come up with some cool ideas, maybe even delving into this artstyle little bit more this specific type of like.",
+    "I want to say like Kurtz, Kasak, but I know they've never actually used this look, but I feel like their artstyle kind of.",
+    "Is cohesive with this with this illustration type look but this is a look?",
+    "I wanted to get for quite a while.",
+    "At least implement when I know when I want to, but I never really learned what it was exactly what the process was so now that I know that I might do some more of this kind of stuff.",
+    "Possibly tomorrow, not really sure yet otherwise, though everybody thanks for hanging out.",
+    "Gotta appreciate y'all.",
+    "Let me just make one more check to see if I have any more people to think.",
+    "We have one person.",
+    "Unfortunately, I can't pronounce that but thank you nonetheless.",
+    "You know who you are?",
+    "How was that yeah, I'll be back again tomorrow?",
+    "Don't really know when exactly it's going to be a bit of a weird day for me tomorrow and the next day.",
+    "But I will be on then and yeah, thanks for hanging out hopefully this was relatively educational.",
+    "I might do a recap tomorrow of basically everything we went over maybe get some more specific illustrations to work on and then put the screen tones with, but yeah, that's all we got let me do this.",
+    "Oh hold on what do you guys think of this?",
+    "Will make it really awkward?",
+    "It doesn't want to do it.",
+    "Um.",
+    "OK, I wanted to transition very slowly, but it refused so.",
+    "Now let's go back to this, yeah again by everybody.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION",
+      "span": [
+        2,
+        3
+      ],
+      "sentence": [
+        "Are we stable yet?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION",
+      "span": [
+        11,
+        12
+      ],
+      "sentence": [
+        "Tool timeline that's right the tool timeline will pop that bad boy on real quick?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION",
+      "span": [
+        12,
+        13
+      ],
+      "sentence": [
+        "How are y'all doing today?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION",
+      "span": [
+        16,
+        17
+      ],
+      "sentence": [
+        "Give me one second?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION",
+      "span": [
+        17,
+        18
+      ],
+      "sentence": [
+        "How are you all doing today?"
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION",
+      "span": [
+        59,
+        60
+      ],
+      "sentence": [
+        "Can appear simple but very rapidly get complicated and have a lot of contextual decisions to make?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION",
+      "span": [
+        63,
+        64
+      ],
+      "sentence": [
+        "Hey Turtle, how's it going?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION",
+      "span": [
+        64,
+        65
+      ],
+      "sentence": [
+        "You're using?"
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "QUESTION",
+      "span": [
+        65,
+        66
+      ],
+      "sentence": [
+        "Uh your anonymous turtle handle today?"
+      ]
+    },
+    "T9": {
+      "id": "T9",
+      "label": "QUESTION",
+      "span": [
+        93,
+        94
+      ],
+      "sentence": [
+        "These exactly as I have a drawn out here and I'm actually working on a?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION",
+      "span": [
+        136,
+        137
+      ],
+      "sentence": [
+        "Will just make a quick 3 by 3 little box here and we're going to make a selection?"
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "QUESTION",
+      "span": [
+        152,
+        153
+      ],
+      "sentence": [
+        "Which of these would be a good example I think that?"
+      ]
+    },
+    "T12": {
+      "id": "T12",
+      "label": "QUESTION",
+      "span": [
+        154,
+        155
+      ],
+      "sentence": [
+        "Will try this one out or maybe?"
+      ]
+    },
+    "T13": {
+      "id": "T13",
+      "label": "QUESTION",
+      "span": [
+        174,
+        175
+      ],
+      "sentence": [
+        "Oh, fantastic, Hey, how's it going lenardo?"
+      ]
+    },
+    "T14": {
+      "id": "T14",
+      "label": "QUESTION",
+      "span": [
+        175,
+        176
+      ],
+      "sentence": [
+        "Is that Leonardo yeah?"
+      ]
+    },
+    "T15": {
+      "id": "T15",
+      "label": "QUESTION",
+      "span": [
+        176,
+        177
+      ],
+      "sentence": [
+        "I think it?"
+      ]
+    },
+    "T16": {
+      "id": "T16",
+      "label": "QUESTION",
+      "span": [
+        177,
+        178
+      ],
+      "sentence": [
+        "Is isn't it?"
+      ]
+    },
+    "T17": {
+      "id": "T17",
+      "label": "QUESTION",
+      "span": [
+        184,
+        185
+      ],
+      "sentence": [
+        "You can definitely put the effort in put the effort into your screen to look nice experiment with Densities, which is a big factor of a screen tone?"
+      ]
+    },
+    "T18": {
+      "id": "T18",
+      "label": "QUESTION",
+      "span": [
+        211,
+        212
+      ],
+      "sentence": [
+        "Is unlock the mask from the layer?"
+      ]
+    },
+    "T19": {
+      "id": "T19",
+      "label": "QUESTION-PHOTOSHOP",
+      "span": [
+        237,
+        238
+      ],
+      "sentence": [
+        "The next thing that we talked about are the Kyle brushes and the Kyle brushes are like I said earlier included with your?"
+      ]
+    },
+    "T20": {
+      "id": "T20",
+      "label": "QUESTION",
+      "span": [
+        244,
+        245
+      ],
+      "sentence": [
+        "You'll be able to access them in your?"
+      ]
+    },
+    "T21": {
+      "id": "T21",
+      "label": "QUESTION",
+      "span": [
+        316,
+        317
+      ],
+      "sentence": [
+        "Which ones do we have?"
+      ]
+    },
+    "T22": {
+      "id": "T22",
+      "label": "QUESTION",
+      "span": [
+        317,
+        318
+      ],
+      "sentence": [
+        "We have these crosshatches?"
+      ]
+    },
+    "T23": {
+      "id": "T23",
+      "label": "QUESTION",
+      "span": [
+        318,
+        319
+      ],
+      "sentence": [
+        "What the crosshatches here?"
+      ]
+    },
+    "T24": {
+      "id": "T24",
+      "label": "QUESTION",
+      "span": [
+        353,
+        354
+      ],
+      "sentence": [
+        "Yeah, it's incredible isn't it?"
+      ]
+    },
+    "T25": {
+      "id": "T25",
+      "label": "QUESTION-PHOTOSHOP",
+      "span": [
+        364,
+        365
+      ],
+      "sentence": [
+        "Uh I typically just do you know diffusion dither?"
+      ]
+    },
+    "T26": {
+      "id": "T26",
+      "label": "QUESTION-PHOTOSHOP",
+      "span": [
+        366,
+        367
+      ],
+      "sentence": [
+        "The size of your dots will be influenced by your DPI here, So what you can do I like to do have it?"
+      ]
+    },
+    "T27": {
+      "id": "T27",
+      "label": "QUESTION",
+      "span": [
+        369,
+        370
+      ],
+      "sentence": [
+        "Will keep it at 600?"
+      ]
+    },
+    "T28": {
+      "id": "T28",
+      "label": "QUESTION",
+      "span": [
+        378,
+        379
+      ],
+      "sentence": [
+        "Will take a look at?"
+      ]
+    },
+    "T29": {
+      "id": "T29",
+      "label": "QUESTION",
+      "span": [
+        392,
+        393
+      ],
+      "sentence": [
+        "Which I was talking about earlier?"
+      ]
+    },
+    "T30": {
+      "id": "T30",
+      "label": "QUESTION",
+      "span": [
+        393,
+        394
+      ],
+      "sentence": [
+        "And that will be addressed at some point in the future but not right now basically that's just the process, there and what you can do is obviously having this as a bitmap doesn't really help out So what do you do you just go back to mode and then grayscale the ratio here depending on if you change your DPI?"
+      ]
+    },
+    "T31": {
+      "id": "T31",
+      "label": "QUESTION",
+      "span": [
+        405,
+        406
+      ],
+      "sentence": [
+        "Is before I bring it back over?"
+      ]
+    },
+    "T32": {
+      "id": "T32",
+      "label": "QUESTION",
+      "span": [
+        406,
+        407
+      ],
+      "sentence": [
+        "I like to double click my layer?"
+      ]
+    },
+    "T33": {
+      "id": "T33",
+      "label": "QUESTION",
+      "span": [
+        407,
+        408
+      ],
+      "sentence": [
+        "Which you can adjust it here?"
+      ]
+    },
+    "T34": {
+      "id": "T34",
+      "label": "QUESTION",
+      "span": [
+        421,
+        422
+      ],
+      "sentence": [
+        "You don't want them or a?"
+      ]
+    },
+    "T35": {
+      "id": "T35",
+      "label": "QUESTION",
+      "span": [
+        449,
+        450
+      ],
+      "sentence": [
+        "Will do a radial from the inside out like that or the opposite rather?"
+      ]
+    },
+    "T36": {
+      "id": "T36",
+      "label": "QUESTION",
+      "span": [
+        470,
+        471
+      ],
+      "sentence": [
+        "Will set this cell size to like 4 and just see what it does?"
+      ]
+    },
+    "T37": {
+      "id": "T37",
+      "label": "QUESTION",
+      "span": [
+        475,
+        476
+      ],
+      "sentence": [
+        "Would that be for a mosaic is that?"
+      ]
+    },
+    "T38": {
+      "id": "T38",
+      "label": "QUESTION",
+      "span": [
+        480,
+        481
+      ],
+      "sentence": [
+        "What is that when called?"
+      ]
+    },
+    "T39": {
+      "id": "T39",
+      "label": "QUESTION",
+      "span": [
+        484,
+        485
+      ],
+      "sentence": [
+        "It seems a little bit low user kind of cool aren't they?"
+      ]
+    },
+    "T40": {
+      "id": "T40",
+      "label": "QUESTION",
+      "span": [
+        486,
+        487
+      ],
+      "sentence": [
+        "Are these new?"
+      ]
+    },
+    "T41": {
+      "id": "T41",
+      "label": "QUESTION",
+      "span": [
+        498,
+        499
+      ],
+      "sentence": [
+        "How to get rid of this?"
+      ]
+    },
+    "T42": {
+      "id": "T42",
+      "label": "QUESTION",
+      "span": [
+        503,
+        504
+      ],
+      "sentence": [
+        "Kind of looks like a face doesn't it?"
+      ]
+    },
+    "T43": {
+      "id": "T43",
+      "label": "QUESTION",
+      "span": [
+        504,
+        505
+      ],
+      "sentence": [
+        "It's kind of creepy isn't it?"
+      ]
+    },
+    "T44": {
+      "id": "T44",
+      "label": "QUESTION-PHOTOSHOP",
+      "span": [
+        536,
+        537
+      ],
+      "sentence": [
+        "It will accomplish that but it can look a bit gross so how do we deal with the Moray?"
+      ]
+    },
+    "T45": {
+      "id": "T45",
+      "label": "QUESTION",
+      "span": [
+        543,
+        544
+      ],
+      "sentence": [
+        "Will get this Fox 2?"
+      ]
+    },
+    "T46": {
+      "id": "T46",
+      "label": "QUESTION",
+      "span": [
+        544,
+        545
+      ],
+      "sentence": [
+        "Will make him totally tone deaf?"
+      ]
+    },
+    "T47": {
+      "id": "T47",
+      "label": "QUESTION",
+      "span": [
+        561,
+        562
+      ],
+      "sentence": [
+        "And now it's not so how do you fix that?"
+      ]
+    },
+    "T48": {
+      "id": "T48",
+      "label": "QUESTION",
+      "span": [
+        562,
+        563
+      ],
+      "sentence": [
+        "Well, let's try this out?"
+      ]
+    },
+    "T49": {
+      "id": "T49",
+      "label": "QUESTION",
+      "span": [
+        586,
+        587
+      ],
+      "sentence": [
+        "I'm glad you like the Fox?"
+      ]
+    },
+    "T50": {
+      "id": "T50",
+      "label": "QUESTION",
+      "span": [
+        602,
+        603
+      ],
+      "sentence": [
+        "But the artist when was he a thing?"
+      ]
+    },
+    "T51": {
+      "id": "T51",
+      "label": "QUESTION",
+      "span": [
+        653,
+        654
+      ],
+      "sentence": [
+        "You're kind of stuff there and especially in this case here?"
+      ]
+    },
+    "T52": {
+      "id": "T52",
+      "label": "QUESTION",
+      "span": [
+        706,
+        707
+      ],
+      "sentence": [
+        "But they'll typically used ringtones is just a way of well in some dramatic cases, though you've probably seen it on shows like?"
+      ]
+    },
+    "T53": {
+      "id": "T53",
+      "label": "QUESTION",
+      "span": [
+        719,
+        720
+      ],
+      "sentence": [
+        "I think the screen?"
+      ]
+    },
+    "T54": {
+      "id": "T54",
+      "label": "QUESTION",
+      "span": [
+        768,
+        769
+      ],
+      "sentence": [
+        "Make it reasonably large, not too huge, though Annan said it to dissolve which it already is thanks to the call brushes and now you can just push why is it Oh yeah, it's been set back to the brush?"
+      ]
+    },
+    "T55": {
+      "id": "T55",
+      "label": "QUESTION-PHOTOSHOP",
+      "span": [
+        783,
+        784
+      ],
+      "sentence": [
+        "What about opacity is that?"
+      ]
+    },
+    "T56": {
+      "id": "T56",
+      "label": "QUESTION",
+      "span": [
+        792,
+        793
+      ],
+      "sentence": [
+        "So you can just have like a?"
+      ]
+    },
+    "T57": {
+      "id": "T57",
+      "label": "QUESTION",
+      "span": [
+        844,
+        845
+      ],
+      "sentence": [
+        "What is meant to be 2 values there?"
+      ]
+    },
+    "T58": {
+      "id": "T58",
+      "label": "QUESTION",
+      "span": [
+        852,
+        853
+      ],
+      "sentence": [
+        "Is our next example?"
+      ]
+    },
+    "T59": {
+      "id": "T59",
+      "label": "QUESTION",
+      "span": [
+        863,
+        864
+      ],
+      "sentence": [
+        "I would imagine they use like?"
+      ]
+    },
+    "T60": {
+      "id": "T60",
+      "label": "QUESTION",
+      "span": [
+        900,
+        901
+      ],
+      "sentence": [
+        "But you will have probably seen what I'm talking about how he will just get like a really fat fill like?"
+      ]
+    },
+    "T61": {
+      "id": "T61",
+      "label": "QUESTION",
+      "span": [
+        917,
+        918
+      ],
+      "sentence": [
+        "What is that I guess it's just like a little cloak?"
+      ]
+    },
+    "T62": {
+      "id": "T62",
+      "label": "QUESTION",
+      "span": [
+        930,
+        931
+      ],
+      "sentence": [
+        "This is like an obvious example of?"
+      ]
+    },
+    "T63": {
+      "id": "T63",
+      "label": "QUESTION",
+      "span": [
+        931,
+        932
+      ],
+      "sentence": [
+        "The level of?"
+      ]
+    },
+    "T64": {
+      "id": "T64",
+      "label": "QUESTION",
+      "span": [
+        935,
+        936
+      ],
+      "sentence": [
+        "And it's also a bit of an example of?"
+      ]
+    },
+    "T65": {
+      "id": "T65",
+      "label": "QUESTION",
+      "span": [
+        954,
+        955
+      ],
+      "sentence": [
+        "Maybe some of these I'll actually have usage out of who knows?"
+      ]
+    },
+    "T66": {
+      "id": "T66",
+      "label": "QUESTION",
+      "span": [
+        963,
+        964
+      ],
+      "sentence": [
+        "The edges of your selection are to make your?"
+      ]
+    },
+    "T67": {
+      "id": "T67",
+      "label": "QUESTION",
+      "span": [
+        964,
+        965
+      ],
+      "sentence": [
+        "To make your pattern in the 1st place, let me give this a?"
+      ]
+    },
+    "T68": {
+      "id": "T68",
+      "label": "QUESTION",
+      "span": [
+        980,
+        981
+      ],
+      "sentence": [
+        "Do you want it for you, you can?"
+      ]
+    },
+    "T69": {
+      "id": "T69",
+      "label": "QUESTION",
+      "span": [
+        983,
+        984
+      ],
+      "sentence": [
+        "Make like a 20 by 20?"
+      ]
+    },
+    "T70": {
+      "id": "T70",
+      "label": "QUESTION",
+      "span": [
+        984,
+        985
+      ],
+      "sentence": [
+        "How is that?"
+      ]
+    },
+    "T71": {
+      "id": "T71",
+      "label": "QUESTION",
+      "span": [
+        1022,
+        1023
+      ],
+      "sentence": [
+        "Is one of two things really you can make a selection?"
+      ]
+    },
+    "T72": {
+      "id": "T72",
+      "label": "QUESTION",
+      "span": [
+        1030,
+        1031
+      ],
+      "sentence": [
+        "Areas fantastic, he's got for whatever reason, he's got leather gloves on how does that sound?"
+      ]
+    },
+    "T73": {
+      "id": "T73",
+      "label": "QUESTION",
+      "span": [
+        1087,
+        1088
+      ],
+      "sentence": [
+        "I don't like to spend a lot of time learning?"
+      ]
+    },
+    "T74": {
+      "id": "T74",
+      "label": "QUESTION",
+      "span": [
+        1101,
+        1102
+      ],
+      "sentence": [
+        "Which helps tremendously?"
+      ]
+    },
+    "T75": {
+      "id": "T75",
+      "label": "QUESTION",
+      "span": [
+        1143,
+        1144
+      ],
+      "sentence": [
+        "Would be clockwise, but it's not?"
+      ]
+    },
+    "T76": {
+      "id": "T76",
+      "label": "QUESTION",
+      "span": [
+        1152,
+        1153
+      ],
+      "sentence": [
+        "Can only do so much with tools like that?"
+      ]
+    },
+    "T77": {
+      "id": "T77",
+      "label": "QUESTION",
+      "span": [
+        1175,
+        1176
+      ],
+      "sentence": [
+        "So it's just a very rough example of a couple of Screentones and that's again using the comic kit, which is available on the Adobe exchange at exchange.adobe.com and you can also you know?"
+      ]
+    },
+    "T78": {
+      "id": "T78",
+      "label": "QUESTION",
+      "span": [
+        1176,
+        1177
+      ],
+      "sentence": [
+        "Why are there pick up the call brushes?"
+      ]
+    },
+    "T79": {
+      "id": "T79",
+      "label": "QUESTION",
+      "span": [
+        1177,
+        1178
+      ],
+      "sentence": [
+        "Maybe I will show you guys where to get those?"
+      ]
+    },
+    "T80": {
+      "id": "T80",
+      "label": "QUESTION-PHOTOSHOP",
+      "span": [
+        1181,
+        1182
+      ],
+      "sentence": [
+        "How do you get the brushes?"
+      ]
+    },
+    "T81": {
+      "id": "T81",
+      "label": "QUESTION",
+      "span": [
+        1194,
+        1195
+      ],
+      "sentence": [
+        "Should I a deep dive into my really terrible?"
+      ]
+    },
+    "T82": {
+      "id": "T82",
+      "label": "QUESTION",
+      "span": [
+        1196,
+        1197
+      ],
+      "sentence": [
+        "Which is using I think these are kind of blueish tones actually?"
+      ]
+    },
+    "T83": {
+      "id": "T83",
+      "label": "QUESTION",
+      "span": [
+        1199,
+        1200
+      ],
+      "sentence": [
+        "Is that?"
+      ]
+    },
+    "T84": {
+      "id": "T84",
+      "label": "QUESTION",
+      "span": [
+        1212,
+        1213
+      ],
+      "sentence": [
+        "Which again will introduce a pretty dramatic level of grayscale value image size?"
+      ]
+    },
+    "T85": {
+      "id": "T85",
+      "label": "QUESTION",
+      "span": [
+        1249,
+        1250
+      ],
+      "sentence": [
+        "What ended up doing for a lot of these pages here?"
+      ]
+    },
+    "T86": {
+      "id": "T86",
+      "label": "QUESTION",
+      "span": [
+        1270,
+        1271
+      ],
+      "sentence": [
+        "Some screentones Speaking of which huh?"
+      ]
+    },
+    "T87": {
+      "id": "T87",
+      "label": "QUESTION",
+      "span": [
+        1288,
+        1289
+      ],
+      "sentence": [
+        "I think I was doing that because like?"
+      ]
+    },
+    "T88": {
+      "id": "T88",
+      "label": "QUESTION",
+      "span": [
+        1297,
+        1298
+      ],
+      "sentence": [
+        "Polka dots are kind of like halftones aren't they?"
+      ]
+    },
+    "T89": {
+      "id": "T89",
+      "label": "QUESTION",
+      "span": [
+        1315,
+        1316
+      ],
+      "sentence": [
+        "Aren't that often used here's some more stuff by Christophe?"
+      ]
+    },
+    "T90": {
+      "id": "T90",
+      "label": "QUESTION",
+      "span": [
+        1324,
+        1325
+      ],
+      "sentence": [
+        "Oh yeah, we also had am I talked a little bit about this person's work, a while back it's interesting how?"
+      ]
+    },
+    "T91": {
+      "id": "T91",
+      "label": "QUESTION",
+      "span": [
+        1332,
+        1333
+      ],
+      "sentence": [
+        "Not sure why are where from but they are nonetheless?"
+      ]
+    },
+    "T92": {
+      "id": "T92",
+      "label": "QUESTION",
+      "span": [
+        1349,
+        1350
+      ],
+      "sentence": [
+        "Has become too difficult to find quality work on?"
+      ]
+    },
+    "T93": {
+      "id": "T93",
+      "label": "QUESTION",
+      "span": [
+        1351,
+        1352
+      ],
+      "sentence": [
+        "Is?"
+      ]
+    },
+    "T94": {
+      "id": "T94",
+      "label": "QUESTION",
+      "span": [
+        1361,
+        1362
+      ],
+      "sentence": [
+        "Alism dots are there to be seen you know not not felt I guess it's a weird way of putting it but?"
+      ]
+    },
+    "T95": {
+      "id": "T95",
+      "label": "QUESTION",
+      "span": [
+        1374,
+        1375
+      ],
+      "sentence": [
+        "What's going on?"
+      ]
+    },
+    "T96": {
+      "id": "T96",
+      "label": "QUESTION",
+      "span": [
+        1417,
+        1418
+      ],
+      "sentence": [
+        "Is just a couple of cutaways?"
+      ]
+    },
+    "T97": {
+      "id": "T97",
+      "label": "QUESTION",
+      "span": [
+        1418,
+        1419
+      ],
+      "sentence": [
+        "I suppose of how the illustrations looked flat?"
+      ]
+    },
+    "T98": {
+      "id": "T98",
+      "label": "QUESTION",
+      "span": [
+        1430,
+        1431
+      ],
+      "sentence": [
+        "You'll have 2 colours basically say we have like?"
+      ]
+    },
+    "T99": {
+      "id": "T99",
+      "label": "QUESTION",
+      "span": [
+        1435,
+        1436
+      ],
+      "sentence": [
+        "So you want to have like a?"
+      ]
+    },
+    "T100": {
+      "id": "T100",
+      "label": "QUESTION",
+      "span": [
+        1443,
+        1444
+      ],
+      "sentence": [
+        "How to get rid of our jitters?"
+      ]
+    },
+    "T101": {
+      "id": "T101",
+      "label": "QUESTION",
+      "span": [
+        1471,
+        1472
+      ],
+      "sentence": [
+        "Is cohesive with this with this illustration type look but this is a look?"
+      ]
+    },
+    "T102": {
+      "id": "T102",
+      "label": "QUESTION",
+      "span": [
+        1479,
+        1480
+      ],
+      "sentence": [
+        "You know who you are?"
+      ]
+    },
+    "T103": {
+      "id": "T103",
+      "label": "QUESTION",
+      "span": [
+        1480,
+        1481
+      ],
+      "sentence": [
+        "How was that yeah, I'll be back again tomorrow?"
+      ]
+    },
+    "T104": {
+      "id": "T104",
+      "label": "QUESTION",
+      "span": [
+        1484,
+        1485
+      ],
+      "sentence": [
+        "Oh hold on what do you guys think of this?"
+      ]
+    },
+    "T105": {
+      "id": "T105",
+      "label": "QUESTION",
+      "span": [
+        1485,
+        1486
+      ],
+      "sentence": [
+        "Will make it really awkward?"
+      ]
+    },
+    "T106": {
+      "id": "T106",
+      "label": "ANSWER",
+      "span": [
+        153,
+        154
+      ],
+      "sentence": [
+        "Maybe this one."
+      ]
+    },
+    "T107": {
+      "id": "T107",
+      "label": "ANSWER",
+      "span": [
+        238,
+        239
+      ],
+      "sentence": [
+        "Creative Cloud subscription you can go to the exchange and you can get all these brushes to follow along with if you want."
+      ]
+    },
+    "T108": {
+      "id": "T108",
+      "label": "ANSWER",
+      "span": [
+        365,
+        366
+      ],
+      "sentence": [
+        "I don't play around these too much diffusion do their works just fine for me but the resolution is the biggest factor here."
+      ]
+    },
+    "T109": {
+      "id": "T109",
+      "label": "ANSWER",
+      "span": [
+        368,
+        369
+      ],
+      "sentence": [
+        "Loke actually know what I'm going to make it 600."
+      ]
+    },
+    "T110": {
+      "id": "T110",
+      "label": "ANSWER",
+      "span": [
+        499,
+        500
+      ],
+      "sentence": [
+        "Get rid of all that stuff there."
+      ]
+    },
+    "T111": {
+      "id": "T111",
+      "label": "ANSWER",
+      "span": [
+        538,
+        539
+      ],
+      "sentence": [
+        "The first of which seems to be the most convenient easiest method of doing it is to just add a slight blur before you shrink your screen tones, so we can merge these together."
+      ]
+    },
+    "T112": {
+      "id": "T112",
+      "label": "ANSWER",
+      "span": [
+        784,
+        787
+      ],
+      "sentence": [
+        "Yeah, the opacity works.",
+        "So you can change the opacity to change how densely comes in.",
+        "You get some nice nice effects out of that."
+      ]
+    },
+    "T113": {
+      "id": "T113",
+      "label": "ANSWER",
+      "span": [
+        864,
+        865
+      ],
+      "sentence": [
+        "He must have used like masking tape to get such a clean line here."
+      ]
+    },
+    "T114": {
+      "id": "T114",
+      "label": "ANSWER",
+      "span": [
+        1183,
+        1189
+      ],
+      "sentence": [
+        "I just like search by Kyle brushes.",
+        "I have no idea.",
+        "There somewhere.",
+        "There's somewhere you can find him just just look it up.",
+        "Kyle brushes Adobe exchange.",
+        "They're all, free is fantastic."
+      ]
+    },
+    "T115": {
+      "id": "T115",
+      "label": "ANSWER",
+      "span": [
+        1298,
+        1301
+      ],
+      "sentence": [
+        "It's kind of the same idea.",
+        "Studio build their now lure Nicholas, who we can see right here.",
+        "I think yeah."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T11",
+      "answer": "T106",
+      "question_sentence": [
+        "Which of these would be a good example I think that?"
+      ],
+      "answer_sentence": [
+        "Maybe this one."
+      ]
+    },
+    "R2": {
+      "id": "R2",
+      "label": "Relevance",
+      "question": "T19",
+      "answer": "T107",
+      "question_sentence": [
+        "The next thing that we talked about are the Kyle brushes and the Kyle brushes are like I said earlier included with your?"
+      ],
+      "answer_sentence": [
+        "Creative Cloud subscription you can go to the exchange and you can get all these brushes to follow along with if you want."
+      ]
+    },
+    "R3": {
+      "id": "R3",
+      "label": "Relevance",
+      "question": "T25",
+      "answer": "T108",
+      "question_sentence": [
+        "Uh I typically just do you know diffusion dither?"
+      ],
+      "answer_sentence": [
+        "I don't play around these too much diffusion do their works just fine for me but the resolution is the biggest factor here."
+      ]
+    },
+    "R4": {
+      "id": "R4",
+      "label": "Relevance",
+      "question": "T26",
+      "answer": "T109",
+      "question_sentence": [
+        "The size of your dots will be influenced by your DPI here, So what you can do I like to do have it?"
+      ],
+      "answer_sentence": [
+        "Loke actually know what I'm going to make it 600."
+      ]
+    },
+    "R5": {
+      "id": "R5",
+      "label": "Chitchat",
+      "question": "T41",
+      "answer": "T110",
+      "question_sentence": [
+        "How to get rid of this?"
+      ],
+      "answer_sentence": [
+        "Get rid of all that stuff there."
+      ]
+    },
+    "R6": {
+      "id": "R6",
+      "label": "Relevance",
+      "question": "T44",
+      "answer": "T111",
+      "question_sentence": [
+        "It will accomplish that but it can look a bit gross so how do we deal with the Moray?"
+      ],
+      "answer_sentence": [
+        "The first of which seems to be the most convenient easiest method of doing it is to just add a slight blur before you shrink your screen tones, so we can merge these together."
+      ]
+    },
+    "R7": {
+      "id": "R7",
+      "label": "Relevance",
+      "question": "T55",
+      "answer": "T112",
+      "question_sentence": [
+        "What about opacity is that?"
+      ],
+      "answer_sentence": [
+        "Yeah, the opacity works.",
+        "So you can change the opacity to change how densely comes in.",
+        "You get some nice nice effects out of that."
+      ]
+    },
+    "R8": {
+      "id": "R8",
+      "label": "Chitchat",
+      "question": "T59",
+      "answer": "T113",
+      "question_sentence": [
+        "I would imagine they use like?"
+      ],
+      "answer_sentence": [
+        "He must have used like masking tape to get such a clean line here."
+      ]
+    },
+    "R9": {
+      "id": "R9",
+      "label": "Relevance",
+      "question": "T80",
+      "answer": "T114",
+      "question_sentence": [
+        "How do you get the brushes?"
+      ],
+      "answer_sentence": [
+        "I just like search by Kyle brushes.",
+        "I have no idea.",
+        "There somewhere.",
+        "There's somewhere you can find him just just look it up.",
+        "Kyle brushes Adobe exchange.",
+        "They're all, free is fantastic."
+      ]
+    },
+    "R10": {
+      "id": "R10",
+      "label": "Chitchat",
+      "question": "T88",
+      "answer": "T115",
+      "question_sentence": [
+        "Polka dots are kind of like halftones aren't they?"
+      ],
+      "answer_sentence": [
+        "It's kind of the same idea.",
+        "Studio build their now lure Nicholas, who we can see right here.",
+        "I think yeah."
+      ]
+    }
+  }
+}

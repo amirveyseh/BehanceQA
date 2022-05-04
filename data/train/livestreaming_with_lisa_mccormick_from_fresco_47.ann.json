@@ -1,0 +1,181 @@
+{
+  "sentence": [
+    "Potentially.",
+    "Um?",
+    "Ooh, I wonder if I even like actually this might be cool, so if I really did like make it like a.",
+    "Go little garden was like just blooming out of it.",
+    "Um, do this.",
+    "I haven't seen anything like this around where I where I live, but I've definitely seen.",
+    "Just.",
+    "Knew growth coming out of just.",
+    "You know trees and plants and all that, and sidewalks.",
+    "I see that all the time whenever my sister lives in Seattle, so I'll go out there and visit her and.",
+    "Is just like such a beautiful, beautiful area.",
+    "Things are things just grow.",
+    "Rapidly there, it's really cool.",
+    "So make a That's actually super cute.",
+    "I love that.",
+    "Well, little garden coming out of A.",
+    "A tree stump.",
+    "Um?",
+    "Actually, it does feel kinda balanced, even though I feel like I want to do one more maybe.",
+    "Like a.",
+    "Maybe more of like a Bud.",
+    "OK wait, I actually really like that.",
+    "Um, let's down.",
+    "Shout out to Seattle in the Pacific Northwest for this inspiration.",
+    "And I am just looking up and seeing.",
+    "Looks like there's more people that are joining us.",
+    "Wanna say hello to everyone?",
+    "Uhm, thanks for joining the live stream today.",
+    "Would love to.",
+    "How do you say hi in the chat?",
+    "Let us know or let me know where you're from.",
+    "Ties funder to talk a little bit, and.",
+    "It's no you guys and also if you have any questions.",
+    "Um, please ask.",
+    "I am always happy to share.",
+    "You know?",
+    "Any any tips and tricks?",
+    "Or you know what what equipment I use?",
+    "How do I get my inspiration?",
+    "All that um.",
+    "And I am a full time freelance illustrator and graphic designer.",
+    "I've been working.",
+    "I'm my own full time for almost four years now, which is just wild.",
+    "And it was.",
+    "It's been.",
+    "It's been a journey and it's been.",
+    "Really beautiful and so I love also helping other people.",
+    "Who are wanting to potentially pursue freelancing full-time?",
+    "Yeah, I'm always here.",
+    "To help talk um, give any advice.",
+    "Is that something that you are looking into doing?",
+    "And it's been fun being more active on be hands.",
+    "I really.",
+    "Oh my gosh, I.",
+    "Well, I guess I technically got a big hand.",
+    "Way back in college.",
+    "Uhm, like my freshman year of college I think, and I hadn't used it in like.",
+    "Oh man, like six or Seven years and then just this last May or may be end of April early May I started using it again.",
+    "Um?",
+    "And really just kind of like rebuilt my whole.",
+    "Page and um.",
+    "Went and upload new work and I did the.",
+    "Um Adobe live stream on Adobe's platform uhm?",
+    "And it's just.",
+    "It's been such a fun community, and, um.",
+    "Yeah, it's been.",
+    "I feel like I've I've always been pretty active on like Instagram and Whatnot.",
+    "Yeah, also if you guys are on Instagram, follow me at made by Lisa Marie Um.",
+    "But yeah, it's it's been fun.",
+    "Can I getting into this community as well and.",
+    "Skin to know more people.",
+    "So but yeah, here, let me actually I can write down my.",
+    "My IG handle.",
+    "In case you guys.",
+    "So.",
+    "Want to follow me there?",
+    "Kind of like my my.",
+    "My on going portfolio.",
+    "Where I post more just like everyday stuff or not every day like.",
+    "Random stuff, but it's still an art portfolio.",
+    "But more like sketches and.",
+    "Um?",
+    "Process stuff, whereas I feel like an be hands most of the projects I upload are usually like.",
+    "Pretty polished of-.",
+    "By the time they get to be hands so um.",
+    "Yeah, Instagram's been kind of like a fun way to.",
+    "To show a little bit more of behind the scenes.",
+    "One of the process.",
+    "Hum.",
+    "And it's kind of fun too with like these.",
+    "Little just doodle.",
+    "So again, this is just hey honestly didn't really know what to.",
+    "Work on today just because.",
+    "I was hearing early at this time, just had a super heavy heart over.",
+    "I mean the last several weeks now and dumb.",
+    "But is everything that's going on, and so I felt like I kind of needed to have a little art therapy break from my my own mental health and dumb.",
+    "Yeah, so I just kind of popped open my sketchbook and.",
+    "Flip through some pages and kind of found these little ideas that I sketched up.",
+    "You know either couple quite well one.",
+    "The bird was from this morning, but then this.",
+    ""
+  ],
+  "entity": {
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        29,
+        30
+      ],
+      "sentence": [
+        "How do you say hi in the chat?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        38,
+        39
+      ],
+      "sentence": [
+        "How do I get my inspiration?"
+      ]
+    },
+    "T9": {
+      "id": "T9",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        50,
+        51
+      ],
+      "sentence": [
+        "Is that something that you are looking into doing?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "ANSWER",
+      "span": [
+        39,
+        48
+      ],
+      "sentence": [
+        "All that um.",
+        "And I am a full time freelance illustrator and graphic designer.",
+        "I've been working.",
+        "I'm my own full time for almost four years now, which is just wild.",
+        "And it was.",
+        "It's been.",
+        "It's been a journey and it's been.",
+        "Really beautiful and so I love also helping other people.",
+        "Who are wanting to potentially pursue freelancing full-time?"
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T7",
+      "answer": "T1",
+      "question_sentence": [
+        "How do I get my inspiration?"
+      ],
+      "answer_sentence": [
+        "All that um.",
+        "And I am a full time freelance illustrator and graphic designer.",
+        "I've been working.",
+        "I'm my own full time for almost four years now, which is just wild.",
+        "And it was.",
+        "It's been.",
+        "It's been a journey and it's been.",
+        "Really beautiful and so I love also helping other people.",
+        "Who are wanting to potentially pursue freelancing full-time?"
+      ]
+    }
+  }
+}

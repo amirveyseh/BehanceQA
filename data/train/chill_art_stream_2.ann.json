@@ -1,0 +1,433 @@
+{
+  "sentence": [
+    "I'm making a fool out of myself.",
+    "Like I don't know.",
+    "I have like a very American name, Amanda, you know I.",
+    "Had been in my whole life, but when I was very young people would call me a man does and I remember that bothering me so much as a kid and ever since then I'm like if I ever meet someone I have to say their name right?",
+    "So it's something that I've chosen, you know to do not like you know my name isn't that hard to say.",
+    "It's Amanda, a miracle I'm and off, you know, but when I was little that thing just haunted me so often.",
+    "'cause I was there was a mean thing to do and I'm like it's mean when you can't say someone's name properly, you know.",
+    "So Sanjana, that's so pretty.",
+    "I like it.",
+    "Uhm, should I stream Sundays?",
+    "I don't know if I should go for like.",
+    "Every other day Saturday, Monday, Wednesday, there's still going to be a repeat, so now I'll do.",
+    "I'll do Sundays.",
+    "So 7.",
+    "32945 I think those are pretty good times.",
+    "But you hello, I'm excited you're here.",
+    "I keep.",
+    "I'm having a hard time.",
+    "I'm so sorry.",
+    "The American panic.",
+    "Hawaii.",
+    "Gotta love 4th of July and when you neighborhood sounds like a war zone.",
+    "And then.",
+    "OK.",
+    "Oh jeez.",
+    "7:30 to 9:45.",
+    "Well, what?",
+    "I wonder if I should do 'cause one thing I was thinking about doing, but now I'm not so sure, uhm?",
+    "I I've been getting into more games and playing more games lately, so I was wondering if maybe like I should do like Art Streamings at the end of the day, 'cause That's most of the time when I get more artistically inspired.",
+    "And as the day goes on like in the morning to afternoon, I just kind of want to be lazy and hang out, so I'm trying to figure out is do I do like two different streams in the date?",
+    "do I do like?",
+    "What you doing?",
+    "Why you not this stuff over puppy?",
+    "Like in the in the morning or the afternoon.",
+    "Should I do like a video game stream on Twitch and then I come here and I do art streams, you know?",
+    "So I might I might play with that.",
+    "Hello, welcome in.",
+    "I can say one.",
+    "How are you today?",
+    "That was very E statement.",
+    "I'm sorry.",
+    "Welcome in, welcome in.",
+    "Twitch if I do Twitch.",
+    "Maybe I'll do like.",
+    "12:00 PM to three.",
+    "12:00 PM to oh what am I doing?",
+    "12630 This is all subject to change.",
+    "At least this part 'cause I don't.",
+    "There's a lot of discourse going on on.",
+    "On Twitch right now so I don't know if I want to get into Twitch, I've streamed.",
+    "That's where I started streaming.",
+    "That's where most of my streaming friends came from was on Twitch.",
+    "So now I'm like, OK, you know, I like games, I'm not the best gamer, you know.",
+    "I'm the person who's way too low level and I run into like a level 20 dungeon and then it's like, well I died a lot, you know?",
+    "I did not totally do that in Skyrim like 87 million times cough cough.",
+    "Oh my gosh, I love this drink so much.",
+    "Huh?",
+    "This drink is so weird.",
+    "It's called Mogu Mogu and I think it's I think it's no.",
+    "It's Japanese 'cause Japanese it Mocha Mocha translates to chew.",
+    "The heck with that?",
+    "Alright, now there none of the dogs are barking, so I was trying to get in the house.",
+    "And it has like little little like it's young coconut chuy's in there.",
+    "So as you drink you get like a little mouthful of like almost like, really moist.",
+    "Watermelon and away.",
+    "It's really delicious and it's so sweet I'm like obsessed with it, OK?",
+    "I think that's pretty good.",
+    "This is just like a super rough draft.",
+    "Is my OS my smoothing?",
+    "Is that what it haha?",
+    "Yeah, that's why that's why my writing is so nice.",
+    "'cause I was using smoothing.",
+    "Oh dude, it's so good.",
+    "I don't even know why.",
+    "And I hate coconut.",
+    "Like it's it's dry.",
+    "It's like stringing.",
+    "And I like big but the minute I tried that I was like, well, this is delicious.",
+    "What is this an?",
+    "I looked at the name and it's like lychee, lychee juice an",
+    "It says something else that I can't exactly remember what it says on the ball.",
+    "I've got it in my fridge.",
+    "Houses like Jesus so delicious.",
+    "Who is?",
+    "Doing what outside my hips?",
+    "Who is this?",
+    "I'm going to be all over the place tonight, and I sincerely apologize to everybody.",
+    "Oh, that's that guy.",
+    "Alright, everything is fine OK?",
+    "So I think now I will bring back where did it go?",
+    "Do do do do.",
+    "But Where did you go?",
+    "What is that?",
+    "Oh, that's what those do, OK?",
+    "Hello Andrew, thank you.",
+    "Trying to make.",
+    "My stream schedule because I figure if I can make a cute little calendary kind of looking thing.",
+    "Um?",
+    "I will stick to it.",
+    "That is the goal here.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        3,
+        4
+      ],
+      "sentence": [
+        "Had been in my whole life, but when I was very young people would call me a man does and I remember that bothering me so much as a kid and ever since then I'm like if I ever meet someone I have to say their name right?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        9,
+        10
+      ],
+      "sentence": [
+        "Uhm, should I stream Sundays?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        26,
+        27
+      ],
+      "sentence": [
+        "Well, what?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        27,
+        28
+      ],
+      "sentence": [
+        "I wonder if I should do 'cause one thing I was thinking about doing, but now I'm not so sure, uhm?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        29,
+        30
+      ],
+      "sentence": [
+        "And as the day goes on like in the morning to afternoon, I just kind of want to be lazy and hang out, so I'm trying to figure out is do I do like two different streams in the date?"
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION",
+      "span": [
+        30,
+        31
+      ],
+      "sentence": [
+        "do I do like?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION",
+      "span": [
+        31,
+        32
+      ],
+      "sentence": [
+        "What you doing?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION",
+      "span": [
+        32,
+        33
+      ],
+      "sentence": [
+        "Why you not this stuff over puppy?"
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        34,
+        35
+      ],
+      "sentence": [
+        "Should I do like a video game stream on Twitch and then I come here and I do art streams, you know?"
+      ]
+    },
+    "T9": {
+      "id": "T9",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        38,
+        39
+      ],
+      "sentence": [
+        "How are you today?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION",
+      "span": [
+        45,
+        46
+      ],
+      "sentence": [
+        "12:00 PM to oh what am I doing?"
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        53,
+        54
+      ],
+      "sentence": [
+        "I'm the person who's way too low level and I run into like a level 20 dungeon and then it's like, well I died a lot, you know?"
+      ]
+    },
+    "T12": {
+      "id": "T12",
+      "label": "QUESTION",
+      "span": [
+        56,
+        57
+      ],
+      "sentence": [
+        "Huh?"
+      ]
+    },
+    "T13": {
+      "id": "T13",
+      "label": "QUESTION",
+      "span": [
+        60,
+        61
+      ],
+      "sentence": [
+        "The heck with that?"
+      ]
+    },
+    "T14": {
+      "id": "T14",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        65,
+        66
+      ],
+      "sentence": [
+        "It's really delicious and it's so sweet I'm like obsessed with it, OK?"
+      ]
+    },
+    "T15": {
+      "id": "T15",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        68,
+        69
+      ],
+      "sentence": [
+        "Is my OS my smoothing?"
+      ]
+    },
+    "T16": {
+      "id": "T16",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        69,
+        70
+      ],
+      "sentence": [
+        "Is that what it haha?"
+      ]
+    },
+    "T18": {
+      "id": "T18",
+      "label": "QUESTION",
+      "span": [
+        83,
+        84
+      ],
+      "sentence": [
+        "Who is?"
+      ]
+    },
+    "T19": {
+      "id": "T19",
+      "label": "QUESTION",
+      "span": [
+        84,
+        85
+      ],
+      "sentence": [
+        "Doing what outside my hips?"
+      ]
+    },
+    "T20": {
+      "id": "T20",
+      "label": "QUESTION",
+      "span": [
+        85,
+        86
+      ],
+      "sentence": [
+        "Who is this?"
+      ]
+    },
+    "T21": {
+      "id": "T21",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        88,
+        89
+      ],
+      "sentence": [
+        "Alright, everything is fine OK?"
+      ]
+    },
+    "T22": {
+      "id": "T22",
+      "label": "QUESTION",
+      "span": [
+        89,
+        90
+      ],
+      "sentence": [
+        "So I think now I will bring back where did it go?"
+      ]
+    },
+    "T23": {
+      "id": "T23",
+      "label": "QUESTION",
+      "span": [
+        91,
+        92
+      ],
+      "sentence": [
+        "But Where did you go?"
+      ]
+    },
+    "T24": {
+      "id": "T24",
+      "label": "QUESTION",
+      "span": [
+        92,
+        93
+      ],
+      "sentence": [
+        "What is that?"
+      ]
+    },
+    "T25": {
+      "id": "T25",
+      "label": "QUESTION",
+      "span": [
+        93,
+        94
+      ],
+      "sentence": [
+        "Oh, that's what those do, OK?"
+      ]
+    },
+    "T26": {
+      "id": "T26",
+      "label": "QUESTION",
+      "span": [
+        97,
+        98
+      ],
+      "sentence": [
+        "Um?"
+      ]
+    },
+    "T27": {
+      "id": "T27",
+      "label": "ANSWER",
+      "span": [
+        10,
+        13
+      ],
+      "sentence": [
+        "I don't know if I should go for like.",
+        "Every other day Saturday, Monday, Wednesday, there's still going to be a repeat, so now I'll do.",
+        "I'll do Sundays."
+      ]
+    },
+    "T17": {
+      "id": "T17",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        78,
+        79
+      ],
+      "sentence": [
+        "What is this an?"
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T1",
+      "answer": "T27",
+      "question_sentence": [
+        "Uhm, should I stream Sundays?"
+      ],
+      "answer_sentence": [
+        "I don't know if I should go for like.",
+        "Every other day Saturday, Monday, Wednesday, there's still going to be a repeat, so now I'll do.",
+        "I'll do Sundays."
+      ]
+    }
+  }
+}

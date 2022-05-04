@@ -1,0 +1,1203 @@
+{
+  "sentence": [
+    "He over here on Twitter Periscope.",
+    "We've got Daniel Barack told as an 83 Michael.",
+    "Thank you so much for joining.",
+    "So let's go ahead and get right started and then I'll take questions at the end is always and.",
+    "Hello Thomas and Hello Daniel when I put my headphones on here as well so that I can actually hear what you're hearing.",
+    "I would probably good idea to switch my screen over.",
+    "I need to make a couple more tweaks to this.",
+    "I forgot to reset.",
+    "My screen shape that's OK.",
+    "Sorry I'm going to bring a couple of these things up here all right.",
+    "This should be good enough.",
+    "Is like that alright so we're going to start?",
+    "By using this equalizer on a mixed drum track or a drum bus.",
+    "ASN, 83.",
+    "Love you from my run a thank you very much right back at you, my friend.",
+    "Thank you for watching.",
+    "Uhm you might say well, I don't mix drums.",
+    "I do video.",
+    "It's dialogue and maybe a music track or you know, I don't do.",
+    "Music OK.",
+    "Understood the reason for showing it on something like drums is twofold one because a drum kit a stereo mix drum kit.",
+    "Kind of embodies a very broad frequency spectrum right you have the kick drum, which really that's where all of your low end.",
+    "Sub.",
+    "Right that's where all that exists so in a whether you're talking LFE for film in a 5.",
+    "One mix or just sort of low end sound for sound design.",
+    "Got your kick drum you have your floor.",
+    "Toms even some of your rack.",
+    "Toms tend to have a lot of that nice warm low end.",
+    "And then of course, the snare drum itself very broad spectrum of frequencies that it covers the fundamental sort of.",
+    "The fatness happens at around 1:50, one 35 Hertz.",
+    "But the crack of the snare that and that's kind of what gives you that attack and what really makes you feel that hit.",
+    "That actually exists in the 233 and a half K Range and then of course, you have.",
+    "Symbols hi hats crash Cymbals Ride Cymbals and those can cover a very broad spectrum, depending upon what type in what?",
+    "Those you're using now this particular kit is using some new and vintage symbols so you're going to have some of the?",
+    "Sort of upper mids and highs and then some extreme highs with things like a ping ride that really cover at.",
+    "Anywhere from say 5K all the way up to 16 K and beyond so drums are just kind of a good idea to allow just the.",
+    "Average listeners to hear how this simple EQ can really lift.",
+    "Attract that sounding a bit dead or just maybe a bit flat and kind of give it some life give it a little bit.",
+    "Air and also give it a little bit more space.",
+    "That's kind of the key always when equalizing right.",
+    "If you're trying to carve out space in the mix to allow vocals and dialogue to sit to allow music to allow sound design to allow.",
+    "Incidental underscored permeate it's all about carving out space and this plugin really allows you to do that brilliantly.",
+    "So this is from the track that I've been playing the last couple of streams here.",
+    "It's a cover of mine, which may get released one of these days.",
+    "And it's a cover that I'm doing rather well cover of mine an here's kind of the flat drums as they exist right now take a quick listen.",
+    "OK, so they sound OK, they don't sound bad, but they're just they're just a little flat and I'd like to kind of.",
+    "Bring it together kind of bring out a little bit more of the harmonics and the tonality of this kit to really kind of resonate.",
+    "I'm going to come up to my track here and I've got everything bust to a group here to its own drum bus.",
+    "I've also got some global compression already applied and curiously a little bit of ambient reverb.",
+    "Normally, I wouldn't put reverb on the bus like that.",
+    "I'm going to leave it as it is.",
+    "It's really just for reflection and ambiance.",
+    "And we're going to add the queue after that, OK, so come up to the insert here.",
+    "Now the many American EQ is available as VST&AU as well.",
+    "Both versions get installed should you purchased.",
+    "Said plug in and I'm going to use the AU version here.",
+    "And we will find it in the list right here.",
+    "You'll also get a mono and stereo version, an will go into the mono one.",
+    "A little bit later when I'm showing how to use it for some dialogue and voice over so we have the stereo version.",
+    "Play sit here and here's what it looks like again really simple clean interface.",
+    "If you've looked at our parametric EQ.",
+    "It's not totally unlike that this isn't technically a fully sweepable parametric.",
+    "But you know similar functionality high pass and low pass filters.",
+    "You've got 4 bands affectively you've got a",
+    "Shelving Abell option on band four which accounts for all of your highs.",
+    "You got your input setting your input level, so the set the?",
+    "Input of the track going into this effect, sometimes you need to attenuate that if the signal is a little too hot, so that you don't clip.",
+    "And then the output of the effect as well as a phase invert on the effect itself now.",
+    "Again, most of these plugins from waves tend to have that of course in audition you also have phase invert.",
+    "On the individual tracks as well, OK and then you've got some nice presets also to get you started and I'd like to point those out just because.",
+    "Ugly you're just trying to figure out where do I even begin now most of these are of course music related but?",
+    "If you're looking for a way to try and add some EQ to say a voice over some dialogue.",
+    "You can try some of these lead vocal you know, bright vocal presets.",
+    "They just might kind of dial in and get you started.",
+    "And when you listen to it against everything else.",
+    "You think, OK that kind of works all right now.",
+    "You mentioned what's really cool about this is that this is actually made up of multiple eqs Annie cube modules from?",
+    "Many different consoles.",
+    "You've got an SSL 980 Gotta Motown console Gotta Neve 1073 a quad 8.",
+    "There's an API console as well, and and Avalon 2055 for those highs for that the high band Band #4.",
+    "So each of these has a very unique sound each of these can be used together and this is partly why this one is so good.",
+    "For mixing for video because what tends to happen with a lot of EQ even our own parametric.",
+    "If you're using that same EQ on multiple things.",
+    "They all start to have kind of a very similar sound.",
+    "This one because the nature of it has literally 6 different modules all contained in this one plugin.",
+    "It just gives a really unique color a really unique flavor to your audio and no matter how you use it or how many of you use?",
+    "Everything is going to sound a little bit unique and have its own space.",
+    "Alright so when we listen to these drums.",
+    "You know, and there's lots of different ways to think about Equalizing.",
+    "You know in general.",
+    "I tend to look for things that I want to boost.",
+    "But I'm also always listening for stuff that's wrong that I want to cut or maybe that's annoying like a ring.",
+    "Or if there's too much boom or too much warmth.",
+    "On the surface with this one, I want to start by just adding.",
+    "A little bit of.",
+    "Just a little bit a little bit of brightening a little bit of kind of just making that snare crack a little more.",
+    "Kind of opening up some of the midrange alright, so we're going to start with this band 3 now.",
+    "Each of these can be enabled or disabled and actually even before I get to that let's talk about.",
+    "The high pass and low pass.",
+    "These are really commonly used filters, particularly with things like voice over right so.",
+    "Just for those of you unfamiliar so a high pass filter high pass equals low cut alright low pass.",
+    "Equals high cut so with a high pass filter and this is a fully sweepable filter from zero to 750 Hertz.",
+    "What that does is it will effectively filter off the low end at a very steep curve so for things like dialogue.",
+    "You typically don't want dialogue to have a frequency range or any kind of stuff happening at the 40 Hertz range.",
+    "Or even necessarily really around 70 not not really, for film, if it's just a straight voice over or you're doing a book on tape.",
+    "Book a digital book, maybe but in general, probably not an in fact, many studios when you're tracking voice over.",
+    "Lot of the microphones, including the one that I'm using here will tend to have.",
+    "A roll off like in fact, this particular audio Technica has a bass roll off at 80 Hertz so it.",
+    "Automatically applies a high pass filter to cut off, Baker and that bass frequencies below 80 right now, I can show that to you.",
+    "While this is playing here and just kind of let you hear what that sounds like.",
+    "Not super dramatic on drums, but you'll get the idea.",
+    "You can see it's starting to thin out.",
+    "Sorry my bad mouse is freaking.",
+    "Right we can bring that bass back in.",
+    "And then of course, the opposite of that is a low pass high cut now this is really commonly used.",
+    "In pretty much all.",
+    "All EDM and a lot of sort of modern pop music where you tend to have those sections in the song where you still hear the beep, but everything is kind of.",
+    "Muffled and then you slowly start to hear and then suddenly, it's full program again.",
+    "Now, this particular low pass.",
+    "Only has a cut off starting at around 1.8 kilohertz.",
+    "So to get that full like you actually need this to go a bit lower.",
+    "But let me play this for you and you'll hear exactly what I'm talking about alright take a listen.",
+    "Right so right now everything above 1800 Hertz is cut off.",
+    "And then we can gradually bring it back in.",
+    "OK, now one of the reasons why I love.",
+    "These is first of all these are fully sweepable, so you have.",
+    "All of the incremental values.",
+    "From 1.8 all the way up to in this case.",
+    "I think it's 25 K similarly with zero to 750.",
+    "Now these little notch is that you see here.",
+    "These are I think these are just designed as some of many sort of go to so if you know.",
+    "Just want to make sure to you can click on these individually and it's going to go directly to one of those frequencies as opposed to.",
+    "As you can see here scrubbing through the different values, OK, but what's also really cool about this and you can pretty much do this with?",
+    "All of the OR at least most of the plugins out there is that you can automate this so.",
+    "If you wanted to do sort of that pass of the.",
+    "Remove all the Treble and then gradually bring it back in you can automate that really easily so if I were to come over to the track here.",
+    "I'm going to write mode alright?",
+    "What does by the way this works exactly the same way in Premier?",
+    "When you're in track automation right mode what that means is that anything that you do inside of this effect.",
+    "While you're playing back.",
+    "It's basically recording all of your actions so if I start play.",
+    "And let me make sure at the beginning of the session here, so I have plenty of.",
+    "Plenty of lead time.",
+    "When we begin playback.",
+    "I'm going to start adjusting that low pass filter and then the high pass filter.",
+    "And you'll See and then we'll play it back and you'll see how it automates those parameters, OK and the same goes for.",
+    "All the individual EQ gain controls and the frequency selectors as well, so all of this stuff can be automated.",
+    "Even the input and output to also take a quick listen.",
+    "Here we going to do high pass sorry low pass 1st and then high pass.",
+    "Let's bring it back.",
+    "All right, something like that OK.",
+    "So now when we play this back, you'll see that it's going to Automate.",
+    "All of that and it's going to playback.",
+    "All of those changes that we just made now if I twirl down.",
+    "My automation Lane inside of audition here.",
+    "And I go into show envelopes.",
+    "All Right This is on that drum bus if I go to the many American stereo.",
+    "EQ this now shows you all the various parameters that are available for automation.",
+    "And it's going to show you a little asterisk down here at both the high pass and low pass filters.",
+    "And that's telling me that there were changes that was automation that happened.",
+    "On those 2 particular controls so if we want to see the envelope.",
+    "The actual automation of the high pass filter.",
+    "And go ahead and turn this on and now you can see all the keyframes and by the way you can manually.",
+    "Adjust this, if you so desire similarly if I come back in here.",
+    "And go into the low pass you should see that one earlier there.",
+    "It is different color coding same thing here.",
+    "OK, so you can see all the various automation and this would this is sort of a good opportunity to even smooth out some of those transitions.",
+    "You can see like right here, I.",
+    "Accidentally went all the way down.",
+    "It's doing it with the mouse is not totally ideal this.",
+    "The other one has a bunch of zig zag movement in there.",
+    "But as we wind back.",
+    "An play if you take a look now.",
+    "You'll see that this will now of course, playback all about automation take a listen.",
+    "See it automating the parameters take a look at the but the knobs there.",
+    "Right now, it goes into the high pass.",
+    "Start to kill some of that low end.",
+    "OK.",
+    "So fully automatable Real Simple real easy create those kind of effects again this low pass not the best.",
+    "Necessarily, for that, but you can get really creative and how you use these things changing the sound overtime.",
+    "Right so about color timing sound timing, same concept here, you're changing things as things change in the scene.",
+    "You can automate all of this, you can tweak it after the fact really easilly alright.",
+    "Let's go ahead and erase that automation, we don't need that.",
+    "Do the same thing for this one here.",
+    "Alright so race it.",
+    "Cool, OK, I will go back into just read mode, OK alright.",
+    "So now we're going to get into the actual.",
+    "Sort of EQ part of it, so I mentioned the crack of the snare.",
+    "The fundamental of a snare is approximately 3.23 point, 5K this of course, can vary depending on the type of snare.",
+    "Metal would the type of head, but generally when you want to really emphasize that to really make it cut through.",
+    "You're going to find that somewhere between again 3, two and a half to 4K now this particular frequency 3.",
+    "Has 1.632 and 5, so 3.2 is really where I want to be?",
+    "And as I start raising the gain here, you're just going to notice that it's really going to start to not only lift up the snare.",
+    "But the Toms and some of the other elements are going to feel more of the drums you're going to your.",
+    "Literally going to feel and almost you can smell the presence of the kit as we accentuate this alright so let's start.",
+    "Let's take a listen.",
+    "Starting a little bright and pull it back a little.",
+    "And we can also cut at 3.2.",
+    "And it's nice and it's warm but again, it's feels like it's a little covered.",
+    "OK, now one of the reasons that I keep my frequency analysis open at all times that I love to be able to see.",
+    "Very clean and clear delineation between kick and snare hits right and ideally what you want to see on a frequency analysis that you should see the kick when the kick goes up.",
+    "There should be a dip at around say 100 Hertz, the kick should really be focused around somewhere.",
+    "It depends on the type of kick the size of the kick how it's Mike but generally somewhere between.",
+    "Say 55 and 75, should be that fundamental hit of the kick that's jumping on your frequency analysis.",
+    "And then you're going to see that fundamental of the snare again that the fat.",
+    "Around 150 or so.",
+    "200 give or take so you want to see a little dip in there now, what I'm listening back there's a little bit of extra warmth.",
+    "That I just want to attenuate slightly now because you have this mixture of different E QS in here.",
+    "Um.",
+    "You can do this without again, creating these weird fasy type artifacts and it just sounds unbelievably warm and musical.",
+    "So I'm going to keep band 3.",
+    "We're not even going to use this high one just going to turn off frequency band 2.",
+    "And now we're going to focus here on band One now again 140 Hertz that's kind of that fat.",
+    "Attack of the snare so I don't want to kill that but looking and listening.",
+    "I'm hearing a little bit of just.",
+    "Muddiness right, and it's probably just a little overall bleed from the overhead.",
+    "Mikes and some of the kick drum in there.",
+    "We're going to start at 2:20 and I'm going to boost a little bit so you can hear what's going on in there.",
+    "And then I'll cut and we probably only need to cut.",
+    "ADB and a half or so alright so take a listen here, we go.",
+    "Oh.",
+    "Sorry I've got the high.",
+    "The high pass is still in there?",
+    "Why is that still automating?",
+    "Hold on one second.",
+    "Turn off the automation that will not happen OK.",
+    "OK so let's kill the EQ.",
+    "So here's no EQ.",
+    "I got what kind of flat, let's kick it in.",
+    "Off.",
+    "On.",
+    "All right and again if you're watching those meters.",
+    "There's a really clear.",
+    "There's clear definition of the kick in the snare in the Toms and everything is just.",
+    "It's just opened up now.",
+    "I don't think this needs any real high end, but again this one in particular.",
+    "Is using these Avalon eqs for the high band here 10K to 25K and if you want to add?",
+    "And overall lift to your mix and this is something that I find a lot of customers asked me about.",
+    "You finish the mix in Premier.",
+    "An everything is good, but it just it just needs it needs it needs something at the Top it needs.",
+    "Air it needs to breathe.",
+    "If you add 20 or 25 K and you'll see that down here on the frequency band.",
+    "Or you have a Bell style curve or a shelving curve again, the Bell style curve is going to affect.",
+    "Adjacent frequencies you can't adjust the bandwidth.",
+    "It's pre selected.",
+    "But that's fine.",
+    "It's done in a musical way.",
+    "The shelving filter is just going to increase from whatever your control point is in this case 20K.",
+    "An up right so typically if you want to lift and add a bit of air you're going to use something like a shelving filter.",
+    "So let's go ahead and go to shelving and I'm just going to start lifting it around 20 K now.",
+    "25K in particular.",
+    "Few humans can hear 25 K Anne frankly, she start to get older.",
+    "Post 40 if you can hear above 20 K right so a lot of that is perception, but you do perceive it, it does create that.",
+    "Airy Spacey kind of feeling again.",
+    "It just kind of brightens the environment without making it harsh now.",
+    "If you increase a lot at 10K.",
+    "And I'll play that for you.",
+    "It's going to start to get kind of brittle this doesn't need it.",
+    "There's plenty of 10K in there already.",
+    "But twenty K25K it's going to give you this little bit of lift a little bit of.",
+    "Air and again, it's almost going to feel like you have more dynamic range used subtly alright so first let's start with 10.",
+    "This is what we don't want but just listen to what 10K does OK.",
+    "It's still musical so it's not going to make it harsh but.",
+    "We don't need it, it's bright enough take a listen here.",
+    "I mean, it doesn't sound bad, but again.",
+    "It doesn't need that range, but if I go to 20.",
+    "K now and now I increase.",
+    "This this might be a little hard to hear over the stream because I don't know.",
+    "It's being broadcast over it at 48 K so theoretically you're getting up to a 24K limit.",
+    "But you're going to see if you're listening with cans or on a nice pair of speakers.",
+    "It just adds a little bit of.",
+    "Airiness take a listen here.",
+    "Just a little wider let's turn it off.",
+    "Let's kick it in.",
+    "OK and again, sometimes a lot of that is just perception.",
+    "But if your mixes sounding good and you're happy with it, but you just want to get a little bit of a lift.",
+    "On Top without increasing high crunchy nastiness.",
+    "This filter frequency 4.",
+    "Even 15 or they gotta be careful at 15, but twenty twenty five K32 to 5DB.",
+    "It's just going to give you a beautiful lift and just a real nice area quality and I love using it just for that.",
+    "OK, now a couple of other cool things that you can do in here we talked about automating.",
+    "Many of you have probably worked in audition know that if you start manipulating affects parameters so let's just say we did something like this.",
+    "And you start doing stuff and you forget what it was was it on minus 2 before and I just moved it to minus 8.",
+    "I don't remember.",
+    "Well, if you go to undo.",
+    "Undo.",
+    "Doesn't respect manipulations of parameters?",
+    "Don't affect the undo menu so you're kind of out of luck?",
+    "There, however.",
+    "You can undo directly inside of the effect itself, so here's your undo redo so if we just made that adjustment here if I simply click.",
+    "Undo it goes back to the last state.",
+    "Undo it will go back to the state before that.",
+    "Undo will go back to the state before that.",
+    "Undo it goes back to the state before that, so you have undo and redo contained in the effect here, which again is.",
+    "Is really useful?",
+    "I really love that ability because I've been guilty of it myself or if I'm working in some of our native plugins.",
+    "And I move something a couple DB and I want to what was it before.",
+    "Can't quite do it, so this has undo and redo built into the effect also you've also got a wonderful feature.",
+    "In the form of an A minus a be listening.",
+    "So this allows you to toggle between different settings.",
+    "So let's say I wanted to hear this version and you'll notice that there isn't a section up here.",
+    "If I click this, this now goes to your be so you have A&B now typically what I might want to do.",
+    "Is have 2 completely different presets so let's go to something like I think I have?",
+    "And we can just go to one of these just random presets in here.",
+    "OK let's just go to overheads.",
+    "This is probably going to sound pretty bright so here's the EQ that we just created.",
+    "We're happy with this.",
+    "But we want to hear this other EQ here we go ready.",
+    "And we can change this too.",
+    "Let's go back to A.",
+    "B.",
+    "OK, now, what, if I would like to take a Copy it over to be and then tweak just that one setting like Alright How about no error but.",
+    "No attenuation at 2:20.",
+    "So you'll notice that there's a little button in here that has an A with an arrow going towards be.",
+    "That means copy A to be so when I click on that.",
+    "What you'll see now is that A&B's I'm toggling between them have exactly the same settings?",
+    "So now in BI can actually disable the air.",
+    "And let's say, Let's.",
+    "Do only a half a DB of a cut at 2:20, so we can start with.",
+    "The original eh.",
+    "And now let's go to be.",
+    "Hey.",
+    "E.",
+    "Hey.",
+    "OK, so really easy way to toggle between A&B.",
+    "Very effectively now once you start doing this, you might say OK.",
+    "I want to create a preset.",
+    "What's the best way to do it?",
+    "Well, this is where things can sometimes get tricky with 3rd party presets.",
+    "An audition, especially because you're probably wanting to simply come up here and create a preset and you can do that.",
+    "The only problem is that that creates a preset.",
+    "That is native only to this session on this effect if you want a preset that you're going to be able to use in any session on any project.",
+    "You're going to want to save it from the menu here and in this case you're going to say put.",
+    "Into preset menu as so if you choose that.",
+    "And you give your preset a name and it does create an audition preset, but this allows you to use it.",
+    "Anywhere in audition.",
+    "Do so do whatever it is, and then when you go into the load menu.",
+    "You'll see at the bottom.",
+    "This is where your user presets are contained and you can actually see that I made 1 here called.",
+    "Am I a drum bus, so if we go ahead and select that.",
+    "OK turns that on this is the one that I wound up using?",
+    "Now I can a be this?",
+    "Yeah, I think I might even cut this back a little bit so.",
+    "Saving and loading presets copy and pasting a be listening between 2 completely different settings undo redo sweepable bands.",
+    "Highpass lowpass automation really cool really simple and I'm going to Uber example of this on voice in just a second.",
+    "I wanted to also talk about our native parametric EQ because this is again different and this allows you.",
+    "Or to have very clinical control, but you need to, you need to be a little more mindful and you need to kind of study and work with EQ a bit more before you die very deep.",
+    "Into our parametric because it is pretty complex but.",
+    "Mind you very nice sounding very warm sounding and very clean, sounding so when I'm listening to the snare drum here.",
+    "I was hearing that there's a little bit of a little bit of a ring.",
+    "Alright so take out take a listen to this.",
+    "OK, so it's It's subtle but it's bothering me a little bit so this is where because you have variable bandwidth control here, you can get very specific.",
+    "And if you can hear what it is that you're trying to attenuate or to soften or to boost.",
+    "You can identify it and pull it out with a very, very narrow band so we're going to start.",
+    "I'm guessing it sounds and again looking at it here.",
+    "It's somewhere in the low 2 hundreds, which again is about.",
+    "70 to 90 Hertz away from that fundamental fat hit of the snare zero.",
+    "It is it's something in the head.",
+    "That's ringing so we're going to use band #2 here.",
+    "And I'm going to set a very, very narrow.",
+    "Q Value of around 14 again this is your bandwidth and just to illustrate that this is a Q Value of 2.",
+    "And you can see that it looks like again.",
+    "It's kind of like that, Bell curve, but as you.",
+    "Adjust.",
+    "Higher values it's very, very narrow and the more narrow your band.",
+    "The fewer adjacent frequencies.",
+    "You'll be adversely affecting by boosting or cutting.",
+    "So with the Q Value of say, 14 this is very, very narrow, so this is really for clinical.",
+    "Attenuation of things like a snare ring so if I play this back now.",
+    "I'm going to sweep this.",
+    "It's around, it's around like 2, two 10 to 20.",
+    "Let's take a listen.",
+    "Whoops sorry whose 1st?",
+    "By the way there was an update to audition today and I've noticed that since doing that.",
+    "It's sometimes.",
+    "I'm not seeing the the you I just went away.",
+    "So I have to report this to them later or not.",
+    "We're not seeing the curve anymore, but in any case.",
+    "So we're going to drop this around 6, 1/2, DB and then we're going to come up about 100 Hertz higher.",
+    "To Round 300, Let's do around say 302.",
+    "Going to use an even narrower band here and you're on 18.",
+    "And we're going to do a similar cut.",
+    "All right.",
+    "So before.",
+    "After.",
+    "And we just got rid of that little bit of that.",
+    "Hum.",
+    "Suddenly notice because these are so narrow were still letting.",
+    "You know 225 to 290.",
+    "Get in there, but we're pulling out a couple of those frequencies that are causing a bit of that a bit of that ring that just I wasn't loving OK.",
+    "And now when we bring everything else back into the kit.",
+    "It's real clean so again just to kind of showcase everything.",
+    "Here's our before with no EQ and also no compression in this case.",
+    "Alright and now let's turn on our work.",
+    "OK.",
+    "It just feel it's just really opens everything up right and then when you start to add some of the other instrumentation in here now.",
+    "This isn't perfectly mixed, but you'll get the idea.",
+    "Super clean all right, so that showcasing that on some drums showing off the stereo variation alright so let's go into.",
+    "Uh.",
+    "Little bit of mono usage here, so this is a voice over that I did for one of our.",
+    "NABRIBC videos announcing some new motion graphics template features and this is just a straight voice over into this very microphone.",
+    "There's no EQ there's no compression.",
+    "But I just want to give it just a little bit of again just kind of bring out the voice a little bit more.",
+    "And do it very, very musically right, so first let's take a listen to the clean on touched version.",
+    "Simply drag and drop spreadsheets to create infographics using motion graphics templates.",
+    "Any updates today to are automatically updated in the infographic.",
+    "Responsive design time is now available in after effects so you can create motion graphics that can adapt to changes in length.",
+    "While preserving the integrity of keyframes OK, so it sounds good.",
+    "I just I just think it needs it needs a little bit of maybe a little bit of shimmer, but just again.",
+    "The voice just needs to be a little more sparkly it needs to come out a little bit more.",
+    "And perhaps very subtly attenuates some of the low end.",
+    "I have a lot of low frequency in my voice so.",
+    "It might just be a slight a tad bit too, warm, especially if there's going to be music underneath it.",
+    "So for this again, I can add the many American Mono to the effects rack or I can run it.",
+    "Immediately destructively from the effects menu here.",
+    "So to keep it non destructive until we process.",
+    "Let's go ahead and add it from here.",
+    "Into the effects rack.",
+    "I'll grab the mono version OK.",
+    "Anne will reset lips will reset this full reset.",
+    "And take it.",
+    "Excuse me take a listen now.",
+    "In terms of vocals in terms of voice dialogue couple key frequencies to keep in mind now again.",
+    "You've got a lot of mid range in your voice you got a lot of.",
+    "Low and low mid fundamentals.",
+    "And when you start to get into the higher frequencies, particularly three five and 8K.",
+    "There's some very specific things that happen, there, so 3 to 4K.",
+    "This tends to be a very nice pleasing intelligence range, you can really intelligently here.",
+    "What's going on if you increase those frequency range is now 5, K 5K to 7K is where you can incur.",
+    "Sibilance that's where you can start to really boost.",
+    "The fundamentals of those harsh sounds depending upon who did the voice over in what they were.",
+    "And what they were speaking on you want to be careful around that range.",
+    "But in 8K.",
+    "This is where you start to add shimmer so not unlike what I just showed you with giving that.",
+    "Airlift on the overall mix.",
+    "8K on a single voice over can sometimes just give it a little bit of this.",
+    "It's just it's just a little bit of shimmer a little bit of sparkle without making it sound crunchy and bright.",
+    "And again the nature of the curve of this particular frequency and on this one.",
+    "That I write I wrote it down in what is the I think?",
+    "This isn't the Motown EQ.",
+    "This is I think this is an Eve 1073.",
+    "It's kind of hard to mess this up, but you'll hear different results.",
+    "As you approach so let's go ahead and start with this.",
+    "And I'll start increasing at 3.2 and you'll kind of here what that does and it's pretty nice.",
+    "Simply drag and drop spreadsheets to create infographics using motion graphics templates.",
+    "Any updates today to are automatically updated in the infographic.",
+    "OK, off responsive design time is now available in after effects so you can create motion graphics that can adapt to changes in length.",
+    "While preserving the integrity of keyframes OK, so you can hear it kind of gives you again sort of those.",
+    "It's that it's mids, not high mids kind of mid mid's right, maybe a little crunchy.",
+    "But still pretty good.",
+    "Let's listen to 5K now and here with that does all right.",
+    "Simply drag and drop spreadsheets to create infographics using motion graphics templates.",
+    "Any updates today to are automatically updated in the infographic.",
+    "Responsive design time is now available in after effects so you can create motion graphics that can adapt to changes in length.",
+    "While preserving the integrity of keyframes.",
+    "Simply drag and drop spreadsheets to create infographics using motion graphics templates.",
+    "Any updates today to are automatically updated.",
+    "OK, now that one that one seems to be doing it.",
+    "For me because my voice in this case.",
+    "There's a lot of warmth in there.",
+    "And I don't want to accentuate that 3K there's plenty of that already.",
+    "But that 5K range actually because it's not sibilant.",
+    "It's giving me just a little bit of that nice detail in that 56 K range, OK, so 5K kind of actually works for me here.",
+    "But let's go to 8K now and listen to what that one does in the Infographic.",
+    "Responsive design time is now available in after effects so you can create motion graphics that can adapt to changes in length.",
+    "Observing the integrity of keyframes turn it off simply drag and drop spreadsheets to create infographics using motion graphics templates.",
+    "Any updates today to are automatically updated in the Infographic.",
+    "Responsive design time is now available in after effects alright so I think if I use 8K and what have I got about 3 1/2 DB here?",
+    "Yeah, 3.6, I'm now going to come over to the.",
+    "Let's see it sounds it sounds like it's kind of in the 140 range, but it could be.",
+    "Let me take a listen so you can create motion graphics that can adapt to changes in length while preserving the integrity of keyframes.",
+    "Yeah, so I'm just going to cut ever so slightly at around 1:40 about a half a DB.",
+    "And let's take a listen now and I'll turn the whole effect off 1st and then I'll turn it back on here we go.",
+    "Simply drag and drop spreadsheets to create infographics using motion graphics templates.",
+    "Any updates today to are automatically updated in the infographic.",
+    "Responsive design time is now available in after effects so you can create motion graphics that can adapt to changes in length.",
+    "While preserving the integrity of keyframes OK, so you can hear it.",
+    "When I say keyframes just has this.",
+    "There's this little shimmer right.",
+    "It's not sibilance again.",
+    "It could potentially get a little sibling around 5K.",
+    "Because this has the notch at 5K.",
+    "Technically sibilance starts at around 5.66 point, three is where you tend tend to hit that kind of really harsh fundamental.",
+    "So again, they did a really good thing with this musically.",
+    "Unless you're prone to sibilance you've got something that siblings are going to be careful in that range.",
+    "It actually worked on this vocal too, but 8K kind of gives it a nice little little little bit of lift.",
+    "And just by cutting a little bit of those low frequencies.",
+    "The 1:40 I've already got enough low end in there.",
+    "And things can get really just they can get cloudy between 1:40 and 200, particularly if it's just voice so you want to be mindful and this is where you really want to have a good, solid listening environment.",
+    "Be able to play this back in different places to kind of audition with the whole thing is going to sound like.",
+    "But right away, I mean, it just sounds really nice.",
+    "Now, if I didn't use this 8K.",
+    "Let's say we wanted to just give this thing a lift.",
+    "Let's do let's do 12 and a half OK and see what this one does it take a quick listen?",
+    "Simply drag and drop spreadsheets to create infographics using motion graphics templates.",
+    "Any updates today to are automatically updated in the infographic.",
+    "Responsive design time is now available in after effects so you can create motion graphics and see if you're listening with.",
+    "Why I wouldn't use twelve five on this is because again the vocal is already bright it's already present?",
+    "12.",
+    "Five is it's just it's a little it's.",
+    "It's still very much in the range that almost all people can hear pretty much everyone unless you have in curd hearing loss and frequency loss.",
+    "And by increasing this in this case around 5.",
+    "DB it's starting to get a little brittle right because it's also accentuating some of that.",
+    "Some of that 10K I've got it on Bell curve here and or in and around 10:11 K.",
+    "And it just doesn't need it so it starts to sound thin right versus if we went to something like 20.",
+    "Anne just gave it a little bit of a lift an for that as mentioned, we would use that shelving variation here.",
+    "Let's do a shelf at around 20 that can adapt to changes in length while preserving the integrity of keyframes.",
+    "Simply drag and drop spreadsheets to create infographics using motion graphics templates.",
+    "Any updates today to are automatically updated in the infographic.",
+    "Responsive design time is now available in after effects so you can create motion graphics that can adapt to changes in length.",
+    "While preserving the integrity of keyframes say off simply drag and drop spreadsheets to create infographics using motion graphics templates.",
+    "Any updates today to are So what I wound up doing was turning back on the 8K Band.",
+    "Dropping it down to around 2, 1/2, DB I added a little bit of air.",
+    "3D be at 20 K and then cut 140 by about .7 D be alright and it just kind of lifted the voice up.",
+    "It just makes it sound wonderfully present without without harshness without being too thin just the right amount of.",
+    "Basin warmth with the right amount of clarity and high-end alright and that's thanks to this EQ again, having these fixed.",
+    "Bandwidths sometimes it's a wonderful thing.",
+    "This is my go to for voice is this is my go to for bust mixes generally again to give things a little bit of a lift or to do some subtle cuts.",
+    "It's available from waves com right now like I said, I think it's still on sale for around 29 USD dollars.",
+    "If you're struggling with EQ if you don't like the sound of some of our native ones.",
+    "If you're looking for a plugin that just kind of has some great ways to get started an lots of cool features.",
+    "One to get started with all right, and that my friends is the many American EQO for last couple of minutes here going to take some questions if we've got any.",
+    "Move over to the chats.",
+    "All right.",
+    "Let's see what we've got in here.",
+    "All right, Bruce Arveson Hello, Pradeep, Leroux.",
+    "Sandy I eat Renee?",
+    "Tim.",
+    "Alright Stacy Pullos.",
+    "Stacy is there a list of what I'm teaching and when actually know ask that a lot if you're still watching but no.",
+    "You know, these are I keep them live on purpose.",
+    "and I just tend to kind of field what I'm doing by looking at.",
+    "Twitter comments and stuff that I have written down.",
+    "But if you've got something that you want to see.",
+    "Uhm let me know when I can.",
+    "I can stream on that Thomas Christensen does audition have curves for the automation like dogs, OK, yeah, so I'm guessing you saw that that was earlier when I was showing that.",
+    "Katims Ed snare sounds good.",
+    "Yes, now, the base right OK very cool are nomally.",
+    "Thank you alright we're one from Indonesia Hi.",
+    "Frank Java, I work too much.",
+    "I know it's all it's all for you alright.",
+    "Re view from India Hello.",
+    "Alright Thomas, it so 11:38 PM, there yet or 10:38 PM sorry.",
+    "Thank you very much of course, you'll be able to watch the replay of this.",
+    "Um.",
+    "Alright say see again I always, I don't use auditions complicated, but I use premiere pro and always have a problem with consistent.",
+    "Audio output.",
+    "Not sure how the level should be with music voice and voice over it love to see a segment on that mixing down to a master.",
+    "Absolutely and I've actually streamed on this a bunch of times later in the week.",
+    "I actually will be showing just that in fact.",
+    "Uh today's Tuesday maybe.",
+    "Maybe Friday, I'll do that, if you'd like the key isn't it depends on what you're doing right.",
+    "So we have a lot of tools to make that easier for you.",
+    "That's why we have things like auto ducking.",
+    "But remember that, if you're delivering content today mixed final content.",
+    "Part of the key of gluing all of that together so you're talking about consistency in the output is knowing how to apply a proper compressor limiter.",
+    "You can use something like a brick wall limiter to just kind of prevent peaks from getting out of range.",
+    "But a lot of times that involves grouping and subgrouping all the dialogue to control to make sure that it is all the same relative level.",
+    "So there's a lot of things involved there and it's a pretty deep process.",
+    "I've actually got a whole series.",
+    "On YouTube called how to make great videos and there are several passages in there that are chapter ized.",
+    "Talk about mixing a full track.",
+    "I also have an audio 101 series in there and those of you watching on YouTube already know.",
+    "But I'm putting it in the chat here in on Facebook Stacy so you can go and check those out.",
+    "And you might be able to find what you're looking for and again.",
+    "The How To make great video series.",
+    "They're all chapter eyes, so you can skip around and find what you're looking for.",
+    "Michelle how are you doing always helpful thank you so much?",
+    "Erin Lucid Dreamer Jones.",
+    "Thank you appreciate that very much right over on the tubes.",
+    "All right.",
+    "Frances Shepard just to say your advice on multi band compression and mastering sometime ago was very helpful.",
+    "It's made a lot of difference.",
+    "That's awesome.",
+    "Yes, and that's exactly what I'm talking about when I was just referencing with Stacy too.",
+    "Uhm it's an essential part of that final delivery in that final glue.",
+    "Your last dream on the new overlapping clips feature has revolutionized my editing Oh cool.",
+    "It's great right.",
+    "I know I just used it in my last.",
+    "In my last single which will be released on Friday hashtag for the Q-tip tackle boys how are you?",
+    "Very nice to see you all right, Peter Wieder Nob Twiddling from the 60s absolutely Hank Doosan.",
+    "IBC Hank here.",
+    "I'll great to see you man.",
+    "Alright an over on the Behance OK.",
+    "No additional questions there.",
+    "Let's see if we got anything coming up.",
+    "Periscope galactic JC male voice over.",
+    "Alright Hydro Pho Bo.",
+    "An 8th learning 360 Greg Mulvey.",
+    "Doctor Darr.",
+    "Daniel Beck told Alright ADH and very nice to see you all OK well.",
+    "I think we're going to call it for the day so I'll be back tomorrow.",
+    "And what was I planning on doing tomorrow.",
+    "What did I say.",
+    "Again, I don't schedule these things but I did I did actually have a plan for tomorrow for myself.",
+    "I'll tell you now since you're watching.",
+    "What did I say is going to do tomorrow?",
+    "Yes, we're going to talk about selective color curves in after effects.",
+    "CC this is these are the same ones that you have.",
+    "These are the same ones that you have in Premier.",
+    "But it's just using that Lumetri module on the after effects side.",
+    "And then of course, how that works with things like dynamic link so as send you just asked on Twitter Periscope when's the stream tomorrow?",
+    "So it will be approximately the same time around 12:31 Pacific Time and it will be on the after effects.",
+    "Facebook page or of course, you'll be able to catch it on Twitter Periscope on YouTube or on be hands all right.",
+    "Selective color curves tomorrow.",
+    "Until then have a great rest of your morning afternoon evening wherever you are in the world.",
+    "I'll see you again next time.",
+    "Thanks for watching everyone take care bye bye.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION",
+      "span": [
+        11,
+        12
+      ],
+      "sentence": [
+        "Is like that alright so we're going to start?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION",
+      "span": [
+        32,
+        33
+      ],
+      "sentence": [
+        "Symbols hi hats crash Cymbals Ride Cymbals and those can cover a very broad spectrum, depending upon what type in what?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION",
+      "span": [
+        33,
+        34
+      ],
+      "sentence": [
+        "Those you're using now this particular kit is using some new and vintage symbols so you're going to have some of the?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        65,
+        66
+      ],
+      "sentence": [
+        "You got your input setting your input level, so the set the?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        70,
+        71
+      ],
+      "sentence": [
+        "Ugly you're just trying to figure out where do I even begin now most of these are of course music related but?"
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION",
+      "span": [
+        76,
+        77
+      ],
+      "sentence": [
+        "You mentioned what's really cool about this is that this is actually made up of multiple eqs Annie cube modules from?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION",
+      "span": [
+        85,
+        86
+      ],
+      "sentence": [
+        "It just gives a really unique color a really unique flavor to your audio and no matter how you use it or how many of you use?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        132,
+        133
+      ],
+      "sentence": [
+        "As you can see here scrubbing through the different values, OK, but what's also really cool about this and you can pretty much do this with?"
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "QUESTION",
+      "span": [
+        136,
+        137
+      ],
+      "sentence": [
+        "I'm going to write mode alright?"
+      ]
+    },
+    "T9": {
+      "id": "T9",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        137,
+        138
+      ],
+      "sentence": [
+        "What does by the way this works exactly the same way in Premier?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        191,
+        192
+      ],
+      "sentence": [
+        "Has 1.632 and 5, so 3.2 is really where I want to be?"
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "QUESTION",
+      "span": [
+        222,
+        223
+      ],
+      "sentence": [
+        "The high pass is still in there?"
+      ]
+    },
+    "T12": {
+      "id": "T12",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        223,
+        224
+      ],
+      "sentence": [
+        "Why is that still automating?"
+      ]
+    },
+    "T13": {
+      "id": "T13",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        236,
+        237
+      ],
+      "sentence": [
+        "Is using these Avalon eqs for the high band here 10K to 25K and if you want to add?"
+      ]
+    },
+    "T14": {
+      "id": "T14",
+      "label": "QUESTION",
+      "span": [
+        286,
+        287
+      ],
+      "sentence": [
+        "Doesn't respect manipulations of parameters?"
+      ]
+    },
+    "T15": {
+      "id": "T15",
+      "label": "QUESTION",
+      "span": [
+        287,
+        288
+      ],
+      "sentence": [
+        "Don't affect the undo menu so you're kind of out of luck?"
+      ]
+    },
+    "T16": {
+      "id": "T16",
+      "label": "QUESTION",
+      "span": [
+        294,
+        295
+      ],
+      "sentence": [
+        "Is really useful?"
+      ]
+    },
+    "T17": {
+      "id": "T17",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        302,
+        303
+      ],
+      "sentence": [
+        "Is have 2 completely different presets so let's go to something like I think I have?"
+      ]
+    },
+    "T18": {
+      "id": "T18",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        315,
+        316
+      ],
+      "sentence": [
+        "What you'll see now is that A&B's I'm toggling between them have exactly the same settings?"
+      ]
+    },
+    "T20": {
+      "id": "T20",
+      "label": "QUESTION",
+      "span": [
+        340,
+        341
+      ],
+      "sentence": [
+        "OK turns that on this is the one that I wound up using?"
+      ]
+    },
+    "T21": {
+      "id": "T21",
+      "label": "QUESTION",
+      "span": [
+        341,
+        342
+      ],
+      "sentence": [
+        "Now I can a be this?"
+      ]
+    },
+    "T22": {
+      "id": "T22",
+      "label": "QUESTION",
+      "span": [
+        372,
+        373
+      ],
+      "sentence": [
+        "Whoops sorry whose 1st?"
+      ]
+    },
+    "T23": {
+      "id": "T23",
+      "label": "QUESTION",
+      "span": [
+        438,
+        439
+      ],
+      "sentence": [
+        "That I write I wrote it down in what is the I think?"
+      ]
+    },
+    "T24": {
+      "id": "T24",
+      "label": "QUESTION-AFTER-EFFECT",
+      "span": [
+        467,
+        468
+      ],
+      "sentence": [
+        "Responsive design time is now available in after effects alright so I think if I use 8K and what have I got about 3 1/2 DB here?"
+      ]
+    },
+    "T25": {
+      "id": "T25",
+      "label": "QUESTION",
+      "span": [
+        493,
+        494
+      ],
+      "sentence": [
+        "Let's do let's do 12 and a half OK and see what this one does it take a quick listen?"
+      ]
+    },
+    "T26": {
+      "id": "T26",
+      "label": "QUESTION",
+      "span": [
+        497,
+        498
+      ],
+      "sentence": [
+        "Why I wouldn't use twelve five on this is because again the vocal is already bright it's already present?"
+      ]
+    },
+    "T27": {
+      "id": "T27",
+      "label": "QUESTION",
+      "span": [
+        526,
+        527
+      ],
+      "sentence": [
+        "Sandy I eat Renee?"
+      ]
+    },
+    "T28": {
+      "id": "T28",
+      "label": "QUESTION",
+      "span": [
+        567,
+        568
+      ],
+      "sentence": [
+        "Michelle how are you doing always helpful thank you so much?"
+      ]
+    },
+    "T29": {
+      "id": "T29",
+      "label": "QUESTION",
+      "span": [
+        579,
+        580
+      ],
+      "sentence": [
+        "In my last single which will be released on Friday hashtag for the Q-tip tackle boys how are you?"
+      ]
+    },
+    "T30": {
+      "id": "T30",
+      "label": "QUESTION-AFTER-EFFECT",
+      "span": [
+        596,
+        597
+      ],
+      "sentence": [
+        "What did I say is going to do tomorrow?"
+      ]
+    },
+    "T31": {
+      "id": "T31",
+      "label": "QUESTION",
+      "span": [
+        601,
+        602
+      ],
+      "sentence": [
+        "And then of course, how that works with things like dynamic link so as send you just asked on Twitter Periscope when's the stream tomorrow?"
+      ]
+    },
+    "T32": {
+      "id": "T32",
+      "label": "ANSWER",
+      "span": [
+        71,
+        74
+      ],
+      "sentence": [
+        "If you're looking for a way to try and add some EQ to say a voice over some dialogue.",
+        "You can try some of these lead vocal you know, bright vocal presets.",
+        "They just might kind of dial in and get you started."
+      ]
+    },
+    "T33": {
+      "id": "T33",
+      "label": "ANSWER",
+      "span": [
+        133,
+        136
+      ],
+      "sentence": [
+        "All of the OR at least most of the plugins out there is that you can automate this so.",
+        "If you wanted to do sort of that pass of the.",
+        "Remove all the Treble and then gradually bring it back in you can automate that really easily so if I were to come over to the track here."
+      ]
+    },
+    "T34": {
+      "id": "T34",
+      "label": "ANSWER",
+      "span": [
+        138,
+        143
+      ],
+      "sentence": [
+        "When you're in track automation right mode what that means is that anything that you do inside of this effect.",
+        "While you're playing back.",
+        "It's basically recording all of your actions so if I start play.",
+        "And let me make sure at the beginning of the session here, so I have plenty of.",
+        "Plenty of lead time."
+      ]
+    },
+    "T35": {
+      "id": "T35",
+      "label": "ANSWER",
+      "span": [
+        224,
+        226
+      ],
+      "sentence": [
+        "Hold on one second.",
+        "Turn off the automation that will not happen OK."
+      ]
+    },
+    "T19": {
+      "id": "T19",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        326,
+        328
+      ],
+      "sentence": [
+        "I want to create a preset.",
+        "What's the best way to do it?"
+      ]
+    },
+    "T36": {
+      "id": "T36",
+      "label": "ANSWER",
+      "span": [
+        328,
+        339
+      ],
+      "sentence": [
+        "Well, this is where things can sometimes get tricky with 3rd party presets.",
+        "An audition, especially because you're probably wanting to simply come up here and create a preset and you can do that.",
+        "The only problem is that that creates a preset.",
+        "That is native only to this session on this effect if you want a preset that you're going to be able to use in any session on any project.",
+        "You're going to want to save it from the menu here and in this case you're going to say put.",
+        "Into preset menu as so if you choose that.",
+        "And you give your preset a name and it does create an audition preset, but this allows you to use it.",
+        "Anywhere in audition.",
+        "Do so do whatever it is, and then when you go into the load menu.",
+        "You'll see at the bottom.",
+        "This is where your user presets are contained and you can actually see that I made 1 here called."
+      ]
+    },
+    "T37": {
+      "id": "T37",
+      "label": "ANSWER",
+      "span": [
+        439,
+        442
+      ],
+      "sentence": [
+        "This isn't the Motown EQ.",
+        "This is I think this is an Eve 1073.",
+        "It's kind of hard to mess this up, but you'll hear different results."
+      ]
+    },
+    "T38": {
+      "id": "T38",
+      "label": "ANSWER",
+      "span": [
+        597,
+        601
+      ],
+      "sentence": [
+        "Yes, we're going to talk about selective color curves in after effects.",
+        "CC this is these are the same ones that you have.",
+        "These are the same ones that you have in Premier.",
+        "But it's just using that Lumetri module on the after effects side."
+      ]
+    },
+    "T39": {
+      "id": "T39",
+      "label": "ANSWER",
+      "span": [
+        602,
+        603
+      ],
+      "sentence": [
+        "So it will be approximately the same time around 12:31 Pacific Time and it will be on the after effects."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Relevance",
+      "question": "T4",
+      "answer": "T32",
+      "question_sentence": [
+        "Ugly you're just trying to figure out where do I even begin now most of these are of course music related but?"
+      ],
+      "answer_sentence": [
+        "If you're looking for a way to try and add some EQ to say a voice over some dialogue.",
+        "You can try some of these lead vocal you know, bright vocal presets.",
+        "They just might kind of dial in and get you started."
+      ]
+    },
+    "R2": {
+      "id": "R2",
+      "label": "Relevance",
+      "question": "T7",
+      "answer": "T33",
+      "question_sentence": [
+        "As you can see here scrubbing through the different values, OK, but what's also really cool about this and you can pretty much do this with?"
+      ],
+      "answer_sentence": [
+        "All of the OR at least most of the plugins out there is that you can automate this so.",
+        "If you wanted to do sort of that pass of the.",
+        "Remove all the Treble and then gradually bring it back in you can automate that really easily so if I were to come over to the track here."
+      ]
+    },
+    "R3": {
+      "id": "R3",
+      "label": "Relevance",
+      "question": "T9",
+      "answer": "T34",
+      "question_sentence": [
+        "What does by the way this works exactly the same way in Premier?"
+      ],
+      "answer_sentence": [
+        "When you're in track automation right mode what that means is that anything that you do inside of this effect.",
+        "While you're playing back.",
+        "It's basically recording all of your actions so if I start play.",
+        "And let me make sure at the beginning of the session here, so I have plenty of.",
+        "Plenty of lead time."
+      ]
+    },
+    "R4": {
+      "id": "R4",
+      "label": "Relevance",
+      "question": "T12",
+      "answer": "T35",
+      "question_sentence": [
+        "Why is that still automating?"
+      ],
+      "answer_sentence": [
+        "Hold on one second.",
+        "Turn off the automation that will not happen OK."
+      ]
+    },
+    "R5": {
+      "id": "R5",
+      "label": "Relevance",
+      "question": "T19",
+      "answer": "T36",
+      "question_sentence": [
+        "I want to create a preset.",
+        "What's the best way to do it?"
+      ],
+      "answer_sentence": [
+        "Well, this is where things can sometimes get tricky with 3rd party presets.",
+        "An audition, especially because you're probably wanting to simply come up here and create a preset and you can do that.",
+        "The only problem is that that creates a preset.",
+        "That is native only to this session on this effect if you want a preset that you're going to be able to use in any session on any project.",
+        "You're going to want to save it from the menu here and in this case you're going to say put.",
+        "Into preset menu as so if you choose that.",
+        "And you give your preset a name and it does create an audition preset, but this allows you to use it.",
+        "Anywhere in audition.",
+        "Do so do whatever it is, and then when you go into the load menu.",
+        "You'll see at the bottom.",
+        "This is where your user presets are contained and you can actually see that I made 1 here called."
+      ]
+    },
+    "R6": {
+      "id": "R6",
+      "label": "Chitchat",
+      "question": "T23",
+      "answer": "T37",
+      "question_sentence": [
+        "That I write I wrote it down in what is the I think?"
+      ],
+      "answer_sentence": [
+        "This isn't the Motown EQ.",
+        "This is I think this is an Eve 1073.",
+        "It's kind of hard to mess this up, but you'll hear different results."
+      ]
+    },
+    "R7": {
+      "id": "R7",
+      "label": "Relevance",
+      "question": "T30",
+      "answer": "T38",
+      "question_sentence": [
+        "What did I say is going to do tomorrow?"
+      ],
+      "answer_sentence": [
+        "Yes, we're going to talk about selective color curves in after effects.",
+        "CC this is these are the same ones that you have.",
+        "These are the same ones that you have in Premier.",
+        "But it's just using that Lumetri module on the after effects side."
+      ]
+    },
+    "R8": {
+      "id": "R8",
+      "label": "Chitchat",
+      "question": "T31",
+      "answer": "T39",
+      "question_sentence": [
+        "And then of course, how that works with things like dynamic link so as send you just asked on Twitter Periscope when's the stream tomorrow?"
+      ],
+      "answer_sentence": [
+        "So it will be approximately the same time around 12:31 Pacific Time and it will be on the after effects."
+      ]
+    }
+  }
+}

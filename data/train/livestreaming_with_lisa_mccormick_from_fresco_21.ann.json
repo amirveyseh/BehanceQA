@@ -1,0 +1,170 @@
+{
+  "sentence": [
+    "Anna says the monogram looks nice.",
+    "Thanks, Anna.",
+    "It's very encouraging.",
+    "Yeah, I always I feel like I second guess myself with monograms uhm.",
+    "So I think they are such a cool concept, but I've never like.",
+    "I don't know.",
+    "I've never like officially ever made one for a company or anything 'cause I.",
+    "I just feel like I never can completely get it right, but.",
+    "I do like them a lot, so I really I really appreciate your encouragement.",
+    "And you can probably even see I'm kind of like working with.",
+    "The sketch where I can come.",
+    "I'm moving my my sketch as needed and even putting like each of these words on their own individual, uhm?",
+    "Uh, what am I saying there an individual layer so that I can move him around.",
+    "Just kind of like something that I've learned to do that it helps me save time and.",
+    "Just like being able to like have more that control and be able to fix things as they go.",
+    "Oops.",
+    "Hi Kelly.",
+    "Thanks for tuning in.",
+    "Anna says it's a really creative process.",
+    "I also love them.",
+    "Yeah, Totale.",
+    "I.",
+    "I'm a big fan.",
+    "Uhm, what kind of?",
+    "What kind of design do you do?",
+    "Anna or artwork or anything in the creative field?",
+    "I'm?",
+    "I'm curious to hear that.",
+    "And Matthew called Edo, asks what software am I using?",
+    "So I'm working in, um, Adobe fresco.",
+    "Uhm.",
+    "And I'm I'm drawing right on top of my iPad, so this is Adobe fresco is.",
+    "Basically like like a photo shop flash illustrator, but for the iPad, so I'm just drawing straight on top of my iPad with an Apple pencil.",
+    "And yeah it's.",
+    "Super Super Fun.",
+    "Definitely recommend if you have access to.",
+    "Adobe Creative Cloud.",
+    "It comes with it.",
+    "It was if you have.",
+    "Uh.",
+    "Or if you do any illustration work at all, I really, really, really, really would recommend getting an iPad if you can, and um.",
+    "Learning how to draw with it because I know that's completely changed my whole career like I actually can't even over exaggerate that.",
+    "Alright, I don't know if I love this by any means, but.",
+    "It's kind of interesting, uhm?",
+    "After I don't know if I love um.",
+    "The background being this like Brown color like I feel like.",
+    "Feel like maybe I could have.",
+    "Um?",
+    "The stones be Brown but then maybe like have the background be black or something.",
+    "So I'm just kind of quickly tracing it and then I'll do the color fill.",
+    "There we go up.",
+    "And then if I do turn this back on.",
+    "Switch it to black.",
+    "Hum.",
+    "There we go.",
+    "Hum.",
+    "Some overlap there.",
+    "OK, it's kind of interesting.",
+    "Feel like there's probably like too many colours, so going on.",
+    "I've been finding that like the more colors that I use, uhm, well, I guess I I could probably get away with.",
+    "It in this one I don't know.",
+    "But sometimes when I use too many colours, I feel like it starts to kind of like cheap in the drawing, like I really do like to stay in.",
+    "A more limited color palette.",
+    "I do really like this like red orange though, especially especially up against a blue that's nice.",
+    "Hi everyone, that's just running the chat and seeing there's a couple couple new faces watching.",
+    "Uhm oh thank you Jason, that's so sweet, um.",
+    "Yeah, glad that God that you enjoy my work um.",
+    "Right now I'm just kind of almost like therapeutically doodling.",
+    "So kind of making this one up as I go right now, so hopefully hopefully you guys.",
+    "Like this stream.",
+    "And I feel like this is like a.",
+    "It's looking.",
+    "Decent, but I don't love it yet.",
+    "Um, I feel like there needs to be more contrast, probably.",
+    "Things that are kind of like blending in a little bit too much.",
+    "I wonder if.",
+    "I can take.",
+    "This color.",
+    "And go darker.",
+    "Drop it in.",
+    "Definitely feels a little bit overwhelming with all the colors going on right now.",
+    "I don't know if all.",
+    "Have the.",
+    "Eliminate some.",
+    "Maybe maybe it could work.",
+    "I also wonder if I made this pink a little bit lighter.",
+    "Um, because I used to have to.",
+    "Draw everything by hand and then, uhm, you know, scan it into the computer and then, um.",
+    "Vector or I'm sorry image, trace it on Adobe illustrator and all those different steps in it.",
+    "Just always by that time it kind of loses the hand drawn feel so, um.",
+    "Now I use an ipad and.",
+    "In Apple pencil in I'm not sure if you're a freelancer or if this is for fun or a job, or you know, I I'm not sure exactly.",
+    "Mature.",
+    "Looking to use it for, but if it's for work at all I would say that.",
+    "It ends up paying for itself.",
+    "Just because of the.",
+    "Um?",
+    "Just because the yeah, the different things that you can do with it in the ways that it really does help advance just the work that you can do.",
+    "So I would highly recommend it.",
+    "Um?",
+    ""
+  ],
+  "entity": {
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        28,
+        29
+      ],
+      "sentence": [
+        "And Matthew called Edo, asks what software am I using?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        23,
+        26
+      ],
+      "sentence": [
+        "Uhm, what kind of?",
+        "What kind of design do you do?",
+        "Anna or artwork or anything in the creative field?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "ANSWER",
+      "span": [
+        29,
+        37
+      ],
+      "sentence": [
+        "So I'm working in, um, Adobe fresco.",
+        "Uhm.",
+        "And I'm I'm drawing right on top of my iPad, so this is Adobe fresco is.",
+        "Basically like like a photo shop flash illustrator, but for the iPad, so I'm just drawing straight on top of my iPad with an Apple pencil.",
+        "And yeah it's.",
+        "Super Super Fun.",
+        "Definitely recommend if you have access to.",
+        "Adobe Creative Cloud."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Relevance",
+      "question": "T5",
+      "answer": "T2",
+      "question_sentence": [
+        "And Matthew called Edo, asks what software am I using?"
+      ],
+      "answer_sentence": [
+        "So I'm working in, um, Adobe fresco.",
+        "Uhm.",
+        "And I'm I'm drawing right on top of my iPad, so this is Adobe fresco is.",
+        "Basically like like a photo shop flash illustrator, but for the iPad, so I'm just drawing straight on top of my iPad with an Apple pencil.",
+        "And yeah it's.",
+        "Super Super Fun.",
+        "Definitely recommend if you have access to.",
+        "Adobe Creative Cloud."
+      ]
+    }
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "sentence": [
+    "Oceana Diaz says sorry, just jumped in here.",
+    "How do you like fresco?",
+    "I haven't used it much, but I'm wondering if it might be useful in creating illustrations.",
+    "Awesome question.",
+    "Yeah, um?",
+    "I like Rascal a lot so.",
+    "Um?",
+    "I don't know if you ever tried using Adobe, have a couple other softwares back in the day, um?",
+    "Called Adobe draw and they'll be sketch on the iPad, which were pretty good.",
+    "I mean Adobe draw had the ability to do vector drawings and then sketch had like more of like the textured brushes.",
+    "But I gotta say, they weren't super great so.",
+    "I ended up just using procreate for most of the stuff or most of my work.",
+    "But then fresco came out.",
+    "And honestly, it's.",
+    "I've really, really liked it.",
+    "I uhm, I use it for a lot of my client work, um.",
+    "I like that it's completely compatible with all of the other Adobe apps, so like I can export this straight into Photoshop or illustrator which is.",
+    "Super helpful, um 'cause I definitely finish up a lot of my work in illustrator fresco.",
+    "So like all that stuff.",
+    "Um?",
+    "I guess really adds up for me.",
+    "And Yeah.",
+    "I like it a lot.",
+    "Oceana says, oh that's handy to be able to export to AI.",
+    "Good to know.",
+    "Yeah, so, um, I can't exactly do it right now, 'cause it will.",
+    "It might cut me out of the live stream, but basically you just go to export and.",
+    "Are you hip?",
+    "Yeah expert in published.",
+    "I think it's something like that and then you do it too.",
+    "You can export it as a PDF for illustrator, so you click export PDF and then you AirDrop it to your desktop or laptop and open that up in Adobe Illustrator and from there it has all the different layers and all the files are editable.",
+    "And then if you want to export to photo shop, you can come.",
+    "There is an expert as a PSD file, so it again it goes straight to photo shop and has all the layers so yeah.",
+    "Oceana says offer to give it a try.",
+    "I've only used procreate.",
+    "I'm new to the iPad.",
+    "Thanks.",
+    "Also, your illustrations are great.",
+    "Thank you.",
+    "Um, yeah and you're not procreate procreate.",
+    "Sorry I'm talking too fast.",
+    "OK, is definitely a great.",
+    "A great app and.",
+    "I still will use it for a lot of things.",
+    "So if you're if you're already working in that and.",
+    "Can I know your way around that app then?",
+    "By all means.",
+    "Uh, you should totally be able to.",
+    "To-do fresco pretty easily as well.",
+    "Hey Luke, what's going on?",
+    "Um, I am working.",
+    "Let me zoom out for you.",
+    "Um, I just kind of gave myself a prompt for tonight.",
+    "I couldn't think of anything to do for a while and then I was like, Oh I I wanna make a fake branding that for Olympic National Park which is.",
+    "This really cool, um?",
+    "National Park out in in Washington state.",
+    "Right on the ocean.",
+    "And there's all these.",
+    "It honestly just looks like doctor Seuss book, but in real life, like I can't even like.",
+    "Stress that enough like it's like the coolest place I think I've ever been to.",
+    "But yeah, so that's what I'm working on.",
+    "I'm I'm making some little.",
+    "Illustrations for it and right now.",
+    "I'm going to do another little lettering thing.",
+    "Um?",
+    "So working on trying to get a little bit better at lettering.",
+    "So yeah, so it's like 80 hours, maybe 60 hours 60 to 80.",
+    "For several several months, maybe even for several years.",
+    "So it is definitely a really, really large commitment, but again, it can actually.",
+    "Um?",
+    "If if it's something that feels really important to you, it's a really meaningful commitment and life giving commitment and then.",
+    "Hopefully you can come to the point where people are now pursuing you for work and that at least takes off a lot of the chunk of your day.",
+    "So yeah, it's Um, that was a loaded answer.",
+    "I know there's a lot of things, but it I think there's a lot of elements that go into.",
+    "Staying self motivated and.",
+    "I guess I answer probably looks a little bit different for everyone, but that's.",
+    "That would be my answer, at least for that.",
+    "Um Kimberly says illustrator of Spiderwick Chronicles.",
+    "OK, so that must be what Tony?",
+    "Tony's illustrated that she really likes cool.",
+    "Thanks for sharing, yeah, I'll definitely.",
+    "Um, after the stream?",
+    "I'll definitely check him out.",
+    "So I think I'm kind of picturing this illustration on like merchandise, which is something that I always have loved.",
+    "I love.",
+    "Phyllis, rating for merchandise and.",
+    "Uh.",
+    "Yeah, there's just something about like art that can live in the real world and is kind of.",
+    "Cheap, not like super cheap but you know like.",
+    "It's easier to buy a $20 shirt then.",
+    "It is to buy.",
+    "Gosh, I don't know.",
+    "$20,000 painting, you know, like I feel like.",
+    "For me, that's always been like a value of like making art work that.",
+    "Connects with.",
+    "Just more like everyday regular people.",
+    "Because, well, I guess I'm everyday regular person.",
+    "And yeah I want to.",
+    "I want to make art that can be seen in the public and connected with the public and.",
+    "Is it gonna break break anyones bank?",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        1,
+        2
+      ],
+      "sentence": [
+        "How do you like fresco?"
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        27,
+        28
+      ],
+      "sentence": [
+        "Are you hip?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        45,
+        46
+      ],
+      "sentence": [
+        "Can I know your way around that app then?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        49,
+        50
+      ],
+      "sentence": [
+        "Hey Luke, what's going on?"
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        78,
+        79
+      ],
+      "sentence": [
+        "OK, so that must be what Tony?"
+      ]
+    },
+    "T13": {
+      "id": "T13",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        99,
+        100
+      ],
+      "sentence": [
+        "Is it gonna break break anyones bank?"
+      ]
+    },
+    "T14": {
+      "id": "T14",
+      "label": "ANSWER",
+      "span": [
+        2,
+        3
+      ],
+      "sentence": [
+        "I haven't used it much, but I'm wondering if it might be useful in creating illustrations."
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "ANSWER",
+      "span": [
+        28,
+        29
+      ],
+      "sentence": [
+        "Yeah expert in published."
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "ANSWER",
+      "span": [
+        46,
+        49
+      ],
+      "sentence": [
+        "By all means.",
+        "Uh, you should totally be able to.",
+        "To-do fresco pretty easily as well."
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "ANSWER",
+      "span": [
+        79,
+        80
+      ],
+      "sentence": [
+        "Tony's illustrated that she really likes cool."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Relevance",
+      "question": "T0",
+      "answer": "T14",
+      "question_sentence": [
+        "How do you like fresco?"
+      ],
+      "answer_sentence": [
+        "I haven't used it much, but I'm wondering if it might be useful in creating illustrations."
+      ]
+    },
+    "R2": {
+      "id": "R2",
+      "label": "Relevance",
+      "question": "T5",
+      "answer": "T1",
+      "question_sentence": [
+        "Are you hip?"
+      ],
+      "answer_sentence": [
+        "Yeah expert in published."
+      ]
+    },
+    "R3": {
+      "id": "R3",
+      "label": "Relevance",
+      "question": "T6",
+      "answer": "T2",
+      "question_sentence": [
+        "Can I know your way around that app then?"
+      ],
+      "answer_sentence": [
+        "By all means.",
+        "Uh, you should totally be able to.",
+        "To-do fresco pretty easily as well."
+      ]
+    },
+    "R4": {
+      "id": "R4",
+      "label": "Chitchat",
+      "question": "T11",
+      "answer": "T3",
+      "question_sentence": [
+        "OK, so that must be what Tony?"
+      ],
+      "answer_sentence": [
+        "Tony's illustrated that she really likes cool."
+      ]
+    }
+  }
+}

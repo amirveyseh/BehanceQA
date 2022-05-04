@@ -1,0 +1,1938 @@
+{
+  "sentence": [
+    "Something that is super cool is that it also supports the newer open SVG color font.",
+    "So you can get actually really kind of crazy with with multi colored fonts with a lot of rich detail that.",
+    "They're just super cool in my keys tonight we're just going to cover some of the basics of how to use this, but if you have questions, I'm really happy to dive in deeper.",
+    "They've also made this a really user friendly, easy to learn tool.",
+    "You don't need to know a lot to get started.",
+    "You can tweak things as you go and they font self extension makes it really easy to adjust things like kerning and making sure that the Heights of your fonts are all aligned and Whatnot.",
+    "So I've already installed the font, but just to give you a quick overview, let's take a look at some of the features.",
+    "So as I mentioned.",
+    "Easy to work with.",
+    "You essentially work the way you normally would in illustrator and then you'll open up the fonts health extension and you can simply drag your shapes or groups into the fonts health extension.",
+    "Tell font self what glyph you're putting in in this case in their screenshot.",
+    "Here is a G and that becomes liturgy in your new font.",
+    "You can do that in batch processes as well and I'll show you how to do that.",
+    "You can set up all sorts of alternates.",
+    "Ligatures, it's it's really quite detailed.",
+    "Again, as I mentioned, you can work with spacing and kerning.",
+    "You can create color fonts which I've never done before, and maybe we'll get into a little bit.",
+    "And then they also have a mobile app that let's you preview fonts and easily share them with other people.",
+    "Probably won't get into that tonight, but might jump into that in the future.",
+    "Hey Parker, thanks for joining us.",
+    "Good to see you here.",
+    "What are you up to tonight?",
+    "Alright, so I'm going to get myself set up to create a font.",
+    "The type that I'm going to work with.",
+    "I think I have a screenshot of some sketches that I did, so I'll pull that up.",
+    "Let's see.",
+    "Alright, so hit done a little bit of sketching few days ago.",
+    "Open that properly give you a bit of a view of it.",
+    "I just wanted to create a really, really basic font.",
+    "I'm sure there other funds out there that exist that look like this one, but this is the one that I'm going to work with.",
+    "Really, really simple.",
+    "Essentially just like rounded rectangles.",
+    "So I'm going to create my font based on this and so tonight what I'll do is I'll take you through the process of creating all of those letters.",
+    "It's just going to be uppercase to keep it really simple and then how to import that into font self and start actually playing around with the with the tool itself.",
+    "Before I do that, I'll just show you real quick if you go to in illustrator.",
+    "If you go to window extensions once you have font self installed you have this new panel.",
+    "Which is huge on my screen.",
+    "You make it a little smaller so we can see it.",
+    "Will actually set it to a new font.",
+    "That's font I was experimenting with before.",
+    "So.",
+    "Giving me a lot of trouble.",
+    "Get smaller.",
+    "She will just docket for here for now.",
+    "Alright, so this is font self really really simple.",
+    "And as you can see here is.",
+    "So once you've installed and you put your license in, all I have to do is start dragging letters and and then assigning them.",
+    "So even if you wanted to create like webdings or like a graphic font for your own projects or create a font that just has your logo in it so that you have an SVG font version of that to work with you could use this with that so you just drag your logo into font self, assign it a.",
+    "Letter value a key value, and then you'd be good to go.",
+    "Alright cool, so I'm going to just hide this for now.",
+    "We don't need font self just yet.",
+    "In fact, let's just get rid of it.",
+    "Give ourselves a little bit more space and I'm going to turn on a grid and then for this I'll just zoom in a little bit.",
+    "I don't know how well this is going to come across in the stream, but I'm working on a grid that is going to be 3 boxes by 4 I think is what I had decided.",
+    "And I'm going to work with some really simple shapes to do that, and so the other thing I want to do is make sure that's not to grid is turned on.",
+    "Snap to grid and I'm just going to create some some basic letters.",
+    "That use these simple shapes so show you what I had in mind here, so I'm going to put rounded caps on.",
+    "I'm going to set my stroke with two 72 if we go back to that that sketch that I had you can see here working with these rounded rectangles.",
+    "Hum.",
+    "I can essentially just, you know, I should be able to.",
+    "Will see how well it goes.",
+    "I should be able to create all of these letters relatively quickly, just with some of these basic shapes and following this idea of caps on 72 pixel strokes and we'll just see how it goes.",
+    "So let's jump into it.",
+    "The first thing I'm going to do, or just some of the really basic letters.",
+    "This is probably also against every way that you would normally create a font, but again, I just want to create something simple so that I can experiment with this tool called oneself.",
+    "So I'm going to just start roughing out some letters here.",
+    "So we'll start here.",
+    "I'll make a T.",
+    "And from ATI can.",
+    "And I.",
+    "I'm just going to copy those two strokes.",
+    "And we'll bring him over.",
+    "Cool and I'm going to make.",
+    "So there I don't even know my terminology for this, so if there's any font experts or type experts out there, I apologize to you.",
+    "So this is a little heavy for the eyes.",
+    "I'm going to bring in.",
+    "In my.",
+    "Here and just do that in half of.",
+    "Where?",
+    "So, for anyone who's hanging out again if you have questions, please feel free to ask if you happen to be a type expert and you want to correct any of my terminology or share how you create fonts, I would love to hear about it.",
+    "Again, I'm using font self because it was the.",
+    "Really low barrier to entry, and it let's me work right in illustrator, which is pretty sweet right?",
+    "So I have a T and and I.",
+    "Which I'm pretty happy with, let's create.",
+    "Using the T again as a basis.",
+    "Create some of the other really simple.",
+    "Simple letters.",
+    "I'm gonna drag this handle down.",
+    "Create an H.",
+    "Drag that in.",
+    "It's not H.",
+    "Create.",
+    "E.",
+    "Take this away.",
+    "So that's a little heavy too.",
+    "Again, if you just joining, please feel free to say hi in the chat.",
+    "I'd love to hear from you.",
+    "And again, if you have questions or suggestions, please feel free to share them.",
+    "Like I said, I'm definitely not an expert here.",
+    "I'm just kind of playing with things that I think.",
+    "Might work, might feel, might feel right.",
+    "I kind of like that, so I'm gonna stick with that for now.",
+    "Or maybe will bring.",
+    "Out.",
+    "So again, creating a really basic.",
+    "Here I'm gonna call it the Super Stencil and I'm going to use it for some titles for for the string.",
+    "Alright, so we got an F.",
+    "So there already we have some some good basics going.",
+    "The let's Move and create some more interesting letters, so I'm going to create now.",
+    "The letter C.",
+    "So the way that I've been thinking about doing this.",
+    "Is let's see, I'm going to go back to screen cap.",
+    "I'm gonna outline that stroke to give myself myself.",
+    "Myself myself, a shape I can work with and I'm going to take these two exterior points.",
+    "Around I'll do that.",
+    "I'm going around them.",
+    "So we give a corner to them and then.",
+    "I'll grab that handle again from the Age.",
+    "Companies that to make the letter C.",
+    "In a little.",
+    "That will make a copy of it.",
+    "Android.",
+    "Fresh cake hey what's up?",
+    "Thank you for joining.",
+    "How are you doing tonight?",
+    "Alright, so we got a few letters.",
+    "Created and just to show you.",
+    "How simple this is I'm going to before we finish this whole set, I'll bring a couple of these letters into font self.",
+    "You can see just how simple it is to create this so the other thing that I want to do is create a shape out of this.",
+    "So I'm going to make a copy of this art board.",
+    "Actually, we just create a new artboard and I'm going to grab the letter T from it.",
+    "And let's zoom in on that T.",
+    "Alright, cool.",
+    "Fresh kicks is good.",
+    "Glad to hear it.",
+    "Awesome to see back streaming loving the letters so far.",
+    "Thank you.",
+    "I'm just want to create a really simple stencil font that I can play with.",
+    "Maybe to do some graphics for this stream.",
+    "And and again, the whole idea behind the street teenagers just to show you how simple it is to create your own custom fonts using an extension called font self.",
+    "So what I'm going to do now?",
+    "These are strokes and I found it's a lot easier to work in font self if you actually outline everything.",
+    "And so I'm going to expand.",
+    "My.",
+    "Strokes.",
+    "Here and then, I'll just use the United Shape mode to create one shape.",
+    "Yeah, so um font stuff is a plug in.",
+    "It's a let's see how much does it cost?",
+    "Alright, it's a little bit more expensive than I thought it's.",
+    "So it's an extension for both illustrator and Photoshop.",
+    "I just have the illustrated version, but it looks like you can do some cool stuff with color bitmap fonts in Photoshop.",
+    "In illustrator.",
+    "You're just obviously creating vector fonts.",
+    "It's a $50 US dollars extension that is a one time fee, so it's not something that's going to renew.",
+    "You just get free updates once you've set it up.",
+    "The other thing that I found this is not a plug for them.",
+    "I'm not sponsored by them in any way.",
+    "When I first bought this a couple years ago was playing with it.",
+    "They were really, really supportive and there's there in app chat was great.",
+    "They reached out to me on Twitter and just a really good community around around this plug in and you can see actually.",
+    "They have a really cool inspiration.",
+    "Let's see.",
+    "I downloaded it last night so check this out.",
+    "These are.",
+    "It's a little bigger.",
+    "Right, so this is like a little inspiration book that I realize you can't see.",
+    "Oh yeah, you should be able to see this.",
+    "Alright?",
+    "So these are fonts that users have created.",
+    "In fonts of and I think they're pretty awesome.",
+    "Make this little later so we can see.",
+    "So again, as I mentioned it earlier in the stream, you can create color fonts using newer open SVG Tech.",
+    "The only drawback to color fonts is whatever you set those colors do.",
+    "You can't change those colors as you would in any other font, but still, if you're making something custom for a client like this is a really cool way to add some something really, really interesting.",
+    "Again, these are all things people have created using font self.",
+    "If you want to take your characters or really complex art and turn it into a font, again, that's something you can do with this.",
+    "This whole PDF which you can download on the fonts of website is.",
+    "It's just really awesome.",
+    "It makes me wish that I did I did this more often and was more comfortable.",
+    "With Typography, but maybe that's something that will learn.",
+    "This is actually a little bit like what I'm what I'm doing.",
+    "But yeah, so super cool.",
+    "Stuff again, I'm just going to go super simple tonight, but let me show you now if I open up that font self extension, go back into illustrator.",
+    "And we fix once and for all this panel here.",
+    "Come on illustrator.",
+    "Here we go.",
+    "Right, so here is the font self extension again, you can just drag letters right into the window itself.",
+    "You can also.",
+    "Import them so if you have a whole batch of Letters, you can just select them all.",
+    "Make sure that individual glyphs are grouped so that they're not split up into separate ones, but you can do those in a batch process.",
+    "The other thing that's super cool is if you in your layers.",
+    "If you separate each letter into a different layer, you can, and you name that layer what the letter is going to be.",
+    "So in this case I would have another case T it will, it will try its best to match it when you.",
+    "Pull it into into font self, but I'll do that in a little while, so just to show you how how simple this is, here's the letter T that I've created.",
+    "I'm going to drag it into.",
+    "Into the fonts elf maker.",
+    "And Drop it in.",
+    "It's going to import it because I didn't have it named.",
+    "It doesn't know what letter it is, but it has imported it and you can see right now.",
+    "But the font that I'm making has two glyphs.",
+    "I have a space which is just there by default and then I have my capital T and so right now because it doesn't know what the glyph is, it just has a a square Unicode character.",
+    "And I can replace that with my letter, and so putting a capital T.",
+    "And so now in this area above the workspace I actually have.",
+    "A preview and I can type in here, so there's spaces, but if I Type Liptai, here's a whole bunch of liberties.",
+    "And so something that's really nice is Azure working.",
+    "If you're not really sure how font is working.",
+    "Just want to experiment with it.",
+    "You can bring in letters.",
+    "It's really easy to override him, you just bring in a new one and update it.",
+    "So keeping this open and having it there to experiment with as you as you go would be super cool.",
+    "Yeah, first League.",
+    "I agree color fonts would be super cool.",
+    "I created a bubble font awhile ago, I wonder?",
+    "See if I can find it.",
+    "But I was thinking it would be fun to do something with it.",
+    "Maybe it's a follow-up project.",
+    "I started actually creating this.",
+    "Now here's the.",
+    "Yeah, so here's the here's an older project that I started maybe.",
+    "But I can't open it.",
+    "Oh, it is not synced.",
+    "Hold on.",
+    "OK, let's try it again.",
+    "Sync.",
+    "All right now I should build open it, so this is a font that I created on my iPad.",
+    "Awhile ago and have actually gone into a lot more detail here.",
+    "But I'd love to.",
+    "To add a little bit more to it, and maybe bring this into fonts off as well, maybe the next three mile.",
+    "Do that and will do.",
+    "A color will do a color font like a multi color.",
+    "Yeah, will do that in the next stream 'cause there's some things I'd like to clean up in this one before we go on, but this one it felt like would be really fun if it's some of my older character designs, really well would be a fun one.",
+    "To work on so will pick that up.",
+    "Maybe next next stream, which is probably going to be Saturday.",
+    "I'll start posting a schedule for these as I get back into more of a routine.",
+    "Just because I got I gotta brush up on my typography game.",
+    "I'm still stuck in software design school with future.",
+    "Yeah, I mentioned this earlier on in chat.",
+    "I'm terrible with this.",
+    "I don't know the terminology I.",
+    "I remember when I was a kid I used to love to draw letters and I would doodle those all the time.",
+    "Had lots of books about it, but it never got serious about it.",
+    "Like you, I did not spend a lot of time with this in in design school I do remember in our like it was first or second term of like design classes like design 101 we had to hand draw fonts so we hand drew Helvetica and Garamond as a way to.",
+    "Uh.",
+    "I guess learn and appreciate what the construction of fonts was like and that was like drawing in pencil and it was painful.",
+    "We didn't really do much with it beyond that we did.",
+    "We actually got into some more abstracts like composition and pattern work, but never went deep into into type and I would love to do that.",
+    "There is a great book actually.",
+    "Looking for it here.",
+    "There's a really great book that I should read that's in my bookcase.",
+    "Maybe I'll make this.",
+    "My goal is to pick up a few more books around about topography, but this is a great book.",
+    "I am told by people who read it.",
+    "It is called stop stealing sheep and find out how type works and wow, my camera just got really.",
+    "Need better lighting this room?",
+    "Anyway, so this is a great book all about the history of type and how type works.",
+    "Oh, I'm being handed another book now.",
+    "This is another book I will now read that, oh, this is this is good.",
+    "So here's another book.",
+    "The elements of typographic style is now on my list, so I'm going to read this.",
+    "Try and learn some more about type so I can speak more intelligently about what I'm doing here.",
+    "But Yes, something I definitely like to.",
+    "No more about and yeah, fresh cakes.",
+    "Same for me.",
+    "I'm all all sensor of all the time and I just it would be.",
+    "It would be great to just have a better understanding of how type works, how it works with other, like how you pair fonts.",
+    "And when other than for reading purposes, when you would use a serif font versus a sensor font and actually have.",
+    "More intelligent things to say than I do right now anyway, I'll drop.",
+    "Maybe some links to these to these books in the live stream info for the for later on.",
+    "I don't have a discord set up yet because I haven't been much of an audience, but we will get there.",
+    "At some point I'll share those, but but yeah, definitely want to explore more of this.",
+    "And then see how we do all right.",
+    "So we've got a letter T.",
+    "We brought it into font sells.",
+    "The other thing I'll show you just before we go back to working on this new stencil type is if I double click on.",
+    "An individual glyph I could actually start playing with.",
+    "All the different aspects of that font, so you can adjust its positioning, its width, spacing on either side of it.",
+    "You can adjust your sender and Ascender lines, your cat pipe it.",
+    "If you set guides within illustrator it will try to auto set that for you.",
+    "But if you need to manipulate it at all you can do that in font self which is pretty sweet.",
+    "So for now also they do have a really handy intercom chat built right into the tool.",
+    "So if you get stuck you could send a message.",
+    "And like I said, they tend to be pretty responsive, which is which is really nice.",
+    "Alright, so now that we've seen one font.",
+    "This is fun, though.",
+    "You can also add gnu gnu learning for me here.",
+    "You can, uh.",
+    "You can Add all of your font information here so they make it really easy to.",
+    "Install your font right on your machine, but also here in this space, which I've never noticed before, but good to see you can Add all the information about your font, including its license and some demo text so people can see it, and then you can actually publish it to their network if you want and then share it within the fonts of community or wherever else you want to share it.",
+    "They can package it up and save it so we will get back to that for now.",
+    "I'm going to save this file because I realized I haven't.",
+    "And will just drop it for now on my desktop.",
+    "And I'm going to call this.",
+    "Which we call it, will call it.",
+    "Super Stencil.",
+    "Fresh kicks said last time I used a serif font, someone asked me how old I was.",
+    "Yeah, I get that I can get and again it just goes back to our understanding of how type is used.",
+    "And yeah, we do get this sense that a serif font is a little more old timy a little more dated but.",
+    "But I also think there are probably serif fonts that do feel really modern, and maybe you could create one.",
+    "But before I get into that, especially given the complexity of what a serif typeface looks like and the way it's constructed, I would love to learn more.",
+    "So again, going to read these books and gain all the knowledge.",
+    "All right, so let's go back into.",
+    "My file here.",
+    "Got some letters.",
+    "I'm going to group these so that I can order them a little more easily.",
+    "He Here's my see so far.",
+    "I don't know if I'm settled on that one.",
+    "I might want it to be a little bit rounder.",
+    "See.",
+    "Actually, let's create a D.",
+    "And that will probably give me a good idea of whether I like to see or not, so I'm going to drag this over.",
+    "And then using the transform tool, I will flip it horizontally.",
+    "And just for simplicity sake, when I do this I want to just try and reuse as many.",
+    "Shapes as I can.",
+    "And use those as the building blocks for.",
+    "For each individual letter.",
+    "This is not on the grid where I want it, so I'm going to do that.",
+    "Still not on the grid where I want it.",
+    "So again, to create this, really two of them.",
+    "To create this simple stencil font.",
+    "I'm working in a 3 by 4.",
+    "Grid.",
+    "I think that's OK for now.",
+    "I still think I might want those to be a little rounder, but we'll come back to it.",
+    "Up I'm going to create.",
+    "From the H I'm going to create an end.",
+    "And to do that, I'm going to ungroup.",
+    "The age will remove this.",
+    "Going to go back to my pen tool and in the center of.",
+    "Great swoop.",
+    "That's kind of cool.",
+    "Let's make those rounded corners and so now I had an N.",
+    "And it looks like it's one space too low.",
+    "Better.",
+    "Right so.",
+    "Group.",
+    "And.",
+    "Let's do some of the other really simple ones.",
+    "I'll just do this when using the pen tool.",
+    "I'm going to zoom in so you can kind of see the grid.",
+    "So again, if I draw a box around it I'm working within for most of the letters.",
+    "I'm working with in this 3 by 4 grid.",
+    "And actually, if I lock, that will show you how I'm creating it within and then the individual pieces of letter are being made by a 72 pixel stroke with round caps.",
+    "And again, I'm sure there's already a fun out there that exists that looks like this, but this is how I'm learning.",
+    "Oh, I'm kinda liking these sharp.",
+    "These sharp corners might have to do an alternate.",
+    "Oh, so that's another thing you can create alternate letters in font self.",
+    "So if I decided that I liked this really pointy letters said that I could do that.",
+    "By the way, the I don't know who out there my fellow Canadians.",
+    "But this is the letters had not the letter Z.",
+    "Firstly, he likes E.",
+    "Sweet, I'm glad you like it.",
+    "I just kind of winging it here.",
+    "See what I can make all right so we gotta Z.",
+    "Over.",
+    "And.",
+    "Now.",
+    "Want to do something a little different and see how it works?",
+    "Not using ellipse tool.",
+    "Choose a rectangle.",
+    "In the drawer rectangle in.",
+    "In that guide.",
+    "Let's make it a little smaller to get started and so.",
+    "I have a feeling that if I just.",
+    "For an 0.",
+    "I think if I do.",
+    "If I make it really square, I'm not sure I'm going to like it very much, so let's just see what it would look like.",
+    "So in the chat, fresh cakes, as I was going to say, the round in sharp corners combined is awesome.",
+    "Yeah, I kind of feel like that might be worth exploring.",
+    "Um?",
+    "So there's two avenues for the oh.",
+    "You could either.",
+    "Could either become square.",
+    "Here.",
+    "Give myself a little more space.",
+    "Let's get this out of the way.",
+    "The end.",
+    "Alright, so one approach.",
+    "Would be to have this square, oh.",
+    "Another approach would be.",
+    "To make it a little rounder and introduce a round shape into this type.",
+    "This.",
+    "And if I do that, I think the punch out the middle.",
+    "Then what I need?",
+    "Is to draw a second rectangle.",
+    "Because you have done this with the pen tool.",
+    "So I could do something like that.",
+    "Let's fill back in black.",
+    "So two approaches for the oh if I.",
+    "And I think both can work.",
+    "If I bring in this rounded, it just gives me the ability to create some more rounded.",
+    "Some more rounded letters, so it might make letters like BA little simpler.",
+    "But we will tackle that also.",
+    "The A could maybe be done this way.",
+    "Um?",
+    "Let's actually let's clean up a little here so we can have more working space.",
+    "Put my.",
+    "Final pieces down here.",
+    "But I'm just going to expand this art board.",
+    "Jack hello.",
+    "Thanks for joining.",
+    "I hope you are having a great.",
+    "Day or night or morning, wherever you are tuning in from actually, I'm not sure where you're from.",
+    "But really happy to see you hope hope you're doing well.",
+    "Alright, let's put these in some kind of an order, so it'll be easy to see.",
+    "What letters we've created, what letters we have, it's.",
+    "Cindy That's not right.",
+    "The group that be.",
+    "My goodness.",
+    "Thank you.",
+    "There is.",
+    "Trying to place all of these on the grid so that I can compare them.",
+    "Usually much neater than this.",
+    "Alright, so let's Looking at this.",
+    "These two different oh options I want to experiment with what a letter A could be.",
+    "So one idea that I had is if I have this round shape.",
+    "Oh 9:30 PM nice is the same here.",
+    "Oh in Ohio.",
+    "Sweet.",
+    "I drove through Ohio just a couple weeks ago.",
+    "An ice live in Michigan so I used to frequent Ohio quite a bit.",
+    "CJ.",
+    "Thank you for joining is great to see your name in the chat.",
+    "For those who are tuning in Christy Gens, CJ is a very very, very good friend of mine.",
+    "Um?",
+    "Very awesome that you're here, CJ.",
+    "I will remind participants in the chat that there is moderation turned on.",
+    "So if you type words that you shouldn't, they may automatically get captured and not sent to the chat.",
+    "CJ I'm talking to you.",
+    "Fresh cakes, says, looks like you're typing deaf news, which would be an awesome name for metal band.",
+    "I love that idea.",
+    "Maybe that will be using that?",
+    "If we grab this letter Z.",
+    "Go back to those sharper caps.",
+    "That can be this ad for the for death whose band?",
+    "I'm really thinking of variant with this with these sharp corners would be fun, so I'm going to keep that.",
+    "Alright, so after the color font stream that will do another stream.",
+    "I need start tracking this where we create a concert poster for death news.",
+    "Write that down.",
+    "CJ is asking will you spell farts for us I.",
+    "I can absolutely do.",
+    "I can do that for you.",
+    "It seems like in chat there a lot of votes for farts.",
+    "That's great.",
+    "I'm glad that we.",
+    "We've established the baseline for where we are.",
+    "CJ S the farts have it.",
+    "I will spell farts, but we need to create this letter A.",
+    "So let's figure out what this what this day is going to look like.",
+    "So I'm going to try to different.",
+    "One with this more square and then maybe one that's a little more rounded.",
+    "The way that will do that for the rounded one on beacon copy at the O.",
+    "And I'm going to take the middle.",
+    "Peace out of it.",
+    "By just creating throwaway shape.",
+    "Selecting my oh and then using in the Pathfinder, the shape mode minus front to cut that out.",
+    "And then.",
+    "Keep it real simple, I'm just use the pen tool to draw in.",
+    "That won't work.",
+    "Just yet.",
+    "It's also just cut out.",
+    "Well.",
+    "Hello.",
+    "Let's cut that out.",
+    "Make it a little cleaner to work with.",
+    "In fact, I'm going to save this shape, so I've got it for others.",
+    "CJ says it looks like you've spelt out deft, which is a perfect protest word for our current leader.",
+    "Yes, it most definitely.",
+    "Fresh cake making a Thai place of the designer equivalent of learning a language.",
+    "Can you teach me the curse words?",
+    "This is so true God learn God, learn all the curse words first.",
+    "Hum.",
+    "The most important thing in fact, I'm not sure.",
+    "That's probably a good approach for dual lingo.",
+    "I know when I started studying German in dual lingo they did teach a lot of slang in one of their.",
+    "One of the courses coming.",
+    "Oh, it's white.",
+    "True.",
+    "OK, and will throw around cap on that.",
+    "So kind of give an idea here of what if we introduce again this rounded oh.",
+    "Then we've introduced the nice rounded shape into the.",
+    "Font.",
+    "That might present some some cool opportunities here.",
+    "Let's rotate this.",
+    "Get the handle in.",
+    "With a, so that's option one for the A.",
+    "My other option if I if I stick with this more squared approach.",
+    "Would be if we make another copy of the oh.",
+    "Will take this.",
+    "And then.",
+    "Let me adjust this corner.",
+    "So another approach would be.",
+    "This side.",
+    "Square off this corner.",
+    "Select the bottom two points and round it.",
+    "No no no.",
+    "Try that again.",
+    "Square off this corner.",
+    "Like these two points that will just around it.",
+    "OK, so that those are the options.",
+    "We've got the really.",
+    "Curved A.",
+    "Around the top or the squared.",
+    "Let me know what you think in the chat.",
+    "For how it should.",
+    "I should proceed there, I'm not sure.",
+    "All right?",
+    "All right, well I'm waiting for the boisterous chat to let me know whether they like the rounded A.",
+    "Or the squared A?",
+    "I'm gonna experiment a little bit with the letter S, which is another.",
+    "Another of the letters that could present a problem with the grid constraint that I've introduced, which is again a 3 by 4.",
+    "3 by 4 grid from my letters.",
+    "So that would be a squared us.",
+    "The squared a That makes the D make a little more sense.",
+    "Let's grab our endless running around here, got the sea.",
+    "The groups.",
+    "Like it up.",
+    "Into place.",
+    "Alright, so.",
+    "CJ said I just bought the elements of typographic style.",
+    "This book are here.",
+    "Very awesome, yes let's.",
+    "Do you sense a book club?",
+    "You do sensible club.",
+    "Let's do it.",
+    "I would love to read this book with you and nerd out on type.",
+    "You always know that a book is really serious by the way.",
+    "When it has a.",
+    "A bookmark built in.",
+    "That's pretty hardcore.",
+    "Oh, something else that I love about this.",
+    "By the way, another shadow to Canadians today in the chat this.",
+    "This book is written by Robert Bringhurst who who is a Canadian, the Canadian poet.",
+    "And one of the world's most highly regarded typographers, an book designers.",
+    "So also someone I should maybe learn about.",
+    "Alright, so yes, we're going to.",
+    "We're going to do Book Club and share what we know what we're learning about type and then we can.",
+    "Maybe make some some of our own fonts that make more sense, so I'm going to drag these rounded letters away.",
+    "Since I'm probably not going to use them in this first version.",
+    "Why I'm having such a hard time dragging things?",
+    "It will grab this, get it out of the way.",
+    "OK, so let's using these squared letters.",
+    "I'm going to create a B.",
+    "And having again established that we're using.",
+    "This squared approach.",
+    "It should be even easier to.",
+    "To knockout these letters, so let's.",
+    "He might look like zoom in a little.",
+    "Little too much.",
+    "And.",
+    "And I can sense right now, the first problem that we're going to have with the letter B.",
+    "Grab Doing a practice with this last night and the B cause a lot of problems.",
+    "I will tell you that right now.",
+    "So by default.",
+    "RB.",
+    "Using the squared letter approach would look something.",
+    "Like this, but I'm not sure.",
+    "I'm not sure that's going to work.",
+    "I think it's going to need like a little bump in it.",
+    "So one way to do that would be would be.",
+    "To make.",
+    "School shorter.",
+    "Get out away from in it.",
+    "And we're coming up on.",
+    "Streaming for.",
+    "An hour and 15 minutes.",
+    "I'm going to go for another 45 tonight.",
+    "I do want to, regardless of how far we get, I do want to show you again just how simple it is.",
+    "Once you've created some of these letters, how to bring them into the extension that we're using called font style to create your font?",
+    "There's gonna be.",
+    "That'll work.",
+    "Alright, so we got ABCDEF.",
+    "Let's make a G.",
+    "Oh, you know what I did though.",
+    "The speed is very short.",
+    "It should be wise.",
+    "Shorter for a minute.",
+    "So those are the two options for the G.",
+    "With that kind of rounded.",
+    "Round apiece, which I kind of like.",
+    "It also will help differentiate the D from the oh, so it might need that round of peace.",
+    "All right, what do we got going in the chat here?",
+    "Oh, Molly is joined.",
+    "Hey Molly.",
+    "It's good to see you.",
+    "I'm back given stream another go after a few.",
+    "Few weeks of absence.",
+    "But happy to be back on here with all of you doing doing things that I love, which is creating hoping to get back into a regular.",
+    "Regular schedule for this stream and start to work on some new projects tonight Molly I'm working on.",
+    "Creating a custom font in.",
+    "In illustrator, using an extension called font itself that makes it really easy and relatively cheap to make your own fonts.",
+    "The reason I say that is that font self is not a free plug-in, it is a $50 US.",
+    "Plug in for illustrator.",
+    "Pleasure to use and for photo shop that allows you to create bitmap or vector fonts.",
+    "And also these really cool color fonts which are supported by open SVG.",
+    "So I think in our next three in which will probably be Saturday, will maybe extend this font and have a little more fun with it and add some color.",
+    "Molly says a like the second G.",
+    "Awesome, thank you.",
+    "Jackie Molly.",
+    "I'll go with the rounded.",
+    "That rounded G.",
+    "Get rid of this one.",
+    "All right?",
+    "This is another reason why it is so great to stream while you're working on these projects.",
+    "Is that you can get instant feedback.",
+    "While you're hanging out with cool people.",
+    "Alright, so we got we've already gotten H.",
+    "So it looks like.",
+    "They've fallen a little bit off the grid.",
+    "Yeah.",
+    "Yep, Yep.",
+    "Well, this is yeah I would love to see this font in color too, definitely.",
+    "I am for sure going to.",
+    "Going to play with that this weekend.",
+    "The other one that I was sharing.",
+    "A little bit earlier tonight that I want to introduce some color to is a bubble font that I started working on a while back.",
+    "Um?",
+    "And I think this could be really fun with some detail and some color cutter actually reminds me something that fresh cake.",
+    "Could use with his characters.",
+    "It has that really like organic organic feel to it, so anyway.",
+    "Probably a little bit little bit of color work with this one as well, so again, I'll stream that if you can't TuneIn on the when I'm regularly streaming.",
+    "The cool thing about behind streaming is all of our videos are saved in a profile so you can check him out.",
+    "Anytime.",
+    "All right, so we've got.",
+    "Got a good bunch of letters here.",
+    "We're in a good spot.",
+    "Let's see.",
+    "I'm going to say this.",
+    "For now.",
+    "Alright, so now we need a J.",
+    "And for those of you who are here with me tonight, I definitely appreciate you joining.",
+    "That'll be a queue.",
+    "Tweak it later.",
+    "All right for the R, we can build off of key to make that.",
+    "Actually, for a moment we're going to go back and make this full with.",
+    "Copy that.",
+    "Again, if you're joining late, we're working on a simple stencil font.",
+    "In Adobe illustrator, we're going to import that into an extension called font.",
+    "Self will get into that, probably in.",
+    "The next 10 minutes or so and I'll show you how we actually create an export a font.",
+    "We need to start.",
+    "Marches.",
+    "OK.",
+    "Got an S.",
+    "We got a T.",
+    "Munstead lower.",
+    "Right now we need to you.",
+    "Pretty simple.",
+    "For the V.",
+    "Start in this corner.",
+    "The middle.",
+    "Should be.",
+    "We're so close to actually creating.",
+    "Font that we can play with.",
+    "So to create the W.",
+    "Grab this V.",
+    "Make a copy.",
+    "Going to make it look just like that.",
+    "X&Y and we will call this good.",
+    "Copy of it and flip this horizontally.",
+    "Right now we just need a, why?",
+    "Excellent, OK so.",
+    "We've got some extras that we can use as alternates or variance in the future.",
+    "I'm going to just drag those out of the way for.",
+    "You can try this out of the way for now.",
+    "OK.",
+    "Squared away so I'm not distracted by them.",
+    "OK so.",
+    "These are the first set of letters that we created.",
+    "They may not be perfect at this point, and that's fine.",
+    "But what I want to do is keep these here mostly in their stroke format so that they're easy to.",
+    "Edit and I'm just going to be a copy of this art board.",
+    "This one, yeah, make a copy of it.",
+    "Implicit down here.",
+    "And this is where I'm just going to prepare the the shapes that we're going to bring into.",
+    "Into font.",
+    "So so as I mentioned earlier on, when we did, the example fought self prefers the letters that you're going to import to be in the form of groups or just simple.",
+    "In my case, because it's such a simple stencil font, you know just simple shapes.",
+    "And So what I'd like to do is when I have things in a format that I like, I'll just go in and start to.",
+    "Expand out all of my strokes.",
+    "And uniting.",
+    "All of those shapes.",
+    "The other thing that you can do is sometimes you'll end up with a lot of extra points, and so I can do this at the end, but you can go to.",
+    "Simplify.",
+    "And remove.",
+    "Get some cool effects there I could.",
+    "I could go in an actually.",
+    "Manipulate and simplifies some of the some of the points.",
+    "If there's a lot of extra it, I don't think this is going to be too bad.",
+    "But as you kind of want to play with this too little bit more.",
+    "Uh, there's an AutoZone flight very good so.",
+    "Has there been look?",
+    "For being needs to be expanded.",
+    "That Same thing with the sea.",
+    "He's looking pretty good.",
+    "Script E.",
+    "And.",
+    "She.",
+    "Change.",
+    "So again, I'm just going through each letter, just taking one less look at it.",
+    "And expanding all of my strokes into fills.",
+    "Nice and simple.",
+    "Don't have to do it this way.",
+    "It's just cleaner.",
+    "Back into my leaves here.",
+    "I think I have an extra.",
+    "Strokes.",
+    "Outlook in.",
+    "As well.",
+    "RP.",
+    "Good.",
+    "You are not entirely happy with, but I'm just going to roll with it for now.",
+    "Point across.",
+    "Chicken says I have to go, but so good.",
+    "See creating thank you so much for joining Jacob.",
+    "I really appreciate it.",
+    "It is really good to be back.",
+    "Looking forward to sharing Moran learning alongside all of you.",
+    "OK, we're almost there.",
+    "Grab this line.",
+    "Join it.",
+    "See.",
+    "OK, now I have all of my letters created.",
+    "And at this point what I can do?",
+    "Is 2 different things in the interest of keeping things moving tonight?",
+    "I am not going to take the longer approach, but one thing that I could do would be to take each of these letters and separate it out.",
+    "So that each layer each letter lives on its own layer, and in doing that that allows you to do is.",
+    "To do a smarter import into font self so it will look at your layer names and try to deduce from those what the glyph is.",
+    "So if I have a layer.",
+    "That's called Capital T.",
+    "Then it should recognize that shape that I'm importing is capital T.",
+    "Keep us moving so you don't have to watch me create a name.",
+    "A bunch of layers.",
+    "I'm just going to import this group of shapes on its own.",
+    "CJ says this looks so good.",
+    "Thank you.",
+    "I don't know that it looks so good or merits all caps, but.",
+    "It's enough that we can.",
+    "We can have a little fun fun.",
+    "And play with this tool so.",
+    "Let's get into actually create taking these letters and bringing them into font self.",
+    "So I'm going to open up.",
+    "Font self again the way you would get to it once you've installed it and added your license.",
+    "And again, just in case someone is joining us late, font self is an extension for Photoshop and illustrator that allows you to use the tools that we already love and.",
+    "Accrete fonts with it right in the stool, and it's relatively inexpensive.",
+    "It is 49 US dollars that is a lifetime license.",
+    "So it is not the cheapest thing, but it is also pretty competitive when you compare it to a lot of other tools that get really, really expensive for for font creation.",
+    "So a big fan of this and then the other thing which we're going to work on in our next stream, which will be on Saturday.",
+    "I will start posting that schedule both and be hints, but also on Instagram or Twitter.",
+    "If you follow me there.",
+    "Will do some experimenting with color fonts before we go on to make a poster for fresh cake for the our new metal band called death foods.",
+    "Molly says over the layer import feature is very cool, yes, so the layer import feature in font self is awesome.",
+    "If you're really organized and normally I would be and you create all of those individual layers in illustrator.",
+    "It makes the import process really fast into font self.",
+    "There's some other tricks as well, so if you know what you're doing and you're much more sophisticated topographer, you can use guides in illustrator and drag those.",
+    "Onto your canvas.",
+    "And when you do that, or into your artboard, if you drag each of those guides onto their own layer and name them, you can.",
+    "Actually you can actually have really pixel perfect layout in the font, so this is something that you're going to create and sell, for example, and you want it to be really be really good, then you can set the descendre lines and the.",
+    "Little ones, I can't think of the names of something that font self comes with.",
+    "That's really awesome is a guide.",
+    "Let me open that up so you can see it.",
+    "So when you first run.",
+    "Font self it opens up this.",
+    "This little Welcome Gazette that teaches you how to use.",
+    "Font self and so here's this guide.",
+    "Information, so if I was to create.",
+    "A bunch of guides on their own layers I could actually denote the Ascender.",
+    "The baseline in the December for my find.",
+    "You can even get much more sophisticated and include The X height decapite and the baseline and that will help you get pixel perfect alignment in in font self.",
+    "You can also, when you're putting individual letters on their own layers within illustrator, you can use Unicode.",
+    "You can also work on ligatures using all of these different.",
+    "Codes that they've set up, so it requires a little bit more learning.",
+    "We won't tackle that tonight with this particular stencil font, but there is really just a lot that you can do.",
+    "They have all kinds of like tips in here and then also some information about how to make color fonts using Opentype SVG, which is what we will work on on Saturday.",
+    "All right, CJ also asked in the chat or you going to upload this to cricket by chance.",
+    "So I might be intention for this is that it is a stencil font and so it would be cool if you could use this type to create your own Stencil's.",
+    "I will do that CJ if that's something you want I will.",
+    "I will set that up.",
+    "I'm also happy if you want to play with the font to just send you.",
+    "To send you a copy of it once it is saved.",
+    "Alright, let's let's create this one, so I'm going to zoom out.",
+    "Let's get rid of these guys since we're going to really simple tonight.",
+    "Will get more sophisticated in future streams.",
+    "Smooth this up.",
+    "Going to bring font self.",
+    "Into view and then I'm just going to select.",
+    "All of the letters.",
+    "If you have a letter that, let's say you did some kind of a cool illustration.",
+    "Like",
+    "Let's see here.",
+    "If you had something.",
+    "Cool illustrated fonts here earlier.",
+    "Zooming, zooming.",
+    "Alright, so like right here.",
+    "Let's say that in creating this font, these obviously are different different shapes.",
+    "What you would do to bring them into font?",
+    "So let's just make sure that those individual elements are grouped so they're treated as one glyph when they're copied into.",
+    "A font self, by the way, this is a really cool little welcome to hype ocracy Zine that font self created.",
+    "It is full of great inspiration and ideas for creating fonts and what other people are doing in the community.",
+    "You can download it for free off the font self website.",
+    "If you are looking for inspiration and want to play with type.",
+    "OK, enough, let's now that we've selected all these, these are not grouped because I want each of these individual pieces to be.",
+    "Their own letters, so I'm going to select all of them and then just drag them over the fonts of window and you'll see that there are three selections available to me.",
+    "There's A-Z, Uppercase, A-Z, lower case, and any character.",
+    "In my case I it's not looking so there we go.",
+    "I want to select A-Z caps because these are all upper case, so I'm going to let go of that and let them import into font self.",
+    "Up Oh, interesting.",
+    "So it did not like.",
+    "That the objects are spread into different lines, so first.",
+    "Never, never encountered that before, but we can solve this problem.",
+    "What I'm going to do?",
+    "Is just make this art board bigger.",
+    "I'm gonna hit shift.",
+    "Oh She turned on the artboard tool and then I'll just drag it out.",
+    "OK, and then we'll take.",
+    "This with the letters.",
+    "Everything on the same line.",
+    "I guess that makes sense, especially if I was using guides.",
+    "I want those to be on the same.",
+    "Online.",
+    "OK.",
+    "No.",
+    "Drag this said over a little.",
+    "OK, now we've got over letters on a single line.",
+    "I'm going to.",
+    "Zoom in again so we can see the little better.",
+    "Select the first I don't have that big window.",
+    "Right, so we selected all of our letters.",
+    "I'm going to grab the fonts of window again.",
+    "So here's the fonts elf maker window.",
+    "And then I'll just drag the selected letters again into the fonts of window and it will go through the importing process.",
+    "Alright, so just like that and in fact this time it's worked even better.",
+    "It actually recognized all of those letters without without me even having to name the layers.",
+    "That's kind of amazing.",
+    "Um?",
+    "Cool.",
+    "OK, well here's That was smoother than I thought it would be.",
+    "So here is the beginning of our stencil fonts.",
+    "It has recognized all of the all of the letters, and you could change them so the IT shows you the preview of the letter in each space here.",
+    "You and the label for it, which is the actual character that is going to show, is below.",
+    "So if I wanted to change this, for example, the mess with people and make this a period whenever you hit.",
+    "The letter it would show up.",
+    "But we don't want to do that.",
+    "We want this to actually be a functional font.",
+    "Within this you can also play with the spacing as I was mentioning earlier.",
+    "If you double click on any letter, you can see it's it's individual spacing.",
+    "You can play with all of the different Heights.",
+    "Your cat pirate your ex height, your descendre in ascenders and also just its positioning within with event space.",
+    "And then in so that's in your.",
+    "In your main glyph set, which is at the bottom of the font self window and above it is.",
+    "Is a testing area so you can actually type words with your fonts and or with these new glyphs that you've just created and see how they work together and start to tweak things.",
+    "If you need to.",
+    "You can also start to add your information about your font.",
+    "Will do that in a minute before we wrap up, but let's see now if we type in.",
+    "With my handles.",
+    "In all caps.",
+    "You are super super just like that.",
+    "You can see that while not perfect, there's a lot of tweaking that I'd like to do.",
+    "The spacing isn't bad, but the actual letter shapes.",
+    "I think I want to play with a little more.",
+    "I have a font that I can.",
+    "That I can now experiment with so.",
+    "That's pretty red.",
+    "You can also play with things in here like.",
+    "Oops, I meant to do.",
+    "Um?",
+    "You can play with where is it?",
+    "Preview so you can change the.",
+    "You can change the height, you can left align center left align type.",
+    "You can change your backgrounds.",
+    "Put on a transparent background so there's just a lot that you can do.",
+    "I'm going to go back to business for CJ, who all along had been asking just to see the word fart.",
+    "Uh, in this type.",
+    "Again.",
+    "Not super satisfied yet with this.",
+    "I want to go ahead and play a little bit more with the.",
+    "Um?",
+    "With these shapes, but there you go, there's your fart.",
+    "Replace that one more time with my handle.",
+    "Going to create.",
+    "A couple of things here so the family name for this is going to be.",
+    "Pencil.",
+    "It's style.",
+    "Is going to be pulled.",
+    "The designer is Sarah super keenly?",
+    "Believe my website offer now.",
+    "We don't care about that.",
+    "Licenses about me.",
+    "Demo text will leave it.",
+    "Copyrighted trademarks, not necessary.",
+    "Alright, so once we've done all of that can save.",
+    "The font and you'll see that I have the Super Sensel Bowls opentype font, which I can now save.",
+    "Your font super stencil bold was just saved.",
+    "You could open that's a font.",
+    "And that has now opened it on my Mac in font book and you'll see that there's a bunch of.",
+    "Blocks with question marks here.",
+    "It's because I haven't created.",
+    "All of the available characters in the character set.",
+    "If I wanted to use this beyond this, and I'd like to continue tweaking it, I would add punctuation.",
+    "I don't think I want to create lower case for this, but I do think that having things like an ampersand?!",
+    "All of this punctuation elements would be valuable.",
+    "Those will show up here, but from here I can actually go and install this font onto my system.",
+    "And that will allow me if I create a new document.",
+    "Just do this real quick.",
+    "Hide font, so for minutes I had this new document here.",
+    "Now if I wanted to create.",
+    "So if I wanted to use that font in a project, now that I've created it.",
+    "I should be able to type in into my character Super Stencil.",
+    "And now I have my very own custom font that I can use in any project just like any font that you'd be used to.",
+    "I can change its color.",
+    "And really, it's it's as simple as that.",
+    "You can obviously get super creative with these things.",
+    "You can adjust all of the spacing and you can pay a lot more attention to things that real font designers in topographers would care about.",
+    "In in terms of thinking about weight and the relationship of letters to each other to ligatures to alternate character sets, but for tonight in the couple of hours that we've been together, we've managed to create a really simple stencil font and turn it into a real font that we can share and and use in our projects.",
+    "The last thing I'll mention that I did in the previous stream are in earlier in the stream as well.",
+    "Is that you could even do this an use font self to create logo fonts.",
+    "If you wanted to have that be something that's really easily accessible to you, you could drop your logo in designated character or Unicode character for that font and have that be available in your custom font as well, which can be really useful.",
+    "Pending on what you're creating, so.",
+    "We did it.",
+    "We have created a font in our next stream.",
+    "Go back to what we've done here.",
+    "So in the next stream will revise these letters a little bit more.",
+    "Will add some punctuation and will start to add in a little bit more interest by adding color and experiment with creating color, opentype SVG fonts and see how those look.",
+    "The next step after that would be to create web fonts so that we can use those webpages really easy, so we're going to experiment with that as well and see what that process looks like.",
+    "But this has been super fun.",
+    "I appreciate everybody who has joins tonight.",
+    "I'm gonna wrap up.",
+    "If you have any questions, please look below this video and in the stream description you'll see my Instagram.",
+    "Twitter might be hands.",
+    "Please feel free to reach out to me there if you want to learn more about the tools that I've been using.",
+    "If you want a copy of this font, or if you want to play around with it yourself, I'm happy to send that to you.",
+    "Also added as an asset to this.",
+    "Video, but again, I want to thank you for joining.",
+    "This has been really fun.",
+    "I've learned a lot.",
+    "I have a lot more to learn.",
+    "As I mentioned, I have books to read if you want to read him with me, please do happy to chat about type with you.",
+    "And yeah, thanks so much for spending for spending your time.",
+    "It is great to be back.",
+    "I have a lot.",
+    "Uh, let's continue going through, but getting back into creative is creative work is really healing, and so I'm really happy to be doing this and really again, just appreciate all of you who joined an have been supporting me.",
+    "Not just tonight, but throughout all of this.",
+    "So with that, I'm going to sign off.",
+    "I hope you all have a wonderful night and I look forward to seeing you on the next stream.",
+    "Most likely this weekend again.",
+    "Will post the schedule on Instagram and Twitter.",
+    "So lookout for that, but that's it for now.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        21,
+        22
+      ],
+      "sentence": [
+        "What are you up to tonight?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        78,
+        79
+      ],
+      "sentence": [
+        "Where?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        81,
+        82
+      ],
+      "sentence": [
+        "Really low barrier to entry, and it let's me work right in illustrator, which is pretty sweet right?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        122,
+        123
+      ],
+      "sentence": [
+        "Fresh cake hey what's up?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        124,
+        125
+      ],
+      "sentence": [
+        "How are you doing tonight?"
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        140,
+        141
+      ],
+      "sentence": [
+        "So what I'm going to do now?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        147,
+        148
+      ],
+      "sentence": [
+        "It's a let's see how much does it cost?"
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        212,
+        213
+      ],
+      "sentence": [
+        "I created a bubble font awhile ago, I wonder?"
+      ]
+    },
+    "T9": {
+      "id": "T9",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        253,
+        254
+      ],
+      "sentence": [
+        "Need better lighting this room?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        356,
+        357
+      ],
+      "sentence": [
+        "Want to do something a little different and see how it works?"
+      ]
+    },
+    "T12": {
+      "id": "T12",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        382,
+        383
+      ],
+      "sentence": [
+        "Then what I need?"
+      ]
+    },
+    "T15": {
+      "id": "T15",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        430,
+        431
+      ],
+      "sentence": [
+        "Maybe that will be using that?"
+      ]
+    },
+    "T16": {
+      "id": "T16",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        433,
+        434
+      ],
+      "sentence": [
+        "That can be this ad for the for death whose band?"
+      ]
+    },
+    "T17": {
+      "id": "T17",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        468,
+        469
+      ],
+      "sentence": [
+        "Can you teach me the curse words?"
+      ]
+    },
+    "T19": {
+      "id": "T19",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        507,
+        508
+      ],
+      "sentence": [
+        "Or the squared A?"
+      ]
+    },
+    "T20": {
+      "id": "T20",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        521,
+        522
+      ],
+      "sentence": [
+        "Do you sense a book club?"
+      ]
+    },
+    "T21": {
+      "id": "T21",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        538,
+        539
+      ],
+      "sentence": [
+        "Why I'm having such a hard time dragging things?"
+      ]
+    },
+    "T22": {
+      "id": "T22",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        567,
+        568
+      ],
+      "sentence": [
+        "Once you've created some of these letters, how to bring them into the extension that we're using called font style to create your font?"
+      ]
+    },
+    "T23": {
+      "id": "T23",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        580,
+        581
+      ],
+      "sentence": [
+        "All right, what do we got going in the chat here?"
+      ]
+    },
+    "T26": {
+      "id": "T26",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        659,
+        660
+      ],
+      "sentence": [
+        "Right now we just need a, why?"
+      ]
+    },
+    "T27": {
+      "id": "T27",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        690,
+        691
+      ],
+      "sentence": [
+        "Has there been look?"
+      ]
+    },
+    "T30": {
+      "id": "T30",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        794,
+        795
+      ],
+      "sentence": [
+        "What you would do to bring them into font?"
+      ]
+    },
+    "T31": {
+      "id": "T31",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        809,
+        810
+      ],
+      "sentence": [
+        "What I'm going to do?"
+      ]
+    },
+    "T34": {
+      "id": "T34",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        865,
+        866
+      ],
+      "sentence": [
+        "You can play with where is it?"
+      ]
+    },
+    "T36": {
+      "id": "T36",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        883,
+        884
+      ],
+      "sentence": [
+        "The designer is Sarah super keenly?"
+      ]
+    },
+    "T37": {
+      "id": "T37",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        898,
+        899
+      ],
+      "sentence": [
+        "I don't think I want to create lower case for this, but I do think that having things like an ampersand?!"
+      ]
+    },
+    "T38": {
+      "id": "T38",
+      "label": "ANSWER",
+      "span": [
+        22,
+        25
+      ],
+      "sentence": [
+        "Alright, so I'm going to get myself set up to create a font.",
+        "The type that I'm going to work with.",
+        "I think I have a screenshot of some sketches that I did, so I'll pull that up."
+      ]
+    },
+    "T39": {
+      "id": "T39",
+      "label": "ANSWER",
+      "span": [
+        79,
+        80
+      ],
+      "sentence": [
+        "So, for anyone who's hanging out again if you have questions, please feel free to ask if you happen to be a type expert and you want to correct any of my terminology or share how you create fonts, I would love to hear about it."
+      ]
+    },
+    "T40": {
+      "id": "T40",
+      "label": "ANSWER",
+      "span": [
+        123,
+        124
+      ],
+      "sentence": [
+        "Thank you for joining."
+      ]
+    },
+    "T41": {
+      "id": "T41",
+      "label": "ANSWER",
+      "span": [
+        141,
+        147
+      ],
+      "sentence": [
+        "These are strokes and I found it's a lot easier to work in font self if you actually outline everything.",
+        "And so I'm going to expand.",
+        "My.",
+        "Strokes.",
+        "Here and then, I'll just use the United Shape mode to create one shape.",
+        "Yeah, so um font stuff is a plug in."
+      ]
+    },
+    "T42": {
+      "id": "T42",
+      "label": "ANSWER",
+      "span": [
+        148,
+        156
+      ],
+      "sentence": [
+        "Alright, it's a little bit more expensive than I thought it's.",
+        "So it's an extension for both illustrator and Photoshop.",
+        "I just have the illustrated version, but it looks like you can do some cool stuff with color bitmap fonts in Photoshop.",
+        "In illustrator.",
+        "You're just obviously creating vector fonts.",
+        "It's a $50 US dollars extension that is a one time fee, so it's not something that's going to renew.",
+        "You just get free updates once you've set it up.",
+        "The other thing that I found this is not a plug for them."
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "ANSWER",
+      "span": [
+        213,
+        217
+      ],
+      "sentence": [
+        "See if I can find it.",
+        "But I was thinking it would be fun to do something with it.",
+        "Maybe it's a follow-up project.",
+        "I started actually creating this."
+      ]
+    },
+    "T43": {
+      "id": "T43",
+      "label": "ANSWER",
+      "span": [
+        357,
+        368
+      ],
+      "sentence": [
+        "Not using ellipse tool.",
+        "Choose a rectangle.",
+        "In the drawer rectangle in.",
+        "In that guide.",
+        "Let's make it a little smaller to get started and so.",
+        "I have a feeling that if I just.",
+        "For an 0.",
+        "I think if I do.",
+        "If I make it really square, I'm not sure I'm going to like it very much, so let's just see what it would look like.",
+        "So in the chat, fresh cakes, as I was going to say, the round in sharp corners combined is awesome.",
+        "Yeah, I kind of feel like that might be worth exploring."
+      ]
+    },
+    "T44": {
+      "id": "T44",
+      "label": "ANSWER",
+      "span": [
+        383,
+        393
+      ],
+      "sentence": [
+        "Is to draw a second rectangle.",
+        "Because you have done this with the pen tool.",
+        "So I could do something like that.",
+        "Let's fill back in black.",
+        "So two approaches for the oh if I.",
+        "And I think both can work.",
+        "If I bring in this rounded, it just gives me the ability to create some more rounded.",
+        "Some more rounded letters, so it might make letters like BA little simpler.",
+        "But we will tackle that also.",
+        "The A could maybe be done this way."
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "ANSWER",
+      "span": [
+        431,
+        433
+      ],
+      "sentence": [
+        "If we grab this letter Z.",
+        "Go back to those sharper caps."
+      ]
+    },
+    "T13": {
+      "id": "T13",
+      "label": "ANSWER",
+      "span": [
+        581,
+        582
+      ],
+      "sentence": [
+        "Oh, Molly is joined."
+      ]
+    },
+    "T14": {
+      "id": "T14",
+      "label": "ANSWER",
+      "span": [
+        539,
+        540
+      ],
+      "sentence": [
+        "It will grab this, get it out of the way."
+      ]
+    },
+    "T18": {
+      "id": "T18",
+      "label": "ANSWER",
+      "span": [
+        434,
+        435
+      ],
+      "sentence": [
+        "I'm really thinking of variant with this with these sharp corners would be fun, so I'm going to keep that."
+      ]
+    },
+    "T24": {
+      "id": "T24",
+      "label": "ANSWER",
+      "span": [
+        469,
+        470
+      ],
+      "sentence": [
+        "This is so true God learn God, learn all the curse words first."
+      ]
+    },
+    "T25": {
+      "id": "T25",
+      "label": "ANSWER",
+      "span": [
+        508,
+        509
+      ],
+      "sentence": [
+        "I'm gonna experiment a little bit with the letter S, which is another."
+      ]
+    },
+    "T45": {
+      "id": "T45",
+      "label": "ANSWER",
+      "span": [
+        522,
+        524
+      ],
+      "sentence": [
+        "You do sensible club.",
+        "Let's do it."
+      ]
+    },
+    "T46": {
+      "id": "T46",
+      "label": "ANSWER",
+      "span": [
+        568,
+        572
+      ],
+      "sentence": [
+        "There's gonna be.",
+        "That'll work.",
+        "Alright, so we got ABCDEF.",
+        "Let's make a G."
+      ]
+    },
+    "T47": {
+      "id": "T47",
+      "label": "ANSWER",
+      "span": [
+        660,
+        661
+      ],
+      "sentence": [
+        "Excellent, OK so."
+      ]
+    },
+    "T48": {
+      "id": "T48",
+      "label": "ANSWER",
+      "span": [
+        691,
+        692
+      ],
+      "sentence": [
+        "For being needs to be expanded."
+      ]
+    },
+    "T49": {
+      "id": "T49",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        722,
+        724
+      ],
+      "sentence": [
+        "And at this point what I can do?",
+        "Is 2 different things in the interest of keeping things moving tonight?"
+      ]
+    },
+    "T28": {
+      "id": "T28",
+      "label": "ANSWER",
+      "span": [
+        724,
+        727
+      ],
+      "sentence": [
+        "I am not going to take the longer approach, but one thing that I could do would be to take each of these letters and separate it out.",
+        "So that each layer each letter lives on its own layer, and in doing that that allows you to do is.",
+        "To do a smarter import into font self so it will look at your layer names and try to deduce from those what the glyph is."
+      ]
+    },
+    "T29": {
+      "id": "T29",
+      "label": "ANSWER",
+      "span": [
+        795,
+        800
+      ],
+      "sentence": [
+        "So let's just make sure that those individual elements are grouped so they're treated as one glyph when they're copied into.",
+        "A font self, by the way, this is a really cool little welcome to hype ocracy Zine that font self created.",
+        "It is full of great inspiration and ideas for creating fonts and what other people are doing in the community.",
+        "You can download it for free off the font self website.",
+        "If you are looking for inspiration and want to play with type."
+      ]
+    },
+    "T32": {
+      "id": "T32",
+      "label": "ANSWER",
+      "span": [
+        810,
+        817
+      ],
+      "sentence": [
+        "Is just make this art board bigger.",
+        "I'm gonna hit shift.",
+        "Oh She turned on the artboard tool and then I'll just drag it out.",
+        "OK, and then we'll take.",
+        "This with the letters.",
+        "Everything on the same line.",
+        "I guess that makes sense, especially if I was using guides."
+      ]
+    },
+    "T33": {
+      "id": "T33",
+      "label": "ANSWER",
+      "span": [
+        884,
+        887
+      ],
+      "sentence": [
+        "Believe my website offer now.",
+        "We don't care about that.",
+        "Licenses about me."
+      ]
+    },
+    "T35": {
+      "id": "T35",
+      "label": "ANSWER",
+      "span": [
+        866,
+        871
+      ],
+      "sentence": [
+        "Preview so you can change the.",
+        "You can change the height, you can left align center left align type.",
+        "You can change your backgrounds.",
+        "Put on a transparent background so there's just a lot that you can do.",
+        "I'm going to go back to business for CJ, who all along had been asking just to see the word fart."
+      ]
+    },
+    "T50": {
+      "id": "T50",
+      "label": "ANSWER",
+      "span": [
+        899,
+        907
+      ],
+      "sentence": [
+        "All of this punctuation elements would be valuable.",
+        "Those will show up here, but from here I can actually go and install this font onto my system.",
+        "And that will allow me if I create a new document.",
+        "Just do this real quick.",
+        "Hide font, so for minutes I had this new document here.",
+        "Now if I wanted to create.",
+        "So if I wanted to use that font in a project, now that I've created it.",
+        "I should be able to type in into my character Super Stencil."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T0",
+      "answer": "T38",
+      "question_sentence": [
+        "What are you up to tonight?"
+      ],
+      "answer_sentence": [
+        "Alright, so I'm going to get myself set up to create a font.",
+        "The type that I'm going to work with.",
+        "I think I have a screenshot of some sketches that I did, so I'll pull that up."
+      ]
+    },
+    "R2": {
+      "id": "R2",
+      "label": "Chitchat",
+      "question": "T1",
+      "answer": "T39",
+      "question_sentence": [
+        "Where?"
+      ],
+      "answer_sentence": [
+        "So, for anyone who's hanging out again if you have questions, please feel free to ask if you happen to be a type expert and you want to correct any of my terminology or share how you create fonts, I would love to hear about it."
+      ]
+    },
+    "R3": {
+      "id": "R3",
+      "label": "Chitchat",
+      "question": "T3",
+      "answer": "T40",
+      "question_sentence": [
+        "Fresh cake hey what's up?"
+      ],
+      "answer_sentence": [
+        "Thank you for joining."
+      ]
+    },
+    "R4": {
+      "id": "R4",
+      "label": "Chitchat",
+      "question": "T5",
+      "answer": "T41",
+      "question_sentence": [
+        "So what I'm going to do now?"
+      ],
+      "answer_sentence": [
+        "These are strokes and I found it's a lot easier to work in font self if you actually outline everything.",
+        "And so I'm going to expand.",
+        "My.",
+        "Strokes.",
+        "Here and then, I'll just use the United Shape mode to create one shape.",
+        "Yeah, so um font stuff is a plug in."
+      ]
+    },
+    "R5": {
+      "id": "R5",
+      "label": "Relevance",
+      "question": "T6",
+      "answer": "T42",
+      "question_sentence": [
+        "It's a let's see how much does it cost?"
+      ],
+      "answer_sentence": [
+        "Alright, it's a little bit more expensive than I thought it's.",
+        "So it's an extension for both illustrator and Photoshop.",
+        "I just have the illustrated version, but it looks like you can do some cool stuff with color bitmap fonts in Photoshop.",
+        "In illustrator.",
+        "You're just obviously creating vector fonts.",
+        "It's a $50 US dollars extension that is a one time fee, so it's not something that's going to renew.",
+        "You just get free updates once you've set it up.",
+        "The other thing that I found this is not a plug for them."
+      ]
+    },
+    "R6": {
+      "id": "R6",
+      "label": "Chitchat",
+      "question": "T8",
+      "answer": "T7",
+      "question_sentence": [
+        "I created a bubble font awhile ago, I wonder?"
+      ],
+      "answer_sentence": [
+        "See if I can find it.",
+        "But I was thinking it would be fun to do something with it.",
+        "Maybe it's a follow-up project.",
+        "I started actually creating this."
+      ]
+    },
+    "R7": {
+      "id": "R7",
+      "label": "Chitchat",
+      "question": "T10",
+      "answer": "T43",
+      "question_sentence": [
+        "Want to do something a little different and see how it works?"
+      ],
+      "answer_sentence": [
+        "Not using ellipse tool.",
+        "Choose a rectangle.",
+        "In the drawer rectangle in.",
+        "In that guide.",
+        "Let's make it a little smaller to get started and so.",
+        "I have a feeling that if I just.",
+        "For an 0.",
+        "I think if I do.",
+        "If I make it really square, I'm not sure I'm going to like it very much, so let's just see what it would look like.",
+        "So in the chat, fresh cakes, as I was going to say, the round in sharp corners combined is awesome.",
+        "Yeah, I kind of feel like that might be worth exploring."
+      ]
+    },
+    "R8": {
+      "id": "R8",
+      "label": "Chitchat",
+      "question": "T12",
+      "answer": "T44",
+      "question_sentence": [
+        "Then what I need?"
+      ],
+      "answer_sentence": [
+        "Is to draw a second rectangle.",
+        "Because you have done this with the pen tool.",
+        "So I could do something like that.",
+        "Let's fill back in black.",
+        "So two approaches for the oh if I.",
+        "And I think both can work.",
+        "If I bring in this rounded, it just gives me the ability to create some more rounded.",
+        "Some more rounded letters, so it might make letters like BA little simpler.",
+        "But we will tackle that also.",
+        "The A could maybe be done this way."
+      ]
+    },
+    "R9": {
+      "id": "R9",
+      "label": "Chitchat",
+      "question": "T23",
+      "answer": "T13",
+      "question_sentence": [
+        "All right, what do we got going in the chat here?"
+      ],
+      "answer_sentence": [
+        "Oh, Molly is joined."
+      ]
+    },
+    "R10": {
+      "id": "R10",
+      "label": "Chitchat",
+      "question": "T15",
+      "answer": "T11",
+      "question_sentence": [
+        "Maybe that will be using that?"
+      ],
+      "answer_sentence": [
+        "If we grab this letter Z.",
+        "Go back to those sharper caps."
+      ]
+    },
+    "R11": {
+      "id": "R11",
+      "label": "Chitchat",
+      "question": "T16",
+      "answer": "T18",
+      "question_sentence": [
+        "That can be this ad for the for death whose band?"
+      ],
+      "answer_sentence": [
+        "I'm really thinking of variant with this with these sharp corners would be fun, so I'm going to keep that."
+      ]
+    },
+    "R12": {
+      "id": "R12",
+      "label": "Chitchat",
+      "question": "T17",
+      "answer": "T24",
+      "question_sentence": [
+        "Can you teach me the curse words?"
+      ],
+      "answer_sentence": [
+        "This is so true God learn God, learn all the curse words first."
+      ]
+    },
+    "R13": {
+      "id": "R13",
+      "label": "Chitchat",
+      "question": "T19",
+      "answer": "T25",
+      "question_sentence": [
+        "Or the squared A?"
+      ],
+      "answer_sentence": [
+        "I'm gonna experiment a little bit with the letter S, which is another."
+      ]
+    },
+    "R14": {
+      "id": "R14",
+      "label": "Chitchat",
+      "question": "T20",
+      "answer": "T45",
+      "question_sentence": [
+        "Do you sense a book club?"
+      ],
+      "answer_sentence": [
+        "You do sensible club.",
+        "Let's do it."
+      ]
+    },
+    "R15": {
+      "id": "R15",
+      "label": "Chitchat",
+      "question": "T21",
+      "answer": "T14",
+      "question_sentence": [
+        "Why I'm having such a hard time dragging things?"
+      ],
+      "answer_sentence": [
+        "It will grab this, get it out of the way."
+      ]
+    },
+    "R16": {
+      "id": "R16",
+      "label": "Chitchat",
+      "question": "T22",
+      "answer": "T46",
+      "question_sentence": [
+        "Once you've created some of these letters, how to bring them into the extension that we're using called font style to create your font?"
+      ],
+      "answer_sentence": [
+        "There's gonna be.",
+        "That'll work.",
+        "Alright, so we got ABCDEF.",
+        "Let's make a G."
+      ]
+    },
+    "R17": {
+      "id": "R17",
+      "label": "Chitchat",
+      "question": "T26",
+      "answer": "T47",
+      "question_sentence": [
+        "Right now we just need a, why?"
+      ],
+      "answer_sentence": [
+        "Excellent, OK so."
+      ]
+    },
+    "R18": {
+      "id": "R18",
+      "label": "Chitchat",
+      "question": "T27",
+      "answer": "T48",
+      "question_sentence": [
+        "Has there been look?"
+      ],
+      "answer_sentence": [
+        "For being needs to be expanded."
+      ]
+    },
+    "R19": {
+      "id": "R19",
+      "label": "Chitchat",
+      "question": "T49",
+      "answer": "T28",
+      "question_sentence": [
+        "And at this point what I can do?",
+        "Is 2 different things in the interest of keeping things moving tonight?"
+      ],
+      "answer_sentence": [
+        "I am not going to take the longer approach, but one thing that I could do would be to take each of these letters and separate it out.",
+        "So that each layer each letter lives on its own layer, and in doing that that allows you to do is.",
+        "To do a smarter import into font self so it will look at your layer names and try to deduce from those what the glyph is."
+      ]
+    },
+    "R20": {
+      "id": "R20",
+      "label": "Chitchat",
+      "question": "T30",
+      "answer": "T29",
+      "question_sentence": [
+        "What you would do to bring them into font?"
+      ],
+      "answer_sentence": [
+        "So let's just make sure that those individual elements are grouped so they're treated as one glyph when they're copied into.",
+        "A font self, by the way, this is a really cool little welcome to hype ocracy Zine that font self created.",
+        "It is full of great inspiration and ideas for creating fonts and what other people are doing in the community.",
+        "You can download it for free off the font self website.",
+        "If you are looking for inspiration and want to play with type."
+      ]
+    },
+    "R21": {
+      "id": "R21",
+      "label": "Chitchat",
+      "question": "T31",
+      "answer": "T32",
+      "question_sentence": [
+        "What I'm going to do?"
+      ],
+      "answer_sentence": [
+        "Is just make this art board bigger.",
+        "I'm gonna hit shift.",
+        "Oh She turned on the artboard tool and then I'll just drag it out.",
+        "OK, and then we'll take.",
+        "This with the letters.",
+        "Everything on the same line.",
+        "I guess that makes sense, especially if I was using guides."
+      ]
+    },
+    "R22": {
+      "id": "R22",
+      "label": "Chitchat",
+      "question": "T36",
+      "answer": "T33",
+      "question_sentence": [
+        "The designer is Sarah super keenly?"
+      ],
+      "answer_sentence": [
+        "Believe my website offer now.",
+        "We don't care about that.",
+        "Licenses about me."
+      ]
+    },
+    "R23": {
+      "id": "R23",
+      "label": "Chitchat",
+      "question": "T34",
+      "answer": "T35",
+      "question_sentence": [
+        "You can play with where is it?"
+      ],
+      "answer_sentence": [
+        "Preview so you can change the.",
+        "You can change the height, you can left align center left align type.",
+        "You can change your backgrounds.",
+        "Put on a transparent background so there's just a lot that you can do.",
+        "I'm going to go back to business for CJ, who all along had been asking just to see the word fart."
+      ]
+    },
+    "R24": {
+      "id": "R24",
+      "label": "Chitchat",
+      "question": "T37",
+      "answer": "T50",
+      "question_sentence": [
+        "I don't think I want to create lower case for this, but I do think that having things like an ampersand?!"
+      ],
+      "answer_sentence": [
+        "All of this punctuation elements would be valuable.",
+        "Those will show up here, but from here I can actually go and install this font onto my system.",
+        "And that will allow me if I create a new document.",
+        "Just do this real quick.",
+        "Hide font, so for minutes I had this new document here.",
+        "Now if I wanted to create.",
+        "So if I wanted to use that font in a project, now that I've created it.",
+        "I should be able to type in into my character Super Stencil."
+      ]
+    }
+  }
+}

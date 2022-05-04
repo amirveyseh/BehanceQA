@@ -1,0 +1,256 @@
+{
+  "sentence": [
+    "'cause you can play with anatomy, but you have to understand how it works first.",
+    "If that makes any sense at all.",
+    "So it's I'd say it say yes and no kind of thing.",
+    "It's really.",
+    "It's really challenging.",
+    "It's really weird, but.",
+    "It depends on what you want to do.",
+    "What you do is a calendar.",
+    "What I'm doing.",
+    "Yeah, um, it's.",
+    "Because I want to start streaming regularly.",
+    "Doing it every couple days like a work schedule, you know your boss tells You You're coming in four days this week.",
+    "This is how many hours you're working.",
+    "I'm doing that for myself because I need to know I need to have a schedule for myself, otherwise I'll never.",
+    "I'll never work, you know, I've never do anything.",
+    "OK um.",
+    "Do do do do do do.",
+    "I'm gonna.",
+    "This.",
+    "I like that, OK.",
+    "Check get rid of that.",
+    "I'm going to.",
+    "Let's do this on another layer 'cause.",
+    "Like I said, I.",
+    "I want to get into streaming games.",
+    "But with all of the allegations and whatnot going on with Twitch lately, I don't know anymore of that, something that I wanted to do I probably will because I don't know any other streaming services.",
+    "Um?",
+    "So I'm trying to make this where I stream on B Hans.",
+    "For a certain amount of hours on set days an I stream on Twitch for a set amount of hours every few days.",
+    "So I'm trying to.",
+    "I'm trying to figure out what I'm willing to do.",
+    "Next year I'll go to design college.",
+    "I'm anxious for it.",
+    "Oh, how awesome.",
+    "It's always nerve wracking when you start pursuing your career.",
+    "You know in doing what you want to do, you know.",
+    "I I've wanted to stream on be hansford or just stream art.",
+    "For the last.",
+    "Since I think 2016 is when I first.",
+    "When I first started learning about straining, you know for video games for art, any of it.",
+    "and I was like, man, that's something I really want to do, and I'm now I'm still terrified like I'm having a.",
+    "Quiet internal meltdown right now.",
+    "Just sitting here talking to you guys I'm like.",
+    "But it's good, though.",
+    "It's exciting when you do decide to.",
+    "OK, I'm going to do this and you do it, but it's like, you know.",
+    "It's a little intimidating.",
+    "As well.",
+    "PM Uh, what's my I'm?",
+    "I always forget what my time zone is.",
+    "I think I'm Pacific something.",
+    "What is my time zone?",
+    "Pacific Daylight Time.",
+    "So is it PDT?",
+    "But is it?",
+    "I don't know the abbreviated PST.",
+    "Right, This is.",
+    "OK so it's PST OK.",
+    ".",
+    "If the Corona Let's me, yeah, that's not the well.",
+    "Hopefully you know.",
+    "I can't remember where you said you're from.",
+    "Hopefully you guys over their handling it a lot better than how we are here in America.",
+    "A bunch of dingbats over here, guys.",
+    "At least here in America.",
+    "We're not getting our junk together.",
+    "Standard Time.",
+    "It.",
+    "And if I if I forget like where you guys say you're from an like how to say your name is properly and things like that?",
+    "I am sorry I just have I have a very bad memory so the more I hang out with you guys in the more we get to know each other.",
+    "I'll start remembering.",
+    "But I have a bad memory at the moment.",
+    "I do apologize, I don't intentionally forget.",
+    "I just I.",
+    "I am very much in the moment.",
+    "Life kind of person.",
+    "That I don't even remember if I had breakfast this morning.",
+    "You know, I'm one of those people.",
+    "So I do apologize if I forget where you guys say you're from and where you're visiting and things like that.",
+    "I don't mean it to be rude and I am sorry it is.",
+    "It is something I have to work on.",
+    "Brazil, that's right.",
+    "Well is it bad over there right now too?",
+    "What was it?",
+    "Uh, I saw thing in the news yesterday, Wednesday alone in the United States of America, we had 50,000 confirmed cases in one day.",
+    "Like And then I saw a video today of some beach in Florida where there's like hundreds of people like shoulder to shoulder partying and I'm just sitting here like.",
+    "Just.",
+    "Be a cool person and wear a face mask like face masks are annoying, but you know just just be cool.",
+    "Oh everyone's making friends.",
+    "Hell yeah.",
+    "I'm going to make that just a tiny bit smaller.",
+    "OK.",
+    "Mexico.",
+    "You don't hear that goodness house like right outside my freaking house.",
+    "I do apologize for the explosions too, by the way.",
+    "If I if I was an extremely American person, I would go out there and just start firing a gun in the air and be like yo look at this.",
+    "Get off of my lawn.",
+    "Ah, I see.",
+    "Is that what I wanted to do?",
+    "Z OK.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION",
+      "span": [
+        26,
+        27
+      ],
+      "sentence": [
+        "Um?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        48,
+        49
+      ],
+      "sentence": [
+        "PM Uh, what's my I'm?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        51,
+        52
+      ],
+      "sentence": [
+        "What is my time zone?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        53,
+        54
+      ],
+      "sentence": [
+        "So is it PDT?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        54,
+        55
+      ],
+      "sentence": [
+        "But is it?"
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        68,
+        69
+      ],
+      "sentence": [
+        "And if I if I forget like where you guys say you're from an like how to say your name is properly and things like that?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        82,
+        83
+      ],
+      "sentence": [
+        "Well is it bad over there right now too?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        83,
+        84
+      ],
+      "sentence": [
+        "What was it?"
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "QUESTION",
+      "span": [
+        98,
+        99
+      ],
+      "sentence": [
+        "Is that what I wanted to do?"
+      ]
+    },
+    "T9": {
+      "id": "T9",
+      "label": "ANSWER",
+      "span": [
+        49,
+        51
+      ],
+      "sentence": [
+        "I always forget what my time zone is.",
+        "I think I'm Pacific something."
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "ANSWER",
+      "span": [
+        52,
+        53
+      ],
+      "sentence": [
+        "Pacific Daylight Time."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T1",
+      "answer": "T9",
+      "question_sentence": [
+        "PM Uh, what's my I'm?"
+      ],
+      "answer_sentence": [
+        "I always forget what my time zone is.",
+        "I think I'm Pacific something."
+      ]
+    },
+    "R2": {
+      "id": "R2",
+      "label": "Chitchat",
+      "question": "T2",
+      "answer": "T10",
+      "question_sentence": [
+        "What is my time zone?"
+      ],
+      "answer_sentence": [
+        "Pacific Daylight Time."
+      ]
+    }
+  }
+}

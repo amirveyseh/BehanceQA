@@ -1,0 +1,1764 @@
+{
+  "sentence": [
+    "Hello everybody, welcome back his Jack.",
+    "My name is Jack.",
+    "For those of you joining for the first time I am a UI UX designer, which is actually what we're going to be doing today and I also do illustration animation.",
+    "I like Donuts.",
+    "I like dogs.",
+    "I like a lot of things.",
+    "My shirt today says eat more Donuts so.",
+    "Uh, very on brand.",
+    "How to redo the chat?",
+    "I see that we've got Sergio and Corey's hanging out.",
+    "Sergio says he is doing fine working on new projects with my life guard.",
+    "The fan?",
+    "Yeah, it's pretty hot here in Ohio as well, so hope everybody staying cool.",
+    "Hope everybody had a good 4th of July if you guys.",
+    "Celebrates the force.",
+    "Uh, where you guys are at so thankful we had talked about you enter pin.",
+    "I want to give a shout out to you, interpret and he let's me stream his music in the background.",
+    "My stream so you guys can enjoy his beeps and Boops while I work.",
+    "So if you like what you hear, go down the links to his work are in the description of my videos, always on SoundCloud.",
+    "Spotify, all of these things so.",
+    "Yeah, today we're going to be working on something a little fun.",
+    "Um, we're working on you.",
+    "Be hands live weekly, challenge the Livestreamers all.",
+    "Some of us were doing this weekly challenge.",
+    "The theme is Corentine Awards.",
+    "Switch over to my desktop view.",
+    "Ryan made this fancy.",
+    "Transition here so you guys will see it in there.",
+    "So I do this right.",
+    "So far that.",
+    "But we're working on this app that I have a little bit of work on.",
+    "Um morning, because it would have taken she probably my entire life to get through all of these icons that I want for this app.",
+    "So the theme is corentine awards mouse here.",
+    "Hello, how are you?",
+    "The thing that is Corentine Awards and what I decided to do is a little bit.",
+    "I guess a little bit off from the, it's not directly, it's not like it's roughly or anything like that.",
+    "It's not like a literal award.",
+    "I wanted to do something a little different, so I went with this app idea.",
+    "It's a cooking app.",
+    "I know, I know.",
+    "Everything I do is food related.",
+    "I get it.",
+    "It's fine so to another food app, but this one, uh, the working title is recipe for disaster.",
+    "I just love it.",
+    "I think it's perfect and we're going to be doing onboarding mean they'll be XP 'cause I think that that should be simple enough that I can hopefully get through it all in one kind of sitting.",
+    "So I'm going to actually transition one more time.",
+    "See that fancy fancy transition again?",
+    "And I'm going to show you, uhm, I got my book sketchbook here.",
+    "Who?",
+    "You guys can see, UM, This is why sort of outline plan for the quarantine cooking app idea here for all of the different elements that I want in this onboarding sort of.",
+    "This is how I start.",
+    "You'll notice there's not any drawing on this because that that's not I start with like a content outline, user journey kind of thing.",
+    "Thinking about like all the steps that a user would take to navigate through this onboarding experience in all of the different things they would encounter.",
+    "Along the way, and that's how I start.",
+    "And then after that we can get individual.",
+    "So That being said, I'm gonna switch back over my.",
+    "Again, see you guys can see that.",
+    "Now says that could be the title for my memoir recipe for disaster.",
+    "I mean, it's it's good.",
+    "It's a good one.",
+    "So I started working on some uh, sort of branding, and, uh, like I said, these icons for the different parts of this onboarding experience.",
+    "I wanted it to have kind of like a cooking.",
+    "A high end.",
+    "Sheffield, I thought it was.",
+    "I appreciated the humor in that idea.",
+    "So this is kind of where I started with the colours down here in this like idea for the sort of brand which is this recipe for disaster.",
+    "And something so far.",
+    "and I started putting together someday.",
+    "It really bare bones kind of screens in XD study of his onboarding app is that you will have like.",
+    "When they're a user using this app so.",
+    "Cooking apps in general, they kind of wind up a lot of them wind up in this Gray area where they don't really satisfy.",
+    "Their audience, and that is that you wind up with users who are really like home cooks like they like, have a lot of equipment.",
+    "They have a lot of ingredients and they don't feel like.",
+    "Recipe apps gonna go far enough to satisfy all their needs and then on the other option in the spectrum, you have people who are really not that chefs who don't have a lot of ingredients or cooking appliances and that kind of thing and they just feel overwhelmed by the experience.",
+    "So with this is kind of a kept.",
+    "It pretty bare bones for what I want to show, but also allow the option for you to add on to.",
+    "This.",
+    "Add on the the tools kind of thing.",
+    "So for this onboarding experience.",
+    "You're gonna give agreed with kind of four 4545 screens of the first one is going to be what sort of appliances do you have on hand?",
+    "What sortof?",
+    "What's the number of people in your household?",
+    "How many people before?",
+    "Do you have any food intolerances, dietary restrictions, etc.",
+    "And then what kind of basic equipments you have?",
+    "You have pots and pans.",
+    "You have a cast iron skillet baking sheets, all that kind of stuff, and based on the user selections that's going to build a profile so that the recipe search only calls recipes that use items that somebody has my kitchen currently.",
+    "So this is basically a very like broad picture.",
+    "And then we get into the rest research.",
+    "Uhm, I really like this idea.",
+    "I would just being like a blank a blank screen.",
+    "It just asks you like.",
+    "You know what are you cooking or like?",
+    "What what ingredients you have an you just kind of.",
+    "It's just a search box and you type in things right?",
+    "So you type in like I have I have.",
+    "Carrots and he had entered, adds carrots on the list.",
+    "Then I have this ingredient of that and you can add one, or you get a whole bunch of different ones and then you hit go and it just pulls recipes that use the ingredients that you've asked for and the based on your user profile.",
+    "That kind of stuff in your kitchen.",
+    "And that's the idea is that you are not like sifting through tons of options, it's just very to the point.",
+    "Like I have these items.",
+    "What can I make with them?",
+    "So my?",
+    "Plan is to do the on boarding for that at the end of this onboarding process, after the user gets through all of these questions.",
+    "So you're going to get up.",
+    "The idea is you're going to get a badge.",
+    "Because I wanted to tie it back into the Sortof Corentin Award idea.",
+    "So if you pick, uh, if you have a lot of kitchen equipment and you have a lot of supplies, then you'll get the prepared for you.",
+    "Know well stocked badge if you only pick a couple of these options, we don't have a lot of stuff in your kitchen.",
+    "You really get the resourceful badge 'cause we're trying to keep a positive either way, so you're either going to be resourceful and they can do with what you've got, or you're going to be well prepared and making.",
+    "Gourmet deals in your fancy kitchen so.",
+    "Let's get started.",
+    "I have, uh, this plan like I said.",
+    "Of what I want this sortof unboarding to look like.",
+    "I know that I want to indicate in some way that you can swipe through these screens, which will I have this little.",
+    "A little bit here I'm I'm kind of thinking that these icons will sit on top of these plates, so like idea of like swiping through plates as the interaction.",
+    "And but the problem is that like these colors are going to work as they are currently because my icons are using this sort of.",
+    "Peach Peachy pink color.",
+    "So I'm going to have to think about that and then like the active and inactive states for each of these.",
+    "Icons uhm?",
+    "And he was really thinks that was the big things that take her son.",
+    "The layout.",
+    "Some of this stuff in our screens.",
+    "And if we want to have something sort of in the beginning, we'll see where we get to.",
+    "We'll see.",
+    "We'll see how far we get to today.",
+    "So That being said.",
+    "I'm gonna start putting in some of my home start thinking about what kind of questions I want to phrase questions.",
+    "So, uh, what's up chat happening?",
+    "Who stop by?",
+    "Let's see you how are you doing?",
+    "I'm not, I'm not let me know if I'm pronouncing your name correctly.",
+    "Nice to see you.",
+    "Corey is saying maybe the plates had just have the title on it and the icons are in the white space below.",
+    "Now that's a really good idea is maybe we can have just the sort of questions or the.",
+    "Um statements are recorded at the top be over top of the plate and then that leaves a lot of room for icons.",
+    "We went up to worry so much about the colour contrast so maybe will go that route.",
+    "Let's see how it looks.",
+    "So if I.",
+    "Both of these guys up when I get to swap the order of elements here.",
+    "Excellent thing we need to be all the way up.",
+    "And there's no logo, I believe only little bit below.",
+    "Sounds like when it be careful of the top, Apple has the notch at the top of the devices, so we don't want to put them directly over top.",
+    "So I'm gonna just going by layers, new folders in front.",
+    "Not for center in nature.",
+    "What everything is centered on my boy here we know if you have any questions about what I'm doing about XD about life in general and I will do my best against them.",
+    "Jennifer pools here.",
+    "Hello Jennifer, how you doing?",
+    "Who suffer thank you.",
+    "Just work, work, work.",
+    "Yeah I feel that I am so I.",
+    "My goal for this weekend was to try and get through 'cause I had Friday off is trying like get through an update.",
+    "A lot of my projects that we've got.",
+    "Unless you need him on a vehicle with that so.",
+    "I'm wondering if this should be like kitchen appliances like.",
+    "Like a like a.",
+    "Like a title or if these should be like questions that we're asking somebody.",
+    "Like what?",
+    "What appliances you have in your kitchen or something like that?",
+    "We know we like it.",
+    "Better is like a.",
+    "Question order.",
+    "You have I'm gonna change this to our area type.",
+    "I'm not too concerned about feedback and swing over if we do longer blocks like this might have to consider doing.",
+    "A different font.",
+    "Instead, I'm concerned about the.",
+    "Uh.",
+    "Legibility of this kind of fun fun here at.",
+    "Hum.",
+    "Yeah, let me know what you think.",
+    "We know if we should.",
+    "Do that or not.",
+    "Corey is saying definitely the question option, OK?",
+    "I'm doing fine avoiding my latest illustrated piece, a squid.",
+    "And Why is that?",
+    "That sounds like fun.",
+    "So I definitely do like this option here.",
+    "Yeah.",
+    "Onboarding screaming that we have going on here.",
+    "I also use us plenty of room for icons, so let's just I'm going to copy these guys all in and see what they look like.",
+    "No, I just copied it twice.",
+    "Do you want to use?",
+    "Z.",
+    "General saying maybe let something like do you have a home chef night light between man and his sons matters?",
+    "Well yeah, we're gonna we had so we'll get to the.",
+    "Where is odd?",
+    "That will be one of the questions we get to the what like what equipment do you have in your kitchen?",
+    "Kind of question.",
+    "We will definitely do that.",
+    "No, you just need.",
+    "Yes.",
+    "That's hot.",
+    "Give us maybe have room for about the bottom.",
+    "Trying to remember how far up if you like, it's like some random like 14 or something for 1717 from the bottom was.",
+    "Bottom bar is.",
+    "Hey.",
+    "He didn't mention.",
+    "To make sure that I'm not running over the.",
+    "The iPhone so the iPhone has to sort of spots where you don't want things.",
+    "Run over and that's the notch and whatever the little thing at the bottom is called.",
+    "So I'm gonna pour reference here so I can see.",
+    "I remember how far up that goes, but maybe yeah.",
+    "I got apples interface guidelines here.",
+    "Hold that down.",
+    "So there's our margins on that.",
+    "Oh, really.",
+    "Well Garden State Fair Yeah well that's not what I wanted.",
+    "Z.",
+    "I mean is the answer I want to work this out for me?",
+    "Trying to remember the.",
+    "How to hack that thing in the bottom of even called?",
+    "7 is the chair.",
+    "How's it going 7.",
+    "Good evening afternoon morning, Tilly as applicable.",
+    "Yeah we have many many time zones.",
+    "Going on so I'm not gonna worry about that from now.",
+    "I feel like it's smaller than the.",
+    "The top.",
+    "Launch.",
+    "Home bark or saying, let me call the home bar.",
+    "Bye.",
+    "I found home bar.",
+    "It's probably fine.",
+    "Just to be safe, when you moved up a little bit more.",
+    "ZI don't know, I feel like.",
+    "I feel like this probably do that.",
+    "Distance Wise.",
+    "Well.",
+    "The only thing is taking situations with these, uh, different icons are going to look like at different states.",
+    "And if you want anything else, you are.",
+    "Background I want this to be a pretty like.",
+    "Clean up from interface and we had so much stuff onto it so.",
+    "Ungroup are.",
+    "Times for the time being.",
+    "Of course it put them in like random ordered.",
+    "Not going.",
+    "'cause we don't want to change the legibility of users when they are.",
+    "Not active like you still want people to be able to read them.",
+    "Oh, you basic course and you basically want to leave a similar margin with the top is 40 and I think I'm almost there.",
+    "Might be able to make it.",
+    "Yeah alright.",
+    "We're going to go with, so I'm just going in here.",
+    "You OK.",
+    "Essentially want to make this old man at all.",
+    "Tomorrow I will make different states for our buttons.",
+    "Wonder?",
+    "So I try to come up with a list of things I thought would be free standard.",
+    "In my kitchen, in like things that a lot of people have.",
+    "That was what I meant.",
+    "Was that these I'm gonna make each one of these are components.",
+    "And my initial thought is to kind of.",
+    "Hum.",
+    "Hobbies initially.",
+    "Do you like drop the opacity armies?",
+    "But leave the plot still the same like leave.",
+    "So that the taxes so legible, like maybe if we drop your pasty and then on the actives.",
+    "But I feel like this is not gonna be fun, not.",
+    "And.",
+    "Like I don't want it to be a little bit more of it.",
+    "Ifolder transition between 2:00.",
+    "Recently But Maybe we just start, uhm?",
+    "Start there and if we decide to go a different route.",
+    "With him Why is this happening last night?",
+    "Now she's gotta go make another coffee.",
+    "What are coffee drinking mouth?",
+    "I love coffee.",
+    "Just talked about coffee before in the chat and anybody else's hands and the other coffee drinkers.",
+    "Much yet.",
+    "OK.",
+    "What day is gonna be?",
+    "Have interactions for all these.",
+    "American.",
+    "Real quick.",
+    "Back to you.",
+    "Allstate will see how that works.",
+    "Nope, not mistaken in life.",
+    "Action tap the actors name from active.",
+    "Wanna go back to you?",
+    "Watching.",
+    "Thank you.",
+    "The box.",
+    "Can I save?",
+    "2.",
+    "What's this?",
+    "Jennifer Cool is cooking?",
+    "Going on.",
+    "Um?",
+    "Nick is making music and playing dynasty Warriors OK.",
+    "Jennifer.",
+    "Steven saying there's nothing wrong with your water so long as one realizes that it is likely that does the purification.",
+    "Russian proverb.",
+    "Well, I guess.",
+    "Cancel cool.",
+    "Made some clam chowder from scratch the other day.",
+    "It came out nice and creamy almost out of it with the leftovers which is a good thing.",
+    "Quarantine facility You mean?",
+    "Now I keep doing that number one.",
+    "Next, hungry and.",
+    "Because of Clam Chowder.",
+    "Jennifer full saying sorry to do that Nick next saying yeah this shadow is end up touching her feet eventually this is true.",
+    "Very true, we always end up talking about food on here, which is that I'm fine with that.",
+    "Somehow all of my projects just always end up revolving around food, and if we are talking about it.",
+    "Forward all right, we got all of our state set up here.",
+    "Also do a preview into that looks like so yeah.",
+    "Be able to click on all of these and turn them on Nov and they have like a cute little.",
+    "I dig it.",
+    "File.",
+    "So that's we're going to do for that, I think.",
+    "Smoking girl never going to move on to you.",
+    "Um?",
+    "Lock screen and see how it looks and maybe other transition.",
+    "Fresh take join the chat.",
+    "How's it going fresh pig?",
+    "Now they close Mail, so you're not going there next to me, open it loops.",
+    "1st, if you just probably wrapped streaming.",
+    "Couple minutes ago, how to you know what next screen is probably is going to be, uh, how many people are you looking for?",
+    "I think so that's what we're going to do that.",
+    "So me too.",
+    "Meeting about this, maybe we do all of our.",
+    "Well.",
+    "I think we need to Add all of our plates into right here.",
+    "What's the weather?",
+    "Well, think about the rest of the questions you want to ask on the screens.",
+    "Next One is gonna be.",
+    "How many people are you looking for?",
+    "Who might wanna bring that interesting sort of?",
+    "That's not likely.",
+    "That looks better.",
+    "Yeah, I think we're gonna rap group.",
+    "Yes.",
+    "Hello.",
+    "It seems like it.",
+    "Drag this.",
+    "Group this group.",
+    "Here so.",
+    "Just keep everything together and where I have 4.",
+    "Pickles I could have used a receipt bread I guess, but here we are.",
+    "Play free.",
+    "I'm almost will be 4.",
+    "There's a couple of ways I could have gone about setting this up, but this is just under one.",
+    "So our next question will be.",
+    "But look like if you have like people are you cooking for?",
+    "Who?",
+    "What are the what would it make sense for movies question?",
+    "I think next one should be.",
+    "Eh?",
+    "Only.",
+    "Stop.",
+    "Hello.",
+    "Dietary restrictions.",
+    "Yeah, I think that makes sense.",
+    "Any dietary restrictions?",
+    "Learn our last one is going to be.",
+    "Uh.",
+    "The equipment questions.",
+    "This is what a general pool was talking about earlier about the kitchen.",
+    "Have it.",
+    "Do you have a kitchen knife?",
+    "You have a sharp kitchen knife.",
+    "I think my school and she the way she worded it.",
+    "So what are we going to do for this one?",
+    "What?",
+    "Kitchen tools.",
+    "What tools do you have?",
+    "Kitchen.",
+    "I like that I like calling people.",
+    "Go away.",
+    "This is going to be better ways to do this.",
+    "I'm again trying to avoid having, uh.",
+    "All these groups insider groups inside of groups, components sort of thing but.",
+    "You may end up doing that anyway.",
+    "It's very thing is probably going to end up being entirely honest single outboard.",
+    "Summer vacation.",
+    "Alright, we'll figure it out.",
+    "Is the next one will probably I'm probably going to set set it all up on this.",
+    "Set up my next set of icons around his screen just so that everything is coming together.",
+    "Do you need you are?",
+    "People next, so I'm going to probably use things styled in different icons, but, uh.",
+    "Phone number.",
+    "Mass number.",
+    "Well, should we have it on the plate?",
+    "How do you order your screen slash navigation?",
+    "You follow logic.",
+    "Syntax is experience based logic.",
+    "So in terms of the.",
+    "Order questions for his onboarding experience.",
+    "I was I'm trying to group them.",
+    "It may make more sense, I guess in this case to do.",
+    "Reverse these two days.",
+    "I might do I might put what tools are in your kitchen.",
+    "And then, um.",
+    "How many people are you looking for and then guide her restrictions?",
+    "Because I'm trying to go from like equipment down too.",
+    "So we're starting with appliances to tools, to people, to specific stuff people.",
+    "So I guess I'm going from.",
+    "Why your large select appliances are larger than tools?",
+    "And that's probably the most important step in determining the user profile is you're going to want to.",
+    "I mean, you want to know people got stoves and stuff like that.",
+    "I don't know.",
+    "It's a mixture of code, finisher of like logical.",
+    "Progression so trying to keep the.",
+    "Common elements organized or like into groups together and also just.",
+    "Experience based I guess I don't know.",
+    "What feels right?",
+    "So I I feel like leading with the appliances.",
+    "Also it yeah this is just the.",
+    "A combination of things.",
+    "Love.",
+    "Say about fashion course and everything.",
+    "The water jacket.",
+    "Yeah, I think that makes more sense.",
+    "I thought it and then I I didn't make the change that.",
+    "So that means that the next one is going to be our table, which we're going to be like out here.",
+    "Open document, like I said, I'm probably.",
+    "Going to set them up on this, but then I'm going to greet them with the.",
+    "This elements that we can slide to drag to slide over.",
+    "Things.",
+    "These these icons and this are going to slide over and this is going to change from this dot highlighted to evil not highlighting.",
+    "But I want to actually see I'm doing, which is why I'm doing all of this stuff on this screen here.",
+    "Mostly dry tie down select.",
+    "So.",
+    "Yeah.",
+    "Thing about actually copy wanted to run the store.",
+    "Not people from line.",
+    "So and then saying is the background music, 2 hours in the afternoon.",
+    "Let me know the.",
+    "You know that is any better.",
+    "You know that any better?",
+    "Before.",
+    "Hold your peace guys.",
+    "Moving again, concerning your putting the two groups.",
+    "And I'm going to.",
+    "Who order this mess that illustrator setup?",
+    "Who won the best?",
+    "What's wrong with the bottom?",
+    "We actually get a copy or one from the last screen so that we don't need to make it twice.",
+    "Same.",
+    "Seymour, we did here.",
+    "For this one, I'm saying this overtime.",
+    "Honestly.",
+    "So.",
+    "How, how long is saying?",
+    "Got it, I guess I'm trying to figure out navigation best practices.",
+    "Of course, the combination ordering techniques have a problem navigation right now in a project on I am contributing, so I would look into information architecture best practices because my it is a mixture of link.",
+    "It's also depending on the context that you're making the work for.",
+    "Like what's going to be the best.",
+    "A way to organize your navigation items so it really just.",
+    "It's really just a matter of like what makes sense for your audience.",
+    "There's a couple of different exercises you can.",
+    "Go through, uh, one of which is to just like.",
+    "Write down all of the.",
+    "Current navigation you're working with.",
+    "Like all the current navigation items on the like little post it notes and stick them up on a wall essentially, and sort of really arrange them and try to reorganize into so that they flow in like a more consistent way.",
+    "Or like like more consistent way that you like better.",
+    "At 9:00 Screen against so.",
+    "We go.",
+    "Back to my.",
+    "Enjoy can hear.",
+    "You can see that that's basically what I start with, and I'm working on the project is.",
+    "I start with the order of elements.",
+    "I love groups.",
+    "Essentially this is like a.",
+    "You call user journey cholita information architecture like thinking about all of this stuff.",
+    "Uh, the user needs to navigate through and how they are all connected, and that's how it started by projects is not with like drawings of what interface is going to look like, but what is the stuff that I need to put in?",
+    "He ran like how does it get organized?",
+    "How does somebody navigate through all of that stuff essentially so?",
+    "It starts out like this, and usually if we're more complex things, well.",
+    "If I go back you can see the.",
+    "This is the same book that I did the Taco apps designs for.",
+    "So if I go back up here, this is where the Taco app started and you can see there's a lot of overlap.",
+    "There's arrows and stuff drawn to tie together these reflections and then for the timer app.",
+    "I went through and.",
+    "Road out drug screens, but I still there's a lot of like notes and then there's like one A1B1C like instructions about just sort of how I think all of this is going to link together and that can change from here to here to a final.",
+    "But yeah, let's just go.",
+    "Nothing helps you at all.",
+    "But yeah, I would look into information architecture best practices, just kind of.",
+    "Go from there.",
+    "It also just use speaker.",
+    "You know your own experience as a user, like what sort of like nobody wants to have to sit through.",
+    "A lot of information, which is what Michael was.",
+    "For this I'm trying to give like the basic sort of.",
+    "Kitchen items that you would need to uhm.",
+    "Do.",
+    "Cook in the kitchen like you're probably going to pots and pans.",
+    "Probably need a chefs knife and I'm trying to go from there and say like this is this is sort of.",
+    "A simplified list of things and if you want to add that's just add other at this ad other button.",
+    "When I'm thinking how that would work is similar to the search for ingredients sort of at the beginning of the app that we talked about.",
+    "So having just you could have had other and it's going to give you a box, but you can add like.",
+    "Uh oh, I also have a potato ricer.",
+    "Uh, in my kitchen.",
+    "Or uhm, you know I have a loaf pan in my kitchen or I have, you know, these other things that you might might be important.",
+    "L you know important things in certain recipes, but uhm.",
+    "The average user might not want to go in and like look at a huge list of all of those things and like be over choice, choice, paralysis kind of thing like I don't want to go through and like Check all these boxes you know.",
+    "So I try to keep it simple.",
+    "But also we've run for.",
+    "Users too.",
+    "As their own.",
+    "To make all of these components.",
+    "I'm coming darling.",
+    "All this stuff here.",
+    "And we'll get into.",
+    "Baby.",
+    "Dragging So how was asking is saying for information architecture got it and sticking out?",
+    "Exercise is super valuable tips.",
+    "Do you recommend any books I don't know of any books offhand.",
+    "I find that like.",
+    "The most up-to-date kind of information about this sort of stuff is on line is.",
+    "Your best bet is honestly just looking at.",
+    "Um?",
+    "Looking at.",
+    "Articles And yeah, I don't know I listening to there's a lot of good podcasts about uhm?",
+    "You are in UX design.",
+    "Thank you for the same.",
+    "Now I can OK.",
+    "So policy yeah, adding features and make the chefs like easier.",
+    "I don't know voice command works smooth.",
+    "Yeah, we could do totally add voice commands to this, you know to our search functionality so that you can either.",
+    "Search by typing or search voice text to speech.",
+    "I just don't know if we'll have time to get into all of that sort of thing.",
+    "Why not?",
+    "Play online.",
+    "I.",
+    "Anyways.",
+    "Um?",
+    "God.",
+    "Text to speech is an option for sure for this project.",
+    "So I see.",
+    "It's like that face through his name.",
+    "Her confused from I was confused as to why that wasn't working.",
+    "Stop.",
+    "I also have this terrible tendency to use the same.",
+    "Um?",
+    "Keyboard shortcuts in.",
+    "Ask me if I'd illustrator and some of them don't work and then I'll be confused.",
+    "So I try to use command ship a there which is in illustrator selects.",
+    "Select deselect everything and it doesn't work so.",
+    "Not not using my stuff.",
+    "Why did you not seeing a line?",
+    "Weird.",
+    "As well.",
+    "Let me know if anybody else in the other questions I'll try to answer them and I'm not certainly not like the expert.",
+    "That's why I hesitate to say.",
+    "Like I said, I've talked about this a little bit on my screen before about how like you must you.",
+    "Do this specific thing, otherwise it's wrong.",
+    "That's not really the case.",
+    "I once said in illustrator discord that anybody that tells you that there are rules just doesn't learn how to break them yet, and I believe that's true.",
+    "I think there are exceptions to the rules, you just have to go on break.",
+    "That's why you, yeah, I think that.",
+    "And that's all I can say about that.",
+    "Don't be afraid to break some rules.",
+    "Yeah.",
+    "Is this moving stuff so?",
+    "All right now, that was to do that before.",
+    "We can add Activestate today.",
+    "It is fun.",
+    "I believe this is the last time we have to be there.",
+    "Don't worry, I'm going to spell, after All in all of us.",
+    "Oh Hey.",
+    "So that is human.",
+    "Here on your ham.",
+    "No, they're quite wanna sleep with you.",
+    "Bye.",
+    "When is my birthday?",
+    "I think that's everything.",
+    "And you will get the last time we had interactions on.",
+    "Meanwhile I will take a look at the chat and see I'm talking about.",
+    "Paul is saying school trying to promote promote the creative thinking children by supporting what they wanted.",
+    "Praise for included impulses of giving assignments.",
+    "Yeah, that's sort of my uh.",
+    "Chief complaint, you can call it that about.",
+    "Our school and I couldn't go on this right before.",
+    "Psychology guys approach this, but I always felt like I wished.",
+    "It's hard because they have to have like a baseline right to they have to grade assignments.",
+    "And they have like a certain standard.",
+    "We want everybody to achieve.",
+    "For graduation, right?",
+    "There's like a certain like you have to have, like a minimum time requirement, right?",
+    "But at the same time I feel like a lot of times.",
+    "What ends up happening is that.",
+    "So we just ask this.",
+    "Discord and I responded by blundering portfolio reviews about like what's one thing that you wish you had learned when you were at school, and I felt like.",
+    "Some of the stuff that was really important to me, um.",
+    "After I graduated, we just kind of glossed over a little bit, which is like writing contracts and.",
+    "Oh yeah, yeah.",
+    "Secondly, that at all it would take us to separate pay for when we come back to this, or like a search bar.",
+    "Pop up or something?",
+    "But for now.",
+    "If it doesn't have anything in, it would just be lit up, so it's fine.",
+    "Only talking about talking about school I believe.",
+    "Yeah, he's just.",
+    "You just gonna go inside of this group now.",
+    "So now we're just getting into.",
+    "Really.",
+    "And.",
+    "Convoluted.",
+    "Set up.",
+    "So we're going to call this icons one.",
+    "Same thing with this group here.",
+    "Going to put it inside of this.",
+    "Nope, not inside of that.",
+    "Another thing is all kind of recap in the secondary numbers in and everything going, but depending on where.",
+    "The number of options that you think you'll either get.",
+    "Sort of an screen that sounds like it gives you a little like badge thing.",
+    "It seems like prepared or well stocked 'cause you got all you selected.",
+    "A lot of you've got a lot of cooking equipment.",
+    "And everything, or it will, if you are, you know.",
+    "I checked, few options will say, you know resourceful and will call the something cute art for that.",
+    "So.",
+    "That is the plan.",
+    "So do you wanna overview of everything or something?",
+    "I just wanna finish this for it.",
+    "We are almost through.",
+    "Almost states really made of the state.",
+    "Who?",
+    "You know she here last number.",
+    "Bad, so um.",
+    "Well, they say alright, so you know unwilling app.",
+    "So for our for the check for this thing we are making.",
+    "A cooking app and.",
+    "We're making so for the.",
+    "For today, we're working on the on boarding for this, but the idea is cooking out is that somebody would.",
+    "A user would start using it when you open it up, and it would ask you these questions, what appliances do you have in your kitchen?",
+    "What tools you have in your kitchen?",
+    "How many people are you cooking for, and are there any dietary restrictions or allergies?",
+    "And so here are all of the different icons we have for these.",
+    "Different scenarios sort of things.",
+    "And you kind of rearrange these so it makes more sense.",
+    "I tried to come up with sort of the basic Kitchin Appliances and tools that somebody might have in the kitchen, so so blender anuj would be once you go through an we have so far is turn turn these on and off.",
+    "To indicate that you have those items or not.",
+    "And you can see that I'm using this sort of plate motif for these to show that to indicate that the user can swipe to get to the next screen for the on boarding by using a little hint indicator there, and the idea is that.",
+    "This is sort of an expandable idea, so these are sort of the basics that there's this ad other category where you would be able to type in if you had, like if you have a a rice cooker or you own a deep fryer, or you know different tools that you might have because the idea of this app is that the Main.",
+    "Search functionality of it is that you open up this app you created a user profile.",
+    "If you're importing, that tells the app like these are the basic.",
+    "You know the basic information about my visa to layout my kitchen.",
+    "This number if you go looking for etc.",
+    "When you open this app will just be greeted with basically a search bar.",
+    "Yeah, when you type in the ingredients that you have so you.",
+    "Come squirting Stingrays what you got on hand so we've got the.",
+    "You be able to type in like.",
+    "Chick in and hit enter and it'll add underneath your search box like a little tag box.",
+    "You're basically adding ingredients.",
+    "You can add one ingredient, or you can add, you know, as many as was based on the number of ingredients that you add and the choices that you made in your.",
+    "On boarding here on what tools you have in your kitchen, it will pull recipes for you.",
+    "So you'll say like I have.",
+    "I have a box of stale cereal and baloney and it will pull recipes that are tagged with those items.",
+    "Open your search so it's really, really straightforward simple.",
+    "Recipe search that's just focusing on what you have, what tools you have in the kitchen, what ingredients you have in your kitchen, and you can pull up recipes that way so.",
+    "And it's you know it's made for, uh, the simple, like.",
+    "The Amish Cook that's got like the minimum kind of stuff in their kitchen all the way up to like it can be expanded.",
+    "With this ad other, to add additional items, but I wanted a onboarding that wasn't going to be overwhelming for someone who doesn't like you don't want to look at a list of a million options, right?",
+    "So I try to keep it simple since they like.",
+    "So for people who don't have, uh.",
+    "Who are you know, professional chefs and don't have a kitchen full of equipment.",
+    "You know you can just.",
+    "Um, stick with this basic kinda list of stuff and check on it off what you have or you don't have.",
+    "Or you can get really really in depth and Add all the other tools in the kitchen.",
+    "That's just adding more tags into your search so when you're searching it's saying like I'm also going to look for recipes that have that have deep fryers.",
+    "I'm also going to look for recipes that have a loaf pan you may not necessarily.",
+    "Um?",
+    "Yes, you may not necessarily need that level of detail, but it's expandable for Chester.",
+    "Have a lot of stuff in your kitchen, and people who don't, so I don't know if that makes sense.",
+    "That's basically the rundown of this whole.",
+    "What are you doing?",
+    "So we're kind of adding all of these into this master sort of screen here so that we can do the dread.",
+    "Dragon.",
+    "So so.",
+    "You can see that I've got like this master.",
+    "Yeah.",
+    "Lift Master.",
+    "Group here of all of our stuff.",
+    "I don't know, so it goes a little bit outside of maybe the bounds of the.",
+    "Original.",
+    "Challenge but.",
+    "Now you see.",
+    "I don't have a copy of the components and he actually.",
+    "Good for you, alright?",
+    "Do you love him?",
+    "Mostly going to reset this back to the initial state so it's not all the way up to 9 right now, sorry.",
+    "Default state, so backwards era.",
+    "I feel like the last one we have to worry about is just setting up these.",
+    "I can't hear anything.",
+    "Move on.",
+    "OK.",
+    "Thanks.",
+    "I guess I should probably clarify that I had already done.",
+    "Back in March, all the way through May, I'd already done a series of patterns.",
+    "So I didn't really want to do the.",
+    "Um badge thing again since I already done it before, so I wanted to do something a little bit different, which is sort of weird.",
+    "I tried that with this idea.",
+    "It took me awhile.",
+    "I only came up with it this morning and it took me awhile to get to this point, but.",
+    "Yeah.",
+    "And again, we're going to use the same ad other here so we don't have to make 3 invent the wheel.",
+    "With this icon.",
+    "Yes, this is war world.",
+    "I've replaced.",
+    "So the idea here this screen for example, is that you would be able to select.",
+    "Add add.",
+    "More than you would be able to add additional like theology to be able to add like.",
+    "I'm also allergic to shellfish or I can't have.",
+    "Would animal box that you could basically like it next week.",
+    "Or you could type and add another one.",
+    "So basically just making this list of ingredients that you want to search by and you would be able to search and it would pull up recipes that use those ingredients.",
+    "Basically whatever you have on hand and your user profile, which is what your kitchen is like and it would pull recipes that have that kind of stuff so.",
+    "What is he?",
+    "That's not working on.",
+    "And I'm putting together the on boarding.",
+    "Sequence of events here.",
+    "Just kind of finishing it out actually.",
+    "And then we're going to put a drag trigger for.",
+    "Power.",
+    "Springs.",
+    "Somebody would go through.",
+    "So we can add, basically, uh.",
+    "The theme of this very same team is the theme of the we U stream challenges to his quarantine awards and so at the end of our onboarding here we're going to add a.",
+    "Depending on.",
+    "What you the options that you chose?",
+    "You are you are going to have its either gonna.",
+    "You're either going to get it like an ending screen, an end screen for this on board, and that gives you like a.",
+    "Uh, two different badges, or just sort of screens, one of which is going to be prepared or well stocked.",
+    "You guys let me know what sort of language it should be.",
+    "Basically, if you picked a lot of these options like you have all of these tools, then it's going to give you the well stocked or prepared badge, and then if you only have a couple of tools like you only have, you don't have to even microwave an you have, you know a chefs knife.",
+    "It's gonna give you the resourceful because you're going to have to do this full so.",
+    "Sounds my thought that you have to do it option.",
+    "Maybe video either be the resourceful shaft or you be the welfare check so.",
+    "Nothing wrong with either option.",
+    "Alright so I'm gonna make another group here and we're going to.",
+    "Move this on over and add it you are.",
+    "Massive.",
+    "Set up.",
+    "I probably have.",
+    "This one is gonna go underneath hour.",
+    "Wow.",
+    "Any dietary restrictions?",
+    "So the idea was this is like I said, I picked sort of.",
+    "The minimum sort of components that you would need in the kitchen to cook essentially are trying to come up with, like the most basic sort of stuff, things that people a lot of people have in their kitchen, so, but there's an add other, so the idea is that like if you are a new Oregon experienced cook, you might not have a, you know.",
+    "Even why you might not have a ton of equipment, or you might just want to.",
+    "I try to keep this fairly, not overwhelming to look at.",
+    "Essentially, it was my goal is to not have every single piece of kitchen equipment and kitchen appliance than you could possibly imagine in this list because I felt like it would be really overwhelming to the user.",
+    "And so I wanted something that would be.",
+    "Approachable to, uh, uh, everybody?",
+    "No matter this cooking skill level, but also adaptable to.",
+    "The professional chef for the person that has a lot of equipment or wants to add a lot of stuff to their list essentially so there's this ad other if you want to add in every single one of these categories, just add other options, and that's a place where we take you to again, I'll sort of search field or text box input box where you could put in any additional things you might have.",
+    "New kitchen so you can add a rice cooker.",
+    "You can add a little pen you could add.",
+    "A potato rates are all these other things you might have in your kitchen, but you you don't have to you.",
+    "You could just stick to these basic sort of things, but I wanted to have the option there.",
+    "Something wanted to add it if they wanted to go really in depth with this and this all kind of is accessible from the user profiles anytime so they can change and make updates as they go.",
+    "We did get this far.",
+    "I have to.",
+    "I knew that this is probably going to eat up.",
+    "More than two hours to get through, but it's OK if you got pretty good.",
+    "Uh.",
+    "Start on everything I need to go back here you can see it as far as starting to think about the search page and and that everything I've gotta go back and I've got at the branding in.",
+    "You know, if you guys like any of these sort of ideas of playing with.",
+    "And I need to add to.",
+    "Screens for.",
+    "Um?",
+    "Prepared or this wistful so?",
+    "Yeah, I think that's gonna be, uh, it for now.",
+    "I'm definitely going to finish this project today.",
+    "That's my goal.",
+    "So I'll probably finish it.",
+    "Australian please don't know he wanted be there all evening watching.",
+    "He continued to work on this and get through everything.",
+    "But every guys had fun.",
+    "I may have been a little overly ambitious.",
+    "Like I said earlier in this sort of app idea, but I wanted to do something a little bit different and I had already done so.",
+    "Sort of social distance.",
+    "Paget social distancing merit badges.",
+    "I think the name that project so I wanted to do something a little bit different and I definitely wanted to do some new UI UX work, so this seems like a fun place.",
+    "Take this challenge.",
+    "Yeah, I've gotta just I don't have too much more work to do I mean, really, if I wanted to, I could just put do the badges at the end here and be done, but I do want to do something fun with the beginning and logo.",
+    "All that sort of stuff, and then the search is pretty simple, even if I don't get a wired a prototype working of it.",
+    "It might be nice just to show sort of my thoughts on how it would work, especially since it ties into how the it's going to basically behave and look the same as the option to add other sort of equipment and stuff like that.",
+    "It would just I really have in my head like this, very minimal.",
+    "Interface which is not trying to show like keeping everything very clean and very simple.",
+    "Like I said, I'm my goal is just kind of Appeal to kind of the wide range of.",
+    "The audience you know that might be using a recipe app.",
+    "Like this where you are focused on what resources you have and how to utilize them.",
+    "That's really, that's really.",
+    "The goal here is like what, what?",
+    "What's your kitchen setup want equipment?",
+    "Do you have in the search will just be what ingredients you have.",
+    "Those people typing in and.",
+    "Find recipes tag doesn't radiate, so thanks everybody who's joining today back.",
+    "Corey, Nick.",
+    "How long he was up there shared in fresh cake in the chat for awhile Jennifer pool will stop was always here LMAO was here earlier.",
+    "We have a bunch of people joining joining base so I hope you guys enjoy this.",
+    "Extremely transition out.",
+    "You can see our fun little.",
+    "A graphic against Farbe, His Quarantine Award Challenge.",
+    "We worked on today.",
+    "Um?",
+    "Gonna finish that up and post it on the hands at some point.",
+    "Today Tonight.",
+    "So yeah, uh, let me know.",
+    "As always, if you have any questions, comments, concerns, requests, uh, just wanna talk anything.",
+    "Um, you can find me.",
+    "Jack Watson.",
+    "05.",
+    "Up on all of the things.",
+    "Twitter Facebook, Instagram, etc.",
+    "That's where I'm at Jack Watson 05 because Jack Watson.",
+    "I am never the first Jack Watson.",
+    "Even on the headset Jack Watson too.",
+    "So give me a follow on Behance as well.",
+    "You can message me in any number of places.",
+    "All of those places, or you can reach me on the interior scoring only thing out there.",
+    "If you have a question about illustrator specifically or anything for that matter, just let me know.",
+    "Shoot me a message and more than happy to respond or help.",
+    "Like I said, these streams are for you guys as much as me out for me if not more so.",
+    "So.",
+    "Have you guys had fun?",
+    "Now say back saying, Well, you did so far.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        8,
+        9
+      ],
+      "sentence": [
+        "How to redo the chat?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        11,
+        12
+      ],
+      "sentence": [
+        "The fan?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        33,
+        34
+      ],
+      "sentence": [
+        "Hello, how are you?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        46,
+        47
+      ],
+      "sentence": [
+        "See that fancy fancy transition again?"
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION",
+      "span": [
+        79,
+        80
+      ],
+      "sentence": [
+        "You're gonna give agreed with kind of four 4545 screens of the first one is going to be what sort of appliances do you have on hand?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION",
+      "span": [
+        80,
+        81
+      ],
+      "sentence": [
+        "What sortof?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION",
+      "span": [
+        81,
+        82
+      ],
+      "sentence": [
+        "What's the number of people in your household?"
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "QUESTION",
+      "span": [
+        82,
+        83
+      ],
+      "sentence": [
+        "How many people before?"
+      ]
+    },
+    "T9": {
+      "id": "T9",
+      "label": "QUESTION",
+      "span": [
+        84,
+        85
+      ],
+      "sentence": [
+        "And then what kind of basic equipments you have?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        92,
+        93
+      ],
+      "sentence": [
+        "You know what are you cooking or like?"
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "QUESTION",
+      "span": [
+        94,
+        95
+      ],
+      "sentence": [
+        "It's just a search box and you type in things right?"
+      ]
+    },
+    "T12": {
+      "id": "T12",
+      "label": "QUESTION",
+      "span": [
+        101,
+        102
+      ],
+      "sentence": [
+        "What can I make with them?"
+      ]
+    },
+    "T15": {
+      "id": "T15",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        128,
+        129
+      ],
+      "sentence": [
+        "So, uh, what's up chat happening?"
+      ]
+    },
+    "T16": {
+      "id": "T16",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        129,
+        130
+      ],
+      "sentence": [
+        "Who stop by?"
+      ]
+    },
+    "T18": {
+      "id": "T18",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        147,
+        148
+      ],
+      "sentence": [
+        "Hello Jennifer, how you doing?"
+      ]
+    },
+    "T19": {
+      "id": "T19",
+      "label": "QUESTION",
+      "span": [
+        157,
+        158
+      ],
+      "sentence": [
+        "Like what?"
+      ]
+    },
+    "T20": {
+      "id": "T20",
+      "label": "QUESTION",
+      "span": [
+        158,
+        159
+      ],
+      "sentence": [
+        "What appliances you have in your kitchen or something like that?"
+      ]
+    },
+    "T21": {
+      "id": "T21",
+      "label": "QUESTION",
+      "span": [
+        172,
+        173
+      ],
+      "sentence": [
+        "Corey is saying definitely the question option, OK?"
+      ]
+    },
+    "T22": {
+      "id": "T22",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        174,
+        175
+      ],
+      "sentence": [
+        "And Why is that?"
+      ]
+    },
+    "T23": {
+      "id": "T23",
+      "label": "QUESTION",
+      "span": [
+        181,
+        182
+      ],
+      "sentence": [
+        "Do you want to use?"
+      ]
+    },
+    "T25": {
+      "id": "T25",
+      "label": "QUESTION",
+      "span": [
+        185,
+        186
+      ],
+      "sentence": [
+        "Where is odd?"
+      ]
+    },
+    "T26": {
+      "id": "T26",
+      "label": "QUESTION",
+      "span": [
+        186,
+        187
+      ],
+      "sentence": [
+        "That will be one of the questions we get to the what like what equipment do you have in your kitchen?"
+      ]
+    },
+    "T27": {
+      "id": "T27",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        208,
+        209
+      ],
+      "sentence": [
+        "I mean is the answer I want to work this out for me?"
+      ]
+    },
+    "T28": {
+      "id": "T28",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        210,
+        211
+      ],
+      "sentence": [
+        "How to hack that thing in the bottom of even called?"
+      ]
+    },
+    "T30": {
+      "id": "T30",
+      "label": "QUESTION",
+      "span": [
+        253,
+        254
+      ],
+      "sentence": [
+        "Do you like drop the opacity armies?"
+      ]
+    },
+    "T32": {
+      "id": "T32",
+      "label": "QUESTION",
+      "span": [
+        262,
+        263
+      ],
+      "sentence": [
+        "With him Why is this happening last night?"
+      ]
+    },
+    "T36": {
+      "id": "T36",
+      "label": "QUESTION",
+      "span": [
+        281,
+        282
+      ],
+      "sentence": [
+        "Can I save?"
+      ]
+    },
+    "T37": {
+      "id": "T37",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        283,
+        284
+      ],
+      "sentence": [
+        "What's this?"
+      ]
+    },
+    "T38": {
+      "id": "T38",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        284,
+        285
+      ],
+      "sentence": [
+        "Jennifer Cool is cooking?"
+      ]
+    },
+    "T42": {
+      "id": "T42",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        312,
+        313
+      ],
+      "sentence": [
+        "How's it going fresh pig?"
+      ]
+    },
+    "T43": {
+      "id": "T43",
+      "label": "QUESTION",
+      "span": [
+        315,
+        316
+      ],
+      "sentence": [
+        "Couple minutes ago, how to you know what next screen is probably is going to be, uh, how many people are you looking for?"
+      ]
+    },
+    "T44": {
+      "id": "T44",
+      "label": "QUESTION",
+      "span": [
+        321,
+        322
+      ],
+      "sentence": [
+        "What's the weather?"
+      ]
+    },
+    "T45": {
+      "id": "T45",
+      "label": "QUESTION",
+      "span": [
+        324,
+        325
+      ],
+      "sentence": [
+        "How many people are you looking for?"
+      ]
+    },
+    "T46": {
+      "id": "T46",
+      "label": "QUESTION",
+      "span": [
+        325,
+        326
+      ],
+      "sentence": [
+        "Who might wanna bring that interesting sort of?"
+      ]
+    },
+    "T47": {
+      "id": "T47",
+      "label": "QUESTION",
+      "span": [
+        341,
+        342
+      ],
+      "sentence": [
+        "But look like if you have like people are you cooking for?"
+      ]
+    },
+    "T49": {
+      "id": "T49",
+      "label": "QUESTION",
+      "span": [
+        343,
+        344
+      ],
+      "sentence": [
+        "What are the what would it make sense for movies question?"
+      ]
+    },
+    "T51": {
+      "id": "T51",
+      "label": "QUESTION",
+      "span": [
+        351,
+        352
+      ],
+      "sentence": [
+        "Any dietary restrictions?"
+      ]
+    },
+    "T52": {
+      "id": "T52",
+      "label": "QUESTION",
+      "span": [
+        357,
+        358
+      ],
+      "sentence": [
+        "Do you have a kitchen knife?"
+      ]
+    },
+    "T53": {
+      "id": "T53",
+      "label": "QUESTION",
+      "span": [
+        360,
+        361
+      ],
+      "sentence": [
+        "So what are we going to do for this one?"
+      ]
+    },
+    "T54": {
+      "id": "T54",
+      "label": "QUESTION",
+      "span": [
+        361,
+        362
+      ],
+      "sentence": [
+        "What?"
+      ]
+    },
+    "T55": {
+      "id": "T55",
+      "label": "QUESTION",
+      "span": [
+        363,
+        364
+      ],
+      "sentence": [
+        "What tools do you have?"
+      ]
+    },
+    "T57": {
+      "id": "T57",
+      "label": "QUESTION",
+      "span": [
+        380,
+        381
+      ],
+      "sentence": [
+        "Well, should we have it on the plate?"
+      ]
+    },
+    "T58": {
+      "id": "T58",
+      "label": "QUESTION",
+      "span": [
+        381,
+        382
+      ],
+      "sentence": [
+        "How do you order your screen slash navigation?"
+      ]
+    },
+    "T59": {
+      "id": "T59",
+      "label": "QUESTION",
+      "span": [
+        391,
+        392
+      ],
+      "sentence": [
+        "How many people are you looking for and then guide her restrictions?"
+      ]
+    },
+    "T63": {
+      "id": "T63",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        432,
+        433
+      ],
+      "sentence": [
+        "Who order this mess that illustrator setup?"
+      ]
+    },
+    "T64": {
+      "id": "T64",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        433,
+        434
+      ],
+      "sentence": [
+        "Who won the best?"
+      ]
+    },
+    "T65": {
+      "id": "T65",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        434,
+        435
+      ],
+      "sentence": [
+        "What's wrong with the bottom?"
+      ]
+    },
+    "T66": {
+      "id": "T66",
+      "label": "QUESTION",
+      "span": [
+        441,
+        442
+      ],
+      "sentence": [
+        "How, how long is saying?"
+      ]
+    },
+    "T67": {
+      "id": "T67",
+      "label": "QUESTION",
+      "span": [
+        463,
+        464
+      ],
+      "sentence": [
+        "Uh, the user needs to navigate through and how they are all connected, and that's how it started by projects is not with like drawings of what interface is going to look like, but what is the stuff that I need to put in?"
+      ]
+    },
+    "T68": {
+      "id": "T68",
+      "label": "QUESTION",
+      "span": [
+        464,
+        465
+      ],
+      "sentence": [
+        "He ran like how does it get organized?"
+      ]
+    },
+    "T69": {
+      "id": "T69",
+      "label": "QUESTION",
+      "span": [
+        465,
+        466
+      ],
+      "sentence": [
+        "How does somebody navigate through all of that stuff essentially so?"
+      ]
+    },
+    "T73": {
+      "id": "T73",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        519,
+        520
+      ],
+      "sentence": [
+        "Why not?"
+      ]
+    },
+    "T76": {
+      "id": "T76",
+      "label": "QUESTION",
+      "span": [
+        537,
+        538
+      ],
+      "sentence": [
+        "Why did you not seeing a line?"
+      ]
+    },
+    "T77": {
+      "id": "T77",
+      "label": "QUESTION",
+      "span": [
+        551,
+        552
+      ],
+      "sentence": [
+        "Is this moving stuff so?"
+      ]
+    },
+    "T78": {
+      "id": "T78",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        562,
+        563
+      ],
+      "sentence": [
+        "When is my birthday?"
+      ]
+    },
+    "T79": {
+      "id": "T79",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        575,
+        576
+      ],
+      "sentence": [
+        "For graduation, right?"
+      ]
+    },
+    "T80": {
+      "id": "T80",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        576,
+        577
+      ],
+      "sentence": [
+        "There's like a certain like you have to have, like a minimum time requirement, right?"
+      ]
+    },
+    "T82": {
+      "id": "T82",
+      "label": "QUESTION",
+      "span": [
+        609,
+        610
+      ],
+      "sentence": [
+        "So do you wanna overview of everything or something?"
+      ]
+    },
+    "T84": {
+      "id": "T84",
+      "label": "QUESTION",
+      "span": [
+        621,
+        622
+      ],
+      "sentence": [
+        "A user would start using it when you open it up, and it would ask you these questions, what appliances do you have in your kitchen?"
+      ]
+    },
+    "T85": {
+      "id": "T85",
+      "label": "QUESTION",
+      "span": [
+        622,
+        623
+      ],
+      "sentence": [
+        "What tools you have in your kitchen?"
+      ]
+    },
+    "T86": {
+      "id": "T86",
+      "label": "QUESTION",
+      "span": [
+        623,
+        624
+      ],
+      "sentence": [
+        "How many people are you cooking for, and are there any dietary restrictions or allergies?"
+      ]
+    },
+    "T87": {
+      "id": "T87",
+      "label": "QUESTION",
+      "span": [
+        649,
+        650
+      ],
+      "sentence": [
+        "With this ad other, to add additional items, but I wanted a onboarding that wasn't going to be overwhelming for someone who doesn't like you don't want to look at a list of a million options, right?"
+      ]
+    },
+    "T89": {
+      "id": "T89",
+      "label": "QUESTION",
+      "span": [
+        662,
+        663
+      ],
+      "sentence": [
+        "What are you doing?"
+      ]
+    },
+    "T90": {
+      "id": "T90",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        675,
+        676
+      ],
+      "sentence": [
+        "Good for you, alright?"
+      ]
+    },
+    "T91": {
+      "id": "T91",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        676,
+        677
+      ],
+      "sentence": [
+        "Do you love him?"
+      ]
+    },
+    "T94": {
+      "id": "T94",
+      "label": "QUESTION",
+      "span": [
+        733,
+        734
+      ],
+      "sentence": [
+        "Any dietary restrictions?"
+      ]
+    },
+    "T98": {
+      "id": "T98",
+      "label": "QUESTION",
+      "span": [
+        781,
+        782
+      ],
+      "sentence": [
+        "The goal here is like what, what?"
+      ]
+    },
+    "T99": {
+      "id": "T99",
+      "label": "QUESTION",
+      "span": [
+        782,
+        783
+      ],
+      "sentence": [
+        "What's your kitchen setup want equipment?"
+      ]
+    },
+    "T101": {
+      "id": "T101",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        813,
+        814
+      ],
+      "sentence": [
+        "Have you guys had fun?"
+      ]
+    },
+    "T102": {
+      "id": "T102",
+      "label": "ANSWER",
+      "span": [
+        12,
+        13
+      ],
+      "sentence": [
+        "Yeah, it's pretty hot here in Ohio as well, so hope everybody staying cool."
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "ANSWER",
+      "span": [
+        85,
+        87
+      ],
+      "sentence": [
+        "You have pots and pans.",
+        "You have a cast iron skillet baking sheets, all that kind of stuff, and based on the user selections that's going to build a profile so that the recipe search only calls recipes that use items that somebody has my kitchen currently."
+      ]
+    },
+    "T13": {
+      "id": "T13",
+      "label": "ANSWER",
+      "span": [
+        102,
+        104
+      ],
+      "sentence": [
+        "So my?",
+        "Plan is to do the on boarding for that at the end of this onboarding process, after the user gets through all of these questions."
+      ]
+    },
+    "T14": {
+      "id": "T14",
+      "label": "ANSWER",
+      "span": [
+        316,
+        317
+      ],
+      "sentence": [
+        "I think so that's what we're going to do that."
+      ]
+    },
+    "T17": {
+      "id": "T17",
+      "label": "ANSWER",
+      "span": [
+        382,
+        383
+      ],
+      "sentence": [
+        "You follow logic."
+      ]
+    },
+    "T24": {
+      "id": "T24",
+      "label": "ANSWER",
+      "span": [
+        466,
+        474
+      ],
+      "sentence": [
+        "It starts out like this, and usually if we're more complex things, well.",
+        "If I go back you can see the.",
+        "This is the same book that I did the Taco apps designs for.",
+        "So if I go back up here, this is where the Taco app started and you can see there's a lot of overlap.",
+        "There's arrows and stuff drawn to tie together these reflections and then for the timer app.",
+        "I went through and.",
+        "Road out drug screens, but I still there's a lot of like notes and then there's like one A1B1C like instructions about just sort of how I think all of this is going to link together and that can change from here to here to a final.",
+        "But yeah, let's just go."
+      ]
+    },
+    "T29": {
+      "id": "T29",
+      "label": "ANSWER",
+      "span": [
+        663,
+        665
+      ],
+      "sentence": [
+        "So we're kind of adding all of these into this master sort of screen here so that we can do the dread.",
+        "Dragon."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T1",
+      "answer": "T102",
+      "question_sentence": [
+        "The fan?"
+      ],
+      "answer_sentence": [
+        "Yeah, it's pretty hot here in Ohio as well, so hope everybody staying cool."
+      ]
+    },
+    "R2": {
+      "id": "R2",
+      "label": "Chitchat",
+      "question": "T9",
+      "answer": "T4",
+      "question_sentence": [
+        "And then what kind of basic equipments you have?"
+      ],
+      "answer_sentence": [
+        "You have pots and pans.",
+        "You have a cast iron skillet baking sheets, all that kind of stuff, and based on the user selections that's going to build a profile so that the recipe search only calls recipes that use items that somebody has my kitchen currently."
+      ]
+    },
+    "R3": {
+      "id": "R3",
+      "label": "Chitchat",
+      "question": "T12",
+      "answer": "T13",
+      "question_sentence": [
+        "What can I make with them?"
+      ],
+      "answer_sentence": [
+        "So my?",
+        "Plan is to do the on boarding for that at the end of this onboarding process, after the user gets through all of these questions."
+      ]
+    },
+    "R4": {
+      "id": "R4",
+      "label": "Chitchat",
+      "question": "T43",
+      "answer": "T14",
+      "question_sentence": [
+        "Couple minutes ago, how to you know what next screen is probably is going to be, uh, how many people are you looking for?"
+      ],
+      "answer_sentence": [
+        "I think so that's what we're going to do that."
+      ]
+    },
+    "R5": {
+      "id": "R5",
+      "label": "Chitchat",
+      "question": "T58",
+      "answer": "T17",
+      "question_sentence": [
+        "How do you order your screen slash navigation?"
+      ],
+      "answer_sentence": [
+        "You follow logic."
+      ]
+    },
+    "R6": {
+      "id": "R6",
+      "label": "Chitchat",
+      "question": "T69",
+      "answer": "T24",
+      "question_sentence": [
+        "How does somebody navigate through all of that stuff essentially so?"
+      ],
+      "answer_sentence": [
+        "It starts out like this, and usually if we're more complex things, well.",
+        "If I go back you can see the.",
+        "This is the same book that I did the Taco apps designs for.",
+        "So if I go back up here, this is where the Taco app started and you can see there's a lot of overlap.",
+        "There's arrows and stuff drawn to tie together these reflections and then for the timer app.",
+        "I went through and.",
+        "Road out drug screens, but I still there's a lot of like notes and then there's like one A1B1C like instructions about just sort of how I think all of this is going to link together and that can change from here to here to a final.",
+        "But yeah, let's just go."
+      ]
+    },
+    "R7": {
+      "id": "R7",
+      "label": "Chitchat",
+      "question": "T89",
+      "answer": "T29",
+      "question_sentence": [
+        "What are you doing?"
+      ],
+      "answer_sentence": [
+        "So we're kind of adding all of these into this master sort of screen here so that we can do the dread.",
+        "Dragon."
+      ]
+    }
+  }
+}

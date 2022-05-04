@@ -1,0 +1,2224 @@
+{
+  "sentence": [
+    "Welcome back.",
+    "You've caught me completely prepared and ready to go on.",
+    "Don't know I'm I'm lying.",
+    "I'm going to be late to class again.",
+    "I know got good reason, though I thought I had everything all ready to go and then you know, as soon as I bring it in 30 minutes before the stream I I started noticing all sorts of errors so.",
+    "Quick overview what we're doing today is going to be texting this little.",
+    "Sci-fi hangar door, well, let's call it.",
+    "And we're going to use it as a stream transition, which I think would be kind of fun.",
+    "This bad this bad boy here is going to.",
+    "Yeah, nice little overlay and will animate it and do all that good stuff, but we do have a few glaring issues to fix.",
+    "Most noticeably, we got some.",
+    "Ron facing faces or normal is going on here rather.",
+    "We got a few.",
+    "Funny things here and there.",
+    "It turns out that.",
+    "Maybe, just maybe a little little bit of the old movies were sticking off the.",
+    "Signal the edge up here.",
+    "As you can see.",
+    "Now we gotta fix for those.",
+    "I just got that fixed going, but we do need to go back and re bake or.",
+    "Or Maps so.",
+    "If you just mayor with me, we're going to be doing that real quick.",
+    "So we got our exploded little meshes here.",
+    "In fact, I'm going to go ahead and name that.",
+    "Yeah, with all makes sense in a little bit.",
+    "Once I do my explaining good enough.",
+    "All right?",
+    "Got a nice hot high Poly mesh.",
+    "I'm going to go ahead and just.",
+    "But you will take a look at what that looks like.",
+    "I know very nice, but it is unreasonable.",
+    "For us to texture this, mostly because I don't want to be the one to unwrap it.",
+    "So what we do is.",
+    "We pop it down into this nice boring low Poly version with all these hard edges.",
+    "All these disgusting 90 degree turns and then we.",
+    "We do a few little tricks to make the I think it's rounded.",
+    "Let's see what I mean.",
+    "So real quick.",
+    "Let's go ahead and get these exported.",
+    "Preface selection and if you have done this once before, I thought I had everything sorted, but.",
+    "Yes, that was not the case.",
+    "But that's on me for.",
+    "In all of two hours of sleep last night so.",
+    "I'll make a few mistakes here and there.",
+    "Sounds good.",
+    "So now that we got those two experts were going to hop back over.",
+    "I know we got so many programs going to actually do are.",
+    "Baking in.",
+    "Tool bag here.",
+    "Just a little bit little bit quicker, so I'm going to do is going to get really sold meshes.",
+    "They ain't right.",
+    "And then we're going to.",
+    "Bring in the new.",
+    "Over here.",
+    "Drag goes on in.",
+    "I know looks hideous.",
+    "Don't mind that.",
+    "Who are low Poly in there?",
+    "I put in there?",
+    "Now we're just going to quickly check.",
+    "Everything's good to go.",
+    "At these cages.",
+    "I think we're good to start with bacon.",
+    "So long as I don't forget anything, I think we're good to go.",
+    "Got our normal map.",
+    "Now we can hop back over.",
+    "Right since hop over into substance painter here.",
+    "First things first, let's get this sorted.",
+    "Do another new one here.",
+    "We're going to grab are fixed model.",
+    "And we should see I think I shuffled this one around.",
+    "This little piece in the top left is going to move down.",
+    "And a few other quick changes.",
+    "Let's go ahead and quickly grab our normal map that we just made.",
+    "The OK discard.",
+    "Let's see if we get those fixes.",
+    "Nope, this is the wrong one, so I'm going to go ahead and.",
+    "Make sure I exported it.",
+    "And tell me that I didn't.",
+    "In real quick and just going to check my UPS.",
+    "Is all fixed.",
+    "Cool.",
+    "File export that selection.",
+    "That door low.",
+    "Yes please.",
+    "Better one more time.",
+    "Beautiful there we go.",
+    "Everything is within the lines were looking all good.",
+    "Just fine.",
+    "Up in our normal map.",
+    "Like really funny areas we got.",
+    "Oh man, we got two faces.",
+    "We can fix that.",
+    "We fix that easily.",
+    "I was good.",
+    "So I mean it ain't the Cleanest But.",
+    "Top of the four K in the end of look good.",
+    "Alright, we got literally two faces here that would give us problems.",
+    "Which it's an easy fix, but you guys know the gel.",
+    "You know how it back over?",
+    "Be nice if I could tell which faces those were though.",
+    "Go ahead and find the.",
+    "Spending faces here.",
+    "Doesn't help that it's all symmetrical.",
+    "I don't know which way up is.",
+    "There we go.",
+    "Paint those in a.",
+    "Actions make it out.",
+    "She to read shame here.",
+    "And I'm just going to find them on my.",
+    "Are you guys here?",
+    "OK, now.",
+    "And a half back over going to fix those faces.",
+    "So it's.",
+    "Corner that is.",
+    "Right here.",
+    "Select that and find that.",
+    "Probably these two ones.",
+    "Wouldn't be.",
+    "It's a nice thing about.",
+    "Getting back to texturing stuff I did is I know where everything is.",
+    "It all out by hand.",
+    "Maybe a little bit dark.",
+    "Stick deep into this metal here already.",
+    "How do I choose Maya?",
+    "Ask a question, it's.",
+    "There's two reasons.",
+    "One is 'cause it's what they taught us as the biggest one.",
+    "In two it's let me say industry standard, but it's one of the two major ones is between that and.",
+    "Let's see otherwise.",
+    "Basically the same program.",
+    "3DS Max is kind of funny.",
+    "Both are owned by out of desk.",
+    "But they're very similar products, and it's because.",
+    "Believe Autodesk in pot 3DS Max.",
+    "Which was another 3D modeling software.",
+    "And.",
+    "But rather than combining it with my late kept this effort because obviously people like that and I don't know.",
+    "It's just where the company's got.",
+    "Very similar products, but I think that's.",
+    "They are not the only ones.",
+    "Thurs blender I have tried out blender.",
+    "Actually, the first one I dabbled in.",
+    "Many, many years ago.",
+    "The problem with it now she build such a muscle memory with one program that switching over everything's a different hot key.",
+    "Nothing controls the same.",
+    "It's like it's almost like speaking a whole new language and some way.",
+    "What is the Slayer and why did I make it?",
+    "Fuse you can go wait.",
+    "I do like Milo's got some.",
+    "Any good tools in it?",
+    "I do riff on it a little bit, but.",
+    "Think any program you spend.",
+    "Significant amount of time in you're going to have.",
+    "Pro grapes that pop up.",
+    "So there's some really good stuff though.",
+    "Which are both owned by Autodesk I.",
+    "It's Maya and 3DS Max which are kind of a too big industry standards for games.",
+    "Materials here.",
+    "I quite like the.",
+    "At lines like this.",
+    "We could even go in and painter on lines here.",
+    "The basic hard brush.",
+    "I already know I don't like this, but.",
+    "Bring up the brush choice later.",
+    "Just want to see.",
+    "Looking at color and shape here.",
+    "Something like that though.",
+    "Any confuse me so much?",
+    "My first concern is like wait.",
+    "So why do they have two of the same program?",
+    "It was like which one am I supposed to use?",
+    "Part of me wishes I went the.",
+    "3DS Max grab those God.",
+    "Get some nifty features.",
+    "They wish my head like it's a little bit.",
+    "Little bit less of a destructive Workflow would say.",
+    "No, my has similar properties, it's just.",
+    "With the UI is and getting through it still a little different?",
+    "I want to play around with some premade materials here, but we might pop back over.",
+    "Just keep making our own.",
+    "I just painted ones can be quite harsh.",
+    "I think we're going to use anything here.",
+    "Well, you some techniques such as.",
+    "At some little noise patterns going on to give a little bit of Kurt Color Variation, I think will pop that in now.",
+    "Ways I can go about doing this easiest disinterest?",
+    "Go ahead and.",
+    "So later.",
+    "That a mask.",
+    "Go ahead, actually want to use a bitmap mask.",
+    "Have something like are clouds?",
+    "The classic you can't get away from it.",
+    "Book Lance 2.",
+    "On my color mode and I just wanted.",
+    "Why this year?",
+    "It will be very extreme, which is fine.",
+    "Got it back.",
+    "Don't know everything's out of order in his bugging me.",
+    "I don't know why it is because I went to school they wanted.",
+    "Specular glossiness like I cheated on my favorite.",
+    "Different shader mode.",
+    "Whatever you know.",
+    "Back to haunt me.",
+    "How well?",
+    "Still a bit extreme.",
+    "And we consume.",
+    "Their colors.",
+    "You just go let's grab the same color and then just.",
+    "Value a little bit.",
+    "I like.",
+    "Just want something very subtle.",
+    "Just kind of simulate like.",
+    "Free to give this multiple coats, maybe not.",
+    "Each code is perfectly even.",
+    "He had some thinner spots.",
+    "Can't look at dark dark material.",
+    "Dark material underneath.",
+    "There might be coming through just a little bit.",
+    "I just want to start thinking about the actual.",
+    "Texture I know texture is one of those words.",
+    "Guess Turner around a lot.",
+    "We're making a texture, but we'll set the add texture, it's.",
+    "It's all sorts of confusing.",
+    "Basically I want to add a little bit of bump though.",
+    "Want anything strange?",
+    "Want anything extremists in CCC?",
+    "Brings in this.",
+    "It is popcorn ceiling material.",
+    "Remind it.",
+    "I think this is going to be the right map for us, but.",
+    "Let's see if this is.",
+    "I don't like the noise, but.",
+    "Come there.",
+    "Still.",
+    "And I'm just going to find a little noise map.",
+    "So what I should have done and what I almost did was.",
+    "Model in the geometry so that I could just select my face is but in the end I lays it out 'cause I was like.",
+    "You know what I could just hold shift.",
+    "In control, and that'll draw me straight line.",
+    "And we are, we don't really too worried about color.",
+    "Hers, the black color working with right now is because.",
+    "We we have everything set up as we can just go in and turn it into whatever we like which is really cool.",
+    "So I always work with Phil layers and masks as opposed to.",
+    "Just regular old layers.",
+    "Regular layers are lame.",
+    "They were fun.",
+    "It's just, it's just thanks.",
+    "Make sure actually.",
+    "Get the thickness somewhere right here.",
+    "You could have an outline, so along some of the.",
+    "Geo here to mechanical.",
+    "Speaking of.",
+    "Minor gripes though, just want to have is that.",
+    "I click here and then I want to shift.",
+    "I can get that point, but as soon as I.",
+    "Alton middle click over.",
+    "It doesn't stay there.",
+    "That makes sense so.",
+    "You gotta do it all in one big swing.",
+    "Which ain't that big of a deal.",
+    "Pretty good.",
+    "Is that noise is a little bit extreme.",
+    "The rough metal we got going on for the finish, but.",
+    "We'll come back to it, so yeah, thank you.",
+    "It reminded me to save.",
+    "By doing it for me, having said I have not saved yet.",
+    "That way everything.",
+    "Back Mr White.",
+    "Different versions that would be very cool.",
+    "Start bringing in the same.",
+    "Styling.",
+    "I'm going to want a different line thickness here though.",
+    "That down to about there.",
+    "Off You want the ability to hold shift and control to get these lines.",
+    "I'd have to learn how to draw straight lines.",
+    "The greatest thing ever.",
+    "It will be a 45 degree angle.",
+    "Now of course.",
+    "And clean up a little bit of those edges there, but that's OK.",
+    "Not today though.",
+    "Game.",
+    "And I think we will pop this over into.",
+    "Or K for the final render here for the final export weather and the nice thing about painter here is I can work in whatever resolution I want and.",
+    "When I go and switch it.",
+    "I goes and recalculates everything.",
+    "It doesn't do any dirty upscaling tricks, it's just it's true 4K.",
+    "Sure, whatever you want.",
+    "Take a guess.",
+    "But if you use an AK images then.",
+    "That's a big hard drives 'cause.",
+    "I want everything up for just 2K.",
+    "All right?",
+    "You're not the sharpest lines, but.",
+    "Don't look.",
+    "Yeah.",
+    "Yeah, I like that.",
+    "Not even do it down here on this labor.",
+    "First, let's go ahead and grab.",
+    "It's bad boy.",
+    "They relieve their annoying things are so high resolution out means more work, but also means your work doesn't get blurred out.",
+    "I mean, the higher the resolution, the better I think.",
+    "Yeah.",
+    "As the big breakthrough, I want to see us.",
+    "It's Crazy Resolution Games 'cause then.",
+    "Think about how she's just so many opportunities with high resolution.",
+    "I don't have to pick and choose where my.",
+    "Pixel density is how you know my UV second.",
+    "Everything was high res.",
+    "I wouldn't have to.",
+    "I don't know if it's more high res.",
+    "I'll do that short, I don't mind.",
+    "Most of the extra work is done by substance painter anyways, so.",
+    "If that means I could be thrown down decals without having to throw down decals, I'll be.",
+    "All about it.",
+    "'cause a lot of times what games will do is rather than.",
+    "OK, let's say I wanted to have like.",
+    "A cool little bit of text somewhere.",
+    "If they wanted this cool little.",
+    "Digits printed on rather than going into the.",
+    "Textured self and stamping that on.",
+    "I will do is actually have.",
+    "Gay mentions there's usually these things called decals and.",
+    "It just let's them stamp him around without having to worry about.",
+    "Their texture resolution.",
+    "On the object printed on so.",
+    "You know, so I had a.",
+    "Very big spaceship and I wanted little.",
+    "Little stickers everywhere with all sorts of cool at all.",
+    "Details I can use.",
+    "His in game projected decals as opposed to put them directly on the texture.",
+    "Got her start talking like that but.",
+    "And they quote me on that, right.",
+    "Just just never quoting a man, he's had a.",
+    "All of two hours of sleep today, so.",
+    "Anything I say today is not gospel, but.",
+    "Dress that I'm you know, one or percent, always accurate, never wrong, right?",
+    "Probably the more work.",
+    "'cause the more work is all done by painter.",
+    "So I was thinking about the.",
+    "Oh no, don't worry about me.",
+    "I'm I've been looking forward to it.",
+    "I love me some streaming.",
+    "And I've been like I've been kind of interact with my modeling lately, and this one I finally broke out of that rut.",
+    "So I am super excited to be textured.",
+    "Something original again.",
+    "I'm chilling.",
+    "Look at plenty of sleep tonight, I promise.",
+    "And I was thinking about the old.",
+    "We could do that unreal 5 demo and they start talking about.",
+    "Yeah, don't worry, no more worry about polygons, millions of polygons and I passed a man.",
+    "Let's go to unwrap that bill.",
+    "Like I don't think the auto in rappers have gotten good enough.",
+    "The rely solely on that and what I mean by Unwrapping.",
+    "I know I looked around all these cooling goes to sound cool.",
+    "Basically what it is though I've got this 3D model and then I gotta go through and cut it up so everything lays flat, right?",
+    "It's it's basically reverse origami.",
+    "I've got this 3D thing and I make it to D and plan everything out.",
+    "So if you think about like a typical cube, if you're to make a paper cube, you unfold it and it would look like this pretty much.",
+    "This is, you know, if your printed out that you could fold it up.",
+    "Make a cube.",
+    "Same thing goes for unwrapping everything.",
+    "It's just a matter of flattening everything out as cleanly as you can.",
+    "An which is all good in said on these nice.",
+    "Low Poly models but then.",
+    "I start bringing these high Poly models.",
+    "This ones got was this have.",
+    "Engineer 800,000 tries, it's a lot, it's over over the soap, but having to go through and cut all the different lines, I need an unfold.",
+    "It is nightmare.",
+    "I don't know who's going to do that.",
+    "We gotta get better unwrapping.",
+    "We need some Magic AI in movies.",
+    "That's what I'm going to say.",
+    "Do you quote me on that one?",
+    "The next big breakthrough.",
+    "Not having to you face.",
+    "There are some things like.",
+    "I think I think my my box, which is another, my or another Autodesk program for sculpting.",
+    "There's there's some sort of.",
+    "Texel painting don't quote me on that one, but what it is.",
+    "Basically you can paint texture without needing to unwrap and UV.",
+    "And but it's very computationally expensive to do so.",
+    "You can see that in any real time application, as far as I'm aware.",
+    "But if they got some breakthroughs on that could be kind of.",
+    "Kinda crazy though.",
+    "I gotta be honest, even though I'm.",
+    "Run on a tiny bit of sleep I.",
+    "I feel super energized.",
+    "I stop by fresh cake stream today.",
+    "It was like man.",
+    "Sky this kind of data stream.",
+    "I thought super motivated to go in and do.",
+    "There's some streaming my own.",
+    "I don't know how I haven't watched more of history and so forth.",
+    "This is just awesome.",
+    "So good.",
+    "Please don't know, fresh cake is another streamer here on be Hans.",
+    "The key works mostly in Frisco, and he does these really cool.",
+    "The stations you should just go check him out.",
+    "I love his art style in.",
+    "Some straight lines.",
+    "Little thick",
+    "Once see too much.",
+    "X going on over here.",
+    "Let's not worry about that.",
+    "Messy.",
+    "Little bit smaller.",
+    "Then Also do is just grab.",
+    "Faces down here.",
+    "The screws are pretty gradients.",
+    "Oh these things over here.",
+    "These are.",
+    "After normal map detail.",
+    "Sue a boy was talking to Jordan by this other day trying to explain normal Maps without any sort of visual aid.",
+    "So let's see how it can do it with some visual aid.",
+    "So basically I want over this briefly at the start of the stream, but what we did is we took this.",
+    "Super High Poly Model with its very nice rounded rounded edges.",
+    "Beautiful curves and we took it over.",
+    "To this ugly.",
+    "Low Poly Model with its hard edges you know 90 degree edges, which is you know.",
+    "There's no such thing, right?",
+    "No such thing in real life.",
+    "So they always tell me all we do is we.",
+    "Do a little bit of baking to get that kind of detail.",
+    "So basically what it does is.",
+    "It makes it appear as if.",
+    "These hard edges have the curve of the high Poly model.",
+    "Based on how it draws the normals.",
+    "And the normals are basically.",
+    "Any given point.",
+    "Let's see if I can turn on.",
+    "Display.",
+    "Anything whatever.",
+    "This goes into more graphics engineering which.",
+    "I don't know much about, but I can get by.",
+    "Basically, it just tells any given pixel which way it's facing.",
+    "So with that ends up doing is we make ourselves a normal map which looks like do do do do, do do do this.",
+    "It's in this weird purple.",
+    "Tone.",
+    "Let's see why, but that's what it do, and basically these are just.",
+    "In that same gradients of it, it fits in with the normal map.",
+    "Is that makes sense.",
+    "Give a quick demonstration even.",
+    "She replied, Let's not do that.",
+    "The norm happen.",
+    "The heightmap or.",
+    "Kind of very similar.",
+    "Um?",
+    "Most of the time when I'm working I convert my height into a normal map.",
+    "And blend the two.",
+    "I play my normal in my height, but sometimes you'll take your height map and use it to actually tessellate and push the geometry.",
+    "I shut off my force material before and I did that.",
+    "I don't know what happened.",
+    "What's going on over here?",
+    "Hum.",
+    "Hey can use the heightmap to tessellate and actually push out geometry.",
+    "What is the normal map is just a?",
+    "This looks like that.",
+    "I'm away.",
+    "This is happening at three over some stuff.",
+    "I should have done instead of Tangent app.",
+    "I should have been on UV.",
+    "That was on me.",
+    "Paint just do half right, they did.",
+    "Do this for peace.",
+    "To her mask.",
+    "Then all sorts of funny.",
+    "As soon as that pink were talking about the other stream, yeah yeah.",
+    "I don't know what happened to my mask.",
+    "Whoever.",
+    "And all these gaps everywhere, man.",
+    "I wanted to do was I should've been brushing with.",
+    "UV alignment on so that it doesn't.",
+    "Take into account the actual.",
+    "Geometry is sitting on top.",
+    "I I did the full box here, I'm feel like I'm going crazy.",
+    "I thought I did all this.",
+    "This is cool.",
+    "Thanks KIRO.",
+    "Here drawing.",
+    "Any questions, feel free to ask.",
+    "Some questions in my own is to.",
+    "Things are.",
+    "Messed up, but.",
+    "Remind will do it a second time.",
+    "Just redo it, which is really doing man.",
+    "Those lines are so nice and straight.",
+    "I feel like this is the.",
+    "The stream of do overs?",
+    "Shell.",
+    "What you doing there?",
+    "I can be able to match the size, so we might as well redo it all.",
+    "And we could get close enough, but.",
+    "He would know.",
+    "I'm going to make sure my alignment.",
+    "Do is purely on UV here.",
+    "We don't even rotate.",
+    "You're destroying today, rain as well, right?",
+    "The way I sat on the listening, I gotta check that out.",
+    "Going to be honest, I got totally enamored with fresh cakes.",
+    "I totally forgot.",
+    "How to go?",
+    "Here we go.",
+    "Said just change size my brush tonight.",
+    "But then you realise.",
+    "That's from the Earth.",
+    "So good.",
+    "Play this Tammy.",
+    "Who did see?",
+    "Carnaval music yeah I got you I got you hold on.",
+    "It's pop it out.",
+    "Let's get weird 64, right?",
+    "I think it's #64.",
+    "Man.",
+    "I don't.",
+    "I feel like this is going to.",
+    "To make my sleepiness like.",
+    "Is going to push me over the edge.",
+    "I'm losing it.",
+    "Best vanity mirrors going down.",
+    "Booty.",
+    "They went right.",
+    "I was playing.",
+    "Animal Crossing They had a phonograph for sale.",
+    "Now what's what's the difference between a phonograph?",
+    "In the gramophone, so I looked it up.",
+    "Right, I see I looked it up on my friends, look it up and.",
+    "Is that the Phonograph runs on a cylinder, and the gramophone runs on a record.",
+    "You know, students round record and Animal Crossing the bacon out, right?",
+    "The phonograph is running on a record.",
+    "That's not good.",
+    "Breaking my immersion.",
+    "Can't believe this is a real photograph now.",
+    "At the completely wrong type of.",
+    "Media playback.",
+    "The wrong shape hecky halfway I'm crossing.",
+    "So.",
+    "I tell you what the other day, but really got me into it was I hadn't played much, but I had.",
+    "I think my brother asked me what my one of my friends asked me, what my turnip prices were.",
+    "And I went in and they were 609.",
+    "And next thing I knew I had all my friends over selling.",
+    "So in turnips, and making me Mad Money Sinama.",
+    "Turn it up.",
+    "Tycoon In all my money on the turnip market.",
+    "Did hit me up.",
+    "I gotta, I'll send you my my friend code after this.",
+    "I don't know, I've I've seen your island and I feel like if you saw mine, you just be disappointed.",
+    "Sort of things.",
+    "It's like sometimes will be like oh, what if you just like?",
+    "Change this tiny thing a little bit as like oh OK, you want me to redo the whole thing.",
+    "I got you, I got you.",
+    "Like if I just wanted to.",
+    "I don't know.",
+    "Let's say I was like what if we just had another line going here?",
+    "I would need to read through the entire unwrap process, entire baking process, an entire texturing process.",
+    "A tangle change like that?",
+    "It's all good.",
+    "It's all good.",
+    "Thank you RM.",
+    "If you're enjoying it, kind of.",
+    "Actually, I'm going today.",
+    "See the quick rundown.",
+    "What I'm doing like A.",
+    "Sci-fi door, here we use it as a stream, transitioning to animate and everything.",
+    "It looks kind of ugly right now.",
+    "And hopefully by the end of all this.",
+    "It won't.",
+    "Keep my fingers crossed.",
+    "Let's see if I got a nice Sir.",
+    "Negative.",
+    "here awhile.",
+    "Should the kinda cool though?",
+    "Think the unread process will make it easier, but I guess just like anything else, you're changing the shape of the puzzle piece.",
+    "He took that's exactly right, Yep.",
+    "That is 1% right now.",
+    "In theory, if you had, say, enough blank space within your uvs, which I probably do I could add a little more detail if I wanted and then sneak it in there.",
+    "Still be able to use the same textures that we're making now, but I'd like to move any one of these pieces of the whole whole texture would have to be redone.",
+    "Where are you?",
+    "The edge save.",
+    "Be disconnected and you OK.",
+    "I got this right here.",
+    "Unwrapping is one of those processes that always.",
+    "Complain about it, 'cause it's tedious and there's really no.",
+    "Creative liberties with it, but at the same time.",
+    "It's kind of relaxing.",
+    "It's kind of like doing a jigsaw.",
+    "Yeah, it's a little like origami.",
+    "A little bit like a jigsaw puzzle.",
+    "You gotta cut everything up and then figure out where it fits.",
+    "Cheat so much later.",
+    "Better.",
+    "This might be seen anyways.",
+    "On the right layer here.",
+    "Oh This is where my eyes get me.",
+    "I thought there was a second line here and I'm trying to.",
+    "Like why can't I click in that one?",
+    "One Polygon, there's it's not there, I just had double vision.",
+    "So good.",
+    "And manually.",
+    "Do you think I'm going to want to change up the.",
+    "There we go.",
+    "One align the stuff you know what we could have done, and you know we will do.",
+    "Interesting thing.",
+    "Hum.",
+    "Whatever reason, I don't often use symmetry.",
+    "I don't know why.",
+    "He said all the time in modeling for almost never in my.",
+    "Text, Shane, but it's a very powerful tool.",
+    "There's no reason I shouldn't be using it.",
+    "Ben Should I use the symmetry on everything else we did as well?",
+    "You can watch him.",
+    "I'm mine working here as well.",
+    "Outback over too hard.",
+    "Hey sweetheart, brush with the nice square.",
+    "Yeah.",
+    "That way down.",
+    "We can already tell I'm gonna sleep like a rock tonight.",
+    "Cannot wait well.",
+    "How did I not know you just scroll wheel?",
+    "Well, they were going to but.",
+    "And so you can use the scroll wheel to change size as well.",
+    "This might need its own lyrics.",
+    "I don't think I want to lift it up.",
+    "I do like that line, but I don't like it with the.",
+    "I push, so let's go ahead and put down a new layer here.",
+    "And before we do that would have a big stretch.",
+    "Yeah.",
+    "Reach up as high as it can to those shoulders.",
+    "Start popping out the sockets.",
+    "Yeah.",
+    "Asking right being duplicate.",
+    "Through that bad boy.",
+    "Good.",
+    "This finally certain take take a little bit of form, I was little.",
+    "No little bit.",
+    "Back by how things were going, but that's literally every project I need to learn that things are going to look bad before they look good, so.",
+    "Going to keep that in mind.",
+    "Matter what you doing.",
+    "How to get worse?",
+    "Sometimes really get better?",
+    "All.",
+    "And I can't remember.",
+    "Bob Ross is name right now man.",
+    "I'm out of it, I am.",
+    "You can think of that line is pretty.",
+    "Some kind of a hard liners there talk about it.",
+    "I like it.",
+    "Alice user big noggin though.",
+    "Korea.",
+    "Yeah, don't tell me you can't mirror on two axes.",
+    "That's not true.",
+    "Gotta get a standing desk all man.",
+    "Tell me about it.",
+    "Always look still, thank you.",
+    "I don't know sometimes if there's like A.",
+    "Just a long.",
+    "Any project where things don't look good and then.",
+    "Eventually something clicks.",
+    "Fairly enjoying doing this.",
+    "Centerline work here.",
+    "I don't know.",
+    "Maybe get a little little funky, but like what if instead?",
+    "Hold on the schedule lined up.",
+    "Product down and we did.",
+    "Then my friend said.",
+    "If you match that angle.",
+    "The best of her.",
+    "Active account cool.",
+    "Let's play around.",
+    "Let's play around a little.",
+    "Screws are boring.",
+    "Hum.",
+    "I do think I like that more.",
+    "These could probably be a little bit better aligned, so I think I will redo that.",
+    "Yeah, it's just a little bit more.",
+    "More interesting if you probably.",
+    "Spirited you're like a cap of pixels thicker, I think.",
+    "Who is this misses field?",
+    "That's pretty good.",
+    "If I am, I'm loving this project so far.",
+    "It's been a blast.",
+    "So look right to me is fixed that.",
+    "Looking good.",
+    "No, I think it's been almost exactly 20 minutes.",
+    "You know what that means?",
+    "It's one of those weird songs throughout Ryan give me a number one through 100.",
+    "For anyone, anyone, give me a number one through 100.",
+    "We pump out some weird music here.",
+    "Damn.",
+    "Alright, it's starting to come together Italian.",
+    "Pretty cool.",
+    "8888 it is.",
+    "See what we're going to get.",
+    "Don't man.",
+    "You're weird with it.",
+    "Yeah.",
+    "Microscope equal.",
+    "Oh, I like it.",
+    "I'm going to work in my old timy radio voice.",
+    "Insert.",
+    "I can do like every half hour going to old timy radio mode.",
+    "I gotta do all my comment.",
+    "Comment dating.",
+    "Yeah.",
+    "Yeah she.",
+    "So again, that going.",
+    "I like the matching shape here.",
+    "I think it's something different.",
+    "Yeah, something different.",
+    "Is fallout soundtrack?",
+    "No?",
+    "It's much much much, much worse.",
+    "It is the.",
+    "Royalty free jazz soundtrack.",
+    "Now I don't know.",
+    "Much about jazz I do.",
+    "I do dabble.",
+    "I do like me some jazz but.",
+    "To me, this doesn't really sound like jazz, but.",
+    "You know?",
+    "To Spotify.",
+    "This is jazz.",
+    "This is jazzy as it gets.",
+    "I'm missing my audio levels and remove all the base.",
+    "Good.",
+    "No, no, I shan't.",
+    "It could pop it out.",
+    "All I know is if I go to the top right here, I end up sounding like a fast food.",
+    "Order, let's do that real quick.",
+    "Play, take your take your order please.",
+    "I can't hear it, so I don't know.",
+    "How, how damaging that might be the ears, but.",
+    "I apologize if no one can hear now.",
+    "In awhile since I get there.",
+    "Wanna bring in some?",
+    "Sheep decals here, or some sort some text.",
+    "I love my word decal.",
+    "I don't know what it is.",
+    "Is it all the time?",
+    "Well I got you, I got you.",
+    "Let's say a number six with extra large fry.",
+    "Wanna drink?",
+    "More could be with that drive through voice to start dishing out those vent days, or.",
+    "I don't, I don't know my Starbucks sizes, I gotta admit.",
+    "Then things one right?",
+    "Sleeping like.",
+    "Some numbers and letters here, right?",
+    "So I I need an opinion.",
+    "Am I the only one that sometimes tries to?",
+    "Capitalize numbers by holding down the shift key, and then remembers that.",
+    "Capital numbers don't exist.",
+    "I can't be the only one.",
+    "I hope I'm not the only one.",
+    "If I am then I'll send help.",
+    "I do it all the time.",
+    "Right actually.",
+    "Enough enemies fonts are going to make me happy.",
+    "Open bold and we actually you know I lied.",
+    "I like it.",
+    "But the S looks like a 5.",
+    "No.",
+    "We've had our daily.",
+    "Daily women will get another one at 9:50, will have another one of these horrible horrible old timy songs, I promise, but until then, we're going to skip through a random point in this.",
+    "Generic background music.",
+    "You do that all the time.",
+    "OK, I'm so glad I'm not the only one.",
+    "It is I feel like I've never heard of anyone else doing it, I'm like.",
+    "Come on guys.",
+    "The one anyone?",
+    "Turn the kind of fresh.",
+    "Though I gotta admit.",
+    "Now we gotta come up with a.",
+    "Letter number there to the mean, something that we can sneak in.",
+    "Link to my little Easter eggs.",
+    "Should actually no, it's just keep it as is for now.",
+    "With that font, I like the.",
+    "That Boldness Get a little more those fine lines in.",
+    "Do the same layer.",
+    "I think.",
+    "Yeah.",
+    "I kind of my dear.",
+    "Got an idea?",
+    "Let's talk back, man.",
+    "Did the Cemetery today.",
+    "Try to get something that is pretty good.",
+    "We just did like one of these.",
+    "I like it.",
+    "You want my friend?",
+    "There's gotta be a way to do multiple.",
+    "Lemon trees at a time I can't admit, I think.",
+    "I need to update my substance.",
+    "Back here 2018.",
+    "Still I gotta gotta be honest.",
+    "He's had to go to 2020 here.",
+    "Treated me well.",
+    "These are not gonna end up the same, are they?",
+    "Close.",
+    "Shorter longer I got I got I got it.",
+    "Keno check might be to go.",
+    "Who will get something close enough for promise?",
+    "Does it cost money to update?",
+    "I'll tell you what.",
+    "Here's my little sales pitch.",
+    "I absolutely love the.",
+    "Icing system they have, but it is.",
+    "It's a perpetual license with supported updates for one year and then you can buy again if you want the next year of updates.",
+    "and I think I'm going to the point where I want to.",
+    "So it's really great.",
+    "Also, it's super affordable.",
+    "They even even sometimes on sale for his lose $100, which is.",
+    "I don't know in the world of some modeling software being like $5000.",
+    "Single seat, it's like.",
+    "You telling me $100?",
+    "I get this for my.",
+    "And Love on their pricing system all day long.",
+    "They've got it where it's priced based on.",
+    "Income and for students.",
+    "There's nothing better than that.",
+    "And there's also free trials, of course.",
+    "Head on over.",
+    "I'm sure there's a link if you click on the old.",
+    "Meal tools, I'm pretty sure that takes you up there.",
+    "I think I'm ready for the old update.",
+    "I'm ready to get these lines right.",
+    "What is going on?",
+    "Alice is.",
+    "Little silly my method but.",
+    "Close.",
+    "That visibly wrong purposely different though.",
+    "It's Promo Code Medias, Grady.",
+    "That's exactly right.",
+    "I think we just take a little bit wow.",
+    "What have I done?",
+    "Sorry about that.",
+    "Make a little off the bottom.",
+    "They still don't look at.",
+    "It looks visibly different.",
+    "Say what?",
+    "If I shuffle it up?",
+    "Oh, can I still tell which is?",
+    "Yeah this is the wrong one.",
+    "It's not right.",
+    "Oh, I should've stacked my shelves or something or.",
+    "Could take this over into photo shop and then.",
+    "Oh wait, now I can just.",
+    "I need to use my thinking noggin.",
+    "I'm pretty sure I can.",
+    "Some.",
+    "Magic.",
+    "There's so many ways to solve this problem, and I'm doing the difficult way of trying to.",
+    "Draw at the same.",
+    "Where is I could?",
+    "Duplicate the layer, flip it.",
+    "It's possible it's doable.",
+    "Yeah.",
+    "Hitman on.",
+    "Part of me just wants to do it by hand though.",
+    "Came in like a couple more.",
+    "It goes and if I can get it looking right then I'll do it the Smart Way.",
+    "But I'm not going to enjoy it.",
+    "This is ridiculous.",
+    "Until this totally wrong, this is all on me.",
+    "Just being these in the night, whoops.",
+    "I'm sorry.",
+    "Did all that lining up and then.",
+    "I wonder if there's a great I can turn on.",
+    "I've never looked for one before.",
+    "I don't think that's a thing, but.",
+    "Oh plug insert.",
+    "Whatever man, whatever.",
+    "Is he really need to be over there?",
+    "You know, actually, that kind of looks cool now.",
+    "What is hold on?",
+    "We use this guiding line as a krutch.",
+    "And actually kinda looks cool.",
+    "I'm not sold on it yet.",
+    "I'm doing, I'm doing this literally the worst way possible.",
+    "Don't.",
+    "Who was I say not as I do?",
+    "I got a terrible idea.",
+    "We're going to do it much.",
+    "This is once again op the right way to do this, but I kind of want to do it this way just for fun.",
+    "It is something like this.",
+    "Please send Outlook Square OK it is.",
+    "Tripping.",
+    "Remember not the right way to do this.",
+    "Do not do it this way.",
+    "But Same time.",
+    "Kind of smart, right?",
+    "There.",
+    "It's only got it worked.",
+    "No, no, no.",
+    "Don't take notes on this.",
+    "I'm doing it the wrong way.",
+    "This is.",
+    "Is, uh, no?",
+    "I scrolled, they say there's no, there's no wrong way but.",
+    "This is definitely the wrong way to do what I'm doing.",
+    "And so it would have been nice if I went all the way to the center.",
+    "Ago.",
+    "I was still looks kinda wack though.",
+    "Will worry about that later, honestly.",
+    "Do you like the grey, specifically the dark Gray border towards the center?",
+    "Cool contrast to the tech town like right next to it.",
+    "Yeah, I kind of like this.",
+    "Three monochromatic look.",
+    "How's it sure how well it would turn out?",
+    "I was kind of skeptical when you first went into it, but adding these lines like.",
+    "Now it's doing wonders for me.",
+    "We will come.",
+    "I'm going to fix this.",
+    "I don't even know if this is.",
+    "Now this is an error in the modeling.",
+    "Is this actually longer?",
+    "And I crazy.",
+    "The controller right now man.",
+    "It's a new.",
+    "That's To know.",
+    "One side Those that they look the same.",
+    "No, no, the one on the right.",
+    "Is showing like an inch more?",
+    "Right?",
+    "I don't know.",
+    "I think it is, oh that's going to drive me nuts.",
+    "We can, so we're going to do is we're going to move this in like that.",
+    "But it doesn't matter.",
+    "Tasha's phone OK, I'm just.",
+    "I'm crazy.",
+    "The one at the top here.",
+    "I think there's more.",
+    "A bigger gap here and.",
+    "That's exactly right.",
+    "That's future needs problem, that's correct.",
+    "That's how I deal with these things.",
+    "And the only reason I screw over future day like this is 'cause passing 8 screwed me over.",
+    "So I want to get back at someone.",
+    "In this case it's going to be future need.",
+    "So that's his problem now.",
+    "So.",
+    "Take that.",
+    "Is the ultimate revenge.",
+    "And we can kind of near the end.",
+    "I don't feel like we got a ton done, but I feel like it was a ton of fun so.",
+    "It's like a step in the right direction, right?",
+    "I do like these lines though.",
+    "We're going to get more in.",
+    "Let's see what.",
+    "It's time to roll those random numbers between one and 100 and time for another.",
+    "Here to ask song.",
+    "Bring it out.",
+    "Never read an article forever ago that we disassociate our past and future cells from our self.",
+    "You healthier habits if you remind yourself that future you wish your best friend.",
+    "Yeah, that's.",
+    "Is so true though.",
+    "And it's kind of weird.",
+    "I wonder if it's, uh.",
+    "Pick a way to avoid responsibility or.",
+    "But is this a do as I say, not as I do exactly?",
+    "Taxes haven't done your taxes.",
+    "Why you gotta?",
+    "You start having to hide sailor man.",
+    "Unless the government owes you money, in which case they don't.",
+    "They don't care if you do with taxes yet.",
+    "You take take as long as you want to tell you money.",
+    "But as soon as you know that money, you better have those bad voice.",
+    "Right on the table.",
+    "Yeah, how about that little move I just did right there.",
+    "Kind of like that.",
+    "Get a few extra faces here.",
+    "The until July.",
+    "Are you challenge that you chilling?",
+    "You guys got ages.",
+    "And those horrible jaggy edges.",
+    "Also, there totally not going to be visible over square around like this.",
+    "Kind of digging this.",
+    "This is this is turning out for once almost exactly how I envisioned.",
+    "I'm pretty happy.",
+    "So now I know, so I'm conspiring with a criminal harboring a fugitive from my chat on man.",
+    "I gotta go.",
+    "I got I got started running.",
+    "This Mystic Stick my hand in my ear certain lalalala so I didn't hear anything.",
+    "But I think that ignorance.",
+    "Feel like we need some more detailed down here.",
+    "I'm gonna try matching the shape, but I don't think.",
+    "Gonna be the play here.",
+    "By the way on that one.",
+    "Simple box and a cool.",
+    "Favorite N64 or a precise taking Genesis family?",
+    "We gotta blow your mind here.",
+    "Not too young for any of that.",
+    "At a GameCube I tell you what my orthodontist said the N64.",
+    "That's all they had 64 I got.",
+    "I'm a GameCube boy right here.",
+    "Tell you what they got the.",
+    "Sega Genesis collection on the old switch in that thing is awesome.",
+    "I didn't have like a.",
+    "Sega Genesis collection CD for the old computer.",
+    "And one of my favorite games was comic zone comix zone.",
+    "I think it was called is you're basically like a.",
+    "Comic book character is very compact jar that got pulled into your drawings and is a size 4 and beat him up.",
+    "That game is awesome.",
+    "Just a second.",
+    "I was older than you come so talented.",
+    "How old are you, Ryan?",
+    "I gotta find out and then I'll.",
+    "Reveal just how.",
+    "The young I am.",
+    "Don't feel young, tell you what I slept on my shoulder wrong the other day and I woke up with terrible pain like old man.",
+    "Injuring myself in my sleep.",
+    "And don't feel young.",
+    "Favorite game cube came out, man, I could you know what it is.",
+    "It's Super Mario sunshine.",
+    "And then one day my dad stepped on.",
+    "It broke it, but it was my folks.",
+    "I left it out and I never got to play it again.",
+    "I still got that crack CD somewhere.",
+    "27 OK, it's not that bad.",
+    "I'm I'm 24.",
+    "It's only a couple of years.",
+    "He's only three years.",
+    "Asking 27 that's gonna be a random number.",
+    "For the last terrible song of the night.",
+    "Actually, if you if we gotta go out.",
+    "There's already been 2 hours.",
+    "In reply.",
+    "They might re master sunshine soon.",
+    "I'll be so happy.",
+    "I also saw the paper Mario.",
+    "For the switch and I'm so excited that's like.",
+    "I bought a switch hoping like Oh Man, I really hope they.",
+    "They poured over one of the old paper Mario's or something.",
+    "Now we're going to whole new one, and it's only like a couple months away.",
+    "I can't wait.",
+    "Oh double dash.",
+    "That was blessed.",
+    "I think I only ever vented.",
+    "That from blockbuster back in the day.",
+    "These to rent out GameCube games and.",
+    "I tell you what Kirbys Air Ride I rented that bad boy like half a dozen times.",
+    "As far as this is one of my favourites, I don't know, you know.",
+    "Just bought at that point, but.",
+    "So much.",
+    "I'm not too worried about the outside edge here, it's really just.",
+    "To cover a little bit of distance should pop over.",
+    "Show you what I mean.",
+    "This is our view.",
+    "And you can see the outside edges mostly cut off on the sides.",
+    "It's not at all.",
+    "On there and there's just a little bit on the top there just to.",
+    "To fill the void, so I'm not too worried with.",
+    "Texturing that fancy I might go I don't know.",
+    "Like a black color or something.",
+    "You've never played a Kirby game.",
+    "Well, I tell you what Kirbys Air Ride was.",
+    "Essentially, not a Kirby game.",
+    "It was.",
+    "I guess the racing game.",
+    "Erase all these different crazy things and it kind of had like an open world and I think that's why I was so drawn to it.",
+    "All those games with like a little bit of an open world I loved.",
+    "And now open worlds are everywhere and.",
+    "I rejoice 'cause That's the fair thing games.",
+    "There's some people are tired of it, but.",
+    "This guy.",
+    "Yeah, that outside edges this just there to fill the gaps.",
+    "Worried?",
+    "And we haven't even dirty this bad boy up and I don't know how much we're going to either.",
+    "'cause Clean Aesthetic.",
+    "But if if Derek.",
+    "Games copy Kirby.",
+    "That's right man, they.",
+    "Should've got that patent down.",
+    "People rap up here.",
+    "Just hit the two hour mark.",
+    "I'm pretty happy with the progress here, so we're probably going to come back on.",
+    "I will decide Friday or Saturday.",
+    "If this bad boy finished out and then I think.",
+    "Next speaker.",
+    "Something I want to.",
+    "I want to do a few different variations of this like I got all sorts of color schemes I want to run through and I think would be a lot of fun.",
+    "But to mess around with that and do some fun stuff.",
+    "Animating it.",
+    "Didn't let look at some fancy lighting.",
+    "Dirty could be a night version.",
+    "That's what I'm thinking.",
+    "I'm thinking all all sorts of beat up and then I'll get like some thinking some lighting.",
+    "Done in Maya for my render and then maybe I can have like A.",
+    "They called him in his life.",
+    "That spin around like a siren.",
+    "I've had like a siren going off making it look all I don't know like some sort of crazy alien broke out or something.",
+    "That would be fun for tonight.",
+    "Stream and then we have this nice clean one for the data stream.",
+    "Maybe I just there's so many ideas like after this man would be awesome to have all these different versions for.",
+    "Different types of work I'm doing.",
+    "It also be called to do maybe like gay.",
+    "Open the door like this, but.",
+    "Steam punker or wooden cogs too.",
+    "For what I'm doing, you know favorite go back and do some more medieval stuff.",
+    "I think that could be a lot of fun.",
+    "Yeah, there it is.",
+    "The best iron like going yeah.",
+    "It's going to be great and then the great thing is.",
+    "When I render the video here.",
+    "Anything that background is just going to be transparent so I can take it into Photoshop and.",
+    "It'll it'll already have one.",
+    "My transparencies.",
+    "I don't need a mask anything out.",
+    "It's going to be awesome.",
+    "So in theory I could just export that video having an OBS and.",
+    "Got herself some cool transitions.",
+    "Really excited.",
+    "Big big stretch.",
+    "Let's go ahead and pop out song #27.",
+    "And the old royalty free jazz walk here.",
+    "This beard goodbye song.",
+    "No, this was high enough up in the list that it might actually be jazz.",
+    "Yeah, I don't like it.",
+    "The.",
+    "Let's go back to the old timy.",
+    "There we go alright.",
+    "And on that note I think I'm going to wrap up here.",
+    "If you guys want to catch me knowing this some more.",
+    "If you didn't leave a following that'll let you know next time I go live.",
+    "Should probably be.",
+    "I'm thinking Saturday.",
+    "Maybe get a good nights sleep, although I am enjoying this project so much when we get right back into it.",
+    "Lucy.",
+    "Oh yeah.",
+    "Hope you guys enjoyed.",
+    "Thank you so much for stopping by Ryan.",
+    "Joey was a lot of fun.",
+    "Chance to you guys.",
+    "In a blast.",
+    "Excitement is going.",
+    "Yeah me too.",
+    "I'm really happy with how this project is going so far so.",
+    "Can't wait to start getting some.",
+    "He's like stream transitions.",
+    "Yes, please sleep.",
+    "I'm going to sleep like a baby tonight.",
+    "I tell you what?",
+    "To be honest this is.",
+    "If there's something just to ever sleep, though I was like the most energetic streams I've had so.",
+    "I'm just going to do it again, but.",
+    "As good enerji today, a lot of fun.",
+    "How did that?",
+    "I will catch you guys next week.",
+    "I'm gonna let this song play out.",
+    "Thank you so much for stopping by and I will see you later.",
+    ""
+  ],
+  "entity": {
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        110,
+        111
+      ],
+      "sentence": [
+        "Are you guys here?"
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION",
+      "span": [
+        124,
+        125
+      ],
+      "sentence": [
+        "How do I choose Maya?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION",
+      "span": [
+        147,
+        148
+      ],
+      "sentence": [
+        "What is the Slayer and why did I make it?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION",
+      "span": [
+        150,
+        151
+      ],
+      "sentence": [
+        "Any good tools in it?"
+      ]
+    },
+    "T9": {
+      "id": "T9",
+      "label": "QUESTION",
+      "span": [
+        170,
+        171
+      ],
+      "sentence": [
+        "So why do they have two of the same program?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION",
+      "span": [
+        171,
+        172
+      ],
+      "sentence": [
+        "It was like which one am I supposed to use?"
+      ]
+    },
+    "T13": {
+      "id": "T13",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        190,
+        191
+      ],
+      "sentence": [
+        "Have something like are clouds?"
+      ]
+    },
+    "T14": {
+      "id": "T14",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        194,
+        195
+      ],
+      "sentence": [
+        "Why this year?"
+      ]
+    },
+    "T15": {
+      "id": "T15",
+      "label": "QUESTION",
+      "span": [
+        203,
+        204
+      ],
+      "sentence": [
+        "How well?"
+      ]
+    },
+    "T16": {
+      "id": "T16",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        224,
+        225
+      ],
+      "sentence": [
+        "Want anything strange?"
+      ]
+    },
+    "T17": {
+      "id": "T17",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        225,
+        226
+      ],
+      "sentence": [
+        "Want anything extremists in CCC?"
+      ]
+    },
+    "T19": {
+      "id": "T19",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        335,
+        336
+      ],
+      "sentence": [
+        "Dress that I'm you know, one or percent, always accurate, never wrong, right?"
+      ]
+    },
+    "T20": {
+      "id": "T20",
+      "label": "QUESTION",
+      "span": [
+        354,
+        355
+      ],
+      "sentence": [
+        "Basically what it is though I've got this 3D model and then I gotta go through and cut it up so everything lays flat, right?"
+      ]
+    },
+    "T21": {
+      "id": "T21",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        372,
+        373
+      ],
+      "sentence": [
+        "Do you quote me on that one?"
+      ]
+    },
+    "T22": {
+      "id": "T22",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        419,
+        420
+      ],
+      "sentence": [
+        "There's no such thing, right?"
+      ]
+    },
+    "T24": {
+      "id": "T24",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        452,
+        453
+      ],
+      "sentence": [
+        "What's going on over here?"
+      ]
+    },
+    "T26": {
+      "id": "T26",
+      "label": "QUESTION",
+      "span": [
+        487,
+        488
+      ],
+      "sentence": [
+        "The stream of do overs?"
+      ]
+    },
+    "T27": {
+      "id": "T27",
+      "label": "QUESTION",
+      "span": [
+        489,
+        490
+      ],
+      "sentence": [
+        "What you doing there?"
+      ]
+    },
+    "T28": {
+      "id": "T28",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        496,
+        497
+      ],
+      "sentence": [
+        "You're destroying today, rain as well, right?"
+      ]
+    },
+    "T30": {
+      "id": "T30",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        507,
+        508
+      ],
+      "sentence": [
+        "Who did see?"
+      ]
+    },
+    "T31": {
+      "id": "T31",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        510,
+        511
+      ],
+      "sentence": [
+        "Let's get weird 64, right?"
+      ]
+    },
+    "T32": {
+      "id": "T32",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        523,
+        524
+      ],
+      "sentence": [
+        "Now what's what's the difference between a phonograph?"
+      ]
+    },
+    "T33": {
+      "id": "T33",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        527,
+        528
+      ],
+      "sentence": [
+        "You know, students round record and Animal Crossing the bacon out, right?"
+      ]
+    },
+    "T35": {
+      "id": "T35",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        552,
+        553
+      ],
+      "sentence": [
+        "Let's say I was like what if we just had another line going here?"
+      ]
+    },
+    "T36": {
+      "id": "T36",
+      "label": "QUESTION",
+      "span": [
+        554,
+        555
+      ],
+      "sentence": [
+        "A tangle change like that?"
+      ]
+    },
+    "T38": {
+      "id": "T38",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        576,
+        577
+      ],
+      "sentence": [
+        "Where are you?"
+      ]
+    },
+    "T39": {
+      "id": "T39",
+      "label": "QUESTION",
+      "span": [
+        594,
+        595
+      ],
+      "sentence": [
+        "Like why can't I click in that one?"
+      ]
+    },
+    "T40": {
+      "id": "T40",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        608,
+        609
+      ],
+      "sentence": [
+        "Ben Should I use the symmetry on everything else we did as well?"
+      ]
+    },
+    "T41": {
+      "id": "T41",
+      "label": "QUESTION",
+      "span": [
+        617,
+        618
+      ],
+      "sentence": [
+        "How did I not know you just scroll wheel?"
+      ]
+    },
+    "T42": {
+      "id": "T42",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        637,
+        638
+      ],
+      "sentence": [
+        "How to get worse?"
+      ]
+    },
+    "T43": {
+      "id": "T43",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        638,
+        639
+      ],
+      "sentence": [
+        "Sometimes really get better?"
+      ]
+    },
+    "T45": {
+      "id": "T45",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        676,
+        677
+      ],
+      "sentence": [
+        "Who is this misses field?"
+      ]
+    },
+    "T46": {
+      "id": "T46",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        683,
+        684
+      ],
+      "sentence": [
+        "You know what that means?"
+      ]
+    },
+    "T47": {
+      "id": "T47",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        708,
+        709
+      ],
+      "sentence": [
+        "Is fallout soundtrack?"
+      ]
+    },
+    "T50": {
+      "id": "T50",
+      "label": "QUESTION",
+      "span": [
+        733,
+        734
+      ],
+      "sentence": [
+        "Wanna bring in some?"
+      ]
+    },
+    "T51": {
+      "id": "T51",
+      "label": "QUESTION",
+      "span": [
+        737,
+        738
+      ],
+      "sentence": [
+        "Is it all the time?"
+      ]
+    },
+    "T52": {
+      "id": "T52",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        740,
+        741
+      ],
+      "sentence": [
+        "Wanna drink?"
+      ]
+    },
+    "T53": {
+      "id": "T53",
+      "label": "QUESTION",
+      "span": [
+        743,
+        744
+      ],
+      "sentence": [
+        "Then things one right?"
+      ]
+    },
+    "T54": {
+      "id": "T54",
+      "label": "QUESTION",
+      "span": [
+        745,
+        746
+      ],
+      "sentence": [
+        "Some numbers and letters here, right?"
+      ]
+    },
+    "T57": {
+      "id": "T57",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        780,
+        781
+      ],
+      "sentence": [
+        "Got an idea?"
+      ]
+    },
+    "T58": {
+      "id": "T58",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        786,
+        787
+      ],
+      "sentence": [
+        "You want my friend?"
+      ]
+    },
+    "T59": {
+      "id": "T59",
+      "label": "QUESTION",
+      "span": [
+        794,
+        795
+      ],
+      "sentence": [
+        "These are not gonna end up the same, are they?"
+      ]
+    },
+    "T60": {
+      "id": "T60",
+      "label": "QUESTION",
+      "span": [
+        798,
+        799
+      ],
+      "sentence": [
+        "Who will get something close enough for promise?"
+      ]
+    },
+    "T61": {
+      "id": "T61",
+      "label": "QUESTION",
+      "span": [
+        799,
+        800
+      ],
+      "sentence": [
+        "Does it cost money to update?"
+      ]
+    },
+    "T63": {
+      "id": "T63",
+      "label": "QUESTION",
+      "span": [
+        823,
+        824
+      ],
+      "sentence": [
+        "What is going on?"
+      ]
+    },
+    "T64": {
+      "id": "T64",
+      "label": "QUESTION",
+      "span": [
+        831,
+        832
+      ],
+      "sentence": [
+        "What have I done?"
+      ]
+    },
+    "T65": {
+      "id": "T65",
+      "label": "QUESTION",
+      "span": [
+        836,
+        837
+      ],
+      "sentence": [
+        "Say what?"
+      ]
+    },
+    "T66": {
+      "id": "T66",
+      "label": "QUESTION",
+      "span": [
+        837,
+        838
+      ],
+      "sentence": [
+        "If I shuffle it up?"
+      ]
+    },
+    "T67": {
+      "id": "T67",
+      "label": "QUESTION",
+      "span": [
+        838,
+        839
+      ],
+      "sentence": [
+        "Oh, can I still tell which is?"
+      ]
+    },
+    "T69": {
+      "id": "T69",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        869,
+        870
+      ],
+      "sentence": [
+        "Is he really need to be over there?"
+      ]
+    },
+    "T72": {
+      "id": "T72",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        887,
+        888
+      ],
+      "sentence": [
+        "Kind of smart, right?"
+      ]
+    },
+    "T74": {
+      "id": "T74",
+      "label": "QUESTION",
+      "span": [
+        901,
+        902
+      ],
+      "sentence": [
+        "Do you like the grey, specifically the dark Gray border towards the center?"
+      ]
+    },
+    "T75": {
+      "id": "T75",
+      "label": "QUESTION",
+      "span": [
+        905,
+        906
+      ],
+      "sentence": [
+        "How's it sure how well it would turn out?"
+      ]
+    },
+    "T76": {
+      "id": "T76",
+      "label": "QUESTION",
+      "span": [
+        912,
+        913
+      ],
+      "sentence": [
+        "Is this actually longer?"
+      ]
+    },
+    "T77": {
+      "id": "T77",
+      "label": "QUESTION",
+      "span": [
+        919,
+        920
+      ],
+      "sentence": [
+        "Is showing like an inch more?"
+      ]
+    },
+    "T78": {
+      "id": "T78",
+      "label": "QUESTION",
+      "span": [
+        920,
+        921
+      ],
+      "sentence": [
+        "Right?"
+      ]
+    },
+    "T79": {
+      "id": "T79",
+      "label": "QUESTION",
+      "span": [
+        942,
+        943
+      ],
+      "sentence": [
+        "It's like a step in the right direction, right?"
+      ]
+    },
+    "T80": {
+      "id": "T80",
+      "label": "QUESTION",
+      "span": [
+        956,
+        957
+      ],
+      "sentence": [
+        "But is this a do as I say, not as I do exactly?"
+      ]
+    },
+    "T81": {
+      "id": "T81",
+      "label": "QUESTION",
+      "span": [
+        958,
+        959
+      ],
+      "sentence": [
+        "Why you gotta?"
+      ]
+    },
+    "T82": {
+      "id": "T82",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        969,
+        970
+      ],
+      "sentence": [
+        "Are you challenge that you chilling?"
+      ]
+    },
+    "T83": {
+      "id": "T83",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        986,
+        987
+      ],
+      "sentence": [
+        "Favorite N64 or a precise taking Genesis family?"
+      ]
+    },
+    "T84": {
+      "id": "T84",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        1002,
+        1003
+      ],
+      "sentence": [
+        "How old are you, Ryan?"
+      ]
+    },
+    "T85": {
+      "id": "T85",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        1063,
+        1064
+      ],
+      "sentence": [
+        "Worried?"
+      ]
+    },
+    "T88": {
+      "id": "T88",
+      "label": "ANSWER",
+      "span": [
+        151,
+        158
+      ],
+      "sentence": [
+        "I do riff on it a little bit, but.",
+        "Think any program you spend.",
+        "Significant amount of time in you're going to have.",
+        "Pro grapes that pop up.",
+        "So there's some really good stuff though.",
+        "Which are both owned by Autodesk I.",
+        "It's Maya and 3DS Max which are kind of a too big industry standards for games."
+      ]
+    },
+    "T89": {
+      "id": "T89",
+      "label": "ANSWER",
+      "span": [
+        195,
+        196
+      ],
+      "sentence": [
+        "It will be very extreme, which is fine."
+      ]
+    },
+    "T92": {
+      "id": "T92",
+      "label": "ANSWER",
+      "span": [
+        420,
+        421
+      ],
+      "sentence": [
+        "No such thing in real life."
+      ]
+    },
+    "T29": {
+      "id": "T29",
+      "label": "ANSWER",
+      "span": [
+        525,
+        527
+      ],
+      "sentence": [
+        "Right, I see I looked it up on my friends, look it up and.",
+        "Is that the Phonograph runs on a cylinder, and the gramophone runs on a record."
+      ]
+    },
+    "T34": {
+      "id": "T34",
+      "label": "ANSWER",
+      "span": [
+        555,
+        556
+      ],
+      "sentence": [
+        "It's all good."
+      ]
+    },
+    "T49": {
+      "id": "T49",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        747,
+        753
+      ],
+      "sentence": [
+        "Am I the only one that sometimes tries to?",
+        "Capitalize numbers by holding down the shift key, and then remembers that.",
+        "Capital numbers don't exist.",
+        "I can't be the only one.",
+        "I hope I'm not the only one.",
+        "If I am then I'll send help."
+      ]
+    },
+    "T55": {
+      "id": "T55",
+      "label": "ANSWER",
+      "span": [
+        753,
+        754
+      ],
+      "sentence": [
+        "I do it all the time."
+      ]
+    },
+    "T97": {
+      "id": "T97",
+      "label": "ANSWER",
+      "span": [
+        839,
+        840
+      ],
+      "sentence": [
+        "Yeah this is the wrong one."
+      ]
+    },
+    "T100": {
+      "id": "T100",
+      "label": "ANSWER",
+      "span": [
+        1003,
+        1006
+      ],
+      "sentence": [
+        "I gotta find out and then I'll.",
+        "Reveal just how.",
+        "The young I am."
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "ANSWER",
+      "span": [
+        125,
+        130
+      ],
+      "sentence": [
+        "Ask a question, it's.",
+        "There's two reasons.",
+        "One is 'cause it's what they taught us as the biggest one.",
+        "In two it's let me say industry standard, but it's one of the two major ones is between that and.",
+        "Let's see otherwise."
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "ANSWER",
+      "span": [
+        709,
+        713
+      ],
+      "sentence": [
+        "No?",
+        "It's much much much, much worse.",
+        "It is the.",
+        "Royalty free jazz soundtrack."
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        767,
+        768
+      ],
+      "sentence": [
+        "The one anyone?"
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "ANSWER",
+      "span": [
+        795,
+        796
+      ],
+      "sentence": [
+        "Close."
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "ANSWER",
+      "span": [
+        553,
+        554
+      ],
+      "sentence": [
+        "I would need to read through the entire unwrap process, entire baking process, an entire texturing process."
+      ]
+    },
+    "T12": {
+      "id": "T12",
+      "label": "ANSWER",
+      "span": [
+        800,
+        820
+      ],
+      "sentence": [
+        "I'll tell you what.",
+        "Here's my little sales pitch.",
+        "I absolutely love the.",
+        "Icing system they have, but it is.",
+        "It's a perpetual license with supported updates for one year and then you can buy again if you want the next year of updates.",
+        "and I think I'm going to the point where I want to.",
+        "So it's really great.",
+        "Also, it's super affordable.",
+        "They even even sometimes on sale for his lose $100, which is.",
+        "I don't know in the world of some modeling software being like $5000.",
+        "Single seat, it's like.",
+        "You telling me $100?",
+        "I get this for my.",
+        "And Love on their pricing system all day long.",
+        "They've got it where it's priced based on.",
+        "Income and for students.",
+        "There's nothing better than that.",
+        "And there's also free trials, of course.",
+        "Head on over.",
+        "I'm sure there's a link if you click on the old."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T7",
+      "answer": "T88",
+      "question_sentence": [
+        "Any good tools in it?"
+      ],
+      "answer_sentence": [
+        "I do riff on it a little bit, but.",
+        "Think any program you spend.",
+        "Significant amount of time in you're going to have.",
+        "Pro grapes that pop up.",
+        "So there's some really good stuff though.",
+        "Which are both owned by Autodesk I.",
+        "It's Maya and 3DS Max which are kind of a too big industry standards for games."
+      ]
+    },
+    "R2": {
+      "id": "R2",
+      "label": "Chitchat",
+      "question": "T5",
+      "answer": "T1",
+      "question_sentence": [
+        "How do I choose Maya?"
+      ],
+      "answer_sentence": [
+        "Ask a question, it's.",
+        "There's two reasons.",
+        "One is 'cause it's what they taught us as the biggest one.",
+        "In two it's let me say industry standard, but it's one of the two major ones is between that and.",
+        "Let's see otherwise."
+      ]
+    },
+    "R3": {
+      "id": "R3",
+      "label": "Chitchat",
+      "question": "T14",
+      "answer": "T89",
+      "question_sentence": [
+        "Why this year?"
+      ],
+      "answer_sentence": [
+        "It will be very extreme, which is fine."
+      ]
+    },
+    "R4": {
+      "id": "R4",
+      "label": "Chitchat",
+      "question": "T22",
+      "answer": "T92",
+      "question_sentence": [
+        "There's no such thing, right?"
+      ],
+      "answer_sentence": [
+        "No such thing in real life."
+      ]
+    },
+    "R5": {
+      "id": "R5",
+      "label": "Chitchat",
+      "question": "T32",
+      "answer": "T29",
+      "question_sentence": [
+        "Now what's what's the difference between a phonograph?"
+      ],
+      "answer_sentence": [
+        "Right, I see I looked it up on my friends, look it up and.",
+        "Is that the Phonograph runs on a cylinder, and the gramophone runs on a record."
+      ]
+    },
+    "R8": {
+      "id": "R8",
+      "label": "Chitchat",
+      "question": "T47",
+      "answer": "T2",
+      "question_sentence": [
+        "Is fallout soundtrack?"
+      ],
+      "answer_sentence": [
+        "No?",
+        "It's much much much, much worse.",
+        "It is the.",
+        "Royalty free jazz soundtrack."
+      ]
+    },
+    "R9": {
+      "id": "R9",
+      "label": "Chitchat",
+      "question": "T49",
+      "answer": "T55",
+      "question_sentence": [
+        "Am I the only one that sometimes tries to?",
+        "Capitalize numbers by holding down the shift key, and then remembers that.",
+        "Capital numbers don't exist.",
+        "I can't be the only one.",
+        "I hope I'm not the only one.",
+        "If I am then I'll send help."
+      ],
+      "answer_sentence": [
+        "I do it all the time."
+      ]
+    },
+    "R10": {
+      "id": "R10",
+      "label": "Chitchat",
+      "question": "T59",
+      "answer": "T11",
+      "question_sentence": [
+        "These are not gonna end up the same, are they?"
+      ],
+      "answer_sentence": [
+        "Close."
+      ]
+    },
+    "R12": {
+      "id": "R12",
+      "label": "Chitchat",
+      "question": "T67",
+      "answer": "T97",
+      "question_sentence": [
+        "Oh, can I still tell which is?"
+      ],
+      "answer_sentence": [
+        "Yeah this is the wrong one."
+      ]
+    },
+    "R13": {
+      "id": "R13",
+      "label": "Relevance",
+      "question": "T35",
+      "answer": "T3",
+      "question_sentence": [
+        "Let's say I was like what if we just had another line going here?"
+      ],
+      "answer_sentence": [
+        "I would need to read through the entire unwrap process, entire baking process, an entire texturing process."
+      ]
+    },
+    "R6": {
+      "id": "R6",
+      "label": "Chitchat",
+      "question": "T61",
+      "answer": "T12",
+      "question_sentence": [
+        "Does it cost money to update?"
+      ],
+      "answer_sentence": [
+        "I'll tell you what.",
+        "Here's my little sales pitch.",
+        "I absolutely love the.",
+        "Icing system they have, but it is.",
+        "It's a perpetual license with supported updates for one year and then you can buy again if you want the next year of updates.",
+        "and I think I'm going to the point where I want to.",
+        "So it's really great.",
+        "Also, it's super affordable.",
+        "They even even sometimes on sale for his lose $100, which is.",
+        "I don't know in the world of some modeling software being like $5000.",
+        "Single seat, it's like.",
+        "You telling me $100?",
+        "I get this for my.",
+        "And Love on their pricing system all day long.",
+        "They've got it where it's priced based on.",
+        "Income and for students.",
+        "There's nothing better than that.",
+        "And there's also free trials, of course.",
+        "Head on over.",
+        "I'm sure there's a link if you click on the old."
+      ]
+    }
+  }
+}

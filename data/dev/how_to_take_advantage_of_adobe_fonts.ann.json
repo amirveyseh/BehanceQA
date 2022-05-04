@@ -1,0 +1,990 @@
+{
+  "sentence": [
+    "Good afternoon, everyone happy Monday it's that time of day once again for another live stream.",
+    "Welcome my name is Terry white worldwide design and photography evangelist and it is my pleasure to be streaming to you Live Today.",
+    "Today we're gonna take a look at something that I don't remember the last time I've talked about as a dedicated topic.",
+    "I usually just interspersed it in with other topics.",
+    "But today, we're going to spend some time talking about Adobe fonts now if you're wondering what's Adobe fonts.",
+    "You might remember maybe not the name type kit.",
+    "So I think it was about a year ago that Adobe Typekit became officially branded Adobe fonts and typed.",
+    "It was a company.",
+    "We had acquired years back.",
+    "So just bring it all under the Adobe naming and branding.",
+    "But with that branding also came some features and some benefits for those of you who are creative.",
+    "Cloud members to take advantage of your Adobe fonts so I see some folks already in the room less Tyrone Game Changer Tom.",
+    "Um Mezini If I'm saying it correctly.",
+    "Bobby welcome as well as he some folks over on Twitter and Janzow Frog, just joined an of course, Victoria's over.",
+    "There holding it down on Facebook with 86 or 87 current lurkers.",
+    "People that just hanging out alright so with that, said, and also some books on should be popping on be handsome kind of doing a multiplatform stream today, so we're on 4 platforms simultaneously.",
+    "Oh, there's Barney.",
+    "And and Jamie from Richmond, so with that, said let's go ahead and dive in and take a look at what I'm going to show you today before I even show you that let's get over there, OK and let me switch over to my desktop so you guys can see what I'm talking about and I'm going to start off in the creative Cloud Desktop app now in the creative Cloud Desktop app.",
+    "This is where by the way.",
+    "This has been redesigned has been way better than it used to be, but this is where most people.",
+    "I think 100% of people start when they sign up with creative cloud.",
+    "They want to download their apps.",
+    "They go to this page.",
+    "They click on the ones they want to install and install them in lives happy great.",
+    "But if you didn't pay attention to anything beyond that, then you'd be missing some of the other categories here for example, the mobile apps, which you would normally install from your respective app stores.",
+    "But you can have it send you a link to your device so you can just click on the link or.",
+    "Cap on the link to be able to install that but if we look over here in the lower left.",
+    "There's a section specifically for fonts and if we were to go to the Web Category Adobe fonts would be listed there as well.",
+    "Now you notice any of the web ones say launch.",
+    "That's because there are based in a web browser.",
+    "There is no app called Adobe fonts.",
+    "It's all web based even though Adobe fonts integrate with your Adobe apps.",
+    "So, but there's not a dedicated app for Adobe fonts.",
+    "It's all web based or sinking based.",
+    "I should say cloud based that would be the best way to say it alright so if I were to launch that.",
+    "It'll take me to the web page as long as I'm logged in with my Adobe ID, it gives me a kind of a little quick start hanging.",
+    "Find your favorites.",
+    "You could use them anywhere.",
+    "Unlimited font, you so that's one of the things that is new as of this rebranding of Adobe fonts is there used to be this artificial limit.",
+    "I forgot what it was and it was about 135 different fonts could be active at one time now we never enforced the limit.",
+    "We never said.",
+    "Up you reach the limit can activate anymore.",
+    "But you might have got a warning, saying Hey, you're at 130.",
+    "437.",
+    "You need to do something about that and now that snow are in case you can have as many active at one time as you want now with that, said, just because you can do something doesn't mean you should we get in the habit of activating fonts 'cause we use them and then that's it.",
+    "They just stay active for the rest of your life and you end up with literally.",
+    "Hundreds and hundreds if not thousands, of active fonts and no more fonts you have active on your computer Mac or windows.",
+    "The slower things will be so if you're trying to get a quick performance boost.",
+    "You might take some time to go.",
+    "Deactivate fonts are not using anymore.",
+    "You can always go reactivate them later.",
+    "How would you know which ones you're using or which ones are not using well by click OK on this message at the very Top.",
+    "It's telling me it's giving giving me my little warning.",
+    "Hey to keep your devices speedy remove fonts.",
+    "You don't need right now.",
+    "You can always add them back when you want and so over here on the right hand side is a link.",
+    "That let's me review my active font, so if I were to click on that it should.",
+    "Take me to a list of all the fonts that I have activated and I can usually I have 12 pages worth.",
+    "I just go through and start deactivating the ones that I don't know.",
+    "Maybe I use them once and I don't need him right now.",
+    "So again there's no requirement to do this, you can keep him active as long as you want, but these you know.",
+    "They're gonna take up resources the more you have open alright, so here's a question uh.",
+    "Translator OK, so question, Roberts asking this candies fonts be used to create Watermarks If so can they be saved Indian Gee?",
+    "Well, first of all DNG is a raw format.",
+    "You don't really save Indian Gee.",
+    "You have a device that creates profiles.",
+    "The fonts can be used for anything design.",
+    "Wise you want so if you want to design A watermark with one of these fonts.",
+    "You could and use it anyway.",
+    "You want so for example, I liked Rajan Pro as my watermark when I used text.",
+    "And I use that in light room as a watermark all the time.",
+    "So yes, it can be done, but saving in a DMG.",
+    "That's probably not something you want to do because the engines were not meant to be edited.",
+    "They were meant to be opened as a raw file and then saved us something else OK.",
+    "So now that we kind of know where we can go look.",
+    "In the past, we have active let's go and click on the category called browse fonts.",
+    "Sure you can say my suping.",
+    "There's again.",
+    "Whatever you're currently doing with fonts.",
+    "Almost everything can be done with these fonts there's not it's not some like these are special, and can't be typed in and saved out and export it out or print it.",
+    "There fonts so if you want to make a graphic and export a ping.",
+    "You can there's nothing stopping you from doing that alright so if I go to browse fonts I can look at all the classifications.",
+    "I can go San serif serif slab serif script so forth and so on.",
+    "So I just want to narrow it down.",
+    "Let's say I'm looking for a nice script font.",
+    "I can see the ones I've already used ones are active.",
+    "I can view a particular family that I have not used yet and if there is one that I really like like maybe I really want to play around with this votos.",
+    "Oh.",
+    "Folder I guess Bowl, Utah script whatever that is, I can view that font family.",
+    "And it will show me if there's more than one 'cause some fonts have regular a bold and italic you know, heavy alight all different variations of the font so if there were more than one, I'd see them here and I can activate them 1 by one or I can activate the entire family up here in the upper right hand corner so if I activate that font.",
+    "That's all it took my machines throughout my creative cloud, so even my other computer will get a message that pops up in the right hand corner at all turned off now, but it was.",
+    "Show me Hey that fonts been activated on your computer and you would now be able to use it.",
+    "Not just in your Adobe apps, but you'd be able to use it in any app.",
+    "If you want to go type in Vault Oval, Utah, whatever that's called script in Microsoft Word you could if you wanted to use it in.",
+    "Pages on a Mac.",
+    "You could you can use that font any any program that let's you choose fonts so now that I've activated that if I were to head back over to let's say photo shop create a new document.",
+    "Let's just make something quick and grab my type tool an hour to click, and I would say cool new font that is.",
+    "Whatever my default was at the time, which I think is a minion Pro Italic looks like and then I will be able to go up here and say what is that BOLU there?",
+    "It is bolted script regular and there?",
+    "It is I'm now start typing.",
+    "Annette font and to set to answer that question earlier from Robert Brown.",
+    "I get export this out as a paying the Jpeg's.",
+    "PSD or anything I want it at this point, so the font size change the color change size change what it says like using any other Phone.",
+    "Alright so with that, said, Um, one thing that is nice about these fonts is that they are open type in format.",
+    "So all of them are open type font fonts.",
+    "That means that depending on the font maker the font creator because we license.",
+    "These we don't make these so whoever created these fonts could also use them to make it take advantage of the opentype features and add more things like?",
+    "Alternate glyphs, so when you hover over a character in photo shop or in design for example, I think illustrator as well.",
+    "But certainly Photoshop and Indesign.",
+    "It will show you if there any alternates for that font now you might be disappointed there might be none there might be 10 there might be 12 there might be 2 in this case.",
+    "There are 2 it depends on the font maker Adobe doesn't control that whoever designed this font does so, if I don't like that particular lowercase.",
+    "FI can use that lower case FI don't like that lower case TI can use.",
+    "That lower case T so and again that's font by fonts some will have alternate glyphs.",
+    "Some won't, it doesn't have to be a script font have alternate glyphs.",
+    "I could be any kind so questions about licensing and packaging so remember when I said most of the features like 99% would work as regular fonts one of them that share and brings up does not these cannot be packaged when packaging is a feature of the app like in design for example, you could package up fonts.",
+    "With your document to send to someone else and I can open it up and use that document and the fonts would already be there.",
+    "Now, because of licensing restrictions with Adobe fonts packagings not included.",
+    "But here's.",
+    "The thing to think about the reason you usually packet something is so that you could send that whole package.",
+    "The document all the graphics all the fonts to someone else to open up in the use.",
+    "Well.",
+    "If I did these in Creative Cloud Desktop apps, which I have for the last 7 years.",
+    "I'm sending it to someone else to open up more than likely they're going to have creative cloud to open up these file formats.",
+    "They would just be able to sync that font and use it.",
+    "It would tell them You're missing.",
+    "These fonts click.",
+    "One button sinks them all and then you don't need to package.",
+    "So yes, packaging is not capable you're not capable not able legally to package Adobe fonts but there for the need for it also doesn't exist like it used to with the other types of box has a licensing work work and we find out about it.",
+    "So you can find out about anything.",
+    "The licensing related 'cause.",
+    "I'm not a lawyer, I'm not going to pretend to be 1.",
+    "All that other adobe.com if you go to adobe.com probably I'm guessing slash fonts.",
+    "You can find all the licensing and figure out how that works for example, there might be a license restriction.",
+    "It says you can't use the font in an app that distributes fonts like so that would be obvious restriction, but again, I'm not going to guess at what the restrictions are from licensing best to go to adobe.com and find out just or not Google, but search on adobe.com.",
+    "Licensing and you'll find that out.",
+    "Alright I don't understand.",
+    "OK, so now someone is asking when you choose a different style in a font package does it change one.",
+    "You select it or the whole sentence well.",
+    "That's dipping on the app.",
+    "That's standard 101 type so for example, by change this F2.",
+    "It just totally different fonts.",
+    "I'm going to change the F because that's what I selected if I have it selected as a layer and I go make a font change in the type tool, then that's going to change the whole sentence so that all is Standard Adobe stuff that has nothing to do with Adobe fonts and that pretty much works, the way across the board and.",
+    "All applications whether there Adobe or not so highlighting you highlight you select to effect.",
+    "You highlight things that you want to change.",
+    "But I just want to change the see want to change the whole word cool to something else.",
+    "Now I can go change that to something else and it would only affect the word cool, so whatever select it gets changed or affected by that change all right.",
+    "Let me see if I got some questions over here on on Facebook.",
+    "Hey from Brazil.",
+    "Hey Rose,",
+    "Turn turn service from Adobe.",
+    "Her surveys for there are questions about surveys from Adobe are these surveys free.",
+    "I'm not sure what surveys are talking about sorry bout mists where there's some service.",
+    "All right.",
+    "Yeah, I'm not aware of what surveys you're talking about in surveys usually don't cost money so that I don't know.",
+    "I don't know what's always referring to so with that, said, Alright.",
+    "Let's get back to where we get back on point where we were so we just activated a font.",
+    "We have popped over to photo shop and used it but do I have to go to the web browser every time I want to use a new font and the answer is absolutely no.",
+    "You can let's just type something else here.",
+    "Let's type this.",
+    "But this is something different.",
+    "All right and something different is being typed in whatever I was last on which is that vault 2.",
+    "Bolton whatever it is all right, and now of course, let's say.",
+    "I want that to be something different like I said, so I can go up here to the font menu.",
+    "I can pull it down and it will.",
+    "Show me all my fonts great.",
+    "These are all the ones that are active at this point.",
+    "That sound tells me someone's at the door anyway, as I hover over my fonts in most of our applications.",
+    "Now you can kind of see them as you hover over them so that's kind of cool the next thing you'll notice is that there are icons.",
+    "On some of the all the fonts.",
+    "It depends on what the icon is so the creative cloud logo means that those are Adobe fonts the open or Oh for Opentype means that it's an open type font, but not an Adobe font.",
+    "The open type variable means that it's a variable font.",
+    "Not necessarily from Adobe fonts and the Opentype SVG means it's an open type color font.",
+    "I can already see the word or the color in there, so if I look for any of the ones with the logo.",
+    "I know that any of you could use that same font because it is part of critical out so for example, I could use.",
+    "What is this adorn engraved and let's make that smaller and that changes?",
+    "what I typed to indoor adorn engraved now let's say like that font.",
+    "Let's say that's a font that I kind of want to use on a regular basis.",
+    "I don't want to have to keep scrolling a menu looking for it.",
+    "So when I pop down a menu and all of our apps now an first of all.",
+    "Any font that I use recently will be at the Top which is great, thanks engineers for doing that, so adorna grave is at the Top 'cause I used it recently.",
+    "But if I don't use it for awhile.",
+    "It won't be at the Top anymore.",
+    "So you notice.",
+    "These little stars that you'll see in our font menus.",
+    "Now, when you click the star that tells it to make it a favorite font.",
+    "So now it will always be available when you ask for your favorite fonts, which I'll show you in a minute so if I like that.",
+    "Bowl to bowl Utah Scriptpro, I could make that a favorite and I've got some other favors that are down in the list.",
+    "As you can see here as I scroll so that's a favorite.",
+    "That's a favorite so forth and so now, what if I just want my favorites.",
+    "I don't wanna have to Scroll down a list looking for stars.",
+    "Gavin Davis is asking a great question, Gavin get the question.",
+    "I'm glad you brought that up because I'm going to get to that in just a minute, but anyway, I can hit the star at the very Top of the menu.",
+    "And that will just narrow the list down to anything that I marked as a favorite so.",
+    "Turn turn turn turn all classes there, we got it will.",
+    "Show me my favourites and I can scroll through that.",
+    "I thought I had more favors than that.",
+    "Maybe it's filtering on something else as well.",
+    "They were that was it OK, so let's get out of that no that's it.",
+    "I thought I had more favors than that anyway.",
+    "Show me my favorites.",
+    "I need to go.",
+    "Mark some more favourites, but that's how you can narrow the list down to just your favourites Alright.",
+    "Of course, if you turn that back off and it will show you the whole list.",
+    "Oh yeah, I guess I only do have those favorites.",
+    "So let me go.",
+    "Add one more one that is definitely a favorite.",
+    "I want to add that as a favorite.",
+    "I use that font all the time.",
+    "So now if I go back and filter it should.",
+    "Show me 4.",
+    "And yes, it's working so 4 favorite fonts to quickly see just my favorite so that means that of course, you can.",
+    "Have as many favourites that you want and then filter him down quickly to get to the ones that you like the best so we use that adore engraved before I'm going to go ahead and drop the size back down again and then we'll go ahead and say OK on that all right.",
+    "Next up, I said, what if you're looking for something different in the list.",
+    "do I have to go to the web browser every time so if I again?",
+    "Let's do?",
+    "Another one.",
+    "And we'll just go and make that nice, big so we could see it.",
+    "Another one, and I want to now change that to something else select it and I don't have a something else.",
+    "Yet so let me uncheck my favourites.",
+    "An I can go and find and see.",
+    "It preview any font that I do.",
+    "But if I go ahead and click the more Adobe fonts option up here at the Top of the list that means.",
+    "Show me something I don't already have synced and when I do that.",
+    "That will take me to the web browser and show me other fonts.",
+    "And what's nice about this is you can type in sample text.",
+    "So I can say.",
+    "Give me another one is.",
+    "Show me what it would look like in those other fonts who I kind of like that.",
+    "I'm a sucker for script fonts by the way in case you haven't notice so I can narrow it down, I can say show Maine.",
+    "New scripts this time, let's.",
+    "Show me the San serif versions of that.",
+    "Show me the ones that are heavy like heavy thick bought some time.",
+    "Show me those let me go next and see if I can find one that I really like.",
+    "Hum.",
+    "Turn turn turn turn.",
+    "Amplitude OK, let's say I like Apple II that I want to view that family an it shows me all the ones for amplitude.",
+    "And as amplitude, Ultra I can again I can activate the whole family, but I'm just looking for the thick one.",
+    "So I'm just going to say.",
+    "Give me just that one and that will a message would have popped up but I have it turned off?",
+    "This says, we've now synced amplitude ultra to this alright.",
+    "Let's go in now and change this one, too.",
+    "That font that we just activated ample tude ultra there.",
+    "It is, and again if I really like that font and I want to use it over and over again, I can use that mark that as a favor OK.",
+    "So now I just changed it all right there.",
+    "We go and we can go in and you just keep doing that rinse and repeat keep finding fonts you like.",
+    "But what if you don't know what you like what, if you don't know like like scrolling through and looking for fonts are great.",
+    "But what if you just don't find something you like.",
+    "Um.",
+    "You can actually.",
+    "Look at font packs.",
+    "So you can go in.",
+    "And you can say I don't know what I'm looking for let's go back to the site.",
+    "And let's go back up and go to font packs.",
+    "The very next category.",
+    "And this is some this is like a collection of fonts that designers and put together that said.",
+    "Hey, you might want to use this collection of fonts for your next project, so for example, you might want to use the holiday party pack.",
+    "If that's what you're doing is you're doing a party.",
+    "You might want to use the build build a brand pack.",
+    "And of course, you're kind of looking at a sample.",
+    "But if you really want to see what these look like.",
+    "I'm gonna stay away from scribes would be one that I like.",
+    "But let's go.",
+    "Let's go to the party pack view it.",
+    "And then it will show you all of the fonts in that pack now when you activate a pack.",
+    "It only activates it for 180 days because of that reason, I mentioned earlier you see, there are several fonts in here if you activate a bunch of pasture and literally going to be activating hundreds of fonts that you may only use once so it's activating it for 180 days, giving you a chance to use it all.",
+    "You want 480 days, which most people aren't going to use it all.",
+    "They want is going to use it.",
+    "A few times and then it will deactivate it if you want to activate him again, you can come back and reactivate him again.",
+    "Or if you open up a document that used them.",
+    "It will automatically ask you to activate him again.",
+    "So you don't have to keep a bunch of plants open that you might only use one time because it was a fun idea at the time and taking up resources.",
+    "Alright so I'm going to go ahead and activate that pack.",
+    "It's activating all of the fonts in this pack for me to use and again.",
+    "It will automatically love that it'll automatically deactivate them 180 days later because chances are first of all chances are I didn't use all of 'em and chances are.",
+    "I use them for a one time thing and I'm not going to use them again.",
+    "So why keep him act.",
+    "Alright are there any free fonts Toms asking free as in I'm not a creative cloud member?",
+    "Maybe I don't know, but if your credit card member.",
+    "You're using all of these as part of your membership so if you mean free free, meaning I can go use it as a nun.",
+    "Whatever I would say the only free ones would be the ones that might install with a trial or one that you install because you registered the credit card account.",
+    "I don't know of any free free ones.",
+    "Uhm OK, so with that, said let's see if I go remember what one of these was Lizza.",
+    "Display pro should now be active.",
+    "So I'll go back and look at that let's change this one, too.",
+    "Alyssa.",
+    "I spell this correctly.",
+    "Hang on.",
+    "There it is loser display display Pro is now active and I kind of like that.",
+    "Yeah, I'm not going to use that every day, but you like it and I probably did use it for one time thing OK and so great.",
+    "That's going to Deactivate 180 days.",
+    "Now I keep saying that it will prompt you if you open up something that you don't have the fonts for let me show you what I mean by that.",
+    "Let's go up and create a new document.",
+    "Let's get out of this first or we go new document.",
+    "And I'm going to go to the print category and I'm going to grab a template meaning.",
+    "I'm going to sink a free to use template that most likely has type in it, that I may or may not have the fonts for this.",
+    "Let's hopefully will pick one that we don't have a Ponce for let's download that one.",
+    "Yes, I'm sure.",
+    "It will download it at the speed of My Internet connection did I say that out.",
+    "There is downloading.",
+    "Now, almost done almost done almost done downloading downloading downloading.",
+    "Oh so Tom is asking what, if I create a document that uses a certain point.",
+    "What happens after 180 days.",
+    "That's exactly what I'm about to answer now, so let's say this brochure or whatever.",
+    "This is uses one of those fonts that I after 180 days got deactivated so let's double click on it now.",
+    "And as it opens this is what you would get so you would get the fact that.",
+    "Hey, I created a document 181 days ago that use one of those font packs and now the font pack got deactivated but I want to open a document use it.",
+    "This is what would happen, it would say Hey, you don't have agency faced or I was gonna say Facebook FB Lite?",
+    "Why'd you don't have Newberry Sands pro regular so resolve fonts, which means.",
+    "Even if you open up a document for fonts.",
+    "You've deactivated they would activate a pawn opening when you click the button.",
+    "And that way.",
+    "It just you just work so that's what we mean by you don't have to keep thousands of fonts active at a time because activate am USM.",
+    "You're not going to use them anytime soon again deactivate him.",
+    "If you ever do.",
+    "Open up a document that uses a more you need him again activate him again.",
+    "Now I'm not saying for the ones you.",
+    "Love and use all the time always keep those active or for the ones you use rarely that's the one you don't you don't have to worry about activating OK, so now I saw a question earlier.",
+    "I think it's time for me to answer answer.",
+    "I don't think I've installed a million fonts welcome to the club.",
+    "Alright so Gavins asking can I can I do an image?",
+    "Search for fonts and the answer is yes.",
+    "But I'm going to show you a cool way to do it in photo shop, so I'm going to open up a document.",
+    "Let me open up recently I wanted this one and open up a photo and in that photo.",
+    "There's an old bottle of film.",
+    "Dryer right allows for people that used to photograph with film.",
+    "Now the only thing in this photo shop file are 2 things.",
+    "The original image.",
+    "So it's an image layer and the word.",
+    "Agfa that I typed and I used whatever font.",
+    "I used I used minion pro bold condensed italic and obviously.",
+    "The minion pro bold attempts condensed italic that I used is not the agfa font.",
+    "It's not that font in the image what I want is to use a font that is either that font or certainly as close to it as I can get and that is the image search.",
+    "I think they're asking for afternoon.",
+    "Jesse and Steve Welcome.",
+    "Everybody on be hands.",
+    "ICU now over, there, so how would I do that, well photo shop and few versions back.",
+    "Few updates ago introduced a feature called match font.",
+    "So here's what I do.",
+    "I open up the image that has the type in it, that I like.",
+    "I just type some text that is probably the word.",
+    "I'm looking for us all know if it matches or not?",
+    "That's not a requirement you have to type the text.",
+    "But I do it for visual verification and then you stay on the text layer, so In other words, keep the text layer select it.",
+    "And you go your marquee tool so I'm just going to use my rectangular marquee.",
+    "I'll make a selection around the font that I want so again keep in mind.",
+    "That's just an image so I've made a selection around Agfa.",
+    "I have the agfa layer selected that I typed in whatever fonts in and then you go up to the tight menu and you choose match font.",
+    "So match font built into photo shop and what that simply says is I'm going to do my best to look through.",
+    "Your fonts the ones you have active.",
+    "An Adobe fonts that you don't have active yet to see if I can find one that either matches.",
+    "This or at least close to it because here's a reality when you're selecting an image.",
+    "It could have been something someone painted by hand.",
+    "It is no there is no font so sometimes it's going to look close button.",
+    "Sometimes it may not be close at all because it depends on what you're searching for so if it can find a font awesome.",
+    "They can find something close awesome, it might not find anything at all Oh well.",
+    "Depends on what it is you're searching for alright so match font and it here's the list of fonts it found so let's start with the Top here.",
+    "These are the fonts in order that it thinks I have that are close to that.",
+    "And here are the fonts.",
+    "I don't have synced yet that it thinks are close to that.",
+    "Now I've already done this already know which font it is.",
+    "It's the one that I've already synced but the way I found that font was, I synced it.",
+    "I didn't know which one it was going to be and as this abolition softsoap I just.",
+    "I don't mean to make it a favorite.",
+    "But if I click on that.",
+    "That is as close as I'm going to get to that old Agfa logo from back in the day so this is what I mean by it listed in order great that is the one I want click OK and it's already changed my type to match that as close as it can is it the exact font sometimes.",
+    "Not always 'cause again.",
+    "It depends on Adobe fonts are not unlimited, meaning there's not it's not every font in the world, so sometimes you're searching for something that just doesn't exist as a font.",
+    "I'll give you an example.",
+    "Let me open up another image.",
+    "And let's open up the.",
+    "This one.",
+    "Now this is literally neon this is a neon sign someone did by hand.",
+    "There is no font for this someone made this.",
+    "This is on an old building somewhere took a picture of it and I'm going to go ahead and grab my type tool.",
+    "I'm going to come up here and click and type, the word cafe.",
+    "And I'm going to do it in a different font.",
+    "Don't don't want to just so we can see it upper and lower case.",
+    "There we go and now I got the cafe typed.",
+    "And just bring it down so we can see it.",
+    "I'm now.",
+    "I want it to interfere OK.",
+    "Let's hear let's do this and make it a little smaller.",
+    "I don't want to interfere with my selection and we can even change the color of it, too.",
+    "To whatever that color is that white color there, we go OK.",
+    "So now I've got my cafe.",
+    "and I want photo shop to find whatever it can find that's at least close to that again.",
+    "I don't expect it to be perfect.",
+    "'cause that is something someone made by hand.",
+    "Alright so now grab my marquee tool.",
+    "I'll come up here and select my cafe.",
+    "And then we'll do our match font.",
+    "And it found the ones it thinks that I already have installed are like it and it found some that I don't already have synced that it thinks are like it so I can just go through clicking not really.",
+    "That's close that actually had subtle for that, but I keep trying maybe we found something better Nope.",
+    "Nope.",
+    "It's OK and then if I want to try one of these like this.",
+    "Quimby gubernatorial regular I can then click the sync icon.",
+    "It'll sink that font and then it will show me that font.",
+    "So you can sync even the ones that you don't have in place and it will show you what that one looks like I can see why you think that's it.",
+    "But that's not it.",
+    "So let's try.",
+    "The Next One and again.",
+    "I don't expect it to be a perfect match because if it's something someone drew by hand.",
+    "There isn't necessary isn't necessarily a font to match it.",
+    "Alright alright so I'm going to go back to which one do I want.",
+    "Not that one.",
+    "I'm thinking that one.",
+    "Yeah, if I were going to pick one to show my clients say, Hey, we couldn't find the exact one, but this is pretty close.",
+    "I probably picked out work.",
+    "Art and their young so again, you can now go and you could convert that to outlines.",
+    "You could manually go in with your pen tool and reshape it and redesign it and make a vector logo.",
+    "If you needed to, but that would be it.",
+    "Alright one more thing.",
+    "Let's go over to.",
+    "Someone show in in design, OK, so here we are in in design and I kind of showed you this already so let's say that we go in and we change.",
+    "This Italian restaurant.",
+    "Bella see nose that I just made up made up the name of it out.",
+    "I don't think there's a name of restaurant like that.",
+    "And I'm going to go ahead.",
+    "An Indesign I'm going to just tell it to do.",
+    "Bickham script pro, which is one of my favorite fonts so Bickham Script Pro.",
+    "I just want to point out what you could do now, that you have this power, so this is a this is an Adobe font.",
+    "Bickham script pro.",
+    "It's one.",
+    "I've used for years, even before it was part of critical out and what I love about this font?",
+    "Is it has the most of any Phone.",
+    "I've ever seen alternate glyphs and why is this important because if I said to someone go make me a logo for a restaurant called Bella see nose and use Bickham Script Pro.",
+    "Chances are I'm gonna get back this.",
+    "I'm going to get back there, going to type the word Bellacino's.",
+    "They're going to choose Bickham Script Pro.",
+    "They're gonna make it a color and make it a size.",
+    "Whatever we get something similar to this.",
+    "But if you're a designer and you're trying to differentiate your work from someone else is even using the same fonts.",
+    "We all have then you could really get into the design of the logo by alter alternating glyphs for example, by highlight the B.",
+    "It's like.",
+    "The game show that you know.",
+    "Show me another be.",
+    "Show me be able to be so that one.",
+    "I like that one better OK great.",
+    "Show me an alternate S.",
+    "OK.",
+    "Oh hang on, I always forget, which one that is.",
+    "There we go there, we go.",
+    "Show me the alternate S is.",
+    "I kinda like that one.",
+    "Great.",
+    "Show me that one and maybe I'm going to take the E.",
+    "Show me the alternate ease.",
+    "I really, really tiny.",
+    "And maybe I like that, so now I'm getting something different than anyone else would just give me about give me the same type.",
+    "Same font same word.",
+    "Now, when it pops out like that.",
+    "Sometimes it is very tiny and hard to see so you and each one of these applications.",
+    "You can go in and you can bring up the alternate.",
+    "Or I'm sorry, the glyphs panel so if I go under type.",
+    "And I go to glyphs.",
+    "That should have brought up my glass panel somewhere, you know where is my glass panel?",
+    "Did I not get it type?",
+    "It's there why not seeing it, it might have popped it over here somewhere.",
+    "Hang on, sometimes it's tough shows up on another display or something I'm just not seeing it hold on.",
+    "There it is alright so there's my glass panel.",
+    "And if I bring up my glass panel an you highlight a character.",
+    "You can make this panel bigger and you can say don't.",
+    "Give me the entire font just show Maine, the alternates.",
+    "Which are?",
+    "Show.",
+    "Taller there we go.",
+    "Alternates for the selection there, we go and now I can say make this bigger there.",
+    "We go and show me the alternates for that selection, so I can see them bigger so with the glyphs panel.",
+    "You can get in and actually play around the individual characters and make your own your own design using type an alternate glyphs for font now again every font doesn't have alternate glyphs.",
+    "It is literally up to you.",
+    "Alright so with that, said, I hope that you got something out of today.",
+    "I hope that you will now one more thing I will just mention it to as well.",
+    "You should those fonts are available in your mobile apps see the fonts.",
+    "You've synced before that, as well.",
+    "Oppa, which pop up and design and probably.",
+    "You.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION-PHOTOSHOP",
+      "span": [
+        62,
+        63
+      ],
+      "sentence": [
+        "Translator OK, so question, Roberts asking this candies fonts be used to create Watermarks If so can they be saved Indian Gee?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION",
+      "span": [
+        97,
+        98
+      ],
+      "sentence": [
+        "Whatever my default was at the time, which I think is a minion Pro Italic looks like and then I will be able to go up here and say what is that BOLU there?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION",
+      "span": [
+        98,
+        99
+      ],
+      "sentence": [
+        "It is bolted script regular and there?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION",
+      "span": [
+        106,
+        107
+      ],
+      "sentence": [
+        "These we don't make these so whoever created these fonts could also use them to make it take advantage of the opentype features and add more things like?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION-PHOTOSHOP",
+      "span": [
+        174,
+        175
+      ],
+      "sentence": [
+        "What is this adorn engraved and let's make that smaller and that changes?"
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION",
+      "span": [
+        213,
+        214
+      ],
+      "sentence": [
+        "do I have to go to the web browser every time so if I again?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION",
+      "span": [
+        214,
+        215
+      ],
+      "sentence": [
+        "Let's do?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION",
+      "span": [
+        238,
+        239
+      ],
+      "sentence": [
+        "Give me just that one and that will a message would have popped up but I have it turned off?"
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "QUESTION-PHOTOSHOP",
+      "span": [
+        276,
+        277
+      ],
+      "sentence": [
+        "Alright are there any free fonts Toms asking free as in I'm not a creative cloud member?"
+      ]
+    },
+    "T9": {
+      "id": "T9",
+      "label": "QUESTION",
+      "span": [
+        306,
+        307
+      ],
+      "sentence": [
+        "This is what would happen, it would say Hey, you don't have agency faced or I was gonna say Facebook FB Lite?"
+      ]
+    },
+    "T12": {
+      "id": "T12",
+      "label": "QUESTION",
+      "span": [
+        423,
+        424
+      ],
+      "sentence": [
+        "I've used for years, even before it was part of critical out and what I love about this font?"
+      ]
+    },
+    "T15": {
+      "id": "T15",
+      "label": "QUESTION",
+      "span": [
+        463,
+        464
+      ],
+      "sentence": [
+        "Which are?"
+      ]
+    },
+    "T16": {
+      "id": "T16",
+      "label": "ANSWER",
+      "span": [
+        63,
+        69
+      ],
+      "sentence": [
+        "Well, first of all DNG is a raw format.",
+        "You don't really save Indian Gee.",
+        "You have a device that creates profiles.",
+        "The fonts can be used for anything design.",
+        "Wise you want so if you want to design A watermark with one of these fonts.",
+        "You could and use it anyway."
+      ]
+    },
+    "T17": {
+      "id": "T17",
+      "label": "QUESTION-PHOTOSHOP",
+      "span": [
+        136,
+        137
+      ],
+      "sentence": [
+        "OK, so now someone is asking when you choose a different style in a font package does it change one."
+      ]
+    },
+    "T18": {
+      "id": "T18",
+      "label": "ANSWER",
+      "span": [
+        137,
+        144
+      ],
+      "sentence": [
+        "You select it or the whole sentence well.",
+        "That's dipping on the app.",
+        "That's standard 101 type so for example, by change this F2.",
+        "It just totally different fonts.",
+        "I'm going to change the F because that's what I selected if I have it selected as a layer and I go make a font change in the type tool, then that's going to change the whole sentence so that all is Standard Adobe stuff that has nothing to do with Adobe fonts and that pretty much works, the way across the board and.",
+        "All applications whether there Adobe or not so highlighting you highlight you select to effect.",
+        "You highlight things that you want to change."
+      ]
+    },
+    "T19": {
+      "id": "T19",
+      "label": "QUESTION-PHOTOSHOP",
+      "span": [
+        156,
+        157
+      ],
+      "sentence": [
+        "We have popped over to photo shop and used it but do I have to go to the web browser every time I want to use a new font and the answer is absolutely no."
+      ]
+    },
+    "T20": {
+      "id": "T20",
+      "label": "ANSWER",
+      "span": [
+        156,
+        165
+      ],
+      "sentence": [
+        "We have popped over to photo shop and used it but do I have to go to the web browser every time I want to use a new font and the answer is absolutely no.",
+        "You can let's just type something else here.",
+        "Let's type this.",
+        "But this is something different.",
+        "All right and something different is being typed in whatever I was last on which is that vault 2.",
+        "Bolton whatever it is all right, and now of course, let's say.",
+        "I want that to be something different like I said, so I can go up here to the font menu.",
+        "I can pull it down and it will.",
+        "Show me all my fonts great."
+      ]
+    },
+    "T21": {
+      "id": "T21",
+      "label": "ANSWER",
+      "span": [
+        179,
+        182
+      ],
+      "sentence": [
+        "Any font that I use recently will be at the Top which is great, thanks engineers for doing that, so adorna grave is at the Top 'cause I used it recently.",
+        "But if I don't use it for awhile.",
+        "It won't be at the Top anymore."
+      ]
+    },
+    "T22": {
+      "id": "T22",
+      "label": "ANSWER",
+      "span": [
+        277,
+        281
+      ],
+      "sentence": [
+        "Maybe I don't know, but if your credit card member.",
+        "You're using all of these as part of your membership so if you mean free free, meaning I can go use it as a nun.",
+        "Whatever I would say the only free ones would be the ones that might install with a trial or one that you install because you registered the credit card account.",
+        "I don't know of any free free ones."
+      ]
+    },
+    "T23": {
+      "id": "T23",
+      "label": "QUESTION-PHOTOSHOP",
+      "span": [
+        300,
+        302
+      ],
+      "sentence": [
+        "Oh so Tom is asking what, if I create a document that uses a certain point.",
+        "What happens after 180 days."
+      ]
+    },
+    "T24": {
+      "id": "T24",
+      "label": "ANSWER",
+      "span": [
+        302,
+        306
+      ],
+      "sentence": [
+        "That's exactly what I'm about to answer now, so let's say this brochure or whatever.",
+        "This is uses one of those fonts that I after 180 days got deactivated so let's double click on it now.",
+        "And as it opens this is what you would get so you would get the fact that.",
+        "Hey, I created a document 181 days ago that use one of those font packs and now the font pack got deactivated but I want to open a document use it."
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION-PHOTOSHOP",
+      "span": [
+        319,
+        321
+      ],
+      "sentence": [
+        "Alright so Gavins asking can I can I do an image?",
+        "Search for fonts and the answer is yes."
+      ]
+    },
+    "T25": {
+      "id": "T25",
+      "label": "ANSWER",
+      "span": [
+        320,
+        321
+      ],
+      "sentence": [
+        "Search for fonts and the answer is yes."
+      ]
+    },
+    "T26": {
+      "id": "T26",
+      "label": "ANSWER",
+      "span": [
+        340,
+        361
+      ],
+      "sentence": [
+        "I'm looking for us all know if it matches or not?",
+        "That's not a requirement you have to type the text.",
+        "But I do it for visual verification and then you stay on the text layer, so In other words, keep the text layer select it.",
+        "And you go your marquee tool so I'm just going to use my rectangular marquee.",
+        "I'll make a selection around the font that I want so again keep in mind.",
+        "That's just an image so I've made a selection around Agfa.",
+        "I have the agfa layer selected that I typed in whatever fonts in and then you go up to the tight menu and you choose match font.",
+        "So match font built into photo shop and what that simply says is I'm going to do my best to look through.",
+        "Your fonts the ones you have active.",
+        "An Adobe fonts that you don't have active yet to see if I can find one that either matches.",
+        "This or at least close to it because here's a reality when you're selecting an image.",
+        "It could have been something someone painted by hand.",
+        "It is no there is no font so sometimes it's going to look close button.",
+        "Sometimes it may not be close at all because it depends on what you're searching for so if it can find a font awesome.",
+        "They can find something close awesome, it might not find anything at all Oh well.",
+        "Depends on what it is you're searching for alright so match font and it here's the list of fonts it found so let's start with the Top here.",
+        "These are the fonts in order that it thinks I have that are close to that.",
+        "And here are the fonts.",
+        "I don't have synced yet that it thinks are close to that.",
+        "Now I've already done this already know which font it is.",
+        "It's the one that I've already synced but the way I found that font was, I synced it."
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "QUESTION-PHOTOSHOP",
+      "span": [
+        455,
+        457
+      ],
+      "sentence": [
+        "That should have brought up my glass panel somewhere, you know where is my glass panel?",
+        "Did I not get it type?"
+      ]
+    },
+    "T13": {
+      "id": "T13",
+      "label": "ANSWER",
+      "span": [
+        457,
+        463
+      ],
+      "sentence": [
+        "It's there why not seeing it, it might have popped it over here somewhere.",
+        "Hang on, sometimes it's tough shows up on another display or something I'm just not seeing it hold on.",
+        "There it is alright so there's my glass panel.",
+        "And if I bring up my glass panel an you highlight a character.",
+        "You can make this panel bigger and you can say don't.",
+        "Give me the entire font just show Maine, the alternates."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Relevance",
+      "question": "T0",
+      "answer": "T16",
+      "question_sentence": [
+        "Translator OK, so question, Roberts asking this candies fonts be used to create Watermarks If so can they be saved Indian Gee?"
+      ],
+      "answer_sentence": [
+        "Well, first of all DNG is a raw format.",
+        "You don't really save Indian Gee.",
+        "You have a device that creates profiles.",
+        "The fonts can be used for anything design.",
+        "Wise you want so if you want to design A watermark with one of these fonts.",
+        "You could and use it anyway."
+      ]
+    },
+    "R2": {
+      "id": "R2",
+      "label": "Relevance",
+      "question": "T17",
+      "answer": "T18",
+      "question_sentence": [
+        "OK, so now someone is asking when you choose a different style in a font package does it change one."
+      ],
+      "answer_sentence": [
+        "You select it or the whole sentence well.",
+        "That's dipping on the app.",
+        "That's standard 101 type so for example, by change this F2.",
+        "It just totally different fonts.",
+        "I'm going to change the F because that's what I selected if I have it selected as a layer and I go make a font change in the type tool, then that's going to change the whole sentence so that all is Standard Adobe stuff that has nothing to do with Adobe fonts and that pretty much works, the way across the board and.",
+        "All applications whether there Adobe or not so highlighting you highlight you select to effect.",
+        "You highlight things that you want to change."
+      ]
+    },
+    "R3": {
+      "id": "R3",
+      "label": "Relevance",
+      "question": "T19",
+      "answer": "T20",
+      "question_sentence": [
+        "We have popped over to photo shop and used it but do I have to go to the web browser every time I want to use a new font and the answer is absolutely no."
+      ],
+      "answer_sentence": [
+        "We have popped over to photo shop and used it but do I have to go to the web browser every time I want to use a new font and the answer is absolutely no.",
+        "You can let's just type something else here.",
+        "Let's type this.",
+        "But this is something different.",
+        "All right and something different is being typed in whatever I was last on which is that vault 2.",
+        "Bolton whatever it is all right, and now of course, let's say.",
+        "I want that to be something different like I said, so I can go up here to the font menu.",
+        "I can pull it down and it will.",
+        "Show me all my fonts great."
+      ]
+    },
+    "R4": {
+      "id": "R4",
+      "label": "Relevance",
+      "question": "T4",
+      "answer": "T21",
+      "question_sentence": [
+        "What is this adorn engraved and let's make that smaller and that changes?"
+      ],
+      "answer_sentence": [
+        "Any font that I use recently will be at the Top which is great, thanks engineers for doing that, so adorna grave is at the Top 'cause I used it recently.",
+        "But if I don't use it for awhile.",
+        "It won't be at the Top anymore."
+      ]
+    },
+    "R5": {
+      "id": "R5",
+      "label": "Relevance",
+      "question": "T8",
+      "answer": "T22",
+      "question_sentence": [
+        "Alright are there any free fonts Toms asking free as in I'm not a creative cloud member?"
+      ],
+      "answer_sentence": [
+        "Maybe I don't know, but if your credit card member.",
+        "You're using all of these as part of your membership so if you mean free free, meaning I can go use it as a nun.",
+        "Whatever I would say the only free ones would be the ones that might install with a trial or one that you install because you registered the credit card account.",
+        "I don't know of any free free ones."
+      ]
+    },
+    "R6": {
+      "id": "R6",
+      "label": "Relevance",
+      "question": "T23",
+      "answer": "T24",
+      "question_sentence": [
+        "Oh so Tom is asking what, if I create a document that uses a certain point.",
+        "What happens after 180 days."
+      ],
+      "answer_sentence": [
+        "That's exactly what I'm about to answer now, so let's say this brochure or whatever.",
+        "This is uses one of those fonts that I after 180 days got deactivated so let's double click on it now.",
+        "And as it opens this is what you would get so you would get the fact that.",
+        "Hey, I created a document 181 days ago that use one of those font packs and now the font pack got deactivated but I want to open a document use it."
+      ]
+    },
+    "R7": {
+      "id": "R7",
+      "label": "Relevance",
+      "question": "T10",
+      "answer": "T25",
+      "question_sentence": [
+        "Alright so Gavins asking can I can I do an image?",
+        "Search for fonts and the answer is yes."
+      ],
+      "answer_sentence": [
+        "Search for fonts and the answer is yes."
+      ]
+    },
+    "R8": {
+      "id": "R8",
+      "label": "Relevance",
+      "question": "T10",
+      "answer": "T26",
+      "question_sentence": [
+        "Alright so Gavins asking can I can I do an image?",
+        "Search for fonts and the answer is yes."
+      ],
+      "answer_sentence": [
+        "I'm looking for us all know if it matches or not?",
+        "That's not a requirement you have to type the text.",
+        "But I do it for visual verification and then you stay on the text layer, so In other words, keep the text layer select it.",
+        "And you go your marquee tool so I'm just going to use my rectangular marquee.",
+        "I'll make a selection around the font that I want so again keep in mind.",
+        "That's just an image so I've made a selection around Agfa.",
+        "I have the agfa layer selected that I typed in whatever fonts in and then you go up to the tight menu and you choose match font.",
+        "So match font built into photo shop and what that simply says is I'm going to do my best to look through.",
+        "Your fonts the ones you have active.",
+        "An Adobe fonts that you don't have active yet to see if I can find one that either matches.",
+        "This or at least close to it because here's a reality when you're selecting an image.",
+        "It could have been something someone painted by hand.",
+        "It is no there is no font so sometimes it's going to look close button.",
+        "Sometimes it may not be close at all because it depends on what you're searching for so if it can find a font awesome.",
+        "They can find something close awesome, it might not find anything at all Oh well.",
+        "Depends on what it is you're searching for alright so match font and it here's the list of fonts it found so let's start with the Top here.",
+        "These are the fonts in order that it thinks I have that are close to that.",
+        "And here are the fonts.",
+        "I don't have synced yet that it thinks are close to that.",
+        "Now I've already done this already know which font it is.",
+        "It's the one that I've already synced but the way I found that font was, I synced it."
+      ]
+    },
+    "R9": {
+      "id": "R9",
+      "label": "Relevance",
+      "question": "T11",
+      "answer": "T13",
+      "question_sentence": [
+        "That should have brought up my glass panel somewhere, you know where is my glass panel?",
+        "Did I not get it type?"
+      ],
+      "answer_sentence": [
+        "It's there why not seeing it, it might have popped it over here somewhere.",
+        "Hang on, sometimes it's tough shows up on another display or something I'm just not seeing it hold on.",
+        "There it is alright so there's my glass panel.",
+        "And if I bring up my glass panel an you highlight a character.",
+        "You can make this panel bigger and you can say don't.",
+        "Give me the entire font just show Maine, the alternates."
+      ]
+    }
+  }
+}

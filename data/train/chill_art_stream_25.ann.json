@@ -1,0 +1,178 @@
+{
+  "sentence": [
+    "Why does this always happen?",
+    "They're either celebrities, people.",
+    "I'll never meet in my life or they are already taken.",
+    "I dig my workflow.",
+    "Aw thanks.",
+    "I feel like I'm always a disaster.",
+    "Is true.",
+    "It's true, it's all it always happens.",
+    "Or in like 3 cases.",
+    "I don't know why hold up.",
+    "I'm getting sleepy.",
+    "You guys.",
+    "It was like in like A2 cases I realized that they were way too young and I was like no.",
+    "I am not that kind of person, so I like just dropped it.",
+    "Baby in the bath water was like Nope, too young yet on my house.",
+    "Go back home to your mother.",
+    "Cougar yeah.",
+    "And I don't.",
+    "I don't want to be a cougar.",
+    "OK.",
+    "There's a difference.",
+    "There's a difference between, like you know, like my Grandma, my grandpa, my grandma was a year and a half older than my grand father.",
+    "That's cool.",
+    "2 two year difference.",
+    "Three years difference.",
+    "That's cool.",
+    "Well, like a five year difference or like more than that, that's just weird and I think for me too when I was.",
+    "When I was very young I was.",
+    "5 or 6.",
+    "Pardon me.",
+    "Hello Jane, good it good evening from America.",
+    "It is midnight here.",
+    "Hello, welcome to the stream of Oh my gosh I'm so excited but uh, when I was like.",
+    "Six years old.",
+    "My dad, who was 32 at the time.",
+    "Married a 16 year old.",
+    "And I was like like you know, I was six.",
+    "I didn't understand the time and now I'm I'm almost 30 myself.",
+    "I'm and it's like just imagining that.",
+    "I'm like.",
+    "Dude.",
+    "Can't.",
+    "81 and 57 Oh wow.",
+    "Like it can work, you know, but",
+    "So about 81 and 57, that's crazy.",
+    "That's a 30 year difference.",
+    "That's amazing.",
+    "I don't know, maybe it's just me, or maybe it's just because I saw my dad in that kind of situation and I loved his.",
+    "I loved her.",
+    "I love that life so much.",
+    "She was my best friend.",
+    "Like I viewed her like a mother.",
+    "But I guess she cheated on my dad and like one day like we only saw my dad every other weekend.",
+    "You know 'cause it was the.",
+    "Dual custody kind of thing and one weekend she just wasn't there.",
+    "She was just gone.",
+    "An like my little 5 year old brain perceived it as if she had just straight up died.",
+    "And so I went through like the morning process of like.",
+    "A child who just lost their mother, you know?",
+    "So it was a really weird situation for me and I think because of that, like I kind of have just like a bitter taste in my mouth.",
+    "You know, from a large age difference like that.",
+    "How long were they married?",
+    "On way back.",
+    "Maybe like a year and a half.",
+    "They weren't married that long, but when you're a kid, you know time.",
+    "You feel like you're an 8 year old for 17 years, you know, and now that like when you're an adult, you feel like you're.",
+    "20 for 10 minutes, you know.",
+    "So I don't really remember.",
+    "I don't remember a lot about that time in my life 'cause I was.",
+    "I was so young and just like.",
+    "I was so ridiculously destroyed like look not ridiculous because the motions that I had at a time were real.",
+    "You know they were.",
+    "As much as a 16 year as a 6 year old could.",
+    "Perceive someone as their mother.",
+    "I loved this woman to death yeah, yeah and that's that's.",
+    "I mean she didn't die she just cheated on my dad.",
+    "He was just which is crappy.",
+    "But then again she 16 she's a child.",
+    "You know, like if she was in her 20s or you know whatever and dad was in his.",
+    "You know later 30s or early 40s.",
+    "That's a little bit different.",
+    "You little bit more mature.",
+    "You know most the time, most the time, but like.",
+    "16 year old Most 16 year olds are dumb.",
+    "I mean, I was dumb 16 year old.",
+    "But yeah, like my my little baby brain was just like she died.",
+    "Ah.",
+    "It it messed me up for years.",
+    "Like I I I remember going into therapy and being like why am I here?",
+    "There's a name for that.",
+    "There is a name for that.",
+    "Absolutely there is.",
+    "And it's weird, 'cause like.",
+    "I don't know putting that title.",
+    "To your father.",
+    "Is a weird bitterness.",
+    "In the most.",
+    "Most.",
+    "Both.",
+    "Dane Cook jokes.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        0,
+        1
+      ],
+      "sentence": [
+        "Why does this always happen?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        58,
+        59
+      ],
+      "sentence": [
+        "A child who just lost their mother, you know?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        61,
+        62
+      ],
+      "sentence": [
+        "How long were they married?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        88,
+        89
+      ],
+      "sentence": [
+        "Like I I I remember going into therapy and being like why am I here?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "ANSWER",
+      "span": [
+        62,
+        64
+      ],
+      "sentence": [
+        "On way back.",
+        "Maybe like a year and a half."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T2",
+      "answer": "T4",
+      "question_sentence": [
+        "How long were they married?"
+      ],
+      "answer_sentence": [
+        "On way back.",
+        "Maybe like a year and a half."
+      ]
+    }
+  }
+}

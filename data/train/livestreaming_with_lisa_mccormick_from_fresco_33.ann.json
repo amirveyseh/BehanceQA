@@ -1,0 +1,159 @@
+{
+  "sentence": [
+    "And I do want to still play with.",
+    "I think more of the texture.",
+    "So maybe maybe that's what we'll do, uhm?",
+    "So there's this really fun brush.",
+    "Where is it?",
+    "Yeah, I really like that texture as well.",
+    "Hum.",
+    "There's so many brushes.",
+    "It's awesome, but then it's also sometimes hard to find.",
+    "Uh, I think I saved it.",
+    "Actually in my favourites.",
+    "OK, so there is these brushes.",
+    "The rake.",
+    "Kind of.",
+    "I think this is fun.",
+    "This might be way too.",
+    "This might make things way too busy, but.",
+    "I just want to at least try it out.",
+    "See what that?",
+    "What, like a little bit of texture might add.",
+    "Laura says I missed the beginning of the stream to use some kind of reference to draw people.",
+    "I didn't necessarily use like a reference, very difficult to Draw Something different.",
+    "Pastors, uh, so the well.",
+    "I guess this was based off of more of like the idea of there is a.",
+    "There is a famous painting by Matisse say that is, I think it's called the dance.",
+    "Or yeah, yeah, it's called the dance and.",
+    "We have two different versions of it actually.",
+    "But it's essentially a very similar.",
+    "It's a very famous some painting and so I want to like play off of that and do like a similar feel of if you Google Henri Matisse A and the dance, you'll see I think it's like 4 five people that are circling around.",
+    "And there's been like.",
+    "Different statues, oven reenactments of it and what not?",
+    "But yes, that was kind of like where I got that idea from, but I definitely like if I for this one.",
+    "I didn't use any like actual reference photos of people, uhm?",
+    "More so just that idea.",
+    "Uhm, but definitely at times I'll use reference, photo reference photos or like photographs to see, like how peoples pastures are.",
+    "Very helpful for sure.",
+    "Oh no worries, Alejandra, I hope that you have a good rest of your night or day.",
+    "I'm not sure what time it is over there.",
+    "I think it's probably similar to I'm in Chicago.",
+    "I think it's probably night time ish, but.",
+    "Thanks for joining.",
+    "Have a great night.",
+    "He said it's 716 actually.",
+    "I'm also 716 uhm.",
+    "So we're on the same the same time zone, which is really cool.",
+    "Alright, have a good night.",
+    "No problem.",
+    "Something way, way, way more complex and I thought I was going to.",
+    "Translator uhm?",
+    "But yeah, so I'm seeing a couple more people have a joined the stream.",
+    "I just wanna take a moment and say hi everyone welcome um.",
+    "I am I'm streaming right now doing here.",
+    "I'll zoom out so you can see doing this.",
+    "I guess I'm calling it like a.",
+    "Outdoor brand asset illustration piece for one of my favorite National Park.",
+    "So this is just a completely made up.",
+    "Prompt that I gave myself, um, just to practice some of my illustration and.",
+    "Branding skills uhm?",
+    "I'm also playing with, you know, different ideas.",
+    "Such as this color scheme, which is.",
+    "If you haven't noticed, very bright and not not quite your average earth tone color scheme.",
+    "Uhm, that could even work.",
+    "If I turn off the black outline.",
+    "Yeah, so this is just a just for fun.",
+    "Experiment if you will and yeah, so let me know where you're tuning in from.",
+    "Um?",
+    "I love hearing where people people are streaming from.",
+    "It's like that's been one of my favorite things about doing these streams, which I've been streaming at least like 4 hours a week, which has been really cool and.",
+    "I'm actually doing it straight from the iPad.",
+    "But yeah, I've I've been able to talk with people from.",
+    "Literally all over the world through this, which is super super cool and um.",
+    "Yeah, I love how art brings people together.",
+    "I love how.",
+    "Are unifying that is so.",
+    "All right now I'm looking at this.",
+    "I don't think I I'm liking these.",
+    "Extra lines, it's kind of.",
+    "Kind of making it a little bit too hard to see.",
+    "I also don't know if it really needs the outline.",
+    "What do you guys think?",
+    "Try.",
+    "Leave the outline or take it away.",
+    "Also, I don't know if it needs the border or not.",
+    "Here I'll zoom in more.",
+    "With border without border, I'm kind of liking the border.",
+    "I feel like it helps the drawing just like super like pop off the page.",
+    "So I am leaning more towards Yes on that.",
+    "Yeah, I don't know.",
+    "Maybe I need to just move on to the next piece in.",
+    "Hello.",
+    "Some.",
+    "Work on something else for 2nd.",
+    "Oh, I didn't mean to have that, OK?",
+    "Sorry about that.",
+    "I just took a drink of water and.",
+    "Totally.",
+    "Wrong pipe, uhm?",
+    "OK.",
+    "So I'm definitely liking the upgrade with the bear and this.",
+    "This middle super trippy lava lamps feeling landscape.",
+    ""
+  ],
+  "entity": {
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        3,
+        5
+      ],
+      "sentence": [
+        "So there's this really fun brush.",
+        "Where is it?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        78,
+        80
+      ],
+      "sentence": [
+        "I also don't know if it really needs the outline.",
+        "What do you guys think?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "ANSWER",
+      "span": [
+        80,
+        82
+      ],
+      "sentence": [
+        "Try.",
+        "Leave the outline or take it away."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Relevance",
+      "question": "T2",
+      "answer": "T3",
+      "question_sentence": [
+        "I also don't know if it really needs the outline.",
+        "What do you guys think?"
+      ],
+      "answer_sentence": [
+        "Try.",
+        "Leave the outline or take it away."
+      ]
+    }
+  }
+}

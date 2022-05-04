@@ -1,0 +1,1774 @@
+{
+  "sentence": [
+    "All right guys welcome back today, I'm going to be doing some texturing this time, using substance painter.",
+    "Cut my model here, so we just threw together.",
+    "It's a little cart for the community evil, setting what kind of village so.",
+    "And we're just going to use sort rarely have in painter here.",
+    "Maybe I'll happen to designer if their stuff I need but.",
+    "Let's get started so.",
+    "First things 1st is I have this set as 2 different texture sets.",
+    "I've got one for the cart and one for the wheels and also the handles in a little bit more.",
+    "Yeah, F3 here, I can pull up my UV's.",
+    "This is the current I have it split up a lot more than I would usually.",
+    "Usually I wouldn't work with so many seams but.",
+    "We try something different this time.",
+    "Specifically, I have 'em all separated based by.",
+    "What type of material would be inward natural seems to be anyway so?",
+    "If you look up here.",
+    "All these panels are these pounds right here.",
+    "And since these panels would most likely be separate material like in the real world to these right here.",
+    "There be like a Seven piece of wood so I'm thinking like planks going horizontally and then.",
+    "All right here.",
+    "You know little beams going up and down and support.",
+    "So I kept them separated there first thing like to do any any model is too big color Maps.",
+    "You working with 2K.",
+    "So 2048.",
+    "It's it's non destructive so you can only change it later.",
+    "Change your output and ourselves.",
+    "You're working sites, with that.",
+    "I don't have a high Poly mesh for this one.",
+    "So I'm just going to say bagel texture sets.",
+    "Just going to go through it's going to give me or ambient occlusion and whole bunch of other.",
+    "Maps like the curvature in position that'll be good for.",
+    "Using generators and things like that.",
+    "Already.",
+    "See it when I had to meet all their Maps if I had a high Poly it would.",
+    "Big that detail into the normal but I don't for this, who it won't pop.",
+    "The wheels back on and you can see.",
+    "Now you just the tiniest bit of shading here was from the ambient occlusion.",
+    "My friend I really just helps make it pop so.",
+    "We're just going to start I think we started the actual card, so I can hide my wheels right here in my texture set.",
+    "Now, almost exclusively work in failures.",
+    "So you're going to pull up a wood material.",
+    "But if you have wants to choose from.",
+    "Honey over these planks, I got 2.",
+    "I can't remember which is which.",
+    "We're medizin designer.",
+    "While ago.",
+    "A number of Black Mesa little height at all.",
+    "I think I will start with the inside here.",
+    "If I select this little checkerboard pattern that will do it by.",
+    "I can.",
+    "Mask by shell so pressing actually can see switches between black and white.",
+    "Its weight that pass through the Black Mask obviously so.",
+    "Fylkir.",
+    "My my you VS.",
+    "Whenever I use the shell, it just does this entire bit.",
+    "There's also I think is object so this would do everything.",
+    "That's one object, then you can also do it like by face.",
+    "Like that.",
+    "And.",
+    "I'm just gonna do this, or that.",
+    "You know, and this one OK.",
+    "So I'm going to have separate layers for this and this one.",
+    "I guess these 2 in this one 'cause this one is laid out.",
+    "Yeah, so these 2 are laid out horizontally in this ones vertically.",
+    "Sort of rotate I'll show you what I mean, Skype that.",
+    "Go into the material here and rotate it 90 degrees.",
+    "I mean, we're going to throw the scale.",
+    "There we go, we get some tiling here.",
+    "Looks pretty good.",
+    "You don't quite line up here so I'm going to.",
+    "Through each one of these separate.",
+    "Find.",
+    "Under scaling we like first.",
+    "I know if I if I press CI can switch through the different Maps.",
+    "So the base color.",
+    "And am to go back to material see everything in mind.",
+    "Show.",
+    "Think 10s pretty good scale.",
+    "I was going to say this.",
+    "Do any fill air.",
+    "Actually, I'm going to.",
+    "Just copy this failure.",
+    "Likeness.",
+    "Hide.",
+    "OK.",
+    "Here, I can just.",
+    "Surrounded the offset try to get lined up.",
+    "Now I can also uses a trip planner.",
+    "It will give me here we go.",
+    "We see make it easier to see.",
+    "No pun intended.",
+    "No one's here in here.",
+    "Actually.",
+    "This change my scaling little bit, yeah.",
+    "Maybe.",
+    "It's not perfect, as I need to be there.",
+    "And we can do that one more time for this side over here.",
+    "Shut this time, we're going to be rotating it.",
+    "There we go.",
+    "No this isn't.",
+    "That's good enough for now.",
+    "Go ahead and throw all these in a folder.",
+    "Sorry about the name later.",
+    "Hum.",
+    "All this bump here this normal's a little bit intense mean to dial it back, I can go up here.",
+    "And switch it to normal and then.",
+    "Just going to do it now.",
+    "Doing the right one wanna do this.",
+    "We need to add A.",
+    "You filled it only effects that can be hype what I'm looking at here.",
+    "So if you are.",
+    "See height.",
+    "Actually can check here.",
+    "Yeah, OK.",
+    "Sing multiply.",
+    "Yeah, there, we go, we still multiplying that all.",
+    "She's at the flat knees out just a little bit.",
+    "Too extreme my default.",
+    "It's alright.",
+    "What is hot today?",
+    "Very warm.",
+    "Alright let's do this one now.",
+    "Not to worry about.",
+    "By the color, I think it's an alright color.",
+    "He would tell us the loan on the outside little more well let.",
+    "That's the new here same thing.",
+    "Do.",
+    "For their mass kissed him down here.",
+    "We are updated.",
+    "90.",
+    "At that scaling here.",
+    "Submit Lurg.",
+    "Like 8.",
+    "My bed.",
+    "I am seeing like a lot of detailed tile here worry about that when we get to like.",
+    "Add dirt and grime and stuff.",
+    "Once again.",
+    "I'm just going to come down these sites.",
+    "Little too extreme.",
+    "I could go in and put a parameter for that.",
+    "In the material itself, which is not a bad idea.",
+    "But for now since I have this way.",
+    "It's not too hard just touch effect height normal.",
+    "Once we get to multiply there, we go.",
+    "It would be better to have a slider in the material but.",
+    "This gets the job done.",
+    "Now I'm thinking.",
+    "I don't want this all to be the same shade something this raining here.",
+    "Maybe a darker wood or maybe even.",
+    "Make a metal or something totally different.",
+    "I'm thinking these little bits are going to be like iron rebar.",
+    "Maybe we have more raw wood for this insider.",
+    "But biscuits start naming here nor is going to confuse fast, so this is just going to be the.",
+    "Kurt lips.",
+    "For bed.",
+    "It's gonna be.",
+    "Hi addressed there, we go.",
+    "Camp thinking.",
+    "So that's alright.",
+    "Smiths with these rails you're kinda.",
+    "Kinda look we can get out of those.",
+    "And that Black Mask was gonna throw on a color right here just for.",
+    "So I can ask it out.",
+    "There we go.",
+    "6 Santa sleigh now now we're going for so I'm going to throw down.",
+    "Don't know.",
+    "Don't know.",
+    "Do a lot of materials, we can work with here.",
+    "So it can turn Iran.",
+    "Rough.",
+    "Something a lot darker than that.",
+    "I think I think I might stick with would be honest is supposed to be like.",
+    "The peasants card anyways, it seems like unlikely to have.",
+    "A lot of medals or anything like that, so let's go back.",
+    "CR Woods, OK, so this plank material, I made?",
+    "The size down here.",
+    "I know it's not well name, but this is supposed to affect the gap in the planks.",
+    "So I have, I have 2 in here.",
+    "I need to delete one.",
+    "One has it 1 doesn't have it working?",
+    "I think it's the other one.",
+    "Yeah, here, we go there, we go and now it's got no.",
+    "So these lines right here.",
+    "But separate planks now that's all gone need to mess with the scale here.",
+    "I think maybe it darker wood.",
+    "I don't think I gave it any color control, so.",
+    "The few things we can do here just like the height, adjust we can do the same thing, but with color.",
+    "So if I throw on like just a black color, I can tell it to multiply.",
+    "No.",
+    "Ask through now.",
+    "The scroll through see.",
+    "Now you know multiply my pH.",
+    "I just need to tell yeah here we go OK.",
+    "And then I just needed throw on.",
+    "I can copy this mask detail here.",
+    "Copy mask and then paste it too.",
+    "Yeah.",
+    "And now this is ask acting as just just multiplying that black color.",
+    "Now by the wood so just overall darkens it in a few different ways.",
+    "You can go about doing it with just my way.",
+    "and I like how it works.",
+    "So we don't have a ton of texture resolution.",
+    "On these railings.",
+    "We look here, I think.",
+    "Yeah, it's this over here, maybe.",
+    "Used to.",
+    "It's not me.",
+    "It's not nothing but that's the entire thing rap so.",
+    "Link one faces like.",
+    "He.",
+    "Not very large.",
+    "Yeah, so this is the Top face here.",
+    "And this is the bottom.",
+    "Some can mess around.",
+    "It was too much.",
+    "Eat till I get that early should add A.",
+    "Maybe we can do that for a time, but I can go back and look at the material in designer and maybe have a modifier for these not straight here.",
+    "Or, a little parameter that I can change that we can just turn them off 'cause right now, I think they're just.",
+    "A little too extreme.",
+    "If you just bring this, yeah, OK.",
+    "Since I didn ask out this high to test is just affecting all layers below it right now.",
+    "I really should add make a note of that, but I should add.",
+    "I had adjustment true for the material that we can just do it straight shooting.",
+    "The thing without having any extra layers, not hard to do.",
+    "Just.",
+    "Look at this from as many angles that can.",
+    "Get a fence so I think.",
+    "Once again this is going a different direction.",
+    "And if you think about it logically it would it really make sense for them to cut the wood in this direction like something if you chop down a tree and you need.",
+    "A long piece, she would cut it, I guess vertically as opposed to horizontally so.",
+    "I'm just going to mask this out, not that one.",
+    "Now this one yes.",
+    "And we'll just cut paste that.",
+    "And this time it's clear that mask.",
+    "And again here and rotated 90.",
+    "And there, we go.",
+    "The highest resolution, but Gets the job done.",
+    "And, of course for final renders you can only just change it just like this.",
+    "They can pump up to 4.",
+    "Kane just because of how it's all all set up and how substance painter works.",
+    "It preserves all that detail.",
+    "You don't know it's not stretching anything.",
+    "So that just means everything is just gonna be that much more crisp and see.",
+    "I don't usually work in 4K.",
+    "Cause your computer to chug issue depending on your specs and all that.",
+    "But I will do my renders sometimes.",
+    "In 4K and Quick good I'm just going to go ahead and name.",
+    "Use.",
+    "These layers before I forget what they do.",
+    "This is my real April Durkin.",
+    "This will just be.",
+    "Real.",
+    "Sites seeds and Rail.",
+    "Black.",
+    "Again, we can throw these all into a folder or proper.",
+    "And just color rails and I'm thinking about it, I'm going to go ahead throw down to save.",
+    "Try to keep everything organized but.",
+    "So many folders.",
+    "I gotta get like proper naming scheme going.",
+    "Substance painter.",
+    "There we go.",
+    "In toilet cart.",
+    "Turn off.",
+    "Boot enough alright.",
+    "I don't want to put the word on this side, but maybe.",
+    "You know what you're going to do that on the same thinking.",
+    "We follow the same scheme here with these panels right here.",
+    "It'll be like the lighter color would that I have over here and then these beams.",
+    "Maybe the darker one.",
+    "I think that'll give it a nice contrast.",
+    "Let's just go ahead and see.",
+    "Norman testing it out.",
+    "Second, one, I don't know maybe who knows their down 90.",
+    "Yeah.",
+    "I should put so this is a little let me explain one go into here.",
+    "I should have paid more attention when laying on my UV's you can see here.",
+    "These 2 panels are laid out upside down.",
+    "Um.",
+    "I could.",
+    "Could do quick fix.",
+    "And see how the mall lined up nicely here.",
+    "Except.",
+    "Which two is it anyways and just?",
+    "It's just.",
+    "Throughout a mask.",
+    "In case these 2 middle ones.",
+    "You still",
+    "OK, OK, OK, OK, OK, yeah, this was too.",
+    "I see now and while I'm thinking about it.",
+    "Let's see if any, others are like that.",
+    "Yes, OK.",
+    "Yes yes yes.",
+    "And.",
+    "I think this whole site is upside down.",
+    "But.",
+    "It's OK.",
+    "Set for this one.",
+    "Right.",
+    "If Me 2 seconds.",
+    "I'm going to hop over in my modeling program.",
+    "And just rotate the issue vise and I should just be able to bring it.",
+    "Right back in and.",
+    "Plug and play no problems.",
+    "Which I'll be right back?",
+    "OK, we should be good to go so I'm just going to pop up here and say.",
+    "Oh, it's project configuration risking change the file expert to hear.",
+    "Ulting goes point plan then.",
+    "Nothing will break yeah, there, we go.",
+    "Nothing broke.",
+    "Now let's see if anything fixed.",
+    "Early fixed.",
+    "Oh, it is beautiful look at that easy fix do second fixed too.",
+    "Awesome OK.",
+    "I know how to do that I could have gone in and on the thing with separate layers, but you know.",
+    "Extra work and all.",
+    "It's just a little neater little cleaner.",
+    "Little less of a hassle.",
+    "Well, so I can do that might as well.",
+    "Cool.",
+    "Cool, cool cool.",
+    "Poopoo Doo Doo.",
+    "Beautiful.",
+    "There we go.",
+    "This mask is all sorts of funny just going to clear it.",
+    "And I'm just going to grab it all.",
+    "From the UV's here.",
+    "Much easier.",
+    "And look at this now, my planks lineup.",
+    "Perfectly just great.",
+    "Fantastic.",
+    "Now you only can do is these I used the wrong one again.",
+    "First, one.",
+    "Yeah, OK.",
+    "We can increase the gap that I thought it was a little weak.",
+    "We got something like that there we go.",
+    "How much better?",
+    "I like it.",
+    "Looking good.",
+    "Very nice indeed.",
+    "One thing I would say about this material that I need to fix or like.",
+    "It's a bit of an issue is.",
+    "You can see here that this like stain continues on over here.",
+    "So the planks don't really feel.",
+    "Like different blanks, they feel like they're all connected.",
+    "It's an easy fix.",
+    "If you just I think it's like vertex normal you can grab the each.",
+    "Each plank and then just shifted so it's not a.",
+    "They don't line up both help break it up.",
+    "But that's something you want if you.",
+    "You had no planks like that.",
+    "But it's honestly.",
+    "It's not that noticeable.",
+    "I think they lined up all the way around.",
+    "I think it's a pretty good size there.",
+    "Very nice and this will be.",
+    "Boo.",
+    "Hello caps lock panels.",
+    "There we go.",
+    "Very nice.",
+    "This last trip that we're all good all good.",
+    "Maybe maybe on the outside here.",
+    "Maybe just maybe it isn't plant.",
+    "See how it looks.",
+    "So if I missed with the scale.",
+    "So I mean, you can kind of see these plants are hard to see anyways.",
+    "But if I go in here.",
+    "Give you that line completely.",
+    "That's alright I think.",
+    "Well, OK.",
+    "I think I want these pieces vertical let's try that but I don't know.",
+    "Looks Alright.",
+    "I want to go ahead and had the wheels.",
+    "Looks good looks good.",
+    "We're just gonna do that old dark and again.",
+    "It doesn't matter what color it doesn't matter what color but?",
+    "I'll show you what I mean?",
+    "Once again multiply.",
+    "So add another black mask and.",
+    "They're right there looks good so maybe I want to trade.",
+    "Not my friend with the colour maybe on Celine.",
+    "Yeah, let's take over mature almost like mahogany if I just had a little bit of red.",
+    "Might be too.",
+    "2 fancy firm donate for here so.",
+    "Spell it up maybe.",
+    "You know, maybe it's like.",
+    "But of a paler would.",
+    "So take a look at the second divide if I want to lighten it instead.",
+    "I think darker I think darker looks better.",
+    "I don't want to be the one to be the same as the railing.",
+    "But after I want to be the same as the planks.",
+    "Also I don't want to look too busy so.",
+    "Gotta find that happy ground.",
+    "Alright looks good looks good.",
+    "Right.",
+    "It's coded populous on the other side, too.",
+    "And dark in.",
+    "This holding shift right click move around my environment here, so I can.",
+    "Check different angles of the lighting.",
+    "Describe drink here.",
+    "All right.",
+    "Alright let's try let's do some of this.",
+    "These are posts.",
+    "I'm thinking, maybe here's their like iron reinforcement.",
+    "Maybe like a rod iron to see what materials I have.",
+    "Whoever right I don't think I've made 1.",
+    "Now I do, do not.",
+    "And if I did I probably would have spell it anyways.",
+    "Browse always a good bet.",
+    "Not only remember more bump.",
+    "You know what?",
+    "Service safe I want to.",
+    "I have the perfect material for this.",
+    "I want to go check a different project, they've done.",
+    "Let's see if he's in Recent.",
+    "Yes.",
+    "This is another project, I did, and I'm thinking this metal is perfect.",
+    "I want to see what I used here.",
+    "Just.",
+    "Shut up iron.",
+    "Open.",
+    "What are you?",
+    "Oh, OK, you smart material here OK.",
+    "Perfect again.",
+    "I really liked how this how it turned out.",
+    "It's nice it's very nice OK.",
+    "Stop back over.",
+    "To do, don't need to save any changes here.",
+    "So I'm gonna look for hold and here we go.",
+    "Erica.",
+    "Now I can just add a mask, the tire.",
+    "Over the entire folder.",
+    "I don't do if everything below just perfect.",
+    "We could get rid of this one.",
+    "No, I think.",
+    "Yeah, let me.",
+    "See here.",
+    "I think it's with all these are.",
+    "Normally, I would have these stacked.",
+    "But I wanted to have you know?",
+    "Keeping them separated just let you be more unique with them.",
+    "So each one can look at the little differently aren't the highest resolution.",
+    "PDP.",
+    "Go in just messed with a different.",
+    "Factors here.",
+    "Those wheels could go away wheels.",
+    "Yeah, I don't have.",
+    "From LA to resolution work with her butt.",
+    "Should be good enough?",
+    "Do we have?",
+    "We have colored control, so here we go.",
+    "Situation.",
+    "Things out like some rest, it looks like.",
+    "Will it hard to see what I'm doing on these?",
+    "Aural intensity down a bit.",
+    "I'm smart material doesn't look like it.",
+    "Well, funky alright.",
+    "Did I do that?",
+    "Yes, I did OK.",
+    "Is quite small detail?",
+    "Having a little trouble with it, but Getting somewhere.",
+    "Really that yourself.",
+    "Let's get a quick render see where we're looking.",
+    "Just keeping an eye on that iron I think looks alright.",
+    "Could have done something more interesting with the geometry there but?",
+    "It is what it is this would is looking a little rich all things considered.",
+    "But 2 luxurious for you know.",
+    "Pretty aesthetic.",
+    "I'm going with with a Curt Sue that's easy fix will keep that edge off.",
+    "Now.",
+    "Give me a little sniffly today.",
+    "Is this color panel no all the other ones are the panel?",
+    "Oh naming is the hardest part.",
+    "I don't know.",
+    "It's kind of dark in her name.",
+    "I think if it's the same color will just kinda plan into itself but.",
+    "Just a shade or 2 right?",
+    "That's enough to break it up, I think.",
+    "Can pretty so far looking good?",
+    "I can good let's.",
+    "To this on the back here.",
+    "Gonna be the right way.",
+    "No, that would've been too good with me if I had the right direction.",
+    "Well, actually.",
+    "To need to fix old school these site, I don't know panels.",
+    "Again, you know, many panels.",
+    "Just got duplicate these to clear that mask.",
+    "Pop it down here here they do Yanks.",
+    "Looks like I have some.",
+    "Texture stretching here must've been an oversight Leavis.",
+    "I don't think it's worth going back to fix to be honest.",
+    "You know what I know exactly where that happen.",
+    "No well.",
+    "We can make it work.",
+    "Topic this real quick.",
+    "See I don't see it when it was OK, I was there.",
+    "You know what it's not noticeable the sideways and soon sideways.",
+    "Supposed to vertical so I'm just going to going to keep it like that.",
+    "I'm contemplating having this.",
+    "Post rate here in the morning painting, having this, this corner post be like a different would again.",
+    "'Cause.",
+    "You know if I was like to imagine how this is made right.",
+    "This would be its own plank.",
+    "These ones would be their own.",
+    "Ultimately, we should probably also be there, only going sideways.",
+    "Hum.",
+    "But I can't be asked.",
+    "I don't think you would look that good to be honest.",
+    "Maybe if I heard in these edges, where they connect.",
+    "You had a little.",
+    "Breaking in that might be nice.",
+    "Let me try it with this blank real quick.",
+    "See how that looks.",
+    "So.",
+    "This time I'm going to use.",
+    "My face tubal here we go.",
+    "Jenna scared of all these faces.",
+    "Sometimes it's easier to do this in 2D.",
+    "Language forgot some metal over here.",
+    "OK.",
+    "Here's our spot.",
+    "Perfect.",
+    "Perfect perfect.",
+    "I think this would be a good spot to reduce reintroduce this darker wood.",
+    "So I'm gonna go ahead and.",
+    "Let's see grab one of these uses dark and.",
+    "Concert actually I'm just going to do this.",
+    "Minus will just have it in the rail section.",
+    "Here.",
+    "Problem you don't look.",
+    "Dark and Alright, OK, I got this.",
+    "I know why no biggie.",
+    "This is this there, we go.",
+    "There we go.",
+    "This is its own shell, Yep perfect.",
+    "Perfect was it.",
+    "Again.",
+    "So that's alright see now.",
+    "I wish this was just a little books to root it but.",
+    "We can probably work that end with a height map.",
+    "So let's try that out, 'cause I am what am I doing?",
+    "I like I think I like how this looks.",
+    "Yeah, OK, yeah, I do, I'm going to start with I'm going to use it down here.",
+    "On this, I don't know this extrusion here and that will just help frame it really nicely.",
+    "I want to do this.",
+    "It's going to be filled there.",
+    "'Cause everything is filler.",
+    "Be high.",
+    "I don't want to be like a?",
+    "Nor can color just so I gotta lean view.",
+    "Now I think.",
+    "OK, there, we go, yeah, so like I was saying, I broke this more seems in this model and I usually would normally like these would probably connected to the bottom down here.",
+    "Because they can be, but this time I broke them up there.",
+    "We can just pop the materials down like this.",
+    "Alternatively, I could have created like an ID mask.",
+    "But because I wasn't sure how is going to lay it out ahead of time?",
+    "I went I went with this route that we can just change it on the fly.",
+    "If that makes sense.",
+    "So I'm just thinking right now.",
+    "Get the dark and down as well perfect and.",
+    "So this is going to be.",
+    "I don't know bottom in bottom side sides.",
+    "Oh yeah.",
+    "Do the same thing clear that mask again.",
+    "And I like that name.",
+    "You like So.",
+    "Hood with 90 degrees of rotation.",
+    "There's something like no one would probably receive but.",
+    "So let's do this way anyways bottoms.",
+    "I don't know banks, they don't know.",
+    "Sure.",
+    "I'm not great with the name in when you have so many layers like this, it's hard to.",
+    "The differentiate each one.",
+    "Hello.",
+    "No.",
+    "I see colors changing up there.",
+    "Pete the mask.",
+    "So you can go this one layer and you can see specifically where the mask is so I can see I missed scopes.",
+    "Super Subs I missed this.",
+    "Elsa miss, this man.",
+    "Think that sold a mask and I want.",
+    "Bring me to color.",
+    "There we go.",
+    "These sides getting organs.",
+    "Must be?",
+    "Yeah.",
+    "OK.",
+    "Come down with the bitter cold or something.",
+    "A sore throat.",
+    "Sorry for not talking much hello, I think I probably.",
+    "Im yammering away.",
+    "Kurt is looking good so far OK.",
+    "Let's let's finish.",
+    "This bottom off and then maybe take a little bit of a break.",
+    "Now I'm thinking.",
+    "Occured useless same wanna go down.",
+    "I don't know, but I also think it may be like.",
+    "What if it isn't blanked?",
+    "Like this whenever I'm just going to.",
+    "Scale for it.",
+    "GN news.",
+    "Sold would Certain colors so.",
+    "So the lighting doesn't matter let's see.",
+    "Rotator 90.",
+    "It's a good thing to keep in mind when they not your UV's is their orientation.",
+    "So if they're all rented on 20 degrees and be kind of a pain to get.",
+    "Material like this, where you want to be lined up properly.",
+    "Working yeah.",
+    "I just use red is like.",
+    "It's going to call it a debug color.",
+    "It's just so I can.",
+    "You know something stands out, I can see where I'm masking.",
+    "Probably better to use like?",
+    "Yeah, like that color.",
+    "It's one that really stands out and now.",
+    "It's like unreal use shade like that.",
+    "Heard is 'cause like doesn't show up at all in nature, so.",
+    "It really pops out, I don't know if that's true but.",
+    "It makes for a fun fact.",
+    "It.",
+    "Oh dear, Oh dear.",
+    "So this is one of our missing iron bars.",
+    "I think this is just going to go as a.",
+    "Now I see material is the other ones so nothing special.",
+    "You don't see you, Mister Yeah, hello.",
+    "I thought maybe there, we go.",
+    "Menu sneaky sneaky sneaky there, we go.",
+    "Everything worked out that needs to be marked out.",
+    "Let's throw material mode.",
+    "Some light.",
+    "And would I don't boy Oh boy.",
+    "I had spring it below.",
+    "Just give it scaled up.",
+    "Here we go it's good enough honestly.",
+    "It's not special but it doesn't doesn't break anything.",
+    "And my allergies are just oof.",
+    "Give me a run for my money alright let's get the siren sorted out before I forget.",
+    "AM.",
+    "Me and I think as the other ones.",
+    "Looking good, I can get an similar already OK.",
+    "We do this weed eater Weedy Wheels are good to go.",
+    "So not sure what I wanted to hear.",
+    "CCAC.",
+    "More wood.",
+    "Wood.",
+    "Would would He will.",
+    "Would would Yikes today I don't know.",
+    "I messed up my UV's.",
+    "Where are they?",
+    "Where are you I know what happened here?",
+    "But this right here.",
+    "Good I might be able to get away with it, I might be.",
+    "'Cause they ended up Bri mirroring for this.",
+    "And I really just like.",
+    "Threw everything off.",
+    "But I darken the base here and I remember doing it, but",
+    "Sure looks like it.",
+    "You know, I didn't.",
+    "Why are you so much darker?",
+    "I don't know.",
+    "No biggie.",
+    "Are you being?",
+    "Think it's been overlaid in mirrored maybe.",
+    "Just maybe can find out here.",
+    "Yes, it is OK.",
+    "Hum.",
+    "I don't know if it's worth fixing to be honest.",
+    "It's not a hard fix maybe I should.",
+    "Adam.",
+    "It's OK, if it's mirror in the stretch pit ain't so bad.",
+    "As far as I'm curious is why the colors, so far off 'cause.",
+    "And I did Oh.",
+    "You know it, it was an accident, but I actually like.",
+    "The darker bed.",
+    "So yeah, it looks like when I was.",
+    "Barking the railside at bump the bed, which is Alright.",
+    "It's good or mask, yeah, sure did.",
+    "Hum.",
+    "Actually, like decks and pops out from the.",
+    "The sites of it, so let's do the same here.",
+    "Just do the whole object.",
+    "No, we can't pull shell.",
+    "Yes.",
+    "Oops.",
+    "Kind of why this lineup.",
+    "Find Canada now.",
+    "It would be the same.",
+    "Assuming I didn't ask.",
+    "That means the scale.",
+    "When I laid out my UV's is different.",
+    "Not a huge issue but.",
+    "So not.",
+    "Not not a problem you know.",
+    "Good.",
+    "No no no.",
+    "I don't think that noticeable.",
+    "We got a bit actually in what is good learning experience we got a hard line here.",
+    "Let me show you how to deal with seems.",
+    "It might this myth that may not work, so great 'cause we got these plank lines.",
+    "Hum.",
+    "We'll see.",
+    "See if I can remember how to do it paint layer.",
+    "I think you set it to pass through.",
+    "And then you use?",
+    "With this clone tool.",
+    "Satisfied and then blend away like that.",
+    "Ain't perfect, but it will help.",
+    "This holding vien clicking a set my source.",
+    "Still, going to have a hard line.",
+    "For some of the Maps, but like it was good for the color.",
+    "Being seen third line still line up and.",
+    "Not much I can do about that.",
+    "Just do our best to soften ease a little bit mostly where these.",
+    "Stains are.",
+    "It's clean him out a little.",
+    "Truce clean him out there, we go.",
+    "You did, Great I like bad.",
+    "Like that sums up a lot of my choices.",
+    "You know this was like a here proper.",
+    "Something that was it just some decoration.",
+    "I really go back fix it.",
+    "Maybe even incorporate.",
+    "Is right now this front piece?",
+    "Is a separate peace from the rest of the model?",
+    "I did that start I need to add extra divisions to the model or heavenly in guns.",
+    "But you know, we gotta say if this is a set piece.",
+    "I go back and fix.",
+    "It maybe make it part of the model.",
+    "But it's not so I won't and it's not so bad.",
+    "I don't expect the player or anyone to really get in there, you know, we're going to look at it from.",
+    "The distance of Farah now so far away.",
+    "Second guessing this would like I don't know if it stands out enough.",
+    "Patterns really easy to see them repeating down here, but I don't get cleaned up free dirty it up ironically.",
+    "I think it's good.",
+    "I had missed it before after gets you know before after not bad.",
+    "We spend a little more time do it better, but it's good enough just call it seem Blurt.",
+    "Very nice.",
+    "Very nice indeed.",
+    "Right I don't do thinking if I want to add dirt before doing the rest of the texturing going for about an hour and 15.",
+    "Let me put this into 2 parts 'cause I also have.",
+    "8 barrel I want to make per texture.",
+    "Mister D this bad boy up there.",
+    "Let us.",
+    "I don't wanna do this normally if it was metal can be arrests.",
+    "It's going to pop it through, but it's not.",
+    "I've got a nice mud material that.",
+    "Maybe good here also a dirt material my work I don't know what I hear.",
+    "That and you fill it, see what I got let's see what I got nerfed.",
+    "Mud.",
+    "Forrest I'm going to have to dig out my materials.",
+    "Turn.",
+    "See here.",
+    "News dirt this one looking forward.",
+    "This one.",
+    "Great naming scheme.",
+    "Just bring it to the current session right here, I get to decide for what to bring it in so all my projects and see.",
+    "It just this project or this time, having the window.",
+    "Open 'cause I'm not sure if this is the right one.",
+    "Don't that way.",
+    "1st.",
+    "Yikes.",
+    "OK, now this is well let's see.",
+    "Oh, boy, I remember this one roots, no roots.",
+    "All dirt please.",
+    "That personally so I'm thinking.",
+    "No rocks no pine needles.",
+    "With Forrester.",
+    "You know there's still look like.",
+    "Roots.",
+    "I really clampett.",
+    "We clamped it clamped to those mistake.",
+    "Oh, it's Witcher Hello off.",
+    "Look at that I thought of everything.",
+    "No, I did I did I know quite what are you?",
+    "Either way, I don't know if this is good.",
+    "Dirt material anyways.",
+    "Saidabad dirt material.",
+    "Not great one, but Anything will do just gotta Tyrolese roots.",
+    "Who's that song instead?",
+    "I think I broke out of my playlist somehow anyone sick.",
+    "And be no stop.",
+    "OK.",
+    "Yes, I like that this is like a?",
+    "Happy so dumb.",
+    "Roots need to go.",
+    "Today really OK so.",
+    "And pull up the old designer.",
+    "See hot fix this material is an old one, I made this.",
+    "Quite some time ago so.",
+    "Well.",
+    "Let's see.",
+    "Might be a little bit.",
+    "Not my best work if you don't mean.",
+    "This is like over the years, too old.",
+    "Now even the water level, they look at all this.",
+    "Bring up some water.",
+    "This one required heavily on.",
+    "Very nice indeed.",
+    "Right I don't do thinking if I want to add dirt before doing the rest of the texturing going for about an hour and 15.",
+    "Let me put this into 2 parts 'cause I also have.",
+    "8 barrel I want to make per texture.",
+    "Mister D this bad boy up there.",
+    "Let us.",
+    "I don't wanna do this normally if it was metal can be arrests.",
+    "It's going to pop it through, but it's not.",
+    "I've got a nice mud material that.",
+    "Maybe good here also a dirt material my work I don't know what I hear.",
+    "That and you fill it, see what I got let's see what I got nerfed.",
+    "Mud.",
+    "Forrest I'm going to have to dig out my materials.",
+    "Turn.",
+    "See here.",
+    "News dirt this one looking forward.",
+    "This one.",
+    "Great naming scheme.",
+    "Just bring it to the current session right here, I get to decide for what to bring it in so all my projects and see.",
+    "It just this project or this time, having the window.",
+    "Open 'cause I'm not sure if this is the right one.",
+    "Don't that way.",
+    "1st.",
+    "Yikes.",
+    "OK, now this is well let's see.",
+    "Oh, boy, I remember this one roots, no roots.",
+    "All dirt please.",
+    "That personally so I'm thinking.",
+    "No rocks no pine needles.",
+    "With Forrester.",
+    "You know there's still look like.",
+    "Roots.",
+    "I really clampett.",
+    "We clamped it clamped to those mistake.",
+    "Oh, it's Witcher Hello off.",
+    "Look at that I thought of everything.",
+    "No, I did I did I know quite what are you?",
+    "Either way, I don't know if this is good.",
+    "Dirt material anyways.",
+    "Saidabad dirt material.",
+    "Not great one, but Anything will do just gotta Tyrolese roots.",
+    "Who's that song instead?",
+    "I think I broke out of my playlist somehow anyone sick.",
+    "And be no stop.",
+    "OK.",
+    "Yes, I like that this is like a?",
+    "Happy so dumb.",
+    "Roots need to go.",
+    "Today really OK so.",
+    "And pull up the old designer.",
+    "See hot fix this material is an old one, I made this.",
+    "Quite some time ago so.",
+    "Well.",
+    "Let's see.",
+    "Might be a little bit.",
+    "Not my best work if you don't mean.",
+    "This is like over the years, too old.",
+    "Now even the water level, they look at all this.",
+    "Bring up some water.",
+    "This one required heavily on.",
+    "Kind of this material like tessellation in mind.",
+    "That's why these roots look so flat, but You know if you bring this into a game engine or something you can tessellate the Heightmap and.",
+    "And.",
+    "And push it up so it looks nice, then and this would be an OK.",
+    "Well, we, we met to speculate it's going to try.",
+    "We had a generator just dirt.",
+    "In fact, it seems too strong not inverted straight down.",
+    "I might not need to go back and fix it.",
+    "To kill the height in normals little little bit overwhelming.",
+    "Little yeah, see a little I mean extremely.",
+    "And see if out of all these parameters.",
+    "I bet that's not what I have right.",
+    "Of course not, Can edge witness though?",
+    "Nice.",
+    "I look at me, I have Oh.",
+    "I might not need to go back and fix this.",
+    "I can set the size here just down there like.",
+    "Show me the mascot quicker.",
+    "No mask.",
+    "There we go OK.",
+    "Early is a will there's a way.",
+    "Where we have 1/2 decent dirt?",
+    "Once again, too bumpy it's OK like on the.",
+    "Big flat area here, but Besides I mean?",
+    "Gives a nice caked mud affect I guess.",
+    "I just want to bring you down just ever so slightly.",
+    "I wish we just say you have no height controller.",
+    "It's on the right.",
+    "Yeah, I just finished some color.",
+    "Let's see.",
+    "Let's see.",
+    "Made perfect in Norman.",
+    "There we go.",
+    "I know we didn't need to do it multiplier, but honestly that.",
+    "It's nice to have this.",
+    "This later.",
+    "The desert for all of them I'm going to go into each layer individually.",
+    "Let's get something slightly bumpy.",
+    "Round thinking about it, you can have your height back, I don't think.",
+    "You really matters and it looks like it doesn't.",
+    "Beautiful and we're going to not generator a black mask.",
+    "And then we can throw it on a generator.",
+    "Dirt.",
+    "It's extreme.",
+    "Extreme dirt.",
+    "You don't look like you took my.",
+    "My suggestion there.",
+    "Perkins 'cause the generator.",
+    "I feel ya.",
+    "No biggie.",
+    "One issue.",
+    "Is the dirt is a very similar color to the wood so?",
+    "It's not really coming across.",
+    "Now I have.",
+    "2 dirt colors.",
+    "Turn off that generator you get a better look now just clear that mass.",
+    "We were all together, it's work on the dirt a little more.",
+    "This is what I thought was a good color.",
+    "Little late think I wanted on the darker side.",
+    "So we can just do that thing where we multiply.",
+    "I guess another layer.",
+    "To be do.",
+    "I think if I was to do that I would do like fill here.",
+    "Now 'cause it's mask.",
+    "DD.",
+    "It did did it be.",
+    "It wasn't the normal is the height map was in it.",
+    "Sure was Silly me.",
+    "Silly silly.",
+    "OK, that makes a lot more sense water was going on and goes crazy little bit crazy, but you know.",
+    "To that level geez OK?",
+    "Dirt power here.",
+    "Let's get some more crunch.",
+    "Well, it might be too much.",
+    "This was looking a little bit shiny, 2, I'm going to go back and drop down the roughness.",
+    "Really happy with this so far.",
+    "You happy need.",
+    "And another thing I can do is throw down a pount layer's not that.",
+    "And I can hand paint some stuff too.",
+    "And also how to remove a?",
+    "Let me do that a little bit of hand paint.",
+    "I don't have my.",
+    "Tablet setup right now, so it's not going to be the best.",
+    "Let it will be nonetheless there.",
+    "Going to grab a nice dirt brush.",
+    "Something like that, we're just gonna.",
+    "These corners, I think are little bit too.",
+    "Say predictable I don't know that.",
+    "Not what I mean by that exactly but.",
+    "You know.",
+    "Don't really don't think like you can really picture dirt or mud getting up there.",
+    "Be very you know just.",
+    "You know we could even do.",
+    "Each night look terrible.",
+    "This current stamp in this year in there.",
+    "Is we could?",
+    "Shut down an Alpha of like foot.",
+    "Yes, for make more sense than a shoe.",
+    "Considering for the time.",
+    "And then we can like.",
+    "Have it selects owners walking on their you know get some mud around.",
+    "I've got Jalen stuff on right now.",
+    "Turn all that off.",
+    "I probably won't like how this looks.",
+    "But I thought it would be.",
+    "An interesting idea, yeah, I know I don't have.",
+    "Have a good sense of scale.",
+    "I did model this against the person but.",
+    "Their little man's not here right now, so it's a little tough.",
+    "To tell.",
+    "So Congress.",
+    "Can you throw down some mud?",
+    "This present next to switch year end.",
+    "Delete or I think there might be a little too much.",
+    "Switching back to get a little bit more.",
+    "I know, but she did for awhile 'cause like playlist is repeated isn't it.",
+    "Can I add more songs?",
+    "I see this would be a little bit easier to do with a tablet but.",
+    "It certainly get by without one.",
+    "You know, maybe Give me the farmers had somebody hands and he's always grabbing.",
+    "Curve in this right here.",
+    "Fairly recent comes up and.",
+    "Most the peak in the cart takes a look like that.",
+    "Or maybe that would clean away the dirt and we have little spots without it.",
+    "For Little hands girl you know.",
+    "Stuff like that.",
+    "Thank goodness for out of safe 'cause Man Oh man.",
+    "I'm always forgetting.",
+    "I am Really, like, how it's come together.",
+    "Knows it.",
+    "This is thing texturing is.",
+    "Early on it's like goof I don't know about this.",
+    "Once you add these fine details.",
+    "You know get some dirt that brings it to life mean nothing is clean, specially not old stuff.",
+    "So once you start, adding The Dirty late OK.",
+    "On a serious coming together right now, I'm just kind of shaking my hand.",
+    "This place with little bit of random.",
+    "I mean, it's good.",
+    "Got these settings here do that randomize the position the size and.",
+    "The rotation of the brush only doesn't look uniform, which is exactly what you want, but Really old shaky hand does the job, too or helps at least?",
+    "No maybe the dirt goes a little bit higher on this backside 'cause.",
+    "The cart would lift up right and so someone's caring it.",
+    "They lifted up all the dirt slides right back.",
+    "Maybe that's what we got going on.",
+    "It is really put you know, maybe some Hey, maybe that's like caring dirt around.",
+    "So how much do I put in here probably that.",
+    "Hey we can even throw some dirt on here.",
+    "Right right terribly vien.",
+    "Looking pretty good.",
+    "Set up a little.",
+    "You could look less like crime scene.",
+    "I wanna bring it up on the walls again.",
+    "Very nice now we can use this time to address like I don't know if you guys can see these patterns, but rate here repeats here repeats he repeats here can use this dirt just to break that up.",
+    "Had my repeating texture.",
+    "Looking good.",
+    "Really after that have is turning out so far.",
+    "Picking longer than I expected, but honestly.",
+    "No biggie.",
+    "I enjoy it anyways.",
+    "Bill.",
+    "Throw down a Part 2 tomorrow as well.",
+    "Hey looking pretty good, I think.",
+    "It's dirty this side up down.",
+    "Oops.",
+    "Little bit shiny on the word I think not.",
+    "May be worth fixing maybe not I don't know.",
+    "Probably worth fixing.",
+    "You know, I think that's a good layer of dirt and let's just.",
+    "Get some quick before and after is just so you get the idea of like how important.",
+    "Messing up your stuff is like it just really.",
+    "I mean, it's night and day this looks good about giving wrong.",
+    "I like how this looks but.",
+    "Through that dirt on it looks real.",
+    "If I say so myself item me back to my own horn but.",
+    "I like it.",
+    "My leg is so much more than a little bit more.",
+    "Look at this first panel looks I don't want them all that dirty butt.",
+    "Make a femur in that state would be good.",
+    "Don't wanna lose that sense, if.",
+    "Rihanna miss, though I don't want to let the uniform.",
+    "Prime makes a little more sense heaven concentrated the bottom.",
+    "If I was imagining it imagining it, it would be.",
+    "No maybe trainee covered in mud all the mud search dripping down Lansing these corners.",
+    "This thing grab those kind of things you're texturing.",
+    "Really helps just add another layer.",
+    "Respect side looks clean, Huh, it's no good.",
+    "Naked dirt.",
+    "Watch video.",
+    "So much truth.",
+    "Too much dirt.",
+    "Which is why we go back and take away?",
+    "Given we take here.",
+    "Even we take.",
+    "Still, not much.",
+    "Maybe this corner here is always sitting in the dirt right 'cause.",
+    "To 2 real card?",
+    "Well, actually I should sit forward so maybe not so much.",
+    "Maybe not so much.",
+    "But that just tells me that these parts right here, probably quite messy, maybe a little Polish from all the.",
+    "But grabbing with their hands.",
+    "I am happy with this.",
+    "Now we've been going for almost 2 hours here.",
+    "But it just flew by.",
+    "This is so.",
+    "So easy and relax now here we go time to cover up all those darn marks.",
+    "To stand out so much.",
+    "I was talking about earlier really just hide it all over the dirt.",
+    "Anything you don't like.",
+    "Dirt it away.",
+    "Not that dirt.",
+    "Dirt dirt dirt dirt.",
+    "OK.",
+    "Looking pretty good.",
+    "And be ready to call it.",
+    "Thinking of this Kurt needs anything else, I guess.",
+    "Maybe a touch up the old roughness while I'm thinking about it and we can just do this.",
+    "The same way we did the height and darken.",
+    "Turn to fill.",
+    "Only the roughness.",
+    "And How do I want to multiply?",
+    "Yeah, I'm not deploying.",
+    "You just No, not multiply overlay, Max Lane, dark and who knows.",
+    "Right.",
+    "Yeah.",
+    "I was completely mad, we don't want to completely mad.",
+    "And we just want it affecting the wood so that's why I read it below.",
+    "We need that in dirt.",
+    "So let's save.",
+    "C6 Eve.",
+    "Call this roughness.",
+    "Adjust here we go.",
+    "Maybe to your uniform so maybe maybe a multiply is the way to go.",
+    "Maybe it's divide I don't know I'm not a math guy.",
+    "But still want variation, I don't want to be uniform roughness.",
+    "But I also just wanna bring.",
+    "I could go through bring all the levels down manually but I don't want to do it for each layer.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        13,
+        14
+      ],
+      "sentence": [
+        "What type of material would be inward natural seems to be anyway so?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        118,
+        119
+      ],
+      "sentence": [
+        "What is hot today?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION",
+      "span": [
+        178,
+        179
+      ],
+      "sentence": [
+        "One has it 1 doesn't have it working?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION",
+      "span": [
+        334,
+        335
+      ],
+      "sentence": [
+        "How much better?"
+      ]
+    },
+    "T9": {
+      "id": "T9",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        408,
+        409
+      ],
+      "sentence": [
+        "You know what?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION",
+      "span": [
+        419,
+        420
+      ],
+      "sentence": [
+        "What are you?"
+      ]
+    },
+    "T14": {
+      "id": "T14",
+      "label": "QUESTION",
+      "span": [
+        451,
+        452
+      ],
+      "sentence": [
+        "Will it hard to see what I'm doing on these?"
+      ]
+    },
+    "T15": {
+      "id": "T15",
+      "label": "QUESTION",
+      "span": [
+        455,
+        456
+      ],
+      "sentence": [
+        "Did I do that?"
+      ]
+    },
+    "T18": {
+      "id": "T18",
+      "label": "QUESTION",
+      "span": [
+        469,
+        470
+      ],
+      "sentence": [
+        "Is this color panel no all the other ones are the panel?"
+      ]
+    },
+    "T19": {
+      "id": "T19",
+      "label": "QUESTION",
+      "span": [
+        474,
+        475
+      ],
+      "sentence": [
+        "Just a shade or 2 right?"
+      ]
+    },
+    "T24": {
+      "id": "T24",
+      "label": "QUESTION",
+      "span": [
+        582,
+        583
+      ],
+      "sentence": [
+        "Must be?"
+      ]
+    },
+    "T25": {
+      "id": "T25",
+      "label": "QUESTION",
+      "span": [
+        595,
+        596
+      ],
+      "sentence": [
+        "What if it isn't blanked?"
+      ]
+    },
+    "T26": {
+      "id": "T26",
+      "label": "QUESTION",
+      "span": [
+        610,
+        611
+      ],
+      "sentence": [
+        "Probably better to use like?"
+      ]
+    },
+    "T28": {
+      "id": "T28",
+      "label": "QUESTION",
+      "span": [
+        647,
+        648
+      ],
+      "sentence": [
+        "Where are you I know what happened here?"
+      ]
+    },
+    "T29": {
+      "id": "T29",
+      "label": "QUESTION",
+      "span": [
+        656,
+        657
+      ],
+      "sentence": [
+        "Why are you so much darker?"
+      ]
+    },
+    "T32": {
+      "id": "T32",
+      "label": "QUESTION",
+      "span": [
+        720,
+        721
+      ],
+      "sentence": [
+        "Is right now this front piece?"
+      ]
+    },
+    "T33": {
+      "id": "T33",
+      "label": "QUESTION",
+      "span": [
+        721,
+        722
+      ],
+      "sentence": [
+        "Is a separate peace from the rest of the model?"
+      ]
+    },
+    "T35": {
+      "id": "T35",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        776,
+        777
+      ],
+      "sentence": [
+        "Who's that song instead?"
+      ]
+    },
+    "T38": {
+      "id": "T38",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        836,
+        837
+      ],
+      "sentence": [
+        "Who's that song instead?"
+      ]
+    },
+    "T40": {
+      "id": "T40",
+      "label": "ANSWER",
+      "span": [
+        867,
+        868
+      ],
+      "sentence": [
+        "Of course not, Can edge witness though?"
+      ]
+    },
+    "T47": {
+      "id": "T47",
+      "label": "QUESTION",
+      "span": [
+        966,
+        967
+      ],
+      "sentence": [
+        "Can you throw down some mud?"
+      ]
+    },
+    "T48": {
+      "id": "T48",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        971,
+        972
+      ],
+      "sentence": [
+        "Can I add more songs?"
+      ]
+    },
+    "T53": {
+      "id": "T53",
+      "label": "ANSWER",
+      "span": [
+        119,
+        120
+      ],
+      "sentence": [
+        "Very warm."
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "ANSWER",
+      "span": [
+        179,
+        180
+      ],
+      "sentence": [
+        "I think it's the other one."
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "ANSWER",
+      "span": [
+        335,
+        336
+      ],
+      "sentence": [
+        "I like it."
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "ANSWER",
+      "span": [
+        456,
+        457
+      ],
+      "sentence": [
+        "Yes, I did OK."
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "ANSWER",
+      "span": [
+        420,
+        421
+      ],
+      "sentence": [
+        "Oh, OK, you smart material here OK."
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "ANSWER",
+      "span": [
+        470,
+        474
+      ],
+      "sentence": [
+        "Oh naming is the hardest part.",
+        "I don't know.",
+        "It's kind of dark in her name.",
+        "I think if it's the same color will just kinda plan into itself but."
+      ]
+    },
+    "T12": {
+      "id": "T12",
+      "label": "ANSWER",
+      "span": [
+        475,
+        476
+      ],
+      "sentence": [
+        "That's enough to break it up, I think."
+      ]
+    },
+    "T13": {
+      "id": "T13",
+      "label": "ANSWER",
+      "span": [
+        657,
+        658
+      ],
+      "sentence": [
+        "I don't know."
+      ]
+    },
+    "T17": {
+      "id": "T17",
+      "label": "ANSWER",
+      "span": [
+        837,
+        839
+      ],
+      "sentence": [
+        "I think I broke out of my playlist somehow anyone sick.",
+        "And be no stop."
+      ]
+    },
+    "T20": {
+      "id": "T20",
+      "label": "QUESTION",
+      "span": [
+        866,
+        867
+      ],
+      "sentence": [
+        "I bet that's not what I have right."
+      ]
+    },
+    "T27": {
+      "id": "T27",
+      "label": "ANSWER",
+      "span": [
+        14,
+        17
+      ],
+      "sentence": [
+        "If you look up here.",
+        "All these panels are these pounds right here.",
+        "And since these panels would most likely be separate material like in the real world to these right here."
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        447,
+        448
+      ],
+      "sentence": [
+        "Do we have?"
+      ]
+    },
+    "T30": {
+      "id": "T30",
+      "label": "ANSWER",
+      "span": [
+        448,
+        449
+      ],
+      "sentence": [
+        "We have colored control, so here we go."
+      ]
+    },
+    "T34": {
+      "id": "T34",
+      "label": "QUESTION",
+      "span": [
+        646,
+        647
+      ],
+      "sentence": [
+        "Where are they?"
+      ]
+    },
+    "T36": {
+      "id": "T36",
+      "label": "ANSWER",
+      "span": [
+        722,
+        724
+      ],
+      "sentence": [
+        "I did that start I need to add extra divisions to the model or heavenly in guns.",
+        "But you know, we gotta say if this is a set piece."
+      ]
+    },
+    "T16": {
+      "id": "T16",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        1074,
+        1075
+      ],
+      "sentence": [
+        "And How do I want to multiply?"
+      ]
+    },
+    "T21": {
+      "id": "T21",
+      "label": "QUESTION",
+      "span": [
+        281,
+        282
+      ],
+      "sentence": [
+        "Which two is it anyways and just?"
+      ]
+    },
+    "T22": {
+      "id": "T22",
+      "label": "ANSWER",
+      "span": [
+        282,
+        284
+      ],
+      "sentence": [
+        "It's just.",
+        "Throughout a mask."
+      ]
+    },
+    "T23": {
+      "id": "T23",
+      "label": "ANSWER",
+      "span": [
+        777,
+        779
+      ],
+      "sentence": [
+        "I think I broke out of my playlist somehow anyone sick.",
+        "And be no stop."
+      ]
+    },
+    "T31": {
+      "id": "T31",
+      "label": "ANSWER",
+      "span": [
+        1075,
+        1077
+      ],
+      "sentence": [
+        "Yeah, I'm not deploying.",
+        "You just No, not multiply overlay, Max Lane, dark and who knows."
+      ]
+    }
+  },
+  "relation": {
+    "R3": {
+      "id": "R3",
+      "label": "Chitchat",
+      "question": "T18",
+      "answer": "T11",
+      "question_sentence": [
+        "Is this color panel no all the other ones are the panel?"
+      ],
+      "answer_sentence": [
+        "Oh naming is the hardest part.",
+        "I don't know.",
+        "It's kind of dark in her name.",
+        "I think if it's the same color will just kinda plan into itself but."
+      ]
+    },
+    "R5": {
+      "id": "R5",
+      "label": "Chitchat",
+      "question": "T1",
+      "answer": "T53",
+      "question_sentence": [
+        "What is hot today?"
+      ],
+      "answer_sentence": [
+        "Very warm."
+      ]
+    },
+    "R6": {
+      "id": "R6",
+      "label": "Chitchat",
+      "question": "T3",
+      "answer": "T2",
+      "question_sentence": [
+        "One has it 1 doesn't have it working?"
+      ],
+      "answer_sentence": [
+        "I think it's the other one."
+      ]
+    },
+    "R7": {
+      "id": "R7",
+      "label": "Chitchat",
+      "question": "T6",
+      "answer": "T5",
+      "question_sentence": [
+        "How much better?"
+      ],
+      "answer_sentence": [
+        "I like it."
+      ]
+    },
+    "R1": {
+      "id": "R1",
+      "label": "Relevance",
+      "question": "T0",
+      "answer": "T27",
+      "question_sentence": [
+        "What type of material would be inward natural seems to be anyway so?"
+      ],
+      "answer_sentence": [
+        "If you look up here.",
+        "All these panels are these pounds right here.",
+        "And since these panels would most likely be separate material like in the real world to these right here."
+      ]
+    },
+    "R2": {
+      "id": "R2",
+      "label": "Relevance",
+      "question": "T4",
+      "answer": "T30",
+      "question_sentence": [
+        "Do we have?"
+      ],
+      "answer_sentence": [
+        "We have colored control, so here we go."
+      ]
+    },
+    "R8": {
+      "id": "R8",
+      "label": "Chitchat",
+      "question": "T19",
+      "answer": "T12",
+      "question_sentence": [
+        "Just a shade or 2 right?"
+      ],
+      "answer_sentence": [
+        "That's enough to break it up, I think."
+      ]
+    },
+    "R9": {
+      "id": "R9",
+      "label": "Chitchat",
+      "question": "T29",
+      "answer": "T13",
+      "question_sentence": [
+        "Why are you so much darker?"
+      ],
+      "answer_sentence": [
+        "I don't know."
+      ]
+    },
+    "R10": {
+      "id": "R10",
+      "label": "Chitchat",
+      "question": "T33",
+      "answer": "T36",
+      "question_sentence": [
+        "Is a separate peace from the rest of the model?"
+      ],
+      "answer_sentence": [
+        "I did that start I need to add extra divisions to the model or heavenly in guns.",
+        "But you know, we gotta say if this is a set piece."
+      ]
+    },
+    "R4": {
+      "id": "R4",
+      "label": "Chitchat",
+      "question": "T21",
+      "answer": "T22",
+      "question_sentence": [
+        "Which two is it anyways and just?"
+      ],
+      "answer_sentence": [
+        "It's just.",
+        "Throughout a mask."
+      ]
+    },
+    "R11": {
+      "id": "R11",
+      "label": "Chitchat",
+      "question": "T10",
+      "answer": "T8",
+      "question_sentence": [
+        "What are you?"
+      ],
+      "answer_sentence": [
+        "Oh, OK, you smart material here OK."
+      ]
+    },
+    "R12": {
+      "id": "R12",
+      "label": "Chitchat",
+      "question": "T15",
+      "answer": "T7",
+      "question_sentence": [
+        "Did I do that?"
+      ],
+      "answer_sentence": [
+        "Yes, I did OK."
+      ]
+    },
+    "R13": {
+      "id": "R13",
+      "label": "Chitchat",
+      "question": "T35",
+      "answer": "T23",
+      "question_sentence": [
+        "Who's that song instead?"
+      ],
+      "answer_sentence": [
+        "I think I broke out of my playlist somehow anyone sick.",
+        "And be no stop."
+      ]
+    },
+    "R14": {
+      "id": "R14",
+      "label": "Chitchat",
+      "question": "T38",
+      "answer": "T17",
+      "question_sentence": [
+        "Who's that song instead?"
+      ],
+      "answer_sentence": [
+        "I think I broke out of my playlist somehow anyone sick.",
+        "And be no stop."
+      ]
+    },
+    "R15": {
+      "id": "R15",
+      "label": "Chitchat",
+      "question": "T20",
+      "answer": "T40",
+      "question_sentence": [
+        "I bet that's not what I have right."
+      ],
+      "answer_sentence": [
+        "Of course not, Can edge witness though?"
+      ]
+    },
+    "R16": {
+      "id": "R16",
+      "label": "Relevance",
+      "question": "T16",
+      "answer": "T31",
+      "question_sentence": [
+        "And How do I want to multiply?"
+      ],
+      "answer_sentence": [
+        "Yeah, I'm not deploying.",
+        "You just No, not multiply overlay, Max Lane, dark and who knows."
+      ]
+    }
+  }
+}

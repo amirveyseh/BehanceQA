@@ -1,0 +1,275 @@
+{
+  "sentence": [
+    "Oh my God, it's.",
+    "I'm getting the Sleepies.",
+    "I'm taking Dane Cook joke.",
+    "Oh, I like this music with like the birds.",
+    "But I don't want to go to bed.",
+    "I'm having too much fun.",
+    "I want to finish this line art before I go to bed.",
+    "I love how you did you hear this eyelashes.",
+    "No, no no, it's fine.",
+    "It's it's actually been something that I've been.",
+    "Contemplating on myself lately, you know?",
+    "When does the schedule going to go into play?",
+    "Hopefully like this week.",
+    "That's my goal is right now this week.",
+    "I do it.",
+    "'cause now now I've made it.",
+    "I'm making it.",
+    "People have seen it.",
+    "People know what to expect.",
+    "How did you pick another brush?",
+    "Stop that.",
+    "I have a ghost possessing my computer.",
+    "You know.",
+    "So now that I've made it, and people have seen my stream, they know what to expect in this.",
+    "Like, Alright, I can't.",
+    "I can't BS anymore.",
+    "Prepare yourselves.",
+    "Yeah, so that's what that's what this is.",
+    "I've just been super zoomed in over here, drawn on this little cutie, but I'm trying to create a streaming schedule.",
+    "The Twitch streaming parts.",
+    "This one up here, um, I'm.",
+    "I'm still weighing in on whether or not I want to stream on Twitch.",
+    "If I do stream on Twitch, it's going to be video games.",
+    "Um?",
+    "But the only problem with that is the only game that I'm obsessed with at the moment is Animal Crossing, and I don't have a video card.",
+    "To connect it to my computer to do all the fancy.",
+    "Stuff.",
+    "I don't know what she just said.",
+    "I just heard desperate Japanese voices and I was just like but uhm.",
+    "What does go into play mean?",
+    "Um?",
+    "Crap, but yeah, so so that which thing I would like to do.",
+    "It's a goal of mine.",
+    "It be another fun thing to do 'cause I do like video games.",
+    "I really I really, really really, really my dream.",
+    "Stream my dream game stream is to get Skyrim in VR and you know put some mods on it.",
+    "They could look pretty and play it in virtual reality because The thing is there's this.",
+    "There's a specific VR headset that you can get.",
+    "That calibrates your height, like it measures how tall you are.",
+    "I'm 5 foot, nothing.",
+    "OK, I'm very tiny human being, and all the characters in Skyrim are scaled.",
+    "To be no shorter than 6 foot 2.",
+    "So I'm running around looking up at everyone like this.",
+    "So Dragons are going to be massive.",
+    "Spiders are going to be massive.",
+    "Everything is going to be huge and I'm just going to be walking down the street and not one Wanderers is going to come up be like what are you doing out here?",
+    "Milk drinker and it's like I just sure might be.",
+    "See Jane, you get me.",
+    "You understand the tiny people.",
+    "And then that way you know it'll be fun.",
+    "It'll be humorous 'cause just to see like you know the perspectives of someone who is 5 foot tall.",
+    "You are any age you want to be on line.",
+    "That's true.",
+    "You could be any age.",
+    "Any age you want to be, it can happen.",
+    "I could have told you all I was 16 and you probably wouldn't believe me.",
+    "I spent all my time like the people that are sis, yes.",
+    "Yes Jane, Yes.",
+    "Same feeling right here or their chest.",
+    "We're always at.",
+    "Chest height It's pending but Jane said I spend all my time looking at peoples It's so true.",
+    "It's so true.",
+    "I once went as a milk Carton Missing.",
+    "Oh man.",
+    "Dude, I miss Halloween.",
+    "Halloween is going to be screwed this year.",
+    "I know it.",
+    "I feel it in my core.",
+    "I even have a giant pant.",
+    "Well, I'll just dress up with a panda for Halloween for God sakes.",
+    "This hair in my nose.",
+    "And it is stay behind my ear.",
+    "Thank you.",
+    "Goodness.",
+    "How did you select a different brush?",
+    "Stop it.",
+    "How did this happen?",
+    "Who's done this?",
+    "Excuse me What happened what?",
+    "Why are you like this?",
+    "Is Photoshop being weird with me at midnight?",
+    "No, no kids ever want to climb three flights of stairs, get candies, so following sucks for me, awe.",
+    "Your 8 hours behind me, yeah.",
+    "That's OK though.",
+    "Especially for you it's it's 12.",
+    "12345 78 so it's 8:00 o'clock in the morning for you.",
+    "Out there in England.",
+    "My pen is being weird and I don't know what.",
+    "I gotta close photo shop again.",
+    "Yeah Florida, it's probably like 3:00 or 4:00 o'clock in the morning for you.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        10,
+        11
+      ],
+      "sentence": [
+        "Contemplating on myself lately, you know?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        11,
+        12
+      ],
+      "sentence": [
+        "When does the schedule going to go into play?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION",
+      "span": [
+        19,
+        20
+      ],
+      "sentence": [
+        "How did you pick another brush?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION",
+      "span": [
+        33,
+        34
+      ],
+      "sentence": [
+        "Um?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        39,
+        40
+      ],
+      "sentence": [
+        "What does go into play mean?"
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION",
+      "span": [
+        40,
+        41
+      ],
+      "sentence": [
+        "Um?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        55,
+        56
+      ],
+      "sentence": [
+        "Everything is going to be huge and I'm just going to be walking down the street and not one Wanderers is going to come up be like what are you doing out here?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION",
+      "span": [
+        84,
+        85
+      ],
+      "sentence": [
+        "How did you select a different brush?"
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "QUESTION",
+      "span": [
+        86,
+        87
+      ],
+      "sentence": [
+        "How did this happen?"
+      ]
+    },
+    "T9": {
+      "id": "T9",
+      "label": "QUESTION",
+      "span": [
+        87,
+        88
+      ],
+      "sentence": [
+        "Who's done this?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION",
+      "span": [
+        88,
+        89
+      ],
+      "sentence": [
+        "Excuse me What happened what?"
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "QUESTION",
+      "span": [
+        89,
+        90
+      ],
+      "sentence": [
+        "Why are you like this?"
+      ]
+    },
+    "T12": {
+      "id": "T12",
+      "label": "QUESTION",
+      "span": [
+        90,
+        91
+      ],
+      "sentence": [
+        "Is Photoshop being weird with me at midnight?"
+      ]
+    },
+    "T13": {
+      "id": "T13",
+      "label": "ANSWER",
+      "span": [
+        12,
+        13
+      ],
+      "sentence": [
+        "Hopefully like this week."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T1",
+      "answer": "T13",
+      "question_sentence": [
+        "When does the schedule going to go into play?"
+      ],
+      "answer_sentence": [
+        "Hopefully like this week."
+      ]
+    }
+  }
+}

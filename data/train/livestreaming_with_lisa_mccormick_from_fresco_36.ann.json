@@ -1,0 +1,220 @@
+{
+  "sentence": [
+    "Um?",
+    "Little world.",
+    "Yes, so that's always been something to that like.",
+    "Since I was a little kid, I would always process things.",
+    "Spy like while I was drying up.",
+    "And yet it always just felt like a super healthy.",
+    "Tool to.",
+    "To kind of re connect up and slow down and.",
+    "Can I get re centered?",
+    "It's honestly kind of like a meditation for me as I know many, many others fill up that way as well so.",
+    "Yeah, and also, um.",
+    "Specially since I'm live streaming list, I want to, you know, use my artwork as a means to put images of hope and peace and love.",
+    "Into the world.",
+    "So both of these.",
+    "Both of these pieces, really, uhm, were meant to reflect that so.",
+    "Yeah, I hope that this might inspire you to.",
+    "To draw or doodle or uhm, you know.",
+    "Oh man, especially if you, if you're able to come or have access already to an iPad.",
+    "If you work in any of the Adobe softwares, uhm.",
+    "Definitely make something there.",
+    "Pick up a sketchbook.",
+    "Um?",
+    "Yeah, it's just.",
+    "Is so good for the soul, you guys.",
+    "I've actually this is kind of just like a random thought that I'm.",
+    "Sharing uhm?",
+    "But I've actually thought about like I want to learn a lot more about like art therapy, since I know that's becoming more and more of a thing out.",
+    "Um, by me at least, and I know it's been been around for awhile, but uhm.",
+    "I forgive always like and intuitively have like known that it's very therapeutic and have experienced that, but then, um.",
+    "Yeah, even just in this time it's like I feel that responsibility more more than ever.",
+    "As an artist who just create.",
+    "Images.",
+    "Um, for others that.",
+    "Just inspire.",
+    "Hope and peace and love.",
+    "Hey Corey, Corey is saying senior work on Instagram.",
+    "What do you use to create your finished art?",
+    "Yes, so I.",
+    "Most of the work, especially that I put on Instagram and Whatnot, which you guys can follow me.",
+    "My handle is at made by Lisa Marie.",
+    "But so mostly it's all done on my iPad.",
+    "So right now I'm literally drawing on my iPad with an Apple pencil.",
+    "And I'm drying in the program Adobe fresco.",
+    "And that is.",
+    "OK, I do feel like that, uhm?",
+    "Texture.",
+    "Was is looking looking pretty cool.",
+    "I almost wanna like see if I can suddenly bring in like.",
+    "I guess, well, I didn't even do I didn't even mean to do this.",
+    "I just notice this right now.",
+    "I accidentally just brought in primary colors for the background.",
+    "So the blue, red and yellow.",
+    "Which is always a really fun combination.",
+    "Um?",
+    "How Lori says, I just opened your big hands and I remembered I saw you in Adobe stream recently.",
+    "You're drawing badges?",
+    "Oh yes, was it?",
+    "The UM?",
+    "Uh, I know I.",
+    "I feel like I draw badges alot was it was it the one with today?",
+    "Was there a host in it for Adobe law or the yeah I did the Adobe live feature or was it like one of my just like live streams like this?",
+    "Not so fun though.",
+    "Oh, thank you.",
+    "Yeah, I definitely, um.",
+    "Definitely love focusing on nature in a lot of my work.",
+    "Um?",
+    "I have been starting to to do a little bit more of of people just because.",
+    "Yeah, it's fun to switch things up and explore different different ways of drying, but.",
+    "I always, always feel like I, uh, incorporate.",
+    "Nature and I've been able to work in the outdoor industry.",
+    "A good amount to which has been really fun and get to make some some artwork for like different T shirts and outdoor brands.",
+    "So I love nature.",
+    "Yes, I have someone hosted you.",
+    "Maybe Julia or voodoo.",
+    "I don't remember.",
+    "Oh, Julia, Julia was my host who she is so great.",
+    "That was my first time meeting her and.",
+    "I definitely definitely have to do that again with her 'cause we really, really got along and she's super talented as well.",
+    "If you guys haven't seen her work.",
+    "Believe it's Julia Malaska I think is how you spell her last name or say your last name.",
+    "But she does a lot of packaging design.",
+    "Yeah, so actually, I uh, I just started streaming on my own about I guess 2 weeks ago I think so it's a pretty new thing.",
+    "Um, and I'm actually working with Adobe team to do it.",
+    "And yeah, it's been a lot of fun and I hope to keep building my channel, uhm.",
+    "I I've been streaming for sure every Sunday.",
+    "Um, so I've been doing Sunday at uhm.",
+    "Well, let me see what time would it be?",
+    "It's at.",
+    "Oh shoot, I think it's well.",
+    "It's 6:00 PM my time, which is 6:00 PM Chicago time or Central American time uhm.",
+    "So that would be, I think it's four o'clock PST.",
+    "Pretty much like my go to um, sometimes I'll go ahead also, and.",
+    "I will use.",
+    "Adobe illustrator as well afterwards and like, I'll add text and like different fonts and stuff or especially with client work, I usually will.",
+    "Well, um finish up in illustrator or something but.",
+    "Yeah, at least for.",
+    "For like what what I'm doing right now here it's more of like this kind of more casual like.",
+    "The next step after my sketchbook so.",
+    "But yeah, I would say probably 85% of my work is done on my iPad, uhm?",
+    "And then.",
+    ""
+  ],
+  "entity": {
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        8,
+        9
+      ],
+      "sentence": [
+        "Can I get re centered?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        36,
+        37
+      ],
+      "sentence": [
+        "What do you use to create your finished art?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        55,
+        56
+      ],
+      "sentence": [
+        "You're drawing badges?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        59,
+        60
+      ],
+      "sentence": [
+        "I feel like I draw badges alot was it was it the one with today?"
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        60,
+        61
+      ],
+      "sentence": [
+        "Was there a host in it for Adobe law or the yeah I did the Adobe live feature or was it like one of my just like live streams like this?"
+      ]
+    },
+    "T13": {
+      "id": "T13",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        86,
+        87
+      ],
+      "sentence": [
+        "Well, let me see what time would it be?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "ANSWER",
+      "span": [
+        37,
+        43
+      ],
+      "sentence": [
+        "Yes, so I.",
+        "Most of the work, especially that I put on Instagram and Whatnot, which you guys can follow me.",
+        "My handle is at made by Lisa Marie.",
+        "But so mostly it's all done on my iPad.",
+        "So right now I'm literally drawing on my iPad with an Apple pencil.",
+        "And I'm drying in the program Adobe fresco."
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        56,
+        58
+      ],
+      "sentence": [
+        "Oh yes, was it?",
+        "The UM?"
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Relevance",
+      "question": "T4",
+      "answer": "T2",
+      "question_sentence": [
+        "What do you use to create your finished art?"
+      ],
+      "answer_sentence": [
+        "Yes, so I.",
+        "Most of the work, especially that I put on Instagram and Whatnot, which you guys can follow me.",
+        "My handle is at made by Lisa Marie.",
+        "But so mostly it's all done on my iPad.",
+        "So right now I'm literally drawing on my iPad with an Apple pencil.",
+        "And I'm drying in the program Adobe fresco."
+      ]
+    }
+  }
+}

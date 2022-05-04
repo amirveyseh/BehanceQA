@@ -1,0 +1,1744 @@
+{
+  "sentence": [
+    "Thank you so much for joining me.",
+    "I am so excited for today, today's Day One and we are going to essentially design and code a one page website and this is actually based on last week's tutorial where we designed drink labels for kombucha.",
+    "So you definitely want to make sure you watch that tutorial.",
+    "That way you have all the assets you need to complete today's project.",
+    "All right, so the plan for today is first we are going to design some images for our website in Photoshop.",
+    "As you can see where really styling are computed, drink, we're going to make it look really nice.",
+    "And then we're going to head on over 2X T to design our website, so be sure to head on over 2 XL pixel.com and there is a design template that you can download.",
+    "That way you can follow along side me.",
+    "And of course if you're we watch.",
+    "Free watching this live stream, you can.",
+    "Obviously you know, download it too and let me know how you guys are doing today is such a beautiful day in trono it's 1:00 AM let's these joining us today.",
+    "Hey razor hey no man oh looks like Norman has a question I'll get to that shortly.",
+    "Hey I came nice to see you as weak a burn.",
+    "It it we have some familiar people in the chat.",
+    "Thank you guys so much for joining.",
+    "Woozy OK we have a really really really awesome chat today.",
+    "Alright, so and less than at least be sure to share your work with me.",
+    "I have a really really nice Gallery section on my site.",
+    "This is where I love to feature your work and the designs you create based on my tutorials and live stream.",
+    "So please please please share your work with me.",
+    "Take me on Instagram, Twitter, wherever right over social media you want, but I'd love to see your work.",
+    "Yeah, so be sure to share work with me.",
+    "Hey Chrome, free good morning it's 5:00 PM where you are.",
+    "It's what is it 1002 I know there's a delay but it's early in the morning I can't wait to go on a walk after this 'cause it's so pretty outside, OK?",
+    "So now that we have that out of the way, I'm going to head on over to Adobe photo shop because, again, we're going to create some really, really nice photos for our website.",
+    "And it's going to look awesome, so let me head on over to photo shop.",
+    "And as you can see I have 3 artboards, so essentially these three artboards or where I'm going to place our three kombucha drinks.",
+    "So we created a 3D render for our ginger lemon kombucha.",
+    "I believe Maca Berry was the second one and then Green Apple was our third kombucha drink.",
+    "So we're essentially going to create some really really cool images.",
+    "So the first thing I'm going to do",
+    "Is I'm going to grab it this rendered image and the kombucha drinks and the splash that I'm going to create.",
+    "Those are rendered from Adobe dimension, so again after this stream of course don't leave, but be sure to watch last weeks live stream because I showed you how you can export or export your rendered images in Adobe Adobe dimension.",
+    "That way you can export them and play around with them in photo shop.",
+    "So what I'm going to do in my creative cloud libraries, I'm just going to grab this launch and I know it's hard to see.",
+    "But I'm just going to place it onto my art for it like so, and by the way, in Photoshop I actually set the artboards background color to black because it's usually white by default.",
+    "But you guys would not be able to see this slash, so that's why it's black.",
+    "So in any case I am going to place this slash here.",
+    "And I'm just going to drag it onto my other artboards.",
+    "And this flash is just making me thirsty.",
+    "Like look at that looks so clear and looks great.",
+    "Right, so I'm also going to grab my kombucha drinks that I rendered out from Adobe Adobe Dimension, so I'm just going to again grab this from my CC library and just place it on my artboard like so.",
+    "And I'm just going to shrink it down.",
+    "And just play around with the way it looks 'cause I wanted to look good.",
+    "So let me just.",
+    "Resize is like so.",
+    "And I think it's going to actually look good.",
+    "If I kind of rotate it a bit like so.",
+    "Rotate this.",
+    "There we go.",
+    "And I'm not going to, actually.",
+    "Said it's angle to 12.",
+    "There we go.",
+    "So I also want to add some fruit images just to kind of further emphasize the flavor of our drinks.",
+    "So right now it says Ginger Lemon, so I'm actually going to show you how I am going to grab some.",
+    "Grab these lemons and this leaf from this image to add to our image.",
+    "So essentially what I'm going to do is I'm just going to duplicate the background, so I'm going to right click, press duplicate layer.",
+    "Going to create a copy of that and then I'm going to go to select.",
+    "And then I'm going to select subject, so select subject.",
+    "And now it's going to automatically select these subjects within this image.",
+    "So now I'm going to do is I'm going to go to select again and this time I'm going to press select and mask.",
+    "Because I sensually want to grab the lemon slices and then believe so since I just for now want the lemon slices.",
+    "I'm going to erase.",
+    "This leaf selection and that way we only have are lemons.",
+    "So this is a really quick way to isolate images or isolate elements within an image.",
+    "So now that I've erased the leave I'm going to write on the right hand side where it says output settings.",
+    "I'm going to output to knew layer with layer mask.",
+    "Gonna click OK.",
+    "And now if I remove this.",
+    "First, background layer.",
+    "If I hide it, you can see we selected are lemons, so I already kind of went through this process and I'm just going to drag and drop it into my.",
+    "My creative Cloud Library, but I already went through this process.",
+    "As you can see, so I'm not going to drag it into my library right now, but this is essentially how you can isolate your images, and again in the template file for today's projects, I have all the images you need to create these assets, so everything is there for you.",
+    "Right, so I already have my assets already.",
+    "You know, isolated my fruits and apples and Whatnot, so I'm just going to go into my CC library and just drag them into my art board.",
+    "So I'm just fiddling around basically.",
+    "With this image just going to, you know.",
+    "Resize, move it around so it looks good.",
+    "So I want the lemon slices on the right hand side and I'm going to grab this lease.",
+    "Then we could put it on the left hand side.",
+    "Just so it's kind of peeking out from behind the can, I think that looks good.",
+    "Hey move Eric, nice to see you.",
+    "Thanks for joining.",
+    "All right?",
+    "So I think this looks good.",
+    "Now we can just move on over to market Berry.",
+    "So I have my can here.",
+    "Let me just play sound my artboard going to resize it.",
+    "Like so.",
+    "But I definitely want these splash to show through, so I want to make the can too big an I'm going to rotate it.",
+    "Like so we said that too.",
+    "Minus 12.",
+    "And I have some berries and I'm going to put onto my art board.",
+    "There we go.",
+    "Then let me just see this behind.",
+    "This looks tasty.",
+    "OK, so we have our varies.",
+    "Let me just resize this a bit.",
+    "There we go.",
+    "And then finally, let's move on over 2 Green Apple.",
+    "So I'm going to grab the can for Green Apple.",
+    "And let me just.",
+    "Tilt it.",
+    "12 degrees.",
+    "And I am going to grab this Apple here.",
+    "Finish, shrink it down.",
+    "And by the way, guys, I already went through this process so I do have my assets here, here in the CC library already, but I'm just showing you how can.",
+    "Grab the assets into these templates.",
+    "Henry creates these images.",
+    "So I'm just going to grab these Apple slices.",
+    "There we go.",
+    "And let's grab this Apple.",
+    "And I'm going to put it here.",
+    "There we go.",
+    "Alright, so we have our three kombucha drink images we have one for Ginger, Lemon, Maka, Berry, an green Apple.",
+    "This looks so tasty.",
+    "Very refreshing and it looks really healthy.",
+    "So now that we have our image is what I'm going to do is.",
+    "I'm just going to select this entire art word.",
+    "And I'm just going to drag it into my CC library.",
+    "So I'm just going to.",
+    "I already did this for all three.",
+    "Drinks loops.",
+    "What's going on here?",
+    "Let me move this side.",
+    "There we go so I already did this for all three drinks.",
+    "But this is essentially how I created these really cool images for drinks.",
+    "It just makes it look so much tastier still refreshing.",
+    "It looks so delicious.",
+    "Alright, so now that we did our thing in photo shop let's head on over 2X D.",
+    "Get to the.",
+    "Hurt that you all been waiting for, I'm sure.",
+    "And let's create our website.",
+    "Alright, so.",
+    "Essentially, what we're going to do is we're going to design mobile first, so we're going to design for mobile, then tablet, and then desktop.",
+    "So I already have some copy here and really quickly just to go over the template.",
+    "Just want to shut out this big hands user for inspiring the creation of the images.",
+    "As you can see, there's a nice splash effect with some fruits in the background.",
+    "It just makes a drink that you are trying to promote looks so much tastier.",
+    "And then I also have some links to last week's tutorial, some resources and of course share your project with me if you're following along.",
+    "Alright, so first thing we're going to do in our mobile view is we are going to.",
+    "Apply some colors were backgrounds, so right here this is our background.",
+    "So right in the colours panel are in the access panel.",
+    "We already have all the things we need, so we have our colours.",
+    "We have our character styles, so I'm going to apply this.",
+    "Background lemon color.",
+    "To our background, and essentially this is actually a radial gradient, so it's going from kind of a light yellow to a dark or the solid color yellow that we use for our can.",
+    "Alright, so now that we have our background, I'm going to go through layers panel.",
+    "And let's see, this is the group, right?",
+    "It's good already names background.",
+    "So this is essentially are Ginger Lemon Section.",
+    "This is where we're going to put all the acids or all the copy we need for ginger lemon.",
+    "So essentially what I'm going to do.",
+    "Oh, and before I jump right in, I totally forgot.",
+    "Sorry guys, but I'm going to show you what were essentially going to accomplish today and we're going to create.",
+    "So let me just show you guys about really quickly.",
+    "So this is what we're going for today.",
+    "So essentially, we're actually going to have the navigation on the bottom when we're in mobile view and tomorrow we are going to code this.",
+    "So it's really cool way to navigate the site, kind of like an app.",
+    "And then when we are in desktop view.",
+    "It's going to look like this, so we have our fixed NAV at the top and then we can just click the links to kind of navigate through our website.",
+    "So this is essentially what we're trying to accomplish today.",
+    "Yeah, sorry about not showing you guys that earlier, 'cause you're probably wondering why it looks like that.",
+    "OK, so now that we know what we're doing.",
+    "The first or the next thing we're going to do is.",
+    "I'm going to add my logo and again I have everything in my creative Cloud Library, so I'm just going to drag and drop my logo.",
+    "Like so.",
+    "And I want the logo to actually be around.",
+    "Katie pixels, so I'm just going to decide that.",
+    "And I'm just going to align it to the middle of the Artboard.",
+    "Now I do want to.",
+    "Add some padding around the logo, so I'm just going to make sure that it's around.",
+    "32 pixels let me just move that down there.",
+    "There we go and I can actually just select the object, hold down option and it's in X teach.",
+    "It has smart guides so it's already going to show me.",
+    "Kind of the distance between the elements or the object that I'm trying to add some padding around from the artboard.",
+    "OK, so now that we have our logo.",
+    "Let's type out Ginger Lemon 'cause That's our first drink.",
+    "Ginger Lemon.",
+    "I can says Yep, looks refreshing and tasty.",
+    "It does OK so we have some character styles already so all I'm going to do is I'm just going to select this title character cell here.",
+    "And it's going to apply the style that I want.",
+    "So I'm actually going to add some padding.",
+    "From at the top of the artboard Here to wear.",
+    "This title is so I'm just going to make sure that it's around 120 pixels and this is all going to make sense when we code because essentially I'm trying to make sure that my design when I share it in XP for developers I want to make sure that the design specs are.",
+    "It isn't the developer 'cause tomorrow we're going to be developers, but I want to make sure that we can really re create what we designed and turn it into code.",
+    "And we are going to be using, you know M's and rims and all that stuff.",
+    "So just converting the pixels that in the spacing that we're doing in design to code.",
+    "OK, let me just make sure this is 128.",
+    "And that's around three friends and.",
+    "Yes yes yes.",
+    "128 There we go OK.",
+    "So now that we have our ginger lemon title, nice and bold, I'm just going to grab this copy here.",
+    "And I was going to make sure 316 pixels of space in between the title and our copy.",
+    "So there we go.",
+    "So it says Discovery, the delicious power of our ginger and lemon consisted blend.",
+    "Your taste buds will thank you.",
+    "Very straightforward.",
+    "You know it's really nice way to promote our kombucha.",
+    "OK, so now that we have our copy, I want to design A button, so let me just quickly turn on.",
+    "Our layout grid.",
+    "And I'm going to draw this button.",
+    "Actually let me turn it off.",
+    "There we go.",
+    "OK, so let's set this.",
+    "Here.",
+    "And I'm gonna add some text to the button.",
+    "So I wanted to save, you knew.",
+    "Trish and facts.",
+    "Then on the alignments to the center like so.",
+    "Alright, so I'm going to remove the border.",
+    "Let's turn this into a pill.",
+    "Ana, I'm going to apply our button character styles here.",
+    "And I'm going to apply our button color legs so.",
+    "OK, so we have our buttons but I also want to apply some shadows were button so I'm just going to select this.",
+    "The background for the button and right where it says shot.",
+    "I'm just going to turn that on and the shadow color that I want is the same color as our button.",
+    "So I'm just going to grab the eyedropper tool.",
+    "And turns out into the shuttle.",
+    "Think I'm going to reduce the opacity to 50%.",
+    "And I want to increase the Y value to six and then the blur.",
+    "Let's make that 10.",
+    "So just a subtle shadow and it's going to further entice their users to click it and they make it a little more clickable.",
+    "Then I can let me ask some padding with it up there.",
+    "There we go.",
+    "Alright, so now that we have our button.",
+    "I'm going to actually group this, so I'm going to group the text in the background and in XY.",
+    "You can apply padding too.",
+    "Two objects that you kind of group, so right where it says lay, I'm going to let me turn off responsive resize, but I'm going to turn on padding.",
+    "And I want the padding for the top and bottom to be 16.",
+    "And then for the size, I want that to be 832.",
+    "And there we go.",
+    "So that way, let's say if I had more texts going to resize automatically, very cool.",
+    "OK.",
+    "So now that we have our button, let's grab our image that we created in photo shop.",
+    "So I'm going to select ginger lemon.",
+    "I'm going to place it here.",
+    "Going to turn on the layout grid and just make sure.",
+    "Everything is contained with him.",
+    "The grid.",
+    "But let me just make sure.",
+    "The spacing in between our elements is consistent.",
+    "1616 sixteen there we go alright.",
+    "So we have our first section now before we move on.",
+    "I do want to you know Neymar layers.",
+    "So I'm going to go into the layers panel.",
+    "And I am going to.",
+    "Go into sections and room women so it looks like this is already a group, so I want to make sure that all of these.",
+    "All of these elements are within our section for our ginger, lemon kombucha.",
+    "So let me just select everything here.",
+    "So it looks like everything here.",
+    "Presented the place into.",
+    "This group here.",
+    "So I'm going to name this.",
+    "CTA.",
+    "But soon.",
+    "Uh, that I looks good.",
+    "Alright, so we have our first section here and I can move it around 'cause This is all a group.",
+    "So it looks good.",
+    "So let's add some color to our bottom navigation.",
+    "I'm going to add this black.",
+    "And just quickly.",
+    "So essentially the text for our bottom navigation on mobile display sizes reduced to 12 pixels.",
+    "So if I'm setting.",
+    "Am units to, let's say one so 1M.",
+    "Sorry to end 12 * 2 is 24, so if I'm sending 1M around the entire link when we're coding, this might sound so complicated.",
+    "I'm sorry if this sounds confusing, but that's why this padding.",
+    "For the spacing when I'm turning on the smart guides is 24 and then if we compare this spacing in between each link it's 48.",
+    "Might not make sense, but tomorrow I will show you.",
+    "So when we're looking at our design specs and then when we're quoting it, and then that's how we were, kind of.",
+    "Making sure design in our website when we're coding it is accurate and it looks like how us designers wanted it to look.",
+    "OK, so now that we have, you know our color to her bottom navigation.",
+    "I'm just going to select the artboard and I'm going to drag it down like so 'cause we need to create three more or two more sections for Greenup or Mecca.",
+    "Berry in Green Apple.",
+    "So rush me says, what are you making?",
+    "So I am making a one piece sites for a computer drink and this is actually based on a tutorial that I did last week during last week's live stream and we basically made labels for kombucha drink and we also rendered it in Adobe Dimension.",
+    "So we created a 3D models for our drink and that's why we got this really nice looking image here.",
+    "Uh, the Norman says, does the great come by default with the mobile layout?",
+    "Yes it does.",
+    "So when you select you know iPhone, X or.",
+    "Tablet in ICSTI 'cause There's different devices.",
+    "There's iPad, there's Android, but the grid does defaults to there's a default grid for that, so that's why excuse really, really awesome because it does it for us.",
+    "But of course you can obviously adjust the grid.",
+    "OK, so now that we have our first section, I'm just going to press our group here.",
+    "Let me open the layers panel so you could see what I'm doing.",
+    "I'm going to press CMD D.",
+    "And I'm going to drag this down now.",
+    "Again, this is our bottom navigation, so on mobile the bottom NAV is going to stick to the bottom so that we as we're scrolling, it's going to stick and we can.",
+    "No matter where we are when we're scrolling on our site on mobile, we can always click the links and it's going to go to whatever section we have on our site.",
+    "So there's a section for ginger lemon market.",
+    "Berrien are green Apple kombucha, so that's maybe really exciting to show you guys how to do that tomorrow.",
+    "But today, of course, we're designing.",
+    "Which is also very fun and up in my rambling.",
+    "Let me move on to our Marco Berry, so let me just update this section.",
+    "Layer name Tamako Berry.",
+    "Very.",
+    "OK.",
+    "So because we already established the first section, it's going to be really easy to update our other section.",
+    "So basically this is kind of like the we've already established where replacing everything, so it's just a matter of changing the color, the images, and it's a text.",
+    "So I'm going to head on over to my access panel again, and because it's market Berry, we're going to add our background very.",
+    "Radio gradients And I already have my market Berry image and it's really really delicious image, so I'm just going to grab it from my CC library.",
+    "And I'm just going to drop it, right?",
+    "Like that and we have our market Berry Kombucha.",
+    "Parade, so the Norman says I really like the idea of having a number on the bottom for mobiles.",
+    "Yeah, it's definitely a really 'cause I actually when I was designing it I was thinking like what's the best way for a user to navigate this site.",
+    "This one page site on Mobile.",
+    "I wanted it to be fixed but because it's such a small screen.",
+    "I just did not like the way it would have looked in the experience for the user.",
+    "Had the links you know been placed on the top, I thought you know what.",
+    "Let me just move this the bottom and that way they can just navigate like now.",
+    "I'd love to put that on my website actually.",
+    "Maybe check out in the future if I update my sites we can kind of resemble an app.",
+    "But anyways, so let's finish up Marco Berry.",
+    "So let's change this to Maka ferry.",
+    "And let's grab our copy for Marco ferry.",
+    "Going to.",
+    "He sat within our group.",
+    "So let me make sure this sufficient spacing.",
+    "There we go.",
+    "OK, so again it's just a matter of changing our color 'cause we kind of already established we look that we want for all of our sections and of course for consistency.",
+    "We're not changing too much for each sections were just changing the copy, changing the colors and also it looks good.",
+    "Consistency is always attractive and shut out to me for being consistent.",
+    "This is our fifth week I believe of live streaming, yay.",
+    "Struggle, pause, and I definitely hope to continue these live streams.",
+    "Let me know if you guys are enjoying them.",
+    "Hi, I'm being consistent on my channel.",
+    "I know it was like me for a few months.",
+    "Sorry but I'm back.",
+    "I'm back, I promise.",
+    "OK, so now that we've changed our button colour, let's update the shadow.",
+    "So again, just going to grab the eyedropper tool.",
+    "An update the shadow color too.",
+    "What's in color?",
+    "And then we already set again at the properties for the shuttle, so we just set.",
+    "Why to six Ann Arbor to 10?",
+    "So we don't even have to worry about updating that.",
+    "So all we need to do now really is just go to wear layers panel.",
+    "Find me Roy.",
+    "Sorry for pronouncing your name.",
+    "You say Luffy all thank you so much, your so sweet.",
+    "Um woozy says nice heavy K you like it.",
+    "I can, like, say, trust me like they thank you guys so much.",
+    "I know I'm trying.",
+    "I'm trying OK.",
+    "So let's see.",
+    "Oh OK, so we have our Marco Berry.",
+    "So we updated the section name said that the we have a button.",
+    "Oh my gosh, we're already on our last section.",
+    "And then we're going to move on to tablet.",
+    "OK, so let me just duplicate that again.",
+    "Actually know going to drag this down 'cause we need space for green Apple kombucha going to press command you to duplicate this final section.",
+    "Here we go.",
+    "And of course we need to make sure our layer names are named accordingly.",
+    "So let's change this to Green Apple.",
+    "I can say is great UX info also thinks I think later I'm going to check out how to wire frame insight tutorial, things that can in yes definitely check that out.",
+    "And by the way, if you guys want to you know brush up on UX design fundamentals or tips.",
+    "I do have a section on my website where I recommend my favorite products.",
+    "If you go to the bottom bottom navigation of my sight the footer.",
+    "Honey, I'm sorry guys.",
+    "The morning my brains not working but if you go to the footer of my sight there is a section called resources.",
+    "My favorite product and I have the books.",
+    "I use the text that I'm using to film my videos and everything and then I also have some self care products that I love.",
+    "Just you know some lifestyle things.",
+    "If you're interested an actually while I'm at it let me show you one of my favorite books.",
+    "This is one of my favorite books and I keep it near me.",
+    "Designing because it's always good to reference.",
+    "You know books on UI UX design.",
+    "This is definitely a book that I recommend.",
+    "So so my list if you are interested.",
+    "OK.",
+    "So now that we have our third section, I'm going to go to grab are Apple, Apple or green Apple color.",
+    "Let's changes to Green Apple.",
+    "And just some web design tips.",
+    "When I was designing this, I played around with white for the text, 'cause I do like the way light or the white text looks, but.",
+    "Because we have different colours on our site, not all the colours, especially yellow.",
+    "It's so tricky to make sure your website is iaccessible, especially in terms of colors, especially if you're using yellow.",
+    "Yellow is like the worst color to try and you know.",
+    "Make iaccessible experiencing why text?",
+    "So you know what at the end of the day before you making your website, just look pretty.",
+    "You always want to make sure your websites iaccessible and that's why I chose black or darker color for the text, because even if I personally felt or maybe many people would have thought the white text against using my text for the website with looks better, black honestly is.",
+    "The right thing to do because it's just going to make our text more readable and accessible.",
+    "So let me grab the button color.",
+    "Update shadow Like so.",
+    "And let's replace our image to Green Apple.",
+    "I really want to eat an Apple now.",
+    "Let me know when you guys had in the chat for breakfast.",
+    "If it's morning where you are or if it's later in the day, make nice.",
+    "What are you eating for dinner?",
+    "Since we're talking about food and drinks?",
+    "So we have all three sections.",
+    "Again, let me make sure I'm being a good teacher and I'm going to make sure that my layers are updated accordingly.",
+    "Section green Apple that the everything looks good.",
+    "Whoops, I almost forgot to grab a text.",
+    "Let me update the copy.",
+    "There we go.",
+    "Yeah, let me make sure this is aligned to the center.",
+    "There we go, so we have our mobile.",
+    "Designed, we have our mobile site design.",
+    "OK.",
+    "So everything looks good and in XTI mean.",
+    "I'm placing the nab here because this is our view breakpoints so.",
+    "I'm just going to place an app here in that way when we prototype our website today 'cause we are going to do just a little prototyping.",
+    "Nothing crazy, but we are going to prototype this site just so we can get an idea and communicate to the to the developer how we want our site to look and function.",
+    "So when we do that you'll see.",
+    "That placing this here, or why I'm placing the nest right here.",
+    "So just where the.",
+    "Newport or the break point is for the.",
+    "The device mobile device.",
+    "So I can says.",
+    "OK, you're answering a question.",
+    "Rashmi says you should give specs that space between the button and the image.",
+    "So there is.",
+    "Yeah there is space between.",
+    "I guess it's not too obvious, but there is space between the button and the image.",
+    "Are you suggesting I add workspace?",
+    "Let me let me know when the chat.",
+    "If you you know suggests I should change anything, definitely open to your suggestions and feedback.",
+    "OK, so we have our mobile site design so let's move on over 2 tablets.",
+    "So tablet the tablet view that I established for This site is a little.",
+    "It's pretty much disperse.",
+    "Very similar to Mobile.",
+    "I played around with having the computer drink on the left hand side and then the copy on the right, but I just felt like I think for this site I want the image to.",
+    "To be at the bottom or below the below the copy.",
+    "That way it's bigger than it looks good.",
+    "So.",
+    "Because we already.",
+    "A stab Liszt, I guess.",
+    "The look of our site from mobile.",
+    "It's just a matter of kind of grabbing everything and just placing it on here and then resizing everything accordingly.",
+    "So I'm going to grab this section here.",
+    "This is our ginger limit.",
+    "Going to press CMD D to duplicate it.",
+    "Ann Remove this.",
+    "Go into the group and I'm just going to resize the background so it fits.",
+    "Where art word.",
+    "Let me just turn on the layout grid.",
+    "So what I'm going to do is I'm just going to center align this like so.",
+    "And while I'm at it, let me just grab our logo.",
+    "So when we are in tablet view, we are going to we're not going to have the bottom fixed.",
+    "Now we're going to have a top fixed now, so we're going to move out of this view.",
+    "So what I'm gonna do is I'm listen to grab the.",
+    "The menu items in our bottom Navin mobile and I'm going to paste it onto airport here.",
+    "And I'm gonna go to my colors.",
+    "Let's make it blocks so we can see it.",
+    "So essentially when we are in tablet view, our menu in our Texas going to sorry the menu it's going to go from 12 pixels so it's going to increase its size to 16 pixels and that's the default font size for most browsers.",
+    "So what I'm going to do is I'm going to update the text to 16 pixels, so I already have the character style here, so menu desktop.",
+    "So I'm just going to apply that and it's going to increase the.",
+    "Font size to 12 or 16 points.",
+    "Don't let me just apply that.",
+    "An it because our font size increased to 16, we need to update our padding accordingly around each link.",
+    "So before it was 24 padding like the pattering around was 24.",
+    "So now it's going to be 32 because 16 * 2 is 32 between each menu item.",
+    "But then the padding between the top of the screen to the link is going to be just 32.",
+    "So.",
+    "I can says colors are appetizing wrist so they are in the know.",
+    "Man says I always struggle designing for tablet.",
+    "Yeah, it's definitely tricky.",
+    "You know figuring out how to.",
+    "You know layer items for tablet, should you?",
+    "You know, make it more like mobile or should you kind of make it look more like desktop view?",
+    "Just a matter of playing around.",
+    "That's the fun in designing just playing around and the beauty of web design is it's always evolving.",
+    "It's always changing whatever you design for a website you know one day.",
+    "Through user users visiting your site, getting feedback, you're going to kind of build a pond it up on it and just, you know, change things up, tweak things and just to make improve the overall user experience overtime so it's not a fixed state without.",
+    "However you design something is not in its fixed date, it's always evolving.",
+    "Alright, so.",
+    "3232 Is this 32?",
+    "Let me make sure.",
+    "And this is basically 22 M's in CSS S.",
+    "Do you guys know what that means?",
+    "So no man says that's right, yes.",
+    "OK, so.",
+    "This is 80th who make sure the logo and that is aligned.",
+    "Let me make sure this is 32.",
+    "The the the there we go.",
+    "32 OK.",
+    "This is aligned with the center.",
+    "There we go.",
+    "So this is Arnab.",
+    "This is our top nap.",
+    "So now I'm going to group this.",
+    "And by the way, so are top NAV is not going to come.",
+    "Fit within a container or within our grid.",
+    "This is going to be outside the grid, so that's why I moved it outside and I'm just making sure that the padding between the Artboard is consistent between the logo and our menu items.",
+    "So let me just change this to top now.",
+    "This group.",
+    "There we go.",
+    "Right, this looks good.",
+    "We have our top navigation.",
+    "I'm let me just make sure this facing OK, so.",
+    "What the heck?",
+    "OK, so this is 32.",
+    "Hold on guys this trying to think something through.",
+    "So if this is 16 so 32 one AM.",
+    "So 3216 * 232 right guys?",
+    "The Norman says I've been using ram and not use them, but after watching the stream I'll give it ago.",
+    "I can feel the use of it now.",
+    "Yeah, so basically ram is.",
+    "The is relative to the font size of that you set with in your code.",
+    "So in CSS S you can set your font size to whatever you want, but it's always no matter what like if using ram for maybe the padding around a button, it's relative to the font size that you establish first established within your CSS file.",
+    "So if you set ram 220 pixels and then you set.",
+    "Um ram for maybe menu links to one M that means the padding around the many link is going to be 20 pixels, but if you use em this is so complicated.",
+    "If use M an you set the font size of the parent element, so maybe the.",
+    "The the text for the menu item to.",
+    "Maybe you change it to let's say.",
+    "Uh.",
+    "16 like you shrink it down, it's going to adjust accordingly to its parent elements.",
+    "So it's not going to just do the root size, it's going to adjust to the parent font size.",
+    "So that's Why when you're using em, you want to make sure using it for elements that are recyclable or that may change more often then ram.",
+    "Even know if that makes sense.",
+    "Sorry guys this morning, but.",
+    "So Noam and says.",
+    "Yeah, OK, hopefully that could request it.",
+    "Hopefully that made sense.",
+    "I don't know, OK?",
+    "Good that the.",
+    "But it's definitely easier to show you guys when I'm coding what I'm talking about.",
+    "So stay tuned for tomorrow.",
+    "OK, that's good.",
+    "I hope you understand OK.",
+    "So what are we doing here?",
+    "OK, so we have ginger lemon.",
+    "Uh, that the.",
+    "We have our top menu.",
+    "OK, So what I'm going to do is let me just.",
+    "Resize this so it's center online.",
+    "And make sure this is 16.",
+    "We're going to increase the spacing between the image in our button to 32.",
+    "And.",
+    "Let me resize image.",
+    "'cause it is going to resize when we are on tablet.",
+    "It's funny when you're designing how I don't know if you guys do it.",
+    "Let me know when the chat, but do you let me turn out the little Logan?",
+    "So do you zoom in?",
+    "And then zoom out and then you have to kind of sit back just to like.",
+    "See your work.",
+    "See what it looks like if it looks good, do you guys do that to let me know in the chat?",
+    "OK.",
+    "So we have ginger lemon.",
+    "We have our section for Ginger Lemon.",
+    "Anne, let me make sure once when you eat padding.",
+    "There we go and this is going to be ram.",
+    "So it's going to be pretty consistent.",
+    "OK, so we have our ginger lemon section, so let me just make sure.",
+    "That the group is named accordingly.",
+    "There we go.",
+    "So let's drag down our our board and let's move on to Michael Berry.",
+    "So let me just resize this.",
+    "And basically I want to make sure that the height of our in code is called viewport or but I want to make sure that no matter what section we are, the suction fills the entire screen.",
+    "Of our device that we're using so the device of this tablet or iPad in XP it's.",
+    "Around 10:24 and height, so I want to make sure this is set to 1024.",
+    "There we go.",
+    "Carol says yes, I do that to the Norman says.",
+    "Hi, I'm doing it while watching the stream.",
+    "Right now my neck hurts.",
+    "I know like I think all of us designers.",
+    "We do that like we're so focused and I know I probably look crazy, but I'm like so focus and then I have to sit back, make sure everything looks good, that's hilarious.",
+    "I'm glad I'm not alone.",
+    "OK, so let me just.",
+    "This week this move it to this center and I want to make sure I have 128.",
+    "Pixels of spacing between the top of our section and this is essentially going to make room for our navigation, because remember, our navigation is going to be fixed, so by adding padding to the section right at the top when scrolling, there's room for a navigation and then of course our main content.",
+    "OK, so let's see 128.",
+    "That's so funny that you guys do it too.",
+    "Sounded OK 128.",
+    "So again, let me just turn on the layout grid.",
+    "Let's move this out like so.",
+    "And I'm going to increase the size that image.",
+    "Like I want to make this image pretty big.",
+    "Let's see what's that 524?",
+    "That's a good size, so let's just apply that to our very 524.",
+    "Anime align the Sub Center.",
+    "So no man that says, I like the line spacing that you have for the paragraph.",
+    "It's not cluttered.",
+    "What spacing do you usually choose?",
+    "So I'm actually using 1.5 so I'm basically.",
+    "I have my font set to 16, so if I just multiply it by 1.5, that's usually it's a good amount of station spacing.",
+    "There.",
+    "OK, so we have that.",
+    "Just make sure this is.",
+    "32 But you definitely want to play around with your line spacing.",
+    "OK, so we have Michael Berry.",
+    "I think this looks good.",
+    "Do you guys think this looks good?",
+    "Let me know in the chat.",
+    "Open to feedback.",
+    "So now that we have Maka, Berry.",
+    "Going to duplicate or green Apple.",
+    "And let's resize it.",
+    "Was it 1024?",
+    "Quick drink of water water break.",
+    "Who?",
+    "OK, have you guys tried kombucha before?",
+    "And if you have?",
+    "Any brands you want to shadow to recommend?",
+    "Let me know.",
+    "128 That that.",
+    "Every case says this is really coming along nicely.",
+    "Great job, gotta book it for now.",
+    "See you all tomorrow.",
+    "Have a great day.",
+    "Bye Vicki.",
+    "Thanks so much for tuning in.",
+    "It was so nice to see you.",
+    "A Norman says it looks amazing.",
+    "Thanks Norman.",
+    "Thank you I'm trying here.",
+    "I'm trying OK.",
+    "So 128, so let's resize this.",
+    "Turn around 5:24.",
+    "Remove this.",
+    "Oh, let's fix this briefing here.",
+    "16 I'm so excited to code this tomorrow.",
+    "You definitely do not want to miss it 'cause it's gonna be so cool.",
+    "Like it's one thing to design something, but if you know how to translate that into an actual working site or app like I would love to know how to code an app.",
+    "I hope to learn that I think that's my next little side hobby.",
+    "I want to learn how to code apps, but it's just it's like a whole another level of just it's so rewarding.",
+    "Who's he says it looks great thanks Susie.",
+    "Know man says I haven't tried it but now I definitely need one.",
+    "I know this is making me so like I'm craving computer, especially the Berry one that looks so good.",
+    "OK, let's see.",
+    "32.",
+    "There we go.",
+    "Other girl.",
+    "OK, there we go.",
+    "We have our tablet and let me remove the grid.",
+    "There we go.",
+    "So before we move on to desktop, let me preview.",
+    "This for you guys.",
+    "So you can see what I am doing.",
+    "Flip preview that really quickly.",
+    "So this is mobile.",
+    "Also, you can see this.",
+    "Can you guys see this?",
+    "Oops.",
+    "There we go.",
+    "So this is our mobile in preview mode, so as you can see.",
+    "Up and let me actually fix.",
+    "Logo.",
+    "So as we're scrolling.",
+    "In staying in place, it's fixed in place.",
+    "We added some spacing at the top or between the title or a green Apple or heading and then the logo.",
+    "So that's why we did that because we want our logo to be fixed as we scroll, and then of course we have our fixed bottom NAV, so this is coming along so nicely.",
+    "This looks great, and now let's preview tablets.",
+    "So again, as we scroll to each section, you can see that it's it's putting the entire viewport or the screen that we're using, or the device that we're using and then.",
+    "Let me just fix our nap.",
+    "In our top not top NAV is scrolling.",
+    "So we're going to tidy this up near the end, but I just wanted to quickly show you.",
+    "How are designs coming along?",
+    "OK, let me switch back to XT.",
+    "So we're almost there.",
+    "We are almost.",
+    "Done designing in XT.",
+    "Let me just remove that.",
+    "Anne, OK, so all we need to do is that's the beauty of designing.",
+    "You know mobile.",
+    "First we've established kind of how we want our seats and look.",
+    "We kept things minimal.",
+    "We didn't.",
+    "We didn't have too much room to kind of crowd it with unnecessary components or elements.",
+    "So it's just a matter of duplicating.",
+    "What we have.",
+    "Moving it to desktop and then by the timer on desktop.",
+    "We pretty much have everything we need.",
+    "The only thing I'm going to do for our desktop view 'cause I'm going to actually.",
+    "Adjust the positioning so instead of you know vertical or the stock to look.",
+    "We're going to put it into a roast.",
+    "Let me just delete this background.",
+    "So I put it here.",
+    "If you decide to Cody Multilingual version of this design, what method would you use?",
+    "I would like to build a single page portfolio and I don't know how to go about it, thanks.",
+    "Oh, that's a good question.",
+    "I usually work with English only, uhm, but if you're designing multilingual, just a matter of.",
+    "Using the copy of the language that you're going to use, use that as your copy, and then you know.",
+    "Design accordingly, pretty much.",
+    "What language are you?",
+    "Or do you speak?",
+    "What language would you want to use?",
+    "Let me know.",
+    "OK, so.",
+    "We're going to move our combucha lemon.",
+    "To the right hand side.",
+    "And I'm going to resize this.",
+    "Like so.",
+    "And let's change the alignment of our text to the left.",
+    "Boo.",
+    "And we can.",
+    "Fix this.",
+    "There we go.",
+    "And let me know when the chat.",
+    "If you're a new subscriber or if you spend a long time subscriber, how did you find me?",
+    "If you have been here from the beginning, when did I start I don't know even know 2014.",
+    "Oh my gosh like kudos to you.",
+    "You guys are truth borders.",
+    "But if you're a new subscriber, I love you guys.",
+    "Thanks so much for tuning in.",
+    "I hope you're enjoying my content.",
+    "OK, So what are we doing here?",
+    "So when were on desktop view.",
+    "Essentially I'm just aligning everything to the center, so we're not going.",
+    "We don't need to be too specific in terms of the padding from the top to make room for the navigation, so I'm just going to grab arnav from tablet.",
+    "Bring it over to dust pub.",
+    "This key headed ski YouTube recommended this stream to me just now.",
+    "Did it really?",
+    "What?",
+    "Thanks for all my God.",
+    "This guy is such an inspiration.",
+    "You are such an inspiration.",
+    "Thanks for tuning in.",
+    "The Gnome and says I have been following you for a year now, but never been so active.",
+    "Ah, for I know I haven't been the best in terms of making content.",
+    "Consistently, but I'm here now.",
+    "OK.",
+    "So let's see.",
+    "OK, so let's add.",
+    "Can we make that 64?",
+    "There we go.",
+    "OK, I think this looks good.",
+    "We have our top navigation for desktop.",
+    "Let me.",
+    "Align it like so.",
+    "Make sure everything is alive.",
+    "Hey Chris, this.",
+    "And let me name this copy.",
+    "There we go.",
+    "Maybe I should make this bigger?",
+    "OK, I was worried for a second.",
+    "I wasn't sharing my screen but I am thinking this.",
+    "OK.",
+    "So I think this looks good.",
+    "We have our section Ginger Lemon section for desktop.",
+    "Let me drag this down.",
+    "Dance kisses thank you.",
+    "I can't believe you're turning into my little stream.",
+    "Uh.",
+    "OK, so let's me change my background color too.",
+    "And everyone check advance keys channel because he makes amazing tutorials.",
+    "Super amazing tutorials on all things Adobe.",
+    "Be sure to check out his channel.",
+    "You probably already know fancy.",
+    "I don't have to tell you.",
+    "OK, so.",
+    "Let me make sure this is a lines.",
+    "OK, so now I'm going to grab my Maka Berry.",
+    "Kombucha I'm going to replace the image.",
+    "Gonna swap this.",
+    "Position, so I'm going to put this on the left.",
+    "There we go.",
+    "And let me change this.",
+    "To mark a Berry.",
+    "They updated copy.",
+    "I can says could be a good idea.",
+    "It makes sense.",
+    "Mr question, Yacon, Yonics says I'm French and I was wondering if switching languages using JavaScript with a good idea.",
+    "I found your channel when I started web development.",
+    "Oh That's cool.",
+    "Um, so I'm not gonna dabble into JavaScript right now, and it's I definitely I'm good with CSS and HTML, but JavaScript man.",
+    "JavaScript is still a bit of a learning curve for me.",
+    "Norman says sorry for my English.",
+    "I meant that I had not been using YouTube.",
+    "Your content is amazing.",
+    "Thank you.",
+    "I can says I found XL pixel on YouTube while searching design tutorials awhile ago.",
+    "That's interesting, yeah, I guess I have videos on pretty much like such a variety of topics, so you guys fully found me from.",
+    "You know design factorials, graphic design, tutorials, maybe?",
+    "What's going on with my text here?",
+    "OK, it doesn't want to cooperate.",
+    "Let me just copy that from tablet.",
+    "And he said here.",
+    "There we go.",
+    "You know what?",
+    "Let me grab this button as well.",
+    "Oops.",
+    "Hey, grab it's but it's here.",
+    "OK, so market Berry discovered the delicious power of our market Berry kombucha.",
+    "Blend here taste buds full.",
+    "Thank you.",
+    "OK, so.",
+    "There we go.",
+    "I think this looks good.",
+    "Let me just make sure these these looks good as well.",
+    "I don't know why this is making multiple lines like that.",
+    "Let me fix scripts.",
+    "There we go.",
+    "OK, so it's just a matter of guys tweaking.",
+    "So just saying.",
+    "Playing around.",
+    "Making sure everything looks good.",
+    "Yeah Yadda Yadda.",
+    "Discover the delicious power of our ginger and lemon kombucha.",
+    "Plan.",
+    "Your taste buds will thank you.",
+    "OK, copy looks good.",
+    "Images are good.",
+    "OK.",
+    "So now let's move on over to our final section were almost nearing the end, but we're not done yet.",
+    "Don't go anywhere.",
+    "So let's updater background color or actually you know what am I doing?",
+    "Let me just implicate this.",
+    "And tweak everything.",
+    "So 800 let's say 8 height, two 800.",
+    "And we know this here.",
+    "'cause I'm still shook that then ski was here.",
+    "Goddess, I'm suck.",
+    "OK.",
+    "Let me.",
+    "Make sure this is good.",
+    "OK, So what I'm going to do now is I'm going to go to my layers panel and let me group this and I'm just going to name this copy.",
+    "Let me align this.",
+    "So that's a line this whole section.",
+    "There we go.",
+    "We did it guys.",
+    "Oh my gosh, let me turn off the grid.",
+    "We said it.",
+    "He said it we did it.",
+    "We did it.",
+    "We designed our one page website in Adobe EXE.",
+    "This was so much fun.",
+    "I can't believe we did it, but I did notice I'm noticing something.",
+    "Let me just fix this quickly.",
+    "So again, this is not within our grid, so let me just fix that really quickly or top navigation.",
+    "And this.",
+    "36 64 here we go.",
+    "Let me just make sure this is.",
+    "Wait, what am I think 32.",
+    "3232 Great too.",
+    "64 64 A 64 OK.",
+    "Who is he, says, nice job, no man.",
+    "Thanks for the clubs, Aiken says.",
+    "I like how they were rescaled accordingly across different mediums, mobile, tablet and Desktop.",
+    "Anionics says yeah thanks giving a thumbs up.",
+    "Thanks guys so much.",
+    "I'm so glad you approve of this design.",
+    "Yeah so we have all three.",
+    "Our voice design.",
+    "We have one from mobile.",
+    "We have one for tablet and desktop.",
+    "So now what we're going to do is I just want to do just a little bit of Prototyping.",
+    "Nothing crazy.",
+    "We're not, you know.",
+    "Doing a whole thing in animation, we're just doing a little prototyping, so let me head on over to prototype mode.",
+    "Or actually let me make sure all the elements that I want fixed are fixed, so I'm just going to select the navigation group here top NAV, an right on the right hand side fixed position when scrolling.",
+    "I'm just going to make sure that's turned on and the same thing for desktop.",
+    "and I also want to make sure that it is above all layers.",
+    "That way after scrolling nothing is going behind.",
+    "You know?",
+    "Maybe the background for Michael Berry or something.",
+    "So let me just make sure.",
+    "This is to the top.",
+    "There it is top NAV.",
+    "Top knobs to the top and I also want to make sure they bought him Navin Mobile.",
+    "Is in the top of earlier order.",
+    "And same thing with desktop.",
+    "OK, I think this looks good.",
+    "Let me go to photo type mode.",
+    "And let's just do some quick prototyping.",
+    "So when we click lemon I want to make sure that it's going to go to our Lemonis section, and then when we tap theory, I want it to go to very.",
+    "So I'm just going to select the.",
+    "The object here and I'm just going to select the Blue Arrow an right where it says interaction.",
+    "I want to make sure that stop.",
+    "I want to make sure that the trends or the action is scroll to.",
+    "And then I want to set the destination to our section market berrien.",
+    "That's why we names are sections.",
+    "That's why we created sections and groups.",
+    "Because we're prototyping and we need to make sure that there is a group or a destination for link to go to OK.",
+    "So now then when we select Apple, I'm just going to click click this blue arrow.",
+    "And make sure its top scroll two and let's set destination for Apple to Green Apple.",
+    "So duration is .3 seconds.",
+    "We'll see how that looks, maybe will tweak it later.",
+    "But for now, let's leave it.",
+    "Michael Berry Ginger Lemon.",
+    "OK so I'm going to head on over 2 preview so you guys can see what we just did.",
+    "Let me open up preview.",
+    "OK, so now I'm going to um, select lemon.",
+    "Where, but we're already on lemon, so it's not going to go anywhere.",
+    "Let's select Berry.",
+    "It's going to go to Bury.",
+    "An if we want to click Apple, what's it going to do?",
+    "It's going to go to Green Apple and let's go back to lemon and I'm very Apple lemon.",
+    "Very Apple Berry, Apple, lemon.",
+    "I'm having too much fun with it.",
+    "Sorry guys.",
+    "OK so.",
+    "Let's hang on back to XP and we can do the same thing for tablet.",
+    "So going to click this arrow.",
+    "Triggered a tab.",
+    "Roll 2 destination to lemon.",
+    "We're going to select very set type to scroll tool two and our destination to market Berry.",
+    "And then for Apple will do the same thing, scroll to.",
+    "Green Apple.",
+    "So.",
+    "Let's me go to.",
+    "Prototype mode.",
+    "For preview, sorry.",
+    "OK, so lemon Berry Apple.",
+    "Very lemon Berry Apple.",
+    "Having way too much fun with this.",
+    "Oh boy, OK.",
+    "So finally, let's go to desktop.",
+    "Let me switch back to XT so you can see what I'm doing.",
+    "And I'm going to select swimming.",
+    "Scroll to.",
+    "Lemon.",
+    "Ginger lemon.",
+    "Select ferry scroll to.",
+    "Oops, it looks like we need to update our name.",
+    "Are Michael Berry section on desktop?",
+    "So let's just fix that real quick, maka.",
+    "Very here we go.",
+    "OK, perfect.",
+    "And then Apple scroll to.",
+    "Green Apple.",
+    "So let's preview desktop.",
+    "Lemon Berry Apple.",
+    "Very lemon Apple, very lemon.",
+    "This was good.",
+    "This looks so good.",
+    "Um awesome, I'm happy.",
+    "I'm very happy with how this turned out.",
+    "Oh so one more thing, let's share our work with the developers because we are going to code this and it's a simple just seen old websites.",
+    "Nothing fancy, nothing crazy.",
+    "So what we're going to do is I'm just going to click share.",
+    "And right where on the right hand side where it says view settings, we're going to select development because we're sharing our.",
+    "Our design for developers I'm going to select that.",
+    "And.",
+    "Anyone with the link let me create a link for this so it's going to create essentially just a web page with all of our design specs.",
+    "So that way when we are coding we can refer to it and code are websites.",
+    "OK, So what can we do?",
+    "What should I do trying to figure out?",
+    "Yes, I can show you the design specs.",
+    "Let me show you what it's going to show us.",
+    "Let me hop on over to my browser.",
+    "There we go.",
+    "So this is our design specs.",
+    "This is our site that XP automatically generates.",
+    "That's why I love EXE it.",
+    "It's just so versatile like you can design you.",
+    "Can you know?",
+    "Share your work with developers or whoever you can share your work for it to be reviewed by your team or fellow developers or designers.",
+    "This is just an amazing software.",
+    "Do you guys agree?",
+    "If you love Bixby, put a heart in the chat.",
+    "I love EXE.",
+    "This is our design specs.",
+    "So right in the right hand side there is this you specs link, so I'm just going to click it.",
+    "And it's going to show, Oh my God it it shows me so much it shows me the acids that I've used and I can actually export these assets.",
+    "So when I'm going into developer when I'm going to be coding in Dreamweaver, I have all my assets in a folder that I can just plug into my code.",
+    "My HTML or CSS that I have my colors.",
+    "My character styles and it even shows the interactions like how cool is that?",
+    "That is so cool ohmygosh.",
+    "I'm blown away.",
+    "And then it shows us tablet view desktop.",
+    "And then we can see you know the spacing.",
+    "See look at that.",
+    "We can see the spacing in between each of our links, so we can kind of figure out as developers keep adding, we should use.",
+    "Um, the size of our logo or image is the fonts were using the size of the font we're using like this is incredible.",
+    "Carol is 60 woozy Lasik Siachen Love EXE Yes hearts for XP OK so we have our website.",
+    "We designed our one page website.",
+    "I hope you guys enjoy this tutorial.",
+    "I hope you learned something knew I know it's early in the morning.",
+    "I'm surprised that you guys are tuned in so early in the morning, but thank you guys so much for tuning in.",
+    "I always have so much fun at designing with you and being creative, having fun and showing you some amazing.",
+    "Or amazing after Adobe has to offer.",
+    "Yeah, so this was so much fun.",
+    "I hope you learn something you give this video a thumbs up if you liked it.",
+    "And yeah, I think that's everything.",
+    "Let me just refer to my notes.",
+    "Make sure I did everything.",
+    "We designed prototypes shared with our designs with Devs.",
+    "Yeah, so we did everything.",
+    "Yeah so thanks so much for tuning in an it.",
+    "Be sure to tune in tomorrow 'cause that is the case.",
+    "Studies we stone little fresh for you guys, but we're going to be in coding and I know you guys want to see that so.",
+    "Be sure to tune in tomorrow.",
+    "We're going to turn this into an actual website.",
+    "Don't want to miss it?",
+    "Thanks so much for doing in for today.",
+    "An I will catch you guys later.",
+    "Tomorrow bye.",
+    "Don't come true.",
+    ""
+  ],
+  "entity": {
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        123,
+        124
+      ],
+      "sentence": [
+        "What's going on here?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        148,
+        149
+      ],
+      "sentence": [
+        "And let's see, this is the group, right?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        274,
+        275
+      ],
+      "sentence": [
+        "So rush me says, what are you making?"
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        277,
+        278
+      ],
+      "sentence": [
+        "Uh, the Norman says, does the great come by default with the mobile layout?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        301,
+        302
+      ],
+      "sentence": [
+        "And I'm just going to drop it, right?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        332,
+        333
+      ],
+      "sentence": [
+        "What's in color?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        387,
+        388
+      ],
+      "sentence": [
+        "What are you eating for dinner?"
+      ]
+    },
+    "T12": {
+      "id": "T12",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        414,
+        415
+      ],
+      "sentence": [
+        "Are you suggesting I add workspace?"
+      ]
+    },
+    "T13": {
+      "id": "T13",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        458,
+        459
+      ],
+      "sentence": [
+        "You know layer items for tablet, should you?"
+      ]
+    },
+    "T14": {
+      "id": "T14",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        459,
+        460
+      ],
+      "sentence": [
+        "You know, make it more like mobile or should you kind of make it look more like desktop view?"
+      ]
+    },
+    "T15": {
+      "id": "T15",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        466,
+        467
+      ],
+      "sentence": [
+        "3232 Is this 32?"
+      ]
+    },
+    "T16": {
+      "id": "T16",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        469,
+        470
+      ],
+      "sentence": [
+        "Do you guys know what that means?"
+      ]
+    },
+    "T17": {
+      "id": "T17",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        490,
+        491
+      ],
+      "sentence": [
+        "What the heck?"
+      ]
+    },
+    "T18": {
+      "id": "T18",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        494,
+        495
+      ],
+      "sentence": [
+        "So 3216 * 232 right guys?"
+      ]
+    },
+    "T20": {
+      "id": "T20",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        520,
+        521
+      ],
+      "sentence": [
+        "So what are we doing here?"
+      ]
+    },
+    "T21": {
+      "id": "T21",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        532,
+        533
+      ],
+      "sentence": [
+        "Let me know when the chat, but do you let me turn out the little Logan?"
+      ]
+    },
+    "T22": {
+      "id": "T22",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        533,
+        534
+      ],
+      "sentence": [
+        "So do you zoom in?"
+      ]
+    },
+    "T23": {
+      "id": "T23",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        536,
+        537
+      ],
+      "sentence": [
+        "See what it looks like if it looks good, do you guys do that to let me know in the chat?"
+      ]
+    },
+    "T24": {
+      "id": "T24",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        568,
+        569
+      ],
+      "sentence": [
+        "Let's see what's that 524?"
+      ]
+    },
+    "T25": {
+      "id": "T25",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        573,
+        574
+      ],
+      "sentence": [
+        "What spacing do you usually choose?"
+      ]
+    },
+    "T26": {
+      "id": "T26",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        582,
+        583
+      ],
+      "sentence": [
+        "Do you guys think this looks good?"
+      ]
+    },
+    "T27": {
+      "id": "T27",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        588,
+        589
+      ],
+      "sentence": [
+        "Was it 1024?"
+      ]
+    },
+    "T28": {
+      "id": "T28",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        590,
+        591
+      ],
+      "sentence": [
+        "Who?"
+      ]
+    },
+    "T29": {
+      "id": "T29",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        591,
+        592
+      ],
+      "sentence": [
+        "OK, have you guys tried kombucha before?"
+      ]
+    },
+    "T32": {
+      "id": "T32",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        632,
+        633
+      ],
+      "sentence": [
+        "Can you guys see this?"
+      ]
+    },
+    "T33": {
+      "id": "T33",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        647,
+        648
+      ],
+      "sentence": [
+        "How are designs coming along?"
+      ]
+    },
+    "T34": {
+      "id": "T34",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        668,
+        669
+      ],
+      "sentence": [
+        "If you decide to Cody Multilingual version of this design, what method would you use?"
+      ]
+    },
+    "T37": {
+      "id": "T37",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        676,
+        677
+      ],
+      "sentence": [
+        "What language would you want to use?"
+      ]
+    },
+    "T38": {
+      "id": "T38",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        689,
+        690
+      ],
+      "sentence": [
+        "If you're a new subscriber or if you spend a long time subscriber, how did you find me?"
+      ]
+    },
+    "T39": {
+      "id": "T39",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        696,
+        697
+      ],
+      "sentence": [
+        "OK, So what are we doing here?"
+      ]
+    },
+    "T40": {
+      "id": "T40",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        702,
+        703
+      ],
+      "sentence": [
+        "Did it really?"
+      ]
+    },
+    "T41": {
+      "id": "T41",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        703,
+        704
+      ],
+      "sentence": [
+        "What?"
+      ]
+    },
+    "T42": {
+      "id": "T42",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        714,
+        715
+      ],
+      "sentence": [
+        "Can we make that 64?"
+      ]
+    },
+    "T43": {
+      "id": "T43",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        724,
+        725
+      ],
+      "sentence": [
+        "Maybe I should make this bigger?"
+      ]
+    },
+    "T44": {
+      "id": "T44",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        763,
+        764
+      ],
+      "sentence": [
+        "You know design factorials, graphic design, tutorials, maybe?"
+      ]
+    },
+    "T45": {
+      "id": "T45",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        764,
+        765
+      ],
+      "sentence": [
+        "What's going on with my text here?"
+      ]
+    },
+    "T46": {
+      "id": "T46",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        769,
+        770
+      ],
+      "sentence": [
+        "You know what?"
+      ]
+    },
+    "T47": {
+      "id": "T47",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        796,
+        797
+      ],
+      "sentence": [
+        "So let's updater background color or actually you know what am I doing?"
+      ]
+    },
+    "T49": {
+      "id": "T49",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        876,
+        877
+      ],
+      "sentence": [
+        "An if we want to click Apple, what's it going to do?"
+      ]
+    },
+    "T50": {
+      "id": "T50",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        905,
+        906
+      ],
+      "sentence": [
+        "Are Michael Berry section on desktop?"
+      ]
+    },
+    "T51": {
+      "id": "T51",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        926,
+        927
+      ],
+      "sentence": [
+        "OK, So what can we do?"
+      ]
+    },
+    "T52": {
+      "id": "T52",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        927,
+        928
+      ],
+      "sentence": [
+        "What should I do trying to figure out?"
+      ]
+    },
+    "T53": {
+      "id": "T53",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        936,
+        937
+      ],
+      "sentence": [
+        "Can you know?"
+      ]
+    },
+    "T54": {
+      "id": "T54",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        939,
+        940
+      ],
+      "sentence": [
+        "Do you guys agree?"
+      ]
+    },
+    "T55": {
+      "id": "T55",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        947,
+        948
+      ],
+      "sentence": [
+        "My character styles and it even shows the interactions like how cool is that?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "ANSWER",
+      "span": [
+        275,
+        277
+      ],
+      "sentence": [
+        "So I am making a one piece sites for a computer drink and this is actually based on a tutorial that I did last week during last week's live stream and we basically made labels for kombucha drink and we also rendered it in Adobe Dimension.",
+        "So we created a 3D models for our drink and that's why we got this really nice looking image here."
+      ]
+    },
+    "T57": {
+      "id": "T57",
+      "label": "ANSWER",
+      "span": [
+        278,
+        279
+      ],
+      "sentence": [
+        "Yes it does."
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "ANSWER",
+      "span": [
+        467,
+        469
+      ],
+      "sentence": [
+        "Let me make sure.",
+        "And this is basically 22 M's in CSS S."
+      ]
+    },
+    "T9": {
+      "id": "T9",
+      "label": "ANSWER",
+      "span": [
+        569,
+        570
+      ],
+      "sentence": [
+        "That's a good size, so let's just apply that to our very 524."
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "ANSWER",
+      "span": [
+        574,
+        576
+      ],
+      "sentence": [
+        "So I'm actually using 1.5 so I'm basically.",
+        "I have my font set to 16, so if I just multiply it by 1.5, that's usually it's a good amount of station spacing."
+      ]
+    },
+    "T19": {
+      "id": "T19",
+      "label": "ANSWER",
+      "span": [
+        592,
+        594
+      ],
+      "sentence": [
+        "And if you have?",
+        "Any brands you want to shadow to recommend?"
+      ]
+    },
+    "T30": {
+      "id": "T30",
+      "label": "ANSWER",
+      "span": [
+        669,
+        670
+      ],
+      "sentence": [
+        "I would like to build a single page portfolio and I don't know how to go about it, thanks."
+      ]
+    },
+    "T31": {
+      "id": "T31",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        674,
+        676
+      ],
+      "sentence": [
+        "What language are you?",
+        "Or do you speak?"
+      ]
+    },
+    "T35": {
+      "id": "T35",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        690,
+        691
+      ],
+      "sentence": [
+        "If you have been here from the beginning, when did I start I don't know even know 2014."
+      ]
+    },
+    "T36": {
+      "id": "T36",
+      "label": "ANSWER",
+      "span": [
+        770,
+        771
+      ],
+      "sentence": [
+        "Let me grab this button as well."
+      ]
+    },
+    "T48": {
+      "id": "T48",
+      "label": "ANSWER",
+      "span": [
+        906,
+        907
+      ],
+      "sentence": [
+        "So let's just fix that real quick, maka."
+      ]
+    },
+    "T58": {
+      "id": "T58",
+      "label": "ANSWER",
+      "span": [
+        928,
+        929
+      ],
+      "sentence": [
+        "Yes, I can show you the design specs."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Relevance",
+      "question": "T4",
+      "answer": "T1",
+      "question_sentence": [
+        "So rush me says, what are you making?"
+      ],
+      "answer_sentence": [
+        "So I am making a one piece sites for a computer drink and this is actually based on a tutorial that I did last week during last week's live stream and we basically made labels for kombucha drink and we also rendered it in Adobe Dimension.",
+        "So we created a 3D models for our drink and that's why we got this really nice looking image here."
+      ]
+    },
+    "R2": {
+      "id": "R2",
+      "label": "Relevance",
+      "question": "T5",
+      "answer": "T57",
+      "question_sentence": [
+        "Uh, the Norman says, does the great come by default with the mobile layout?"
+      ],
+      "answer_sentence": [
+        "Yes it does."
+      ]
+    },
+    "R3": {
+      "id": "R3",
+      "label": "Relevance",
+      "question": "T15",
+      "answer": "T8",
+      "question_sentence": [
+        "3232 Is this 32?"
+      ],
+      "answer_sentence": [
+        "Let me make sure.",
+        "And this is basically 22 M's in CSS S."
+      ]
+    },
+    "R4": {
+      "id": "R4",
+      "label": "Relevance",
+      "question": "T24",
+      "answer": "T9",
+      "question_sentence": [
+        "Let's see what's that 524?"
+      ],
+      "answer_sentence": [
+        "That's a good size, so let's just apply that to our very 524."
+      ]
+    },
+    "R5": {
+      "id": "R5",
+      "label": "Relevance",
+      "question": "T25",
+      "answer": "T11",
+      "question_sentence": [
+        "What spacing do you usually choose?"
+      ],
+      "answer_sentence": [
+        "So I'm actually using 1.5 so I'm basically.",
+        "I have my font set to 16, so if I just multiply it by 1.5, that's usually it's a good amount of station spacing."
+      ]
+    },
+    "R6": {
+      "id": "R6",
+      "label": "Chitchat",
+      "question": "T29",
+      "answer": "T19",
+      "question_sentence": [
+        "OK, have you guys tried kombucha before?"
+      ],
+      "answer_sentence": [
+        "And if you have?",
+        "Any brands you want to shadow to recommend?"
+      ]
+    },
+    "R7": {
+      "id": "R7",
+      "label": "Relevance",
+      "question": "T34",
+      "answer": "T30",
+      "question_sentence": [
+        "If you decide to Cody Multilingual version of this design, what method would you use?"
+      ],
+      "answer_sentence": [
+        "I would like to build a single page portfolio and I don't know how to go about it, thanks."
+      ]
+    },
+    "R8": {
+      "id": "R8",
+      "label": "Relevance",
+      "question": "T46",
+      "answer": "T36",
+      "question_sentence": [
+        "You know what?"
+      ],
+      "answer_sentence": [
+        "Let me grab this button as well."
+      ]
+    },
+    "R9": {
+      "id": "R9",
+      "label": "Chitchat",
+      "question": "T50",
+      "answer": "T48",
+      "question_sentence": [
+        "Are Michael Berry section on desktop?"
+      ],
+      "answer_sentence": [
+        "So let's just fix that real quick, maka."
+      ]
+    },
+    "R10": {
+      "id": "R10",
+      "label": "Relevance",
+      "question": "T52",
+      "answer": "T58",
+      "question_sentence": [
+        "What should I do trying to figure out?"
+      ],
+      "answer_sentence": [
+        "Yes, I can show you the design specs."
+      ]
+    }
+  }
+}

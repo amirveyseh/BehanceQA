@@ -1,0 +1,224 @@
+{
+  "sentence": [
+    "Um?",
+    "But I felt I still haven't figured out the quite right way too.",
+    "Combine the two in a more cohesive way.",
+    "Like that I mean my bright color schemes with my more muted earthtone ones.",
+    "But I'm I'm determined to figure that out.",
+    "I feel like it's like a code that I need to crack.",
+    "Colours such a touchy thing.",
+    "And I used to not really think a lot about color.",
+    "I used to just kind of.",
+    "Be a little bit more.",
+    "I guess careless with that maybe is the right word.",
+    "Yeah, I just I never.",
+    "I never really took the time to.",
+    "Play within and be more like I guess gentle with it, and now it's definitely been one of my favorite things.",
+    "Hum.",
+    "Train thing is, if I want any other ones, I've more expensive or stones.",
+    "Z.",
+    "How is like this?",
+    "Like upsetting that mean to do that?",
+    "I like this like really bright orangey red, uhm?",
+    "OK, so that is probably more than enough.",
+    "Colors.",
+    "Just start playing with.",
+    "What happens asking?",
+    "Is it possible to convert this project to AI?",
+    "So at home there it felt like there is just something that.",
+    "And that really, really, really, really resonated with me.",
+    "So I hope to go see Greece.",
+    "One day So I kind of added a lot of blue to him.",
+    "I feel like.",
+    "He needs a different different pop of color.",
+    "Oh yes, I would love to visit a Greek island.",
+    "Uhm, do you have any islands in particular that you recommend?",
+    "I would love to hear.",
+    "How are you guys doing in Greece?",
+    "Oh Anna saying to visit.",
+    "Santorini mechanic mechanic.",
+    "I think I pronounce that wrong.",
+    "I never know how to say that.",
+    "I'm sorry Milos in Crete.",
+    "Yes, I would love that.",
+    "I know Santorini is definitely been.",
+    "Been on our uhm on our radar to go visit and so that's that's super helpful to hear those other suggestions.",
+    "Thank you so much.",
+    "Yeah, I hope.",
+    "Someday to do a trip up to see pretty much more of all of the countries surrounding the Mediterranean.",
+    "Uhm.",
+    "I'd love to also go to Turkey and Morocco and Egypt.",
+    "So hopefully one day.",
+    "My husband and I, um, we did our anniversary trip last fall to uhm.",
+    "We went to Barcelona and then, um post atano in Italy, which is where we were able to be, so you know, so close to the Mediterranean Sea and stay.",
+    "Stay right by the water, uhm?",
+    "Which was, yeah, just absolutely one of my favorite places in the world already.",
+    "I guess Speaking of travel, uhm?",
+    "Especially since most of the world is still pretty close down for now, it's the pandemic.",
+    "But what are?",
+    "What are some places that people in the chat are either day dreaming about wanting to go travel to one day or maybe even one of one of your favorite places that you have traveled to and would recommend seeing once?",
+    "Once the world is.",
+    "Back, uh?",
+    "I don't even know if it's gonna be back to normal or what not, but you know once there is you know the proper precautions are back.",
+    "Where would you love to travel to?",
+    "I definitely like day dreaming a lot daydreaming and doodling.",
+    "I feel like that helps me kind of mentally escaped and.",
+    "Get excited about future things.",
+    "By um.",
+    "But yeah, I was.",
+    "I shared one of those days a little bit about my experience.",
+    "With seeing a banana slug for the first time and how I've been a little bit scarred scarred ever since.",
+    "Not scared scarred well I was scared but uh.",
+    "Yeah, those things are no joke.",
+    "I didn't know they existed until I was on a hike, uhm.",
+    "And I almost, you know, put my hand right on one by accident and.",
+    "Freaked out, but.",
+    "Yeah.",
+    "Julie says yes, so it sounds like maybe yes to uh.",
+    "Going to Olympic National Park.",
+    "Yeah, this was some.",
+    "Olympic National Park is probably.",
+    "Probably it has to be the coolest place I've ever camped at.",
+    "It was just.",
+    "A total fly SUV.",
+    "Paradise uhm?",
+    "Yeah, Julie thing.",
+    "Definitely it was beautiful.",
+    "Hum.",
+    "Yeah, I feel like that was one of those.",
+    "Experiences that you take with you and just kind of like.",
+    "Um?",
+    "Yeah, almost like.",
+    "I mean, I'll never forget it.",
+    "I still I think I went probably four or five years ago now and it was my first.",
+    "Menifee even was definitely my first time there.",
+    "It was like.",
+    "Probably one of my first times camping, at least like as an adult like.",
+    "Um?",
+    "And.",
+    "It was just beautiful.",
+    "I mean, I can still hear like the waves at night crashing like they were.",
+    "Like usually when I think of like the sea or whatnot like I think of like, you know, a calm, peaceful.",
+    "Just like really beautiful sound, but the waves like rolling and Whatnot.",
+    ""
+  ],
+  "entity": {
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        19,
+        20
+      ],
+      "sentence": [
+        "I like this like really bright orangey red, uhm?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        23,
+        24
+      ],
+      "sentence": [
+        "What happens asking?"
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        24,
+        25
+      ],
+      "sentence": [
+        "Is it possible to convert this project to AI?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        32,
+        33
+      ],
+      "sentence": [
+        "Uhm, do you have any islands in particular that you recommend?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        34,
+        35
+      ],
+      "sentence": [
+        "How are you guys doing in Greece?"
+      ]
+    },
+    "T13": {
+      "id": "T13",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        60,
+        61
+      ],
+      "sentence": [
+        "Where would you love to travel to?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        17,
+        19
+      ],
+      "sentence": [
+        "How is like this?",
+        "Like upsetting that mean to do that?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "ANSWER",
+      "span": [
+        35,
+        37
+      ],
+      "sentence": [
+        "Oh Anna saying to visit.",
+        "Santorini mechanic mechanic."
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        55,
+        57
+      ],
+      "sentence": [
+        "But what are?",
+        "What are some places that people in the chat are either day dreaming about wanting to go travel to one day or maybe even one of one of your favorite places that you have traveled to and would recommend seeing once?"
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T7",
+      "answer": "T2",
+      "question_sentence": [
+        "How are you guys doing in Greece?"
+      ],
+      "answer_sentence": [
+        "Oh Anna saying to visit.",
+        "Santorini mechanic mechanic."
+      ]
+    }
+  }
+}

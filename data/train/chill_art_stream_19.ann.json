@@ -1,0 +1,280 @@
+{
+  "sentence": [
+    "I really want to draw this.",
+    "I don't know if it would be considered not safe for work 'cause she's she's a slime monster.",
+    "UM, for the game monster from.",
+    "And.",
+    "Like I drew that looks really great.",
+    "First time live streaming.",
+    "Oh no, no you have to sleep.",
+    "I'm still believe I'm still new at all this so, but this girl here.",
+    "That I'm drawing is this lovely little cutie here.",
+    "And I designed this character a couple months ago on Adobe live with Voodoo Val and it was like we were going to do a dessert challenge where we pick desserts and we Draw Something based off of those desserts.",
+    "And I've had this character for.",
+    "Two years now.",
+    "A game called Monster from it's really fun.",
+    "It's horrible.",
+    "Don't play it unless you're over the age of 18.",
+    "It makes you make bad decisions, very bad decisions, but I made her this character as like a you know what if I had a character in this game.",
+    "And she's like a Slime Monster, and so she she's like like A.",
+    "Like a gelatinous cube kind of thing if you know D&D, but you know, as I love the pink girl and so like she can disconnect her body like you can see her arms or disconnected.",
+    "Her neck is never just connected to her torso so her head can float around.",
+    "Her body can float around and I really want to drop her like lifting up her shirt like showing her stomach with like knives or like a bomb or something inside of her stomach.",
+    "I don't know why, just make it a little like spooky.",
+    "I drove that be considered nothing to work 'cause it's it's showing her Tony.",
+    "But March 2 uneventful birthday.",
+    "Oh no.",
+    "My birthday is on 14th days and like what's going to happen because I'll just pandemic.",
+    "I don't care about going outside.",
+    "When is your birthday?",
+    "My birthday is November 27th.",
+    "And I'm going to be.",
+    "28 This year Great.",
+    "So I'm I've never really been a birthday person myself.",
+    "I was when I was younger.",
+    "I love the colors in your character.",
+    "She needs to be able to transform one of her arms into a shotgun.",
+    "I could see her doing that, but like a water gun and so she's like shoot little bits of Slime at people.",
+    "Had to be fun hide like a needle in it so she can like stab him.",
+    "Pardon me.",
+    "Oh Listen its presence.",
+    "But now my birthday is in November.",
+    "I was thinking of maybe, um, 'cause I have a lot of friends have Animal Crossing on the switch may be like.",
+    "Setting up like a like a birthday thing.",
+    "On there, but I.",
+    "I don't know birthday parties.",
+    "Dude, I don't know what you do.",
+    "I don't know what people do.",
+    "Thank you.",
+    "I'm usually the kind of sneezer like who spits a lot, so I was like please duck.",
+    "Don't let them see be spent.",
+    "Um?",
+    "Where is that other picture of her actually?",
+    "This is another picture of her.",
+    "I want this one over here though.",
+    "Can I put these two in the same tab a high can?",
+    "OK, so this is like her design.",
+    "If she was just walking around in the game.",
+    "Hum.",
+    "So I want to draw her in that outfit.",
+    "Oh, I was like what the heck?",
+    "I really like the design.",
+    "I had a lot of fun when I created her and I was like when I drew her for.",
+    "The stream with food of Val.",
+    "I I kind of wondered about making her my thumb.",
+    "Like my.",
+    "It was a stupid word.",
+    "My mascot kind of thing so.",
+    "That's what I'm trying to do.",
+    "By drawing her in here.",
+    "And so because she's translucent.",
+    "You hear all that?",
+    "I'll spit fetishizes yeah.",
+    "You're welcome.",
+    "Now send me money through PayPal.",
+    "Can you give us some advice?",
+    "Some tips to have more interactions on be hands.",
+    "Honestly, I'm.",
+    "I'm still trying to figure it out myself.",
+    "Um, I'm not.",
+    "I'm not that big of a streamer myself.",
+    "I'm still exceptionally new at all this.",
+    "Um?",
+    "I when I post my projects or when I go to stream, I try to use as many.",
+    "Description tags as I possibly can.",
+    "Um?",
+    "And it's I think it's all mostly just a manner of luck.",
+    "And finding the right time to post things.",
+    "'cause one thing I've noticed is for when I first started streaming on be hand, I would stream from like 1:00 o'clock to three an I notice I had no, I didn't have a chat box.",
+    "If you guys go back and look at my very first few streams I had nobody in my chat.",
+    "But then again, throughout the day.",
+    "Adobe light is on an an people are at work.",
+    "You know that kind of thing.",
+    "This other things that people watched in the day.",
+    "So it was a little harder for me.",
+    "And lately I've noticed that if I stream at night.",
+    "Or, you know, in the evening hours I've noticed that I have.",
+    "I have more traffic, you know which is interesting.",
+    "Um?",
+    "So it's a little hard because.",
+    "I'm still trying to figure this stuff out myself.",
+    "Um?",
+    "So to give you proper advice.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        26,
+        27
+      ],
+      "sentence": [
+        "When is your birthday?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION",
+      "span": [
+        48,
+        49
+      ],
+      "sentence": [
+        "Um?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION",
+      "span": [
+        49,
+        50
+      ],
+      "sentence": [
+        "Where is that other picture of her actually?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION",
+      "span": [
+        52,
+        53
+      ],
+      "sentence": [
+        "Can I put these two in the same tab a high can?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION",
+      "span": [
+        57,
+        58
+      ],
+      "sentence": [
+        "Oh, I was like what the heck?"
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        68,
+        69
+      ],
+      "sentence": [
+        "You hear all that?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        72,
+        73
+      ],
+      "sentence": [
+        "Can you give us some advice?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION",
+      "span": [
+        79,
+        80
+      ],
+      "sentence": [
+        "Um?"
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "QUESTION",
+      "span": [
+        82,
+        83
+      ],
+      "sentence": [
+        "Um?"
+      ]
+    },
+    "T9": {
+      "id": "T9",
+      "label": "QUESTION",
+      "span": [
+        95,
+        96
+      ],
+      "sentence": [
+        "Um?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION",
+      "span": [
+        98,
+        99
+      ],
+      "sentence": [
+        "Um?"
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "ANSWER",
+      "span": [
+        27,
+        28
+      ],
+      "sentence": [
+        "My birthday is November 27th."
+      ]
+    },
+    "T12": {
+      "id": "T12",
+      "label": "ANSWER",
+      "span": [
+        73,
+        76
+      ],
+      "sentence": [
+        "Some tips to have more interactions on be hands.",
+        "Honestly, I'm.",
+        "I'm still trying to figure it out myself."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T0",
+      "answer": "T11",
+      "question_sentence": [
+        "When is your birthday?"
+      ],
+      "answer_sentence": [
+        "My birthday is November 27th."
+      ]
+    },
+    "R2": {
+      "id": "R2",
+      "label": "Chitchat",
+      "question": "T6",
+      "answer": "T12",
+      "question_sentence": [
+        "Can you give us some advice?"
+      ],
+      "answer_sentence": [
+        "Some tips to have more interactions on be hands.",
+        "Honestly, I'm.",
+        "I'm still trying to figure it out myself."
+      ]
+    }
+  }
+}

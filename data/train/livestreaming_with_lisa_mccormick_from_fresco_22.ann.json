@@ -1,0 +1,160 @@
+{
+  "sentence": [
+    "Especially if you are more of like an illustrator, OK, you're an architecture student.",
+    "Oh awesome, very cool.",
+    "That's really cool, so you would definitely need the straight line.",
+    "Straight line features and all that.",
+    "Yeah, I would imagine that.",
+    "Um?",
+    "Drawing digitally would definitely help you, just like save time and be able to quickly.",
+    "Um?",
+    "Things like copy and paste and send stuff over and make sure your drawings are super super clean.",
+    "And yeah, I don't know how do you.",
+    "How do you normally do your your work?",
+    "Is it just like in a?",
+    "Like with pen, pen and paper?",
+    "Or is it digital?",
+    "He said I sketch a lot by hand and also on photo shop.",
+    "I want to get more into illustration though Totaly.",
+    "Yeah, that's a great way to start I uhm, OK, it's both pandigital an 3D.",
+    "That's awesome.",
+    "Yeah I have a background in the more traditional arts, so I I still sketch all the time just with a pencil or pen.",
+    "I think that's still such a good way to start everything and then.",
+    "I've just found that an iPad like drawing on an iPad field so much more.",
+    "Like traditional art, uhm?",
+    "Like versus just hopping straight unto like Photoshop or illustrator because.",
+    "You know you're working.",
+    "I mean, it honestly feels like your drawing in a sketchbook.",
+    "So which is which is amazing.",
+    "I used to try to work with like the Wacom tablets.",
+    "I don't know if you've ever tried those, but I just I never liked.",
+    "I never got the hang of it I guess, and I just.",
+    "Yeah, I was never a big fan and.",
+    "Uhm yeah, it it felt so awkward.",
+    "I was like I, I'd rather just sketch it out and then like on a piece of paper and then just you know like scan into the computer and do it that way so that there wasn't this like awkward.",
+    "Like you know drawing down here but I'm looking up at the screen.",
+    "And so that's what I think the iPad is so nice.",
+    "'cause I'm literally just drawing right on screen so it's cool high loreena Loreena.",
+    "Or I'm sorry Llerena I'm your name is Laura.",
+    "I read that way too fast.",
+    "Hello Laura, how are you doing?",
+    "But yes, if you can, I would recommend an iPad dumb.",
+    "If it's too pricey 'cause I know it definitely.",
+    "So yeah, it's kind of fun seeing.",
+    "I won't pick National Park stuff and such like a bright, colorful.",
+    "Slightly more like feminine color scheme.",
+    "Uhm, I guess with the pink, but it's actually.",
+    "Um?",
+    "Not necessarily meant to be feminine, but more of just like a brighter color.",
+    "Uhm, yeah.",
+    "I feel like I've seen you know, million different.",
+    "Pieces with more of that, like Earth tone, color scheme, which I've definitely done as well.",
+    "So it's fun to just kind of like try to, um.",
+    "Try to come up with a different solution and see it in a different, different way.",
+    "OK, so let me I definitely want to make sure that.",
+    "That moon.",
+    "Actually, I'll probably do the moon this cream color instead.",
+    "So that it.",
+    "Can pop a little bit better and then.",
+    "Putting the mask.",
+    "So sometimes too, when I'm working and.",
+    "I like to zoom out a lot and can look at everything as a whole, but then it can be.",
+    "Uh.",
+    "It can be hard to like.",
+    "Remember to go back and actually make sure that everything is working individually as well.",
+    "I know that.",
+    "OK, can I have to go back and?",
+    "Fix some different things.",
+    "So that's the other thing, I don't want, just like.",
+    "One, yeah, I want everything to look good.",
+    "Um, individually, as well as all together so.",
+    "It's going to start to go.",
+    "Go in and add details to each one.",
+    "So now I'm starting to like this a lot better.",
+    "And clean it up.",
+    "And again, when I'm thinking of like a brand.",
+    "Um, set.",
+    "Uh.",
+    "Like I'm I'm trying to picture this on like.",
+    "You know this could be on a hat, or I mean certainly as a badge or.",
+    "Like AT shirt design.",
+    "Maybe it's in a newsletter.",
+    "Kind of like a fun flyer or not fired, but like you know, like I'm like an E blast or something and there's.",
+    "Like a fun little illustration.",
+    "Badge uhm?",
+    "So I'm trying to think of like what what would like their real life.",
+    "Use of this be and.",
+    "Hum, I have such a history with come.",
+    "Making merchandise so I feel like that's always like my first and foremost.",
+    "It's like as long as it's something that would work.",
+    "Anna hat or a T shirt or whatever, like there's probably a pretty good chance that is also look cool as like a little icon on a website or.",
+    "Huh?",
+    "Yeah, whatever else.",
+    "So yeah.",
+    "OK now I'm liking that a lot more.",
+    "But yeah, it's important to make sure that like.",
+    "Each piece individually looks cool, so this is.",
+    "This one is another thing that.",
+    "I really, really like this bottom middle one.",
+    "It's actually probably my favorite one.",
+    "But I also feel the tension of like I don't know if it.",
+    "It's quite.",
+    "Done, I don't think that.",
+    ""
+  ],
+  "entity": {
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        37,
+        38
+      ],
+      "sentence": [
+        "Hello Laura, how are you doing?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "ANSWER",
+      "span": [
+        14,
+        15
+      ],
+      "sentence": [
+        "He said I sketch a lot by hand and also on photo shop."
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        10,
+        14
+      ],
+      "sentence": [
+        "How do you normally do your your work?",
+        "Is it just like in a?",
+        "Like with pen, pen and paper?",
+        "Or is it digital?"
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Relevance",
+      "question": "T1",
+      "answer": "T3",
+      "question_sentence": [
+        "How do you normally do your your work?",
+        "Is it just like in a?",
+        "Like with pen, pen and paper?",
+        "Or is it digital?"
+      ],
+      "answer_sentence": [
+        "He said I sketch a lot by hand and also on photo shop."
+      ]
+    }
+  }
+}

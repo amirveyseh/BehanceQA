@@ -1,0 +1,524 @@
+{
+  "sentence": [
+    "And then he was like, yeah, I know what inktober is.",
+    "If it is freeing, so why don't you want to try thinking something for once and then so many?",
+    "If you like this style so many people got mad at him like dude, it's a suggestion really come on and I honestly feel about using different mediums are like is super Super Awesome.",
+    "You could learn a lot by trying different things.",
+    "Right?",
+    "And some people are like some people don't have access to inking.",
+    "I was like dude, it's a pen and a piece of paper.",
+    "You're telling me you're OK?",
+    "You can use your desktop and a Wakeham tablet, but you can't get a piece of paper and a pen like.",
+    "But each time I found lying.",
+    "I just I was just very confused and like it was a suggestion.",
+    "At that.",
+    "I want to actually like I did for a little bit, and then I realized how rusty I was.",
+    "Um?",
+    "Anne, what sort of pitfalls that I?",
+    "Went into because I was doing digital for so long.",
+    "Example what I'm doing right now.",
+    "Images lasso tooling my sketch right?",
+    "And then moving things around.",
+    "OK.",
+    "In the digital world, that's commonplace.",
+    "In the real world, that's like you are either erase it.",
+    "If you get a light box and he's trying.",
+    "You try to redo it, you just start over in the scrap it and that's that's the options there.",
+    "Oh yeah.",
+    "He learned from different mediums.",
+    "There are times I bring traditional techniques into digital and Vice Versa.",
+    "Yep.",
+    "And you know what?",
+    "It's all art.",
+    "It's all amazing art stuff.",
+    "Right now it's all creative stuff.",
+    "It's unbraced different mediums.",
+    "You've done a traditional stream on here, right?",
+    "Already, Diane.",
+    "Passy, I'm calling you by your birth name.",
+    "I forgot to turn off notifications do not disturb.",
+    "There you go.",
+    "Doesn't pain in the butt?",
+    "I think my setup is probably a lot easier than yours.",
+    "Who shoot?",
+    "Oh, I was going to ask you what's your light?",
+    "My light setup is literally a desk lamp.",
+    "With a piece of paper over it to diffuse the light, 2 pieces of paper over it.",
+    "And I saw your lamp.",
+    "That on your Instagram and I'm like that looks fancy.",
+    "How much was that?",
+    "If it's more than like $50 if it's more than 20 'cause I've seen it go for 30.",
+    "If it's more than 20 or 30 then.",
+    "After now, but I'm hoping not that expensive.",
+    "So I got a killer that's more than 100.",
+    "OK, never mind.",
+    "Never mind, you know what I got for my birthday next confused.",
+    "Why did charity stream?",
+    "I hate this about my iPad.",
+    "And crashes.",
+    "Interest crashes sometimes.",
+    ".",
+    "She was a Cyborg.",
+    "What are you talking about?",
+    "What?",
+    "Ariel from The Little Mermaid.",
+    "I'm sorry, I'm sorry.",
+    "Well I'm ready or watching Jamie.",
+    "I do not remember aerial.",
+    "Being as I born.",
+    "The anime has that sounds like sounds like an anime Little Mermaid, Cyborg.",
+    "I mean, I can dig it.",
+    "I can dig it.",
+    "Oh man, look at that.",
+    "That is incredible.",
+    "Just the intricacy of like mechanics.",
+    "Like a Fusion of America and a motorcycle.",
+    "Trying to find me.",
+    "You can put together a pretty nice looking canomatic.",
+    "With your motion graphics.",
+    "Background.",
+    "We have living in the same.",
+    "Massive big I'll trim it back, that's fine.",
+    "Oh doctor, slump aerial was a fiber.",
+    "Oh that's your name, huh?",
+    "I never read doctor slump.",
+    "Doctor slump Doctor salon Well, look at that basketball man.",
+    "Something like this has a lot of personality.",
+    "And that's what I would like for my art.",
+    "Having a lot of personality so it.",
+    "Simple but yet has personality.",
+    "Minimal line work.",
+    "Still reads very, very well, but what else like?",
+    "I have preached right.",
+    "That the lines should be different throughout the picture, right?",
+    "Because of their lines are two equal throughout a picture, kind of like blurs together.",
+    "But For this I don't know.",
+    "It kind of looks like.",
+    "That the lines on the outside, which is like framing the character, is the same length, or in the same width as the lines of the inside.",
+    "For the most part, there there's some battered like around the cheek area that's a little bit thinner, but it seems consists consistent.",
+    "See, that's something that I have to learn.",
+    "I think that's the dad right there going to draw her.",
+    "If I can mimic that just like the consistent line throughout the whole character.",
+    "It's a low res version of her though.",
+    "Kind of low rise.",
+    "That's fine though.",
+    "Going in my sketching pencil I would do that whenever before I start drawing.",
+    "Uh, both Cassie finning and then I deleted.",
+    "One of the best ways, and like Diane, was in here 2 census was in here not too long ago where you got here, take me, there were talking and we were saying like we should go back to doing some ink, ink and on paper.",
+    "Thinking on paper, nothing.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION",
+      "span": [
+        1,
+        2
+      ],
+      "sentence": [
+        "If it is freeing, so why don't you want to try thinking something for once and then so many?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION",
+      "span": [
+        7,
+        8
+      ],
+      "sentence": [
+        "You're telling me you're OK?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION",
+      "span": [
+        13,
+        14
+      ],
+      "sentence": [
+        "Um?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION",
+      "span": [
+        14,
+        15
+      ],
+      "sentence": [
+        "Anne, what sort of pitfalls that I?"
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        17,
+        18
+      ],
+      "sentence": [
+        "Images lasso tooling my sketch right?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION",
+      "span": [
+        28,
+        29
+      ],
+      "sentence": [
+        "And you know what?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION",
+      "span": [
+        33,
+        34
+      ],
+      "sentence": [
+        "You've done a traditional stream on here, right?"
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "QUESTION",
+      "span": [
+        38,
+        39
+      ],
+      "sentence": [
+        "Doesn't pain in the butt?"
+      ]
+    },
+    "T9": {
+      "id": "T9",
+      "label": "QUESTION",
+      "span": [
+        40,
+        41
+      ],
+      "sentence": [
+        "Who shoot?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION",
+      "span": [
+        41,
+        42
+      ],
+      "sentence": [
+        "Oh, I was going to ask you what's your light?"
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "QUESTION",
+      "span": [
+        46,
+        47
+      ],
+      "sentence": [
+        "How much was that?"
+      ]
+    },
+    "T13": {
+      "id": "T13",
+      "label": "QUESTION",
+      "span": [
+        59,
+        60
+      ],
+      "sentence": [
+        "What are you talking about?"
+      ]
+    },
+    "T15": {
+      "id": "T15",
+      "label": "QUESTION",
+      "span": [
+        80,
+        81
+      ],
+      "sentence": [
+        "Oh that's your name, huh?"
+      ]
+    },
+    "T16": {
+      "id": "T16",
+      "label": "QUESTION",
+      "span": [
+        88,
+        89
+      ],
+      "sentence": [
+        "Still reads very, very well, but what else like?"
+      ]
+    },
+    "T20": {
+      "id": "T20",
+      "label": "ANSWER",
+      "span": [
+        8,
+        13
+      ],
+      "sentence": [
+        "You can use your desktop and a Wakeham tablet, but you can't get a piece of paper and a pen like.",
+        "But each time I found lying.",
+        "I just I was just very confused and like it was a suggestion.",
+        "At that.",
+        "I want to actually like I did for a little bit, and then I realized how rusty I was."
+      ]
+    },
+    "T21": {
+      "id": "T21",
+      "label": "ANSWER",
+      "span": [
+        15,
+        17
+      ],
+      "sentence": [
+        "Went into because I was doing digital for so long.",
+        "Example what I'm doing right now."
+      ]
+    },
+    "T22": {
+      "id": "T22",
+      "label": "ANSWER",
+      "span": [
+        18,
+        28
+      ],
+      "sentence": [
+        "And then moving things around.",
+        "OK.",
+        "In the digital world, that's commonplace.",
+        "In the real world, that's like you are either erase it.",
+        "If you get a light box and he's trying.",
+        "You try to redo it, you just start over in the scrap it and that's that's the options there.",
+        "Oh yeah.",
+        "He learned from different mediums.",
+        "There are times I bring traditional techniques into digital and Vice Versa.",
+        "Yep."
+      ]
+    },
+    "T24": {
+      "id": "T24",
+      "label": "ANSWER",
+      "span": [
+        34,
+        35
+      ],
+      "sentence": [
+        "Already, Diane."
+      ]
+    },
+    "T25": {
+      "id": "T25",
+      "label": "ANSWER",
+      "span": [
+        39,
+        40
+      ],
+      "sentence": [
+        "I think my setup is probably a lot easier than yours."
+      ]
+    },
+    "T26": {
+      "id": "T26",
+      "label": "ANSWER",
+      "span": [
+        42,
+        46
+      ],
+      "sentence": [
+        "My light setup is literally a desk lamp.",
+        "With a piece of paper over it to diffuse the light, 2 pieces of paper over it.",
+        "And I saw your lamp.",
+        "That on your Instagram and I'm like that looks fancy."
+      ]
+    },
+    "T27": {
+      "id": "T27",
+      "label": "ANSWER",
+      "span": [
+        47,
+        51
+      ],
+      "sentence": [
+        "If it's more than like $50 if it's more than 20 'cause I've seen it go for 30.",
+        "If it's more than 20 or 30 then.",
+        "After now, but I'm hoping not that expensive.",
+        "So I got a killer that's more than 100."
+      ]
+    },
+    "T29": {
+      "id": "T29",
+      "label": "ANSWER",
+      "span": [
+        61,
+        62
+      ],
+      "sentence": [
+        "Ariel from The Little Mermaid."
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "ANSWER",
+      "span": [
+        2,
+        7
+      ],
+      "sentence": [
+        "If you like this style so many people got mad at him like dude, it's a suggestion really come on and I honestly feel about using different mediums are like is super Super Awesome.",
+        "You could learn a lot by trying different things.",
+        "Right?",
+        "And some people are like some people don't have access to inking.",
+        "I was like dude, it's a pen and a piece of paper."
+      ]
+    }
+  },
+  "relation": {
+    "R3": {
+      "id": "R3",
+      "label": "Relevance",
+      "question": "T2",
+      "answer": "T20",
+      "question_sentence": [
+        "You're telling me you're OK?"
+      ],
+      "answer_sentence": [
+        "You can use your desktop and a Wakeham tablet, but you can't get a piece of paper and a pen like.",
+        "But each time I found lying.",
+        "I just I was just very confused and like it was a suggestion.",
+        "At that.",
+        "I want to actually like I did for a little bit, and then I realized how rusty I was."
+      ]
+    },
+    "R4": {
+      "id": "R4",
+      "label": "Chitchat",
+      "question": "T4",
+      "answer": "T21",
+      "question_sentence": [
+        "Anne, what sort of pitfalls that I?"
+      ],
+      "answer_sentence": [
+        "Went into because I was doing digital for so long.",
+        "Example what I'm doing right now."
+      ]
+    },
+    "R5": {
+      "id": "R5",
+      "label": "Relevance",
+      "question": "T5",
+      "answer": "T22",
+      "question_sentence": [
+        "Images lasso tooling my sketch right?"
+      ],
+      "answer_sentence": [
+        "And then moving things around.",
+        "OK.",
+        "In the digital world, that's commonplace.",
+        "In the real world, that's like you are either erase it.",
+        "If you get a light box and he's trying.",
+        "You try to redo it, you just start over in the scrap it and that's that's the options there.",
+        "Oh yeah.",
+        "He learned from different mediums.",
+        "There are times I bring traditional techniques into digital and Vice Versa.",
+        "Yep."
+      ]
+    },
+    "R7": {
+      "id": "R7",
+      "label": "Chitchat",
+      "question": "T7",
+      "answer": "T24",
+      "question_sentence": [
+        "You've done a traditional stream on here, right?"
+      ],
+      "answer_sentence": [
+        "Already, Diane."
+      ]
+    },
+    "R8": {
+      "id": "R8",
+      "label": "Chitchat",
+      "question": "T8",
+      "answer": "T25",
+      "question_sentence": [
+        "Doesn't pain in the butt?"
+      ],
+      "answer_sentence": [
+        "I think my setup is probably a lot easier than yours."
+      ]
+    },
+    "R9": {
+      "id": "R9",
+      "label": "Relevance",
+      "question": "T10",
+      "answer": "T26",
+      "question_sentence": [
+        "Oh, I was going to ask you what's your light?"
+      ],
+      "answer_sentence": [
+        "My light setup is literally a desk lamp.",
+        "With a piece of paper over it to diffuse the light, 2 pieces of paper over it.",
+        "And I saw your lamp.",
+        "That on your Instagram and I'm like that looks fancy."
+      ]
+    },
+    "R10": {
+      "id": "R10",
+      "label": "Chitchat",
+      "question": "T11",
+      "answer": "T27",
+      "question_sentence": [
+        "How much was that?"
+      ],
+      "answer_sentence": [
+        "If it's more than like $50 if it's more than 20 'cause I've seen it go for 30.",
+        "If it's more than 20 or 30 then.",
+        "After now, but I'm hoping not that expensive.",
+        "So I got a killer that's more than 100."
+      ]
+    },
+    "R12": {
+      "id": "R12",
+      "label": "Chitchat",
+      "question": "T13",
+      "answer": "T29",
+      "question_sentence": [
+        "What are you talking about?"
+      ],
+      "answer_sentence": [
+        "Ariel from The Little Mermaid."
+      ]
+    },
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T0",
+      "answer": "T1",
+      "question_sentence": [
+        "If it is freeing, so why don't you want to try thinking something for once and then so many?"
+      ],
+      "answer_sentence": [
+        "If you like this style so many people got mad at him like dude, it's a suggestion really come on and I honestly feel about using different mediums are like is super Super Awesome.",
+        "You could learn a lot by trying different things.",
+        "Right?",
+        "And some people are like some people don't have access to inking.",
+        "I was like dude, it's a pen and a piece of paper."
+      ]
+    }
+  }
+}

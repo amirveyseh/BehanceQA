@@ -1,0 +1,199 @@
+{
+  "sentence": [
+    "I'm still kind of trying to figure out.",
+    "Which night makes the most sense history?",
+    "And during the week?",
+    "But yeah again, those are typically at night as well, so.",
+    "Yeah, I would love to love to have you guys join in again and thanks so much.",
+    "See what's going on.",
+    "Anna saying, maybe it's the yellow?",
+    "Yeah, do you think I should just not have the yellow?",
+    "And I mean even.",
+    "What if I turned out like way down?",
+    "I don't know.",
+    "Sometimes I feel like even just like sleeping on it is helpful and then coming back the next day and.",
+    "I realize, oh, that looks weird.",
+    "Or oh, that doesn't look weird.",
+    "Yeah, I forgot about these shadows.",
+    "Um?",
+    "Depends on what cell you want to continue at.",
+    "The more vivid or more retro.",
+    "That's a good point.",
+    "Yeah, I don't know.",
+    "I actually I feel like I am kind of liking the more simplistic.",
+    "Look right now, even uhm?",
+    "Do wonder if so, that's the yellow if I did.",
+    "The entire.",
+    "Um, background and yellow instead of just some of it.",
+    "So it was.",
+    "Um?",
+    "Like that?",
+    "Oops.",
+    "I know this is where it's so hard.",
+    "It's like I feel like colors are such a weird thing.",
+    "It's like you.",
+    "It's hard to explain what kind of style you're going for or like what you're what feels right, what's not right?",
+    "But it's like then once you do get it, you know.",
+    "But when you when you're not quite there, it's just it feels offen.",
+    "It's like.",
+    "I don't know.",
+    "I also I tend to find that like either like a really light color or a really dark color usually works best for the background, like having more of like that like mid tone.",
+    "Can sometimes just be like overwhelming, uhm?",
+    "Like that even kinda nice.",
+    "I mean it's, uh, I don't know if it's like a little bit too subtle and boring, or if that works.",
+    "Anne says, I think I like the pink more than the yellow.",
+    "Do you like this?",
+    "Like really, really soft like light pink or like more of like a?",
+    "Like a brighter pink, I think a bright pink would be a little too much.",
+    "Let me see if I can do like a.",
+    "Little bit softer.",
+    "That's kind of nice.",
+    "It's so hard to when there's literally endless options like you know with color, you can just go in every single direction.",
+    "And yeah, it's like Oh my gosh, what should I choose?",
+    "I'm curious if I move the text, let me, I'm going to duplicate that and save it, and then I can.",
+    "I want to see.",
+    "Play mask the text and.",
+    "Make it white.",
+    "I probably doesn't pop enough, never mind.",
+    "I wonder actually if I could do like a different color.",
+    "But yeah, it still doesn't really pop enough.",
+    "Anna says the brighter one, yes, but maybe not as a solid color.",
+    "OK, so more of like a.",
+    "Hum.",
+    "Like having, let's see.",
+    "Kevin, like some.",
+    "Pink around like that or something?",
+    "And I don't.",
+    "I don't think I like the red.",
+    "Text.",
+    "I'm also like afraid that the duplicate that one more time.",
+    "This might be a little bit too squished in.",
+    "Oh, I think they like it bigger.",
+    "Feel like I might have to flip on this one.",
+    "I know I don't know either, um.",
+    "It is always helpful like.",
+    "Walking away and then coming back um, like a couple hours later or the next day.",
+    "And kind of seeing with fresh eyes so.",
+    "I might do that, I do.",
+    "I do kind of like it.",
+    "Just like the slow too.",
+    "Like this or.",
+    "The Peach Like the cream Peach.",
+    "Yeah, totale.",
+    "Cool well.",
+    "This is still a lot of fun.",
+    "Sorry that I wasn't able to.",
+    "Quite nailed down all the final little details, but.",
+    "As I was saying earlier, I will definitely be streaming again on Sunday and probably just maybe have this finished and share you.",
+    "Share with you guys my finished project or product and I'll I'll be doing a new a new illustration on Sunday and I think I might since we were talking about travel so much and outdoor in nature.",
+    "I think I will probably do something based on that, so um yet tune back in on Sunday at 4:00 o'clock Pacific Time.",
+    "And so it will be 4 to 6 again and I'll be most likely doing some type of like nature, outdoorsy travel theme.",
+    "Uhm, and whether I don't know if it'll be like badge illustrations again, or like a bigger cohesive thing, but it should be a good time.",
+    "So thanks again for everyone that joined in.",
+    "It was really fun, specially again to chat with you guys a lot today.",
+    "Yeah, as as I was saying earlier, definitely shoot me any messages.",
+    "If you ever ever in any questions I would love to stay connected and help out and thanks for tuning in so I hope you guys have a good rest of your night or day.",
+    "Actually, it's probably still the day over in Greece in Copenhagen.",
+    "It's night time for me, so I'm probably going to make some dinner.",
+    "But, Uhm, Yeah, awesome is so great.",
+    "Meeting you guys and will talk soon, hopefully.",
+    "Alright, have a good night, sign enough.",
+    "Like Lisa McCormick or something, um.",
+    "You can click on videos and then all of my past live stream videos are there.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        1,
+        2
+      ],
+      "sentence": [
+        "Which night makes the most sense history?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        6,
+        7
+      ],
+      "sentence": [
+        "Anna saying, maybe it's the yellow?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        9,
+        10
+      ],
+      "sentence": [
+        "What if I turned out like way down?"
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        42,
+        43
+      ],
+      "sentence": [
+        "Do you like this?"
+      ]
+    },
+    "T13": {
+      "id": "T13",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        49,
+        50
+      ],
+      "sentence": [
+        "And yeah, it's like Oh my gosh, what should I choose?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "ANSWER",
+      "span": [
+        7,
+        8
+      ],
+      "sentence": [
+        "Yeah, do you think I should just not have the yellow?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        43,
+        45
+      ],
+      "sentence": [
+        "Like really, really soft like light pink or like more of like a?",
+        "Like a brighter pink, I think a bright pink would be a little too much."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Relevance",
+      "question": "T2",
+      "answer": "T1",
+      "question_sentence": [
+        "Anna saying, maybe it's the yellow?"
+      ],
+      "answer_sentence": [
+        "Yeah, do you think I should just not have the yellow?"
+      ]
+    }
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "sentence": [
+    "The black color.",
+    "But not for too little bit thick.",
+    "Maybe I'll do.",
+    "How's your new layer?",
+    "Uhm, actually I'm realizing I have a couple of different levels of this more Navy color and then I have this is.",
+    "Well, just like a black come.",
+    "Huh, I don't know why it's not.",
+    "It's going straight.",
+    "That's super weird.",
+    "Well, I guess.",
+    "None of my other shapes are perfectly straight, so maybe.",
+    "I'll just roll with it.",
+    "Oops.",
+    "OK.",
+    "Yeah.",
+    "I wonder too if I should outline.",
+    "The sun beams.",
+    "Maps I don't know.",
+    "It's keeps like sticking.",
+    "All right, there we go.",
+    "This piece is just turn into.",
+    "And also having this kind of like.",
+    "Oddly, being on the UM.",
+    "The horizontal.",
+    "Access.",
+    "Whatever you call it.",
+    "Usually like traditionally type has the thick weight on the UM.",
+    "Like the vertical.",
+    "Parts of a letter looks like that's how you like traditionally.",
+    "Do calligraphy.",
+    "But it's fun.",
+    "Kind of mixing it up and playing with.",
+    "Having it thicker on the.",
+    "Sides it it just.",
+    "Guess it just like weird unique shape.",
+    "So actually I do think I like how it's like really thick that is.",
+    "Need to clean it up a little bit, but I'll keep it.",
+    "Luke says thanks, can't wait to see what your Olympic design will look like when done.",
+    "Thank you.",
+    "Yes, hopefully you know.",
+    "Hopefully it doesn't suck.",
+    "But now I appreciate the support.",
+    "I also feel like.",
+    "This should extend out lot wider.",
+    "I think that looks quite right.",
+    "Yeah, it's probably too thick.",
+    "Rule number one no negativity allowed.",
+    "Huh?",
+    "I mean that I definitely agree with that rule.",
+    "But when I'm making fun of myself.",
+    "It's uh.",
+    "I guess I guess yeah, maybe that is a little negative, but I meant it more as just a joke.",
+    "I didn't mean it negatively, but I appreciate you looking out for me.",
+    "Things look.",
+    "Yes, I agree, I never want this to be a negative.",
+    "Space.",
+    "Alright, well.",
+    "You know it's looking pretty funky.",
+    "Kinda weird and I would say those are kind of the two adjectives that I'm looking for so.",
+    "Funky and weird.",
+    "'cause that is exactly.",
+    "What?",
+    "Olympic National Park is and feels like so.",
+    "Cool.",
+    "All right, uhm, so little bit.",
+    "Slanted can do that.",
+    "And then I think, uhm?",
+    "Since this would be.",
+    "Maybe a little overwhelming to have all of it written out in the same.",
+    "Type I might just be Olympic and then.",
+    "Down here or do you like?",
+    "National Park handwritten uhm.",
+    "Actually, another trick that I do sometimes.",
+    "With lettering, um, mostly just to make sure that I'm like writing in, uh.",
+    "Straight line is let me.",
+    "Turn of- Some of that.",
+    "And then I'm gonna move this guy down due to do there we go.",
+    "Um, I'll actually use the bottom of the page to.",
+    "Almost be like a guide or a ruler for me so.",
+    "Yeah, so I can kind of see exactly.",
+    "We had the straight edge is.",
+    "And keep things.",
+    "Decently straight up.",
+    "OK, so that's obviously.",
+    "Uh, please don't make fun of me for the Wolf drawing that looks kind of terrible.",
+    "Um?",
+    "But this is another one that I feel like this would totally be a super cute little kiddos.",
+    "T-shirt graphic.",
+    "Um?",
+    "So I keep on doing the.",
+    "Um?",
+    "Keep doing like a dark Navy background.",
+    "I want to maybe switch it up this time and do like a lighter background and have darker paint color.",
+    "I think that might be a fun little switch.",
+    "So we can do.",
+    "Maybe the cream color for the background and then.",
+    "See.",
+    "I mean, I guess I could just straight up.",
+    "Swap it for just.",
+    "Blue A blue ink.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        3,
+        4
+      ],
+      "sentence": [
+        "How's your new layer?"
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "ANSWER",
+      "span": [
+        4,
+        5
+      ],
+      "sentence": [
+        "Uhm, actually I'm realizing I have a couple of different levels of this more Navy color and then I have this is."
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        69,
+        72
+      ],
+      "sentence": [
+        "Type I might just be Olympic and then.",
+        "Down here or do you like?",
+        "National Park handwritten uhm."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Relevance",
+      "question": "T0",
+      "answer": "T8",
+      "question_sentence": [
+        "How's your new layer?"
+      ],
+      "answer_sentence": [
+        "Uhm, actually I'm realizing I have a couple of different levels of this more Navy color and then I have this is."
+      ]
+    }
+  }
+}

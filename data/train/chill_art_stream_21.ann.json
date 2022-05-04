@@ -1,0 +1,275 @@
+{
+  "sentence": [
+    "On I would say that could be.",
+    "A possibility, uhm?",
+    "But it.",
+    "Here's the thing if.",
+    "And this is a problem that I have with with other people from America.",
+    "I'm from the USA and things like that is.",
+    "We're so stuck up about her own language were so stuck up about.",
+    "I I can understand that I don't want to work with them or all that kind of crap, you know.",
+    "Yes, I did throw my pen.",
+    "And.",
+    "I think that's stupid and if this person that you were working with.",
+    "Isn't willing to work past the communication problems.",
+    "Ann Work with you on this project.",
+    "Are they really someone you want to work with?",
+    "You know what I mean?",
+    "You don't want to.",
+    "You don't want to work with someone who's.",
+    "Who is just going to be a freaking stick in the mud?",
+    "And Oh, Jesus.",
+    "You know it's.",
+    "You don't know.",
+    "Work with someone who's.",
+    "Excuse my language, a You don't, you know, and I I'm sorry for using inappropriate language.",
+    "Um?",
+    "But like.",
+    "You know, just just I'd say, keep trying, keep working towards.",
+    "You know, yeah yeah.",
+    "And if someone's going to be stuck up about.",
+    "Needing a translator, you know if you're passionate for this project and if you want it to work.",
+    "Keep fighting for it, but if a Jack Wagon if a jerk face is going to be a jerk face because communication problems.",
+    "Do you really want to work with someone who's like that?",
+    "You know what I mean?",
+    "'cause I have family members who hate communicating with people who don't speak English very well and I'm like sucks to be you because you miss out on a lot of really good people out there, you know.",
+    "So I get fired up about this stuff.",
+    "But I think he.",
+    "Keep trying, keep pushing.",
+    "If you're passionate about it.",
+    "If it's something you want, you know don't.",
+    "Don't give up.",
+    "But if this person is being a jerk.",
+    "Kick him out, you know there you might have to put the project on hold, but.",
+    "It is so much better doing that then.",
+    "Fighting and working with someone who's.",
+    "An Excuse my language, that's the last curse word I'll use for the night.",
+    "You know?",
+    "The keep keep don't give up just because of language barriers.",
+    "Language barriers should never be a problem.",
+    "You know, never ever.",
+    "It's a language for God sakes.",
+    "Learn it.",
+    "Figure it out.",
+    "You know, if the rest of the world is pressured to learn English, we here in America can learn how to speak other languages too.",
+    "Just say it.",
+    "Can you try to communicate and learn a little bit in language, yeah.",
+    "In my experience, when I have been to European countries, if I try to speak a little bit, they were willing to try.",
+    "So yeah, yeah.",
+    "Well that's The thing is you don't have to be great.",
+    "You know, at speaking a language is it is your effort like.",
+    "I've never had a business where I work with people.",
+    "I've always had retail jobs.",
+    "And.",
+    "I remember this one point.",
+    "It was so it's so dumb it was after.",
+    "The.",
+    "Third of my cat.",
+    "Sorry, that was my cats tail.",
+    "I think it was after.",
+    "Toy Story three came out an you know Buzz.",
+    "Buzz Lightyear goes into Spanish mode.",
+    "And it was not long after that and.",
+    "It's a weekend.",
+    "You're all mods are vacation received a cuss a little bit sweet?",
+    "So going to watch my language though 'cause they're going to come back and look at my video and I'm going to be like, oh.",
+    "But I was working at my retail job an.",
+    "I'm just doing my thing and this lady came up, but she only spoke Spanish an you know how blessed spaniel and I said no.",
+    "Unfortunately I don't you know and no one else in the stored it and I asked her what can I do to help you and she's kind of stood there and she thought really hard.",
+    "And she held up her finger like this and she ran off and she came back with a shirt and she said, Don't they stop?",
+    "And like my brain.",
+    "Like I just remembered the scene in the movie of Toy Story 3 of Buzz Lightyear running around when they're in the trash compactor looking for Jesse and he goes to new data.",
+    "Then you need to stop and I was like where is this that she goes see?",
+    "And I was like, I understand, you're talking about let's go, you know.",
+    "and I was able to help her an like you know that was like one of my favorite moments working in retail and I hate retail, you know, but like.",
+    "Language.",
+    "There's too many people on this planet to speak one language.",
+    "I'm sorry I get really fired up and really excited about that stuff.",
+    "Even though I only know English and American Sign Language, but still, you know?",
+    "And live your ask me what I ate earlier?",
+    "Um, I'm eating Ritz bits and I have this drink that has baby coconut.",
+    "In it, so it's like little gummies.",
+    "And it's delicious.",
+    "You're so sweet and savory.",
+    "Ah.",
+    "I'm still having problems with her face.",
+    "I'm probably going to have to redraw it.",
+    "I've been talking like crazy.",
+    "No, I'm not drinking alcohol.",
+    "Wish I was.",
+    "App.",
+    "I I forget very often that I am actually old enough.",
+    "To drink alcohol.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION",
+      "span": [
+        1,
+        2
+      ],
+      "sentence": [
+        "A possibility, uhm?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        13,
+        14
+      ],
+      "sentence": [
+        "Are they really someone you want to work with?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        14,
+        15
+      ],
+      "sentence": [
+        "You know what I mean?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        17,
+        18
+      ],
+      "sentence": [
+        "Who is just going to be a freaking stick in the mud?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION",
+      "span": [
+        23,
+        24
+      ],
+      "sentence": [
+        "Um?"
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        30,
+        31
+      ],
+      "sentence": [
+        "Do you really want to work with someone who's like that?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        31,
+        32
+      ],
+      "sentence": [
+        "You know what I mean?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION",
+      "span": [
+        44,
+        45
+      ],
+      "sentence": [
+        "You know?"
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        71,
+        72
+      ],
+      "sentence": [
+        "You're all mods are vacation received a cuss a little bit sweet?"
+      ]
+    },
+    "T9": {
+      "id": "T9",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        76,
+        77
+      ],
+      "sentence": [
+        "And she held up her finger like this and she ran off and she came back with a shirt and she said, Don't they stop?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        79,
+        80
+      ],
+      "sentence": [
+        "Then you need to stop and I was like where is this that she goes see?"
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        85,
+        86
+      ],
+      "sentence": [
+        "Even though I only know English and American Sign Language, but still, you know?"
+      ]
+    },
+    "T12": {
+      "id": "T12",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        86,
+        87
+      ],
+      "sentence": [
+        "And live your ask me what I ate earlier?"
+      ]
+    },
+    "T13": {
+      "id": "T13",
+      "label": "ANSWER",
+      "span": [
+        87,
+        88
+      ],
+      "sentence": [
+        "Um, I'm eating Ritz bits and I have this drink that has baby coconut."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T12",
+      "answer": "T13",
+      "question_sentence": [
+        "And live your ask me what I ate earlier?"
+      ],
+      "answer_sentence": [
+        "Um, I'm eating Ritz bits and I have this drink that has baby coconut."
+      ]
+    }
+  }
+}

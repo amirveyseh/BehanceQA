@@ -1,0 +1,155 @@
+{
+  "sentence": [
+    "I will touch things up in illustrator and also I guess photo shop too.",
+    "I like I like using photo shop for textures alot.",
+    "So I don't know if I like the way I colored this bird.",
+    "It's kind of like a weird.",
+    "Weird color scheme uhm?",
+    "Whoops Yeah, I don't know, I don't.",
+    "I don't love this.",
+    "I also think I do want to keep with a black background, uhm?",
+    "Which.",
+    "And it works with some of the negative, like, um, spacing with the goal line art.",
+    "But I also.",
+    "I mean, obviously the.",
+    "Um, that little like branch gets lost in his mouth.",
+    "So I can either.",
+    "I go in and put like a shape behind him.",
+    "Maybe?",
+    "Feel like you know like an Oval probably works.",
+    "OK um.",
+    "Yeah, I definitely don't know if I will love this.",
+    "Um?",
+    "That would definitely not as detailed as the other one, which.",
+    "I thought more detailed so.",
+    "That might be part of the problem.",
+    "Also, sorry, I know I I spend the screen a lot.",
+    "The screen around a lot when I work.",
+    "Hopefully that's not making anyone dizzy.",
+    "I'll try to try to keep it up.",
+    "Regular as much as possible.",
+    "So I feel like that could like almost work, but maybe I would either need like a ring around.",
+    "The UM Oval to make it more like a badge.",
+    "I like a Patch.",
+    "Again, it feels like it maybe needs more detail.",
+    "To kind of go with.",
+    "The other one.",
+    "Or I could also probably just.",
+    "But yes, I've been.",
+    "I've been doing every Sunday at 4:00 o'clock PST and then usually Thursday nights as well.",
+    "But today I did Friday.",
+    "Just because this week I uhm with everything going on I want to.",
+    "Um is amplify uhm?",
+    "Other other people, other peoples work um and not my own.",
+    "So I was sharing different artists of color that I follow and.",
+    "Yeah, I just I wanted to give this whole week to that so.",
+    "So I moved my stream to Friday and here we are.",
+    "But yeah, I would love to love to see you again, um.",
+    "In future streams and.",
+    "I will probably be working on some landscape illustrations to sometime.",
+    "So this is starting to get a little crazy with all of the.",
+    "All the background.",
+    "Texture them doing, um, I don't know if I'll for sure keep all this or not, but.",
+    "So this is kind of playing around with things.",
+    "It might, it might be a little bit much.",
+    "Oh, that's even kind of cool.",
+    "If I take out the yellow.",
+    "I don't know, maybe that helps make it less busy.",
+    "My guys like a fine line of uhm.",
+    "What?",
+    "What is you know, like fun and working and giving that Energean Then what is just like completely like overdoing it?",
+    "So it takes.",
+    "Take some playing around to figure that out I guess.",
+    "I also feel like like this background is giving me like total like nostalgic 90s feel which I did not mean to do that yet either.",
+    "This is sort of happened.",
+    "But it makes me think of like every like old textbook or wallpaper or like, uh?",
+    "Even makes me think of like, you know, going out.",
+    "To eat in and then like the Cup.",
+    "Like if you order like a soda or something like that.",
+    "Um?",
+    "They had that just like whatever the the little like design on the packaging.",
+    "What are you saying?",
+    "The yellow brings life to it, but without it also looks beautiful, thanks.",
+    "Yeah, it's.",
+    "I think I I think I do like the old 'cause I feel like it helps like what you're saying.",
+    "It does bring some life to it and it kinda helps like.",
+    "Distinguish.",
+    "The UM?",
+    "The background from foreground.",
+    "I definitely I can get into trouble with adding too much detail sometimes and then like it's just too hard to to see, so I might have to re outline everything and make sure make sure all the people pop still and.",
+    "But you're right.",
+    "I think I should definitely keep the yellow.",
+    "And I can't believe it's already 726 over here, um, so I'll be streaming for another 30 minutes, um?",
+    "I hope.",
+    "I finish but uhm.",
+    "If I don't, I'll definitely well I'll be streaming again on Sunday so I can either work on that on Sunday or.",
+    "I'll probably also work on a different new piece.",
+    "And up.",
+    "Yeah, well make.",
+    "The base of the rock.",
+    "Orange, which I I was thinking it would be cool to like leave this open like it's some type of like.",
+    "I don't know.",
+    "Cool.",
+    "A negative space thing, but I don't think it quite makes sense.",
+    "At least not with this part, because the rock is going to be orange.",
+    "It makes sense at the clouds clouds.",
+    "Heading to say that creamy white color, but.",
+    "I feel like that's like one of the things that like wasn't really working, that I was like trying to make work, but.",
+    "It's gotta probably call it and.",
+    "Throw that part out, but kind of let the clouds be the that cool like open ended.",
+    "Fun piece.",
+    "OK.",
+    "And then.",
+    ""
+  ],
+  "entity": {
+    "T9": {
+      "id": "T9",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        68,
+        69
+      ],
+      "sentence": [
+        "What are you saying?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        56,
+        58
+      ],
+      "sentence": [
+        "What?",
+        "What is you know, like fun and working and giving that Energean Then what is just like completely like overdoing it?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "ANSWER",
+      "span": [
+        69,
+        70
+      ],
+      "sentence": [
+        "The yellow brings life to it, but without it also looks beautiful, thanks."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Relevance",
+      "question": "T9",
+      "answer": "T2",
+      "question_sentence": [
+        "What are you saying?"
+      ],
+      "answer_sentence": [
+        "The yellow brings life to it, but without it also looks beautiful, thanks."
+      ]
+    }
+  }
+}

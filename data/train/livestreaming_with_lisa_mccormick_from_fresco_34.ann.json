@@ -1,0 +1,181 @@
+{
+  "sentence": [
+    "I want to know work on this one over on the left and see if I can.",
+    "Clean this up and.",
+    "Give it new life 'cause I think think the ideas.",
+    "Cool.",
+    "But Again, it's not like 100%.",
+    "Hitting the target African.",
+    "I want to redo the.",
+    "The line work, at least for that one.",
+    "So as you can see, there's just some weird lines going on.",
+    "Hum.",
+    "OK, so.",
+    "I'm also wondering like are these clouds, just like way too structured compared to like everything else?",
+    "Like what if I?",
+    "What if I made the clouds a little bit like more?",
+    "Little too big, but it's OK.",
+    "I'm just going to keep going.",
+    "And I'll resize it in a second.",
+    "So.",
+    "OK, so we're gonna.",
+    "Merge these two down to make sure that their size together at the same time.",
+    "I'm just going to kind of make sure national fits on that side, and then I'm going to squeeze park over.",
+    "To the right.",
+    "And right?",
+    "That's.",
+    "Decent, uhm.",
+    "Feel like.",
+    "Actually, I do kind of like that.",
+    "OK, maybe I need to.",
+    "Move this over a little bit more.",
+    "And potentially make this little bit smaller again just to touch.",
+    "Maybe?",
+    "Maybe not.",
+    "Yeah, that's actually kind of cool, OK?",
+    "Alright alright.",
+    "Um?",
+    "And then I had see like I had one more.",
+    "Or actually maybe a couple more ideas, so I think I turned of.-.",
+    "Some of the elements.",
+    "So again, I'm dumb.",
+    "Making like a.",
+    "Or whenever I do like some type of like.",
+    "Brand or uhm?",
+    "Idea piece I always like.",
+    "To play with.",
+    "Several different ideas and like sketches, sketch concepts that I have and then from there it's almost like a library of.",
+    "Images I guess.",
+    "You can say uhm.",
+    "Then from there I'll go ahead and.",
+    "Actually start to lay out like.",
+    "How this could be used in a branding system, how they could be put together hum?",
+    "I'm definitely running out of space here.",
+    "Think I'm actually going to.",
+    "Take all these.",
+    "And.",
+    "Emergent down.",
+    "Merge down urge to merge them.",
+    "And again, the nice thing about drawing with a vector brushes that.",
+    "Um, the resolution will never.",
+    "Be.",
+    "Or like it Hanford with tampered with, I just said hamper tampered with so you'll never lose resolution, which is really good so you can move things around and shrink come and all that without worrying about like Oh, shoot, am I going to lose like a bunch of the detail?",
+    "Because the answer is no, you won't.",
+    "Which is really good.",
+    "So can I go back and ungroup all these actually?",
+    "Hum, I'm group.",
+    "But even when other now I want to point out is I do like sizing them all at the same time so that they all are the same width.",
+    "Because.",
+    "I did use.",
+    "The same width for the actual pen.",
+    "And that just helps a lot with making sure everything feels really cohesive and.",
+    "Fits together so.",
+    "That's why I group them together and then I I will size them at the exact same time to just make sure that.",
+    "Nothing gets wonky.",
+    "OK and there go.",
+    "Hum.",
+    "OK, so.",
+    "And they kind of because I think of all the rain and all of the.",
+    "Um snow and Whatnot, and just the way it things grow there, they.",
+    "They take on these like.",
+    "So much weight.",
+    "So the trees themselves actually like curve and shift, and it really does look like its own personality.",
+    "This own character and just super cool.",
+    "Yeah, that's that's a place where an if you have the opportunity.",
+    "To go there, or a climate that similar to just go hike.",
+    "Unplug.",
+    "It's kind of hit that reset button on your soul.",
+    "And just explore, it really makes you feel like a kid again.",
+    "Just exploring and.",
+    "Yeah, anyway so I can.",
+    "I could go on and on.",
+    "About that experience, but it was just it's obviously impacted me and it's.",
+    "It showed up in my art work all these years since and.",
+    "Sure, it'll keep showing up for years to come.",
+    "Alright, so.",
+    "So this is my weird little.",
+    "Drawing right now, so this is like a little I don't know if that Wolf looks looks a little bad.",
+    "I should probably try to.",
+    "Do.",
+    "A little bit of like shaping.",
+    "So that.",
+    "Maybe it look a little better.",
+    ""
+  ],
+  "entity": {
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        32,
+        33
+      ],
+      "sentence": [
+        "Yeah, that's actually kind of cool, OK?"
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        49,
+        50
+      ],
+      "sentence": [
+        "How this could be used in a branding system, how they could be put together hum?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        62,
+        63
+      ],
+      "sentence": [
+        "So can I go back and ungroup all these actually?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        11,
+        15
+      ],
+      "sentence": [
+        "I'm also wondering like are these clouds, just like way too structured compared to like everything else?",
+        "Like what if I?",
+        "What if I made the clouds a little bit like more?",
+        "Little too big, but it's OK."
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "ANSWER",
+      "span": [
+        63,
+        65
+      ],
+      "sentence": [
+        "Hum, I'm group.",
+        "But even when other now I want to point out is I do like sizing them all at the same time so that they all are the same width."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Relevance",
+      "question": "T10",
+      "answer": "T2",
+      "question_sentence": [
+        "So can I go back and ungroup all these actually?"
+      ],
+      "answer_sentence": [
+        "Hum, I'm group.",
+        "But even when other now I want to point out is I do like sizing them all at the same time so that they all are the same width."
+      ]
+    }
+  }
+}

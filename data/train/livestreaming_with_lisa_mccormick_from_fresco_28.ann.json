@@ -1,0 +1,167 @@
+{
+  "sentence": [
+    "Yes, you're welcome, good luck.",
+    "It's a fun journey.",
+    "Chinga says good thank you.",
+    "So I feel like I want to add like graphs or something.",
+    "Or maybe I should do ways.",
+    "But I was either going to do like waves down here.",
+    "Can you erase, obviously the.",
+    "The white ones behind it, up or lips.",
+    "Or thinking of doing like.",
+    "Some people like.",
+    "Grass I guess.",
+    "Yeah, I don't know if I love these waves slips.",
+    "Too big.",
+    "That's kind of fun.",
+    "I can see that being like a super cute little like.",
+    "Illustration for like a kids shirt or something.",
+    "I wonder if I should make actually this.",
+    "Hello Noma an alhandra, how are you guys doing today?",
+    "Thanks for joining.",
+    "But yeah, I feel like Instagram is one of those things where I've always like.",
+    "Kenna said, like, Oh yeah, I don't think I'm addicted to it or anything like I think I'm fine, um.",
+    "And then yesterday I finally got to that point where I felt so.",
+    "So, uhm.",
+    "Just overwhelmed and.",
+    "Is kind of it's wild.",
+    "Just how much of a difference.",
+    "Sorry, it's making um just taking a break from it so.",
+    "100 says good, I was on yesterday's live.",
+    "Yes, I remember.",
+    "Remember talking with you think you came on just at the end, uhm?",
+    "Welcome back, thanks for joining.",
+    "Join in and today again, um.",
+    "I can zoom out and show you what I'm working on, so um, I decided to.",
+    "Can I do a fun little?",
+    "Um illustration based on some of these different.",
+    "Um?",
+    "I guess characters is maybe the right word for.",
+    "Or a different icon.",
+    "Illustrations for just different animals and such that I've been seeing on my morning runs and bike rides.",
+    "I think in the beginning of the stream that so I live in the Midwest of the United States, so I'm in the Chicago area and it's very like flat land.",
+    "Lots of forests, lot SUV.",
+    "Like lakes and stuff um.",
+    "Which I feel like I'm I'm more like I get excited about going into like mountains or like going and seeing the ocean or whatnot and kind of taken for granted.",
+    "I feel like the place that I live.",
+    "And so obviously with Covid.",
+    "And not being able to travel I've I feel like I started to appreciate more of just like the local forest preserves that are around here and.",
+    "Just kind of more so.",
+    "Um?",
+    "Yeah, celebrating.",
+    "What's in my backyard rather than you know, traveling across the country.",
+    "So that's kind of what this is.",
+    "Camden says thanks for the advice, gotta head out no problem Camden.",
+    "I hope you have a good rest of your night and will see you later.",
+    "And so you can see I kind of I have my sketch behind this that uhm.",
+    "Starting to play with like the different colour schemes and Whatnot.",
+    "And now I'm going in and doing.",
+    "Um, like more of like a clean line drawing.",
+    "Of each of the sketches so that.",
+    "I can work on the final pieces.",
+    "Oh, and um.",
+    "Fresco came out with this new ruler.",
+    "As you can see them using for straight lines.",
+    "So that's pretty nice.",
+    "I can line it up and make sure.",
+    "Everything is nice.",
+    "And.",
+    "Crisp So I'll do that with this.",
+    "Back leg and then actually when I was.",
+    "I was not sure if that would work, but.",
+    "That's super fun.",
+    "It almost Oh my gosh, actually right now looking at this, it totally makes me think of a lava lamp, which is kind of kind of awesome.",
+    "I'm also wondering if I can.",
+    "Pull in a little bit more of.",
+    "This dark, it's actually a dark Navy looks.",
+    "It looks very similar to black, but it's got just a little bit of blue in that.",
+    "Yeah, I feel like.",
+    "Adding a little bit more of this might help.",
+    "Define some of those edges.",
+    "Cool, this is actually a lot.",
+    "Trippier than I thought I would be able to make it.",
+    "So.",
+    "It's kind of cool.",
+    "Oh wow, and it's already 9:00 o'clock um?",
+    "OK, I said, I know I said I was only gonna stream for an hour but.",
+    "I think I might have to just keep rolling with it, 'cause I feel like I'm in a good little flow.",
+    "So OK, I'm really liking how these two are starting to get cleaned up and.",
+    "And look up.",
+    "So for this one.",
+    "The Sky is still not sitting right with me up.",
+    "Oh, did I delete the?",
+    "Shoot, I think it might have deleted uhm.",
+    "Oh, here you know I didn't delete it.",
+    "OK cool, this was like a little.",
+    "Huh septic?",
+    "For me, unlink this.",
+    "Ungroup there we go.",
+    "OK, so.",
+    "I don't think I really like that.",
+    "Um, orange.",
+    "I think if anything it should be probably about like Navy black color.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        17,
+        18
+      ],
+      "sentence": [
+        "Hello Noma an alhandra, how are you guys doing today?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        33,
+        34
+      ],
+      "sentence": [
+        "Can I do a fun little?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        89,
+        90
+      ],
+      "sentence": [
+        "Oh, did I delete the?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "ANSWER",
+      "span": [
+        90,
+        92
+      ],
+      "sentence": [
+        "Shoot, I think it might have deleted uhm.",
+        "Oh, here you know I didn't delete it."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T6",
+      "answer": "T1",
+      "question_sentence": [
+        "Oh, did I delete the?"
+      ],
+      "answer_sentence": [
+        "Shoot, I think it might have deleted uhm.",
+        "Oh, here you know I didn't delete it."
+      ]
+    }
+  }
+}

@@ -1,0 +1,1922 @@
+{
+  "sentence": [
+    "Good morning everyone, hopefully hopefully everyone can hear me alright and audio is lining up.",
+    "We never really know he ran be hands how things are going to workout.",
+    "There might be a very significant delay between my actions and my sounds, but that's how it goes sometimes.",
+    "Thank you all for coming to hang out with me this morning.",
+    "Today we are going to get into some typography.",
+    "Hope you're all having a chill time because we're going to get into that.",
+    "Very favorite segment of what you can do in after effects were going to mess around some.",
+    "Text animators can move some text around in interesting ways.",
+    "I think we might actually use a few more displacement effects and we're going to see if that's a good time.",
+    "Is that there's there's no delay for now, which is great, so we should get into get into our work without delay.",
+    "Good morning, of course, to Ahmed good morning.",
+    "Can't good morning Yuma corn.",
+    "Also good to see all the regulars there coming back and hanging out so this is good.",
+    "This is good.",
+    "See if anybody I told about this on Twitter comes around.",
+    "It is quite early in the day and finally went out in El A time.",
+    "It's far too early for anything.",
+    "Oh mercy, so let's jump into stuff and never quite sure if my desk is at the right height, but will figure it out trying trying to New Balance forward here so that I can remain balanced.",
+    "Well, we're we're doing work, but.",
+    "We're going to do is we are going to mess around and make some text move.",
+    "Hello Scott, Good morning good morning, didn't miss much yesterday.",
+    "This is a lot of poke around in 3D and 2D stuff.",
+    "Or project we are sure to return to.",
+    "So like I said, I want to do some social media stuff.",
+    "I want to work in vertical stuff.",
+    "Let's get crazy with it like that.",
+    "And 90 to 120 minute recap of yesterday's show.",
+    "Scott Yeah, we can do probably do something like that.",
+    "Hum.",
+    "So we're going to be working some vertical video today, a format that even I do not play with much.",
+    "I'm a square person.",
+    "I prefer squares, but but but but it was.",
+    "That was I was Tim in-house, Tim prime.",
+    "And today, what to do?",
+    "What to do?",
+    "We need some text right?",
+    "And let's see, do.",
+    "This is often where I start writing things out for.",
+    "Start typing them.",
+    "So what I would like to do?",
+    "Is.",
+    "Let's see most contemporary typography.",
+    "Some of this may be a lot of Maine making fun of.",
+    "Trends.",
+    "That's fine, um.",
+    "I promise you, I don't do it often, but often we see a lot of white text on a black background is a very classic.",
+    "Thing that we see almost every band promotes itself in this fashion.",
+    "Is a very contemporary thing to do and to make text that is large.",
+    "Almost garishly so.",
+    "Almost UN frame obli large.",
+    "So whatever it is, push it beyond the size of what you like.",
+    "I'm going to see how this works now.",
+    "One of the things that I want to do is I want to set up kind of a grid.",
+    "Um, a grid of letters and one of the things that, even if I was using, I'm using my my own name here, so let's see.",
+    "We're going to go Tim Tim Real Tim teal.",
+    "Systems in the house we're going to use his name this morning, and if we were to try to do some kind of like a tiling move with this, one of the frustrations that I end up with a lot is even if we were to sort of offset this by sort of one character every time, so let's see this ones Tim Real.",
+    "And then we're going to go to.",
+    "Imriel, right?",
+    "So like each line is going to have an extra.",
+    "An extra letter, right?",
+    "So they're constantly.",
+    "Being offset in this way that the letters don't really line up right.",
+    "So what I want to do is use actually a mono spaced font.",
+    "Now we've talked about fonts alot or the elements of Typography, but today we must because I want to use a monospaced font and I want to make sure that I can get things to line up.",
+    "And of course anyone who's hanging out with this morning please feel free to get at me in the chat.",
+    "Ask any questions, jump, jump in on things.",
+    "The first thing I like to do though, is to set up.",
+    "A static state or a stable state.",
+    "Four things, and then to figure out how we're going to get into the state and out of it.",
+    "So that's the challenge.",
+    "Set up, set up the stable state.",
+    "How do we get into it?",
+    "How do we get out of it and figure it out?",
+    "Will figure it out, but like I said.",
+    "I'm probably going to go to the old font zone.",
+    "Unfortunately, we had to get jumped into the Adobe fonts.",
+    "And.",
+    "I don't know if you've used the Adobe fonts before, maybe half, maybe you haven't.",
+    "You have access to heaps of them.",
+    "And the classification I would like is mono.",
+    "I don't know if any of you have had mono, but it's not usually as good as this.",
+    "Now.",
+    "Let's see.",
+    "Let's see what else is critical here.",
+    "Where did Bobby hands go?",
+    "Uh-huh Guys I missed the chat.",
+    "I navigated away from the chat.",
+    "OK, down back.",
+    "Boy, really not really overrode the thing I was trying to do.",
+    "OK hopefully we can hear me.",
+    "Hopefully nothing is broken.",
+    "That's fine.",
+    "Like I said, We want some mono space font.",
+    "So here we go.",
+    "OK, so monospaced properties.",
+    "I want some thick monospaced font.",
+    "I want some wide monospace font.",
+    "Maybe not that thick and get less thick.",
+    "What if I remove my weight a entirely?",
+    "What if I'm not judged like that?",
+    "OK, let's see any of these jumping up to me.",
+    "Here we go now we're going places mono 45 headline looks pretty nice.",
+    "Let's see.",
+    "I'm looking for something chunky.",
+    "Skimming, skimming, skimming.",
+    "Motor motor good, let's see.",
+    "So let's see.",
+    "So we're just going to look through and see.",
+    "Yeah, rubato, Roberto.",
+    "Motor.",
+    "Any of these standing out, maybe rubato, is what I want to play with.",
+    "All right, let's play with robot.",
+    "Oh, let's do that.",
+    "Pretty sure that's something that's already hanging out here.",
+    "Oh no, no robot.",
+    "Oh excuse me.",
+    "Huh?",
+    "This must be a different form of robot.",
+    "Oh, that's the question.",
+    "How interesting anyway?",
+    "Motor Motor Motor.",
+    "Bun to Mono.",
+    "If I have been using a bond to.",
+    "Oh boy, a zener, um, if you wanna talk about Animal Crossing I'm here for it.",
+    "I'm here to discuss all the animal crossings I wanna know I wanna know how things are working out for you I want to know how many levels of your house you've got.",
+    "Yeah, that's what I'm.",
+    "That's what I'm looking to talk about today.",
+    "That OK, let's try Kubuntu.",
+    "Let's see if that gets me where I wanna go.",
+    "Yeah.",
+    "Kubuntu mono bold.",
+    "Here we go we go.",
+    "You side to start over.",
+    "You decide to start over an Animal Crossing.",
+    "After all that work, I can't believe it.",
+    "I can't believe it.",
+    "I don't know if I could ever start over my goodness.",
+    "I keep trying.",
+    "I keep trying to think about what I want to do with my island.",
+    "What should I be doing with it?",
+    "Is there anything that can be done?",
+    "All of those thoughts?",
+    "OK, so we're going to play with Lubuntu Mono, let's see and we are going to.",
+    "Uh-huh So there's a lot of things we can do with this.",
+    "One reason that I wanted a monospaced font is so that things lineup squarely with themselves, so they're always over top of each other.",
+    "Metric optical shouldn't matter too much.",
+    "In this.",
+    "Now I can get going towards the state that I want to be in.",
+    "Because like I said, I need to arrive at a stable.",
+    "State.",
+    "Don't.",
+    "Do.",
+    "All right?",
+    "Hum, hum.",
+    "And another thing that I'm going to recommend.",
+    "Is to think of text.",
+    "Um?",
+    "I don't know more abstractly, if you're able, they feel like.",
+    "That's right, Tim.",
+    "When you're when you step away, suddenly it stops being about you.",
+    "It's crazy.",
+    "Tim the great thing about text animators is we're going to be able to literally change this into anything we're going to switch it up.",
+    "We're going to change the change of the text.",
+    "Going to try to keep it procedural if we can and will see what we're at.",
+    "So the first thing to do is to try to create some looping behavior.",
+    "You'll notice I've got more above and below then we really need.",
+    "But that's fine.",
+    "Because.",
+    "Because we do need it.",
+    "Another Then Something just drag down until the next live comes into view.",
+    "Yeah, somewhere around there.",
+    "Using our old buddy old loop out was a poor welcome.",
+    "Good to see Mr.",
+    "Loop out.",
+    "Infinite scrolling, infinite scrolling.",
+    "We made an infinite scroll.",
+    "OK.",
+    "So and so was the middle.",
+    "This guys, the middle.",
+    "This is the middle one.",
+    "Never.",
+    "I'm targeting that OK.",
+    "So.",
+    "We should speak of at all right?",
+    "My windows.",
+    "Arrange my windows would be annoying.",
+    "So what I want to do I've adjusted should back up 'cause today we're going to talk about the text animator, so to animate properties were going to animate and we're going to Opacity, and that's the property that we're going to animate, so we're going to send a change through our desired state.",
+    "Currently everything is selected, so we've now applied zero percent opacity is everything.",
+    "We did it.",
+    "We've nailed it.",
+    "And then here in the advanced we are going to go.",
+    "Not a square shape please, but around a shape we don't usually touch the rounded shape.",
+    "But you know?",
+    "Today we are.",
+    "You did it.",
+    "You did it.",
+    "Tighten this up.",
+    "So now we are adjusting.",
+    "We're adjusting.",
+    "The start and end here of our.",
+    "What to say?",
+    "Our range selector, right?",
+    "And we're selecting by characters, but let's go by lines.",
+    "Let's go by lines.",
+    "Give me 30% of the lines, no more more than that.",
+    "This many and we don't want to be set to add.",
+    "We won't be set to subtract blow up like this.",
+    "OK.",
+    "Let's go even lower.",
+    "Maybe like this?",
+    "Let's change that, offset the.",
+    "Here.",
+    "OK.",
+    "So what happens is this moves vertically.",
+    "That's what happens, so I'm going to change the offset and try to bring this.",
+    "Back OK, and the idea is.",
+    "OK, that seems to be working good OK.",
+    "Pretty unnoticeable so far so far.",
+    "Let's see what if instead maybe percentage is too imprecise for me at the moment I'm going to change it to index.",
+    "Let's go by character.",
+    "Give me 4 characters.",
+    "Right?",
+    "Could be fine.",
+    "You'd think.",
+    "If it's 8 right?",
+    "'cause our selection is 8?",
+    "Thinking.",
+    "There we go OK.",
+    "So we can literally.",
+    "Take this.",
+    "To their think.",
+    "Uh-huh Uh-huh Uh-huh Me.",
+    "OK.",
+    "Well PD I'm glad I'm glad you're feeling the typography today.",
+    "I'm feeling it.",
+    "It's working out um.",
+    "And if you have any questions or suggestions or whatever then do let me know.",
+    "OK, so we just did this by index.",
+    "I'm going to switch us back into percentage.",
+    "See how that worked so you can go.",
+    "You can go forward and backward between percentage index and the reason that I'm doing this.",
+    "Is because what if we want to change this out for different words, right?",
+    "And ideally, ideally this will be something that fits.",
+    "So let me just see how flexible we are with this.",
+    "So like I said, We're going to do.",
+    "He doesn't quite line up why, why, why, what have I done?",
+    "What have I done?",
+    "This is the number of lines detected.",
+    "Right?",
+    "123456788 lines There we go.",
+    "Huh Huh, Huh Huh, huh?",
+    "Yeah.",
+    "Now it's nice is that now I can pick this up and make it faster.",
+    "Laugh.",
+    "Now it's Tim's time to shine exactly.",
+    "Or maybe uhm, OK?",
+    "So we want to get more contemporary, though I'm not.",
+    "I'm not convinced that this is as contemporary as we can be.",
+    "OK, so.",
+    "Make a copy of this.",
+    "And.",
+    "Oh yes, that's going to make some errors.",
+    "This one will be parented to that one.",
+    "Klunk there we go we got these two things parented together.",
+    "So we're going to call this one a prime or.",
+    "Phil's it's called this one outlines 'cause I wanna do some outlines and blue there we go.",
+    "Now we got some outlines.",
+    "It's that easy.",
+    "Me.",
+    "Do digital.",
+    "Right now it's going now.",
+    "It's going too fast to be readable, so that's got to stop.",
+    "Always make sure he looking read your letters.",
+    "Unless you are a jerk.",
+    "OK, so.",
+    "Now it's probably time to say that we can change the shape for maybe round 'cause if this was square, right?",
+    "Then it's going through like this.",
+    "I'll be honest with you, I'm making go backwards because.",
+    "I think it's funny.",
+    "Uh.",
+    "'cause it's the opposite way that we read things, and I think I'm being very clever, uhm?",
+    "Instead of square, let's try ramp up.",
+    "Let me see if I like that.",
+    "My boat ramp down.",
+    "What does that look like?",
+    "Kind of a bummer.",
+    "This is kind of like we're fading.",
+    "Fading from the universe, I don't like that.",
+    "Let's go back to round.",
+    "And with round selected so the reason why it's round is because as you can see in the middle this thing is denser and then towards the edge is not as dense.",
+    "But we can tweak that a widow bit.",
+    "Basically tweaking the roundness, making a little bit harsher.",
+    "OK.",
+    "That's good.",
+    "This is good.",
+    "And with these outlines, it's moving along.",
+    "I mean really, really.",
+    "With the outlines would do very similar thing if we wanted to write.",
+    "Just to repeat the process a little bit.",
+    "Or Huh?",
+    "OK, what if?",
+    "We do like this.",
+    "Offset it like this.",
+    "Remember, we started working from.",
+    "Index just 'cause it was a little bit easier to get our head around sometimes.",
+    "OK, let's say we select eight again.",
+    "Let's take 8.",
+    "Yeah, let's just redo what these are.",
+    "OK.",
+    "Ah, I just copied and pasted the same thing twice.",
+    "Did I?",
+    "I think I did.",
+    "Yeah, I want to take this thing.",
+    "And I want to put it here.",
+    "Yes.",
+    "So rather than doing the same thing, we're going to set it to add.",
+    "That way, once here in one goes and said to subtract.",
+    "And.",
+    "Excellent, excellent question Scott, about the ease, the easing high and easing low uhm so.",
+    "Yeah.",
+    "This is actually probably one of the best ways to observe it, I think so.",
+    "So it will be hopefully apparent.",
+    "What's going on with this?",
+    "In a moment, let me just.",
+    "Dial us in here so that we can appreciate it.",
+    "My index.",
+    "Give me 12.",
+    "And we're going to offset this to be.",
+    "From here to there OK so.",
+    "See if I can if this will make sense.",
+    "So when it's Square, it doesn't help a lot.",
+    "Actually, you know what this is actually the worst way to try to explain this.",
+    "This will help more.",
+    "Richard 3.",
+    "Dot dot dot dot dot dot.",
+    "OK.",
+    "Whip So check it out, we got these dots right and we're going to animate their position.",
+    "And let's say that the change in position is going to be to make them go up.",
+    "Sure, now here we go.",
+    "Well, don't worry bout following along for now.",
+    "Who McLaren were going to be jumping all over the place but but.",
+    "Holy this detour is easy to easy to follow, so we have selected from the first to the last.",
+    "That's how big the range selector is.",
+    "Let's instead choose 50% of it, so we've chosen 50% of it.",
+    "Half of it is up, half of it is down.",
+    "The stuff that is up is what we have selected.",
+    "OK, good, we're going to change from square to round, and as you can see these form around shape wonderful.",
+    "So this makes sense, right?",
+    "That is now round.",
+    "You've entered the tangent zone PD.",
+    "So as you can see, this round shape is what's going through now if we offset.",
+    "Z we can offset the roundness as it goes through.",
+    "We've got this bubble now.",
+    "Now, what does Isaiah Neslo mean?",
+    "OK, so let's start easing on the high end.",
+    "Oh interesting.",
+    "Well, what's that what's happening?",
+    "We're changing the shape of this thing.",
+    "And you can kind of feel how the tangents are being pulled on.",
+    "This put that back to zero.",
+    "I'm going to move us from round to ramp up.",
+    "'cause this is hopefully going to.",
+    "Help a little bit more.",
+    "So on the ramp up, if we were to ease it on the high end.",
+    "The high end is becoming ease now.",
+    "If we were to go negative, ease on the high end, you can kind of feel this tangent moving right.",
+    "You can feel how that tangent is changing, right?",
+    "And then if we were to ease it on the low end, you can feel how this tangent down here.",
+    "Is moving.",
+    "Right?",
+    "So in terms of what is the high end?",
+    "What is the low end you know, that is the what we would say in this case is the leading or trailing end of this thing the start or the end?",
+    "So the high end?",
+    "What is what is high end?",
+    "Mostly Bugatti's, but for our purposes you can think of the high-end meaning closer to the end of the low end down here.",
+    "So this example, I hope.",
+    "Makes makes that a little bit more literal.",
+    "Now what's funny.",
+    "Not haha funny but kind of weirdly funny.",
+    "Is how this behaves in things like.",
+    "The triangle right?",
+    "So triangle looks like this.",
+    "What would happen if you were to ease that?",
+    "Oh, it gets rounder as you ease, you know you can go work for right?",
+    "You can do this and this is easing the high right.",
+    "The high point of this so.",
+    "The high point, the maximum value of the shape right in the ramp in the ramp.",
+    "The maximum value of the shape.",
+    "Happened to be at the end, but here the maximum value the high point happens to be in the middle, so that's Why when you ease high, that's what happens.",
+    "And this down here is the low point.",
+    "So if we were to ease the low and then we end up with this kind of Bell shape right the week and then push through.",
+    "So hopefully that makes sense with what is high knees low.",
+    "R and mean.",
+    "Sometimes we conflate that we would say, well.",
+    "Why does it not mean the same as with key frames, right?",
+    "Uhm, so how does this impact animation?",
+    "Well, whatever, whatever value you're pushing through, right?",
+    "So if you're changing in this case, the positional value of things.",
+    "That This is this is where it is, you know.",
+    "Uhm, so, for example, this is the classic.",
+    "Let's go to a classic form that I usually do.",
+    "This is a real Ebony Room Special.",
+    "That I that I.",
+    "Do as crimes.",
+    "Not crimes, but like.",
+    "I don't know, you'll see.",
+    "How do you know it's an Evan project?",
+    "Because he's probably.",
+    "Laid something like this on it so.",
+    "Well, the shape is the animation right?",
+    "So this is what's important to remember is that?",
+    "They are the same right?",
+    "And that one is the other.",
+    "So here's how we would use this, right?",
+    "So I've gotta ramp down and I'm going to set my eases to 0 and that's what it looks like as we animate this through what I'm doing is I'm increasing the size of the range and I'm offsetting it through the peace.",
+    "Which is great good for me.",
+    "Very wonderful, right?",
+    "Or we could go ramp up and return everything to normal.",
+    "See you do that.",
+    "Much more commonly I'm doing.",
+    "Like this, everything is rising up a little bit.",
+    "Like so.",
+    "Now.",
+    "If, for example, we want to change the quality of this, so we want to make it more dramatic, let's say and here.",
+    "Let me do.",
+    "Example of shape in motion.",
+    "So we could tighten it up right?",
+    "'cause I can make this faster example of shape in motion?",
+    "And.",
+    "Might think well, hey to affect this animation, what must I do?",
+    "Well, I should ease these right?",
+    "Well, well, well now it still feels like almost exactly the same.",
+    "Not much has changed right example of shape in motion.",
+    "Let's see what we got here and we change this 200.",
+    "Just so I can get my numbers right so.",
+    "Here's how it looks one way.",
+    "Here's how it looks.",
+    "If we eased the key frames.",
+    "Pretty similar, right?",
+    "Pretty darn similar if we want to substantially impact.",
+    "How this looks?",
+    "All right?",
+    "All right?",
+    "What we want to do is instead.",
+    "Deal with these because the shape is the motion, right?",
+    "The change that's going through it's being propagated by this shape.",
+    "Therefore, if we were to alter that shape.",
+    "Like so.",
+    "Feels very different, right?",
+    "Ah.",
+    "Tim, that's good bit example of shape in motion.",
+    "My Eurovision Song entry.",
+    "I like that I like that.",
+    "So here's how I end up using this alot.",
+    "Copy this.",
+    "Drop it out so.",
+    "Hopefully this now makes a little bit of sense that how the shape can impact the animation, because the change in value, overtime and space is exactly what we want to control.",
+    "What?",
+    "So let's break it out even further.",
+    "Let's let's break it so far that it has.",
+    "It can never be unbroken.",
+    "So this one is.",
+    "Izlo This one.",
+    "Hold on hold on.",
+    "I gotta get these things labeled right.",
+    "He's loando this is no easy, this is.",
+    "These keys so.",
+    "One of the things that's interesting is that when we say is high and izlo, those are actually animation terms.",
+    "That probably makes more sense if we just described instead of saying ease in and ease out if we stuck with saying Isayah Neslo, we might be ultimately happier.",
+    "However, let me say this too.",
+    "So I'm going to Jack in both 200.",
+    "I'm going to see the difference.",
+    "OK.",
+    "So now we can kind of see the difference.",
+    "In these ones I would change to the East High and low, and there you go.",
+    "No, just inhale.",
+    "Inhale some water or some tea in this case and Ouch.",
+    "All right, so let us return.",
+    "Poop.",
+    "What was I doing?",
+    "I think I've forgotten.",
+    "Forgot my place.",
+    "Well.",
+    "OK, that's what I was doing.",
+    "I was trying to make up.",
+    "I was trying to make the.",
+    "Range here.",
+    "Wider than that other range so that it can kind of be outside of the two, so let's.",
+    "Mess with the offset a little bit here.",
+    "There we go.",
+    "Then we dial it back a bit, so that would be full words.",
+    "OK, I'm happy with this.",
+    "So then we just have to return to that we want to get to wear.",
+    "Like this and that should work.",
+    "I know, know, know, know, know, know, know, know, know, know, know, know, know, know, know, know, know.",
+    "So yeah, with just a just a wee bit wee bit of things, we have this confusing.",
+    "Personal brand of garbage.",
+    "No Tim the show we do is called code names.",
+    "Live in which we all play various cause plays of Liv Tyler.",
+    "And, uh, it's great.",
+    "It's an amazing show.",
+    "People should check it out.",
+    "But now Tim, you missed it.",
+    "A battle Tom is the thing that people think battle comms.",
+    "Font says just why I have chosen a clear font for today.",
+    "OK, I'm happy with this scrolling thing.",
+    "I wanna try something else I want to do something different.",
+    "I want to do.",
+    "I want to do something different.",
+    "Always want to do different things doing different things.",
+    "It's important, right?",
+    "Oh Interesting, OK?",
+    "So I hope you don't mind if you're in the chat.",
+    "I'm probably going to use your name in this piece if you're not into that, then please let me know upfront, but I'm seeing a lot of people with first and last names that are about the same.",
+    "And.",
+    "About the same length, right?",
+    "Isn't that great?",
+    "Is not the greatest.",
+    "For example, hang out in the chat with us today.",
+    "Sina, Jamie.",
+    "Five and five.",
+    "How awesome is that?",
+    "Oh Oh, I love it when when names.",
+    "Are the same.",
+    "1st in last size.",
+    "Fills me with joy.",
+    "That's right PD.",
+    "What does uma car and how does that look when we put it into give it this treatment?",
+    "Uh, it's pretty close.",
+    "I was pretty close.",
+    "OK, is it better that we do like this?",
+    "Hum.",
+    "OK, let's let's go with.",
+    "Let's go with this.",
+    "And make them larger.",
+    "'cause I wanted to do something that is per line.",
+    "Now, right now, not readable goose.",
+    "Ooh tell Maine Nathan tell me about this school Star Wars Skwadron I am very interested in the squadrone.",
+    "I don't know if I've seen this though.",
+    "Please put a link.",
+    "I don't know if it's going to work.",
+    "I don't know if you can put legs of the chat.",
+    "Uh, find some way to put it in the chat and then we can watch it as it will see what I can do to do that.",
+    "OK, I'm gonna animate opacity.",
+    "Opacity down to 0.",
+    "Range Selector is going over the whole thing.",
+    "I'm going to add.",
+    "I'm going to take us to ramp up.",
+    "Is this is this?",
+    "Ramp down, we give us this.",
+    "OK.",
+    "Paint stroke vipps with little liquid bursts.",
+    "I don't think I've seen that one.",
+    "I don't know.",
+    "I don't think I've seen it.",
+    "I don't know, but yeah, drop a link to it if you find anything.",
+    "I'd love to love to have a peruse.",
+    "Yeah.",
+    "I wonder if I really need the opacity change.",
+    "Into it.",
+    "Oh uhm, Oh yeah, sorry, just to just to go back about what attribute the graph was affecting when I was playing around with this it was the offset so.",
+    "This animation what is actually animating about that?",
+    "This is a selector that's making things visual right or visible Anas by controlling opacity so we're moving, we're changing the size of the Selector.",
+    "Let's just look at one of them were changing the size of the Selector.",
+    "And where it is located, and in order to make this hang out for a little bit longer, I just stopped at short and then had it slowly push itself through.",
+    "That's pretty much it, so it's the offset that we are actually animating rather than.",
+    "Uh.",
+    "The end here and let's see what mode is this?",
+    "OK cool.",
+    "What shape was this?",
+    "This is a square shape change my mind.",
+    "I changed my mind.",
+    "We're now going to.",
+    "Ramp it down ha ha ha take that.",
+    "Now Square was the square was the right one.",
+    "We want to use, but yeah.",
+    "That's what we're doing, so hopefully that makes.",
+    "Since I don't know, we could try to do this thing.",
+    "That you're seeing in the Star Wars squadrons.",
+    "You know, I like to take suggestions.",
+    "OK.",
+    "OK.",
+    "Uh-huh Now we of course have to be legally distinct from stars wars squadrons, so I don't know space.",
+    "Fight.",
+    "What's a different word for squad crew face fight cruise?",
+    "It's not as long as squad drones.",
+    "What's a word for squadrons that?",
+    "Is still long.",
+    "Battalion.",
+    "I think we're going to go with.",
+    "OK, so in that video what I'm seeing anyway, all I can really say is what I'm seeing and the thing that I'm seeing most.",
+    "What I'm seeing most is.",
+    "We've got.",
+    "A plate step one make a plate step to reveal the plate then.",
+    "Make the play to different.",
+    "Color.",
+    "So let's try to do those.",
+    "Let's try to do these things.",
+    "There is a little bit of a particle spray as as the things coming on, but let's try to make this happen.",
+    "So we can do I don't know, I don't know.",
+    "Fight mates battle Toms Battalion.",
+    "Uh, sorry we can't be Star Wars Battalion.",
+    "I think that's already a desired desired name.",
+    "OK so.",
+    "What are these even plates look like an it's like a thing in the thing.",
+    "And that all right?",
+    "Google.",
+    "Do do do do.",
+    "To to to to.",
+    "222222.",
+    "Oh, I don't have any Star Wars fonts going to use my own brand of craziness.",
+    " AA teams.",
+    "Maybe just a teams.",
+    "There we go.",
+    "We could change it to something later.",
+    "There we go.",
+    "A.",
+    "Well it's here now so oopsy.",
+    "Sorry.",
+    "I'm going to never stop laughing at my own.",
+    "Terrible choices.",
+    "OK.",
+    "Blah blah blah blah blah.",
+    "Close enough, OK.",
+    "Good plate plate accomplished when we're done with this, please don't Sue Me, Lucas.",
+    "Who am I kidding?",
+    "Space fight fight mates.",
+    "OK, so I'm happy with this.",
+    "This is our plate OK and.",
+    "Space yacht anyway.",
+    "So we got this and a few things happen to it right.",
+    "The main thing that happens is a wipe.",
+    "And then a.",
+    "Color change will say occurs to it.",
+    "So if you want to have birthday yards.",
+    "If you want to have this thing wipe on, it could be pretty easy.",
+    "There are many wipes that we might enjoy.",
+    "You might just use a mask, right?",
+    "And that might be a good way to start.",
+    "And I say start because.",
+    "You want to when you're working on a look like this rather than replicating it right?",
+    "So knowing how to replicate something is great, but how would we approach a similar problem from the ground up right, knowing that there's a certain look we want to get to?",
+    "How do we work up to that?",
+    "While giving us ourselves flexibility, right?",
+    "Don't start with the details.",
+    "Start with the basics and part of that.",
+    "For me anyway is to start by.",
+    "Figuring out how we want to reveal this now in that example.",
+    "There are some interesting clues to observe, but one of the things that's kind of interesting about this is that has these kinds of Brushy.",
+    "Uh.",
+    "Slashes through it.",
+    "These like brushed on.",
+    "Looks you know which.",
+    "Just thinking, I'm just thinking how to do should just open up photo shop and start brushing.",
+    "Does that make sense?",
+    "Would that make the most sense 'cause we need something brushy, right?",
+    "We know this because in order to get these kind of streaks, that's one way to do it.",
+    "Tisk tisk tisk And is itself doesn't need to change.",
+    "It doesn't need to change what it needs to do.",
+    "Is just move.",
+    "OK.",
+    "Do you?",
+    "You know, I use the old Wacom paddle out when I blow dust office.",
+    "OK Boo.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION",
+      "span": [
+        33,
+        34
+      ],
+      "sentence": [
+        "And today, what to do?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION",
+      "span": [
+        34,
+        35
+      ],
+      "sentence": [
+        "What to do?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION",
+      "span": [
+        35,
+        36
+      ],
+      "sentence": [
+        "We need some text right?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION",
+      "span": [
+        39,
+        40
+      ],
+      "sentence": [
+        "So what I would like to do?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION",
+      "span": [
+        57,
+        58
+      ],
+      "sentence": [
+        "Imriel, right?"
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION",
+      "span": [
+        59,
+        60
+      ],
+      "sentence": [
+        "An extra letter, right?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION",
+      "span": [
+        71,
+        72
+      ],
+      "sentence": [
+        "How do we get into it?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION",
+      "span": [
+        72,
+        73
+      ],
+      "sentence": [
+        "How do we get out of it and figure it out?"
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "QUESTION",
+      "span": [
+        84,
+        85
+      ],
+      "sentence": [
+        "Where did Bobby hands go?"
+      ]
+    },
+    "T9": {
+      "id": "T9",
+      "label": "QUESTION",
+      "span": [
+        98,
+        99
+      ],
+      "sentence": [
+        "What if I remove my weight a entirely?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION",
+      "span": [
+        99,
+        100
+      ],
+      "sentence": [
+        "What if I'm not judged like that?"
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "QUESTION",
+      "span": [
+        116,
+        117
+      ],
+      "sentence": [
+        "Huh?"
+      ]
+    },
+    "T12": {
+      "id": "T12",
+      "label": "QUESTION",
+      "span": [
+        119,
+        120
+      ],
+      "sentence": [
+        "How interesting anyway?"
+      ]
+    },
+    "T13": {
+      "id": "T13",
+      "label": "QUESTION",
+      "span": [
+        139,
+        140
+      ],
+      "sentence": [
+        "What should I be doing with it?"
+      ]
+    },
+    "T14": {
+      "id": "T14",
+      "label": "QUESTION",
+      "span": [
+        140,
+        141
+      ],
+      "sentence": [
+        "Is there anything that can be done?"
+      ]
+    },
+    "T15": {
+      "id": "T15",
+      "label": "QUESTION",
+      "span": [
+        141,
+        142
+      ],
+      "sentence": [
+        "All of those thoughts?"
+      ]
+    },
+    "T16": {
+      "id": "T16",
+      "label": "QUESTION",
+      "span": [
+        152,
+        153
+      ],
+      "sentence": [
+        "All right?"
+      ]
+    },
+    "T17": {
+      "id": "T17",
+      "label": "QUESTION",
+      "span": [
+        156,
+        157
+      ],
+      "sentence": [
+        "Um?"
+      ]
+    },
+    "T18": {
+      "id": "T18",
+      "label": "QUESTION",
+      "span": [
+        183,
+        184
+      ],
+      "sentence": [
+        "We should speak of at all right?"
+      ]
+    },
+    "T19": {
+      "id": "T19",
+      "label": "QUESTION",
+      "span": [
+        192,
+        193
+      ],
+      "sentence": [
+        "But you know?"
+      ]
+    },
+    "T20": {
+      "id": "T20",
+      "label": "QUESTION",
+      "span": [
+        200,
+        201
+      ],
+      "sentence": [
+        "What to say?"
+      ]
+    },
+    "T21": {
+      "id": "T21",
+      "label": "QUESTION-AFTER-EFFECT",
+      "span": [
+        201,
+        202
+      ],
+      "sentence": [
+        "Our range selector, right?"
+      ]
+    },
+    "T22": {
+      "id": "T22",
+      "label": "QUESTION",
+      "span": [
+        209,
+        210
+      ],
+      "sentence": [
+        "Maybe like this?"
+      ]
+    },
+    "T23": {
+      "id": "T23",
+      "label": "QUESTION",
+      "span": [
+        221,
+        222
+      ],
+      "sentence": [
+        "Right?"
+      ]
+    },
+    "T24": {
+      "id": "T24",
+      "label": "QUESTION",
+      "span": [
+        224,
+        225
+      ],
+      "sentence": [
+        "If it's 8 right?"
+      ]
+    },
+    "T25": {
+      "id": "T25",
+      "label": "QUESTION",
+      "span": [
+        225,
+        226
+      ],
+      "sentence": [
+        "'cause our selection is 8?"
+      ]
+    },
+    "T26": {
+      "id": "T26",
+      "label": "QUESTION",
+      "span": [
+        241,
+        242
+      ],
+      "sentence": [
+        "Is because what if we want to change this out for different words, right?"
+      ]
+    },
+    "T27": {
+      "id": "T27",
+      "label": "QUESTION",
+      "span": [
+        245,
+        246
+      ],
+      "sentence": [
+        "He doesn't quite line up why, why, why, what have I done?"
+      ]
+    },
+    "T28": {
+      "id": "T28",
+      "label": "QUESTION",
+      "span": [
+        246,
+        247
+      ],
+      "sentence": [
+        "What have I done?"
+      ]
+    },
+    "T29": {
+      "id": "T29",
+      "label": "QUESTION",
+      "span": [
+        248,
+        249
+      ],
+      "sentence": [
+        "Right?"
+      ]
+    },
+    "T30": {
+      "id": "T30",
+      "label": "QUESTION",
+      "span": [
+        250,
+        251
+      ],
+      "sentence": [
+        "Huh Huh, Huh Huh, huh?"
+      ]
+    },
+    "T31": {
+      "id": "T31",
+      "label": "QUESTION",
+      "span": [
+        255,
+        256
+      ],
+      "sentence": [
+        "Or maybe uhm, OK?"
+      ]
+    },
+    "T32": {
+      "id": "T32",
+      "label": "QUESTION",
+      "span": [
+        275,
+        276
+      ],
+      "sentence": [
+        "Now it's probably time to say that we can change the shape for maybe round 'cause if this was square, right?"
+      ]
+    },
+    "T33": {
+      "id": "T33",
+      "label": "QUESTION",
+      "span": [
+        280,
+        281
+      ],
+      "sentence": [
+        "'cause it's the opposite way that we read things, and I think I'm being very clever, uhm?"
+      ]
+    },
+    "T34": {
+      "id": "T34",
+      "label": "QUESTION",
+      "span": [
+        284,
+        285
+      ],
+      "sentence": [
+        "What does that look like?"
+      ]
+    },
+    "T35": {
+      "id": "T35",
+      "label": "QUESTION",
+      "span": [
+        299,
+        300
+      ],
+      "sentence": [
+        "Or Huh?"
+      ]
+    },
+    "T36": {
+      "id": "T36",
+      "label": "QUESTION",
+      "span": [
+        300,
+        301
+      ],
+      "sentence": [
+        "OK, what if?"
+      ]
+    },
+    "T37": {
+      "id": "T37",
+      "label": "QUESTION",
+      "span": [
+        310,
+        311
+      ],
+      "sentence": [
+        "Did I?"
+      ]
+    },
+    "T38": {
+      "id": "T38",
+      "label": "QUESTION",
+      "span": [
+        322,
+        323
+      ],
+      "sentence": [
+        "What's going on with this?"
+      ]
+    },
+    "T39": {
+      "id": "T39",
+      "label": "QUESTION",
+      "span": [
+        347,
+        348
+      ],
+      "sentence": [
+        "So this makes sense, right?"
+      ]
+    },
+    "T40": {
+      "id": "T40",
+      "label": "QUESTION",
+      "span": [
+        353,
+        354
+      ],
+      "sentence": [
+        "Now, what does Isaiah Neslo mean?"
+      ]
+    },
+    "T41": {
+      "id": "T41",
+      "label": "QUESTION",
+      "span": [
+        356,
+        357
+      ],
+      "sentence": [
+        "Well, what's that what's happening?"
+      ]
+    },
+    "T42": {
+      "id": "T42",
+      "label": "QUESTION",
+      "span": [
+        366,
+        367
+      ],
+      "sentence": [
+        "You can feel how that tangent is changing, right?"
+      ]
+    },
+    "T43": {
+      "id": "T43",
+      "label": "QUESTION",
+      "span": [
+        369,
+        370
+      ],
+      "sentence": [
+        "Right?"
+      ]
+    },
+    "T44": {
+      "id": "T44",
+      "label": "QUESTION",
+      "span": [
+        370,
+        371
+      ],
+      "sentence": [
+        "So in terms of what is the high end?"
+      ]
+    },
+    "T45": {
+      "id": "T45",
+      "label": "QUESTION",
+      "span": [
+        371,
+        372
+      ],
+      "sentence": [
+        "What is the low end you know, that is the what we would say in this case is the leading or trailing end of this thing the start or the end?"
+      ]
+    },
+    "T46": {
+      "id": "T46",
+      "label": "QUESTION",
+      "span": [
+        372,
+        373
+      ],
+      "sentence": [
+        "So the high end?"
+      ]
+    },
+    "T47": {
+      "id": "T47",
+      "label": "QUESTION",
+      "span": [
+        373,
+        374
+      ],
+      "sentence": [
+        "What is what is high end?"
+      ]
+    },
+    "T48": {
+      "id": "T48",
+      "label": "QUESTION",
+      "span": [
+        380,
+        381
+      ],
+      "sentence": [
+        "The triangle right?"
+      ]
+    },
+    "T49": {
+      "id": "T49",
+      "label": "QUESTION",
+      "span": [
+        382,
+        383
+      ],
+      "sentence": [
+        "What would happen if you were to ease that?"
+      ]
+    },
+    "T50": {
+      "id": "T50",
+      "label": "QUESTION",
+      "span": [
+        383,
+        384
+      ],
+      "sentence": [
+        "Oh, it gets rounder as you ease, you know you can go work for right?"
+      ]
+    },
+    "T51": {
+      "id": "T51",
+      "label": "QUESTION",
+      "span": [
+        394,
+        395
+      ],
+      "sentence": [
+        "Why does it not mean the same as with key frames, right?"
+      ]
+    },
+    "T52": {
+      "id": "T52",
+      "label": "QUESTION",
+      "span": [
+        395,
+        396
+      ],
+      "sentence": [
+        "Uhm, so how does this impact animation?"
+      ]
+    },
+    "T53": {
+      "id": "T53",
+      "label": "QUESTION",
+      "span": [
+        396,
+        397
+      ],
+      "sentence": [
+        "Well, whatever, whatever value you're pushing through, right?"
+      ]
+    },
+    "T54": {
+      "id": "T54",
+      "label": "QUESTION",
+      "span": [
+        406,
+        407
+      ],
+      "sentence": [
+        "How do you know it's an Evan project?"
+      ]
+    },
+    "T55": {
+      "id": "T55",
+      "label": "QUESTION",
+      "span": [
+        409,
+        410
+      ],
+      "sentence": [
+        "Well, the shape is the animation right?"
+      ]
+    },
+    "T56": {
+      "id": "T56",
+      "label": "QUESTION",
+      "span": [
+        410,
+        411
+      ],
+      "sentence": [
+        "So this is what's important to remember is that?"
+      ]
+    },
+    "T57": {
+      "id": "T57",
+      "label": "QUESTION",
+      "span": [
+        411,
+        412
+      ],
+      "sentence": [
+        "They are the same right?"
+      ]
+    },
+    "T58": {
+      "id": "T58",
+      "label": "QUESTION",
+      "span": [
+        413,
+        414
+      ],
+      "sentence": [
+        "So here's how we would use this, right?"
+      ]
+    },
+    "T59": {
+      "id": "T59",
+      "label": "QUESTION",
+      "span": [
+        416,
+        417
+      ],
+      "sentence": [
+        "Very wonderful, right?"
+      ]
+    },
+    "T60": {
+      "id": "T60",
+      "label": "QUESTION",
+      "span": [
+        426,
+        427
+      ],
+      "sentence": [
+        "So we could tighten it up right?"
+      ]
+    },
+    "T61": {
+      "id": "T61",
+      "label": "QUESTION",
+      "span": [
+        427,
+        428
+      ],
+      "sentence": [
+        "'cause I can make this faster example of shape in motion?"
+      ]
+    },
+    "T62": {
+      "id": "T62",
+      "label": "QUESTION",
+      "span": [
+        429,
+        430
+      ],
+      "sentence": [
+        "Might think well, hey to affect this animation, what must I do?"
+      ]
+    },
+    "T63": {
+      "id": "T63",
+      "label": "QUESTION",
+      "span": [
+        430,
+        431
+      ],
+      "sentence": [
+        "Well, I should ease these right?"
+      ]
+    },
+    "T64": {
+      "id": "T64",
+      "label": "QUESTION",
+      "span": [
+        438,
+        439
+      ],
+      "sentence": [
+        "Pretty similar, right?"
+      ]
+    },
+    "T65": {
+      "id": "T65",
+      "label": "QUESTION",
+      "span": [
+        440,
+        441
+      ],
+      "sentence": [
+        "How this looks?"
+      ]
+    },
+    "T66": {
+      "id": "T66",
+      "label": "QUESTION",
+      "span": [
+        441,
+        442
+      ],
+      "sentence": [
+        "All right?"
+      ]
+    },
+    "T67": {
+      "id": "T67",
+      "label": "QUESTION",
+      "span": [
+        442,
+        443
+      ],
+      "sentence": [
+        "All right?"
+      ]
+    },
+    "T68": {
+      "id": "T68",
+      "label": "QUESTION",
+      "span": [
+        444,
+        445
+      ],
+      "sentence": [
+        "Deal with these because the shape is the motion, right?"
+      ]
+    },
+    "T69": {
+      "id": "T69",
+      "label": "QUESTION",
+      "span": [
+        448,
+        449
+      ],
+      "sentence": [
+        "Feels very different, right?"
+      ]
+    },
+    "T70": {
+      "id": "T70",
+      "label": "QUESTION",
+      "span": [
+        457,
+        458
+      ],
+      "sentence": [
+        "What?"
+      ]
+    },
+    "T71": {
+      "id": "T71",
+      "label": "QUESTION",
+      "span": [
+        479,
+        480
+      ],
+      "sentence": [
+        "What was I doing?"
+      ]
+    },
+    "T72": {
+      "id": "T72",
+      "label": "QUESTION",
+      "span": [
+        510,
+        511
+      ],
+      "sentence": [
+        "It's important, right?"
+      ]
+    },
+    "T73": {
+      "id": "T73",
+      "label": "QUESTION",
+      "span": [
+        511,
+        512
+      ],
+      "sentence": [
+        "Oh Interesting, OK?"
+      ]
+    },
+    "T74": {
+      "id": "T74",
+      "label": "QUESTION",
+      "span": [
+        515,
+        516
+      ],
+      "sentence": [
+        "About the same length, right?"
+      ]
+    },
+    "T75": {
+      "id": "T75",
+      "label": "QUESTION",
+      "span": [
+        516,
+        517
+      ],
+      "sentence": [
+        "Isn't that great?"
+      ]
+    },
+    "T76": {
+      "id": "T76",
+      "label": "QUESTION",
+      "span": [
+        521,
+        522
+      ],
+      "sentence": [
+        "How awesome is that?"
+      ]
+    },
+    "T77": {
+      "id": "T77",
+      "label": "QUESTION",
+      "span": [
+        527,
+        528
+      ],
+      "sentence": [
+        "What does uma car and how does that look when we put it into give it this treatment?"
+      ]
+    },
+    "T78": {
+      "id": "T78",
+      "label": "QUESTION",
+      "span": [
+        530,
+        531
+      ],
+      "sentence": [
+        "OK, is it better that we do like this?"
+      ]
+    },
+    "T79": {
+      "id": "T79",
+      "label": "QUESTION",
+      "span": [
+        548,
+        549
+      ],
+      "sentence": [
+        "Is this is this?"
+      ]
+    },
+    "T80": {
+      "id": "T80",
+      "label": "QUESTION",
+      "span": [
+        561,
+        562
+      ],
+      "sentence": [
+        "This animation what is actually animating about that?"
+      ]
+    },
+    "T81": {
+      "id": "T81",
+      "label": "QUESTION",
+      "span": [
+        567,
+        568
+      ],
+      "sentence": [
+        "The end here and let's see what mode is this?"
+      ]
+    },
+    "T82": {
+      "id": "T82",
+      "label": "QUESTION-AFTER-EFFECT",
+      "span": [
+        569,
+        570
+      ],
+      "sentence": [
+        "What shape was this?"
+      ]
+    },
+    "T83": {
+      "id": "T83",
+      "label": "QUESTION",
+      "span": [
+        584,
+        585
+      ],
+      "sentence": [
+        "What's a different word for squad crew face fight cruise?"
+      ]
+    },
+    "T84": {
+      "id": "T84",
+      "label": "QUESTION",
+      "span": [
+        586,
+        587
+      ],
+      "sentence": [
+        "What's a word for squadrons that?"
+      ]
+    },
+    "T85": {
+      "id": "T85",
+      "label": "QUESTION",
+      "span": [
+        605,
+        606
+      ],
+      "sentence": [
+        "And that all right?"
+      ]
+    },
+    "T86": {
+      "id": "T86",
+      "label": "QUESTION",
+      "span": [
+        625,
+        626
+      ],
+      "sentence": [
+        "Who am I kidding?"
+      ]
+    },
+    "T87": {
+      "id": "T87",
+      "label": "QUESTION",
+      "span": [
+        637,
+        638
+      ],
+      "sentence": [
+        "You might just use a mask, right?"
+      ]
+    },
+    "T92": {
+      "id": "T92",
+      "label": "QUESTION",
+      "span": [
+        654,
+        655
+      ],
+      "sentence": [
+        "Does that make sense?"
+      ]
+    },
+    "T93": {
+      "id": "T93",
+      "label": "QUESTION",
+      "span": [
+        655,
+        656
+      ],
+      "sentence": [
+        "Would that make the most sense 'cause we need something brushy, right?"
+      ]
+    },
+    "T94": {
+      "id": "T94",
+      "label": "QUESTION",
+      "span": [
+        661,
+        662
+      ],
+      "sentence": [
+        "Do you?"
+      ]
+    },
+    "T95": {
+      "id": "T95",
+      "label": "ANSWER",
+      "span": [
+        202,
+        204
+      ],
+      "sentence": [
+        "And we're selecting by characters, but let's go by lines.",
+        "Let's go by lines."
+      ]
+    },
+    "T96": {
+      "id": "T96",
+      "label": "ANSWER",
+      "span": [
+        285,
+        287
+      ],
+      "sentence": [
+        "Kind of a bummer.",
+        "This is kind of like we're fading."
+      ]
+    },
+    "T97": {
+      "id": "T97",
+      "label": "ANSWER",
+      "span": [
+        357,
+        358
+      ],
+      "sentence": [
+        "We're changing the shape of this thing."
+      ]
+    },
+    "T98": {
+      "id": "T98",
+      "label": "ANSWER",
+      "span": [
+        374,
+        375
+      ],
+      "sentence": [
+        "Mostly Bugatti's, but for our purposes you can think of the high-end meaning closer to the end of the low end down here."
+      ]
+    },
+    "T99": {
+      "id": "T99",
+      "label": "ANSWER",
+      "span": [
+        407,
+        409
+      ],
+      "sentence": [
+        "Because he's probably.",
+        "Laid something like this on it so."
+      ]
+    },
+    "T100": {
+      "id": "T100",
+      "label": "ANSWER",
+      "span": [
+        517,
+        518
+      ],
+      "sentence": [
+        "Is not the greatest."
+      ]
+    },
+    "T101": {
+      "id": "T101",
+      "label": "ANSWER",
+      "span": [
+        570,
+        571
+      ],
+      "sentence": [
+        "This is a square shape change my mind."
+      ]
+    },
+    "T102": {
+      "id": "T102",
+      "label": "ANSWER",
+      "span": [
+        588,
+        589
+      ],
+      "sentence": [
+        "Battalion."
+      ]
+    },
+    "T88": {
+      "id": "T88",
+      "label": "QUESTION-AFTER-EFFECT",
+      "span": [
+        640,
+        644
+      ],
+      "sentence": [
+        "You want to when you're working on a look like this rather than replicating it right?",
+        "So knowing how to replicate something is great, but how would we approach a similar problem from the ground up right, knowing that there's a certain look we want to get to?",
+        "How do we work up to that?",
+        "While giving us ourselves flexibility, right?"
+      ]
+    },
+    "T89": {
+      "id": "T89",
+      "label": "ANSWER",
+      "span": [
+        644,
+        654
+      ],
+      "sentence": [
+        "Don't start with the details.",
+        "Start with the basics and part of that.",
+        "For me anyway is to start by.",
+        "Figuring out how we want to reveal this now in that example.",
+        "There are some interesting clues to observe, but one of the things that's kind of interesting about this is that has these kinds of Brushy.",
+        "Uh.",
+        "Slashes through it.",
+        "These like brushed on.",
+        "Looks you know which.",
+        "Just thinking, I'm just thinking how to do should just open up photo shop and start brushing."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Relevance",
+      "question": "T21",
+      "answer": "T95",
+      "question_sentence": [
+        "Our range selector, right?"
+      ],
+      "answer_sentence": [
+        "And we're selecting by characters, but let's go by lines.",
+        "Let's go by lines."
+      ]
+    },
+    "R2": {
+      "id": "R2",
+      "label": "Chitchat",
+      "question": "T34",
+      "answer": "T96",
+      "question_sentence": [
+        "What does that look like?"
+      ],
+      "answer_sentence": [
+        "Kind of a bummer.",
+        "This is kind of like we're fading."
+      ]
+    },
+    "R3": {
+      "id": "R3",
+      "label": "Chitchat",
+      "question": "T41",
+      "answer": "T97",
+      "question_sentence": [
+        "Well, what's that what's happening?"
+      ],
+      "answer_sentence": [
+        "We're changing the shape of this thing."
+      ]
+    },
+    "R4": {
+      "id": "R4",
+      "label": "Chitchat",
+      "question": "T47",
+      "answer": "T98",
+      "question_sentence": [
+        "What is what is high end?"
+      ],
+      "answer_sentence": [
+        "Mostly Bugatti's, but for our purposes you can think of the high-end meaning closer to the end of the low end down here."
+      ]
+    },
+    "R5": {
+      "id": "R5",
+      "label": "Chitchat",
+      "question": "T54",
+      "answer": "T99",
+      "question_sentence": [
+        "How do you know it's an Evan project?"
+      ],
+      "answer_sentence": [
+        "Because he's probably.",
+        "Laid something like this on it so."
+      ]
+    },
+    "R6": {
+      "id": "R6",
+      "label": "Chitchat",
+      "question": "T75",
+      "answer": "T100",
+      "question_sentence": [
+        "Isn't that great?"
+      ],
+      "answer_sentence": [
+        "Is not the greatest."
+      ]
+    },
+    "R7": {
+      "id": "R7",
+      "label": "Relevance",
+      "question": "T82",
+      "answer": "T101",
+      "question_sentence": [
+        "What shape was this?"
+      ],
+      "answer_sentence": [
+        "This is a square shape change my mind."
+      ]
+    },
+    "R8": {
+      "id": "R8",
+      "label": "Chitchat",
+      "question": "T83",
+      "answer": "T102",
+      "question_sentence": [
+        "What's a different word for squad crew face fight cruise?"
+      ],
+      "answer_sentence": [
+        "Battalion."
+      ]
+    },
+    "R9": {
+      "id": "R9",
+      "label": "Relevance",
+      "question": "T88",
+      "answer": "T89",
+      "question_sentence": [
+        "You want to when you're working on a look like this rather than replicating it right?",
+        "So knowing how to replicate something is great, but how would we approach a similar problem from the ground up right, knowing that there's a certain look we want to get to?",
+        "How do we work up to that?",
+        "While giving us ourselves flexibility, right?"
+      ],
+      "answer_sentence": [
+        "Don't start with the details.",
+        "Start with the basics and part of that.",
+        "For me anyway is to start by.",
+        "Figuring out how we want to reveal this now in that example.",
+        "There are some interesting clues to observe, but one of the things that's kind of interesting about this is that has these kinds of Brushy.",
+        "Uh.",
+        "Slashes through it.",
+        "These like brushed on.",
+        "Looks you know which.",
+        "Just thinking, I'm just thinking how to do should just open up photo shop and start brushing."
+      ]
+    }
+  }
+}

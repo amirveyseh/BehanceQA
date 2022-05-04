@@ -1,0 +1,862 @@
+{
+  "sentence": [
+    "Oh, good morning everybody.",
+    "Hello hello, hopefully will people are able to hear and see even having a little bit of a little bit of technical drugs this morning.",
+    "But it looks like everything is coming together so hopefully it's all good.",
+    "I'm having Abrams.",
+    "Welcome to another mograph breakfast.",
+    "We're going to see we're going to see what we get into today.",
+    "Arrange my windows.",
+    "But yeah, uh, good to see you could see some folks hanging out with this morning.",
+    "This is a thing we get into here all the time, every weekend.",
+    "From 9:00 AM my time until later.",
+    "I'm not sure how how long will go today we should go for a couple hours, but we'll see.",
+    "If I get through all this stuff and it really depends on what stuff we get into.",
+    "If you're hanging out with us last week, let's see, let's see.",
+    "Hum.",
+    "Oh, there we go now we're good now we're good if you're hanging over the last week we were working in cinema 4D light to try to make sort of a creepy fantasy gate thing for a weird gift series that I wanted to get into.",
+    "Maybe we'll continue that work.",
+    "Maybe yeah, let's do that.",
+    "And what I wanted to do was try to composite some things together in there.",
+    "So let's step back in and see where we are at.",
+    "Yeah.",
+    "So uh, hey good morning oh hey, who got hang it?",
+    "We got Ahmed hanging out we got PD from Spain.",
+    "Hello Gatineau zone Baker big like a pro hanging out.",
+    "Hello hello everybody.",
+    "Where you are in the world, those of us in the Greater Ottawa area are are enjoying some relaxing.",
+    "Some relaxing COVID-19 restrictions.",
+    "So that's always good.",
+    "But in terms of what we were doing last time we were working in cinema 4D to make this kind of door gateway thing.",
+    "And one of the things you know, I went ahead and skipped a lot of the texturing stuff.",
+    "I wanted to kind of look like a toy, you know 'cause.",
+    "I thought that was a funny idea, so that's where we kind of have this plasticky look.",
+    "But I didn't do anything for the Sky, so the Sky is completely.",
+    "We can't how's it go?",
+    "And the Sky is completely open.",
+    "You know why?",
+    "Didn't put any things back there in the in the render so it's completely wide open for us to put all kinds of stuff back there.",
+    "So in terms of what elements I kind of want to drop down here, let's see.",
+    "What I've done in the?",
+    "What I've done in the cinema 4D file is too messy.",
+    "Camps here or what would have been laughs kind of.",
+    "I removed the sconces.",
+    "Just because I'm not sure yet.",
+    "Not sure yet how really to composite that, but we have two lights there that are changing and intensity kind of way firewood.",
+    "So we might animate some little fires to go here in there.",
+    "I definitely want to do something, some kind of background up here, maybe some clouds.",
+    "And maybe some like gentle gradient sweeps.",
+    "Maybe not a gradient.",
+    "Per say, right, but kind of a messy swished upgradient.",
+    "So maybe will try to do that.",
+    "I think that will be a fun.",
+    "Exploration to get into, hopefully, and we'll see how it goes.",
+    "I don't know about master Evan.",
+    "I'm more like a more like a more like a chill buddy Evan, that's what that's where I'd rather be at.",
+    "OK, so yeah, let's uhm.",
+    "Dive in.",
+    "It's all good people, people dip in and out of this program all the time.",
+    "But yeah, let's let's see.",
+    "Let's get into it.",
+    "I woke up like half an hour ago, so things might be a little bit slow.",
+    "So I want to put.",
+    "Some kind of interesting gradient back there.",
+    "I want it to kind of loop.",
+    "In some way, the whole idea of this is to be a looping GIF.",
+    "So if I want this to loop that I need to think of a few looping techniques.",
+    "Uh, one of them that is very, very useful way to think about this stuff.",
+    "It's kind of like Zoetrope style, like if you're able to rap a cylinder all the way around something right?",
+    "If you created a comp that's kind of the same on the edges, then just offset it then.",
+    "Everything will be fine so.",
+    "I'll make one of those, so let's see.",
+    "This is 1080 by 1080 so.",
+    "I should be able to make something out of this.",
+    "Start with.",
+    "So the solid takes up the whole space blob like that.",
+    "Have any other solids going on in here?",
+    "And no, I want this one, yeah?",
+    "So what I'm doing?",
+    "Making sure these things are spaced out.",
+    "So right now we definitely have a pattern.",
+    "So if I were to.",
+    "Simply start rotating this thing around.",
+    "You know this end would match up with that end, right?",
+    "If I were to do an offset of that, so we're going to be a comp too.",
+    "I'm going to call this.",
+    "Skyline Now I like a nice wide one.",
+    "Technically we could have done this chopping this completely in half, but I kind of want more room to play with to give myself some variation in this thing and to make it less apparent when.",
+    "When the rotation through happens, so I'm going to bring a skyline in here.",
+    "OK.",
+    "So as you can see, it's now sitting behind.",
+    "That thing cool.",
+    "And.",
+    "I use the directional blur.",
+    "The old directional blur.",
+    "No blur.",
+    "Uh.",
+    "To fuzz these out.",
+    "Goes high is 540 on this.",
+    "There we go.",
+    "I may come less Michael more I don't know.",
+    "Here's a thing that you do need to do though is to put one out here, because these two are technically supposed to be the same thing.",
+    "Good afternoon Huma corn hello hello, hope everyone is having a good time out here.",
+    "That's what I think I'll do.",
+    "Lower this one.",
+    "'cause I want to create.",
+    "Some variation out here maybe.",
+    "Hello.",
+    "I don't know.",
+    "Yeah, now we should be able to seamlessly go from one side to the other.",
+    "See how that works.",
+    "But if we grab.",
+    "Another version of the skyline.",
+    "Put it over top of everything.",
+    "Remove the tent from it.",
+    "Move it like this.",
+    "Is the sound not In Sync?",
+    "Good question now.",
+    "I don't know.",
+    "Hard to say sometimes.",
+    "Not sure what things other than my mouth should be making sound.",
+    "But Looks pretty good, let's see.",
+    "Now let's look fine come out of this, which are so this could be another Behance thing, I don't know.",
+    "What if I should put on music while we're doing this?",
+    "Would that be good?",
+    "Maybe I'll look into that for tomorrow.",
+    "Will figure out how to some kind of soundtrack so you're not.",
+    "So that is a big delay.",
+    "That's really weird.",
+    "Don't don't know if that's that's on my side thing though.",
+    "Everything everything is coming out of this, which are normal.",
+    "So other than that nothing else I can really do about.",
+    "About that Unfortunately.",
+    "So, uh.",
+    "5 seconds later, there is sound interesting.",
+    "Huh?",
+    "I wonder what that's all about?",
+    "Yeah, I don't think I don't think refreshing is going to solve anything.",
+    "That's, uh.",
+    "Yeah.",
+    "I don't know how to delay video to make it sync up.",
+    "Would be funny though.",
+    "I wonder if that is possible.",
+    "Hey.",
+    "Video delay Poop.",
+    "The.",
+    "He He Z.",
+    "I don't know, so weird as as I say, all the things on my end look normal and good.",
+    "I don't know it could be could be a Behance problem, it's been a lot of problems on the Internet recently, but a lot of YouTube problems, a lot of encoding problems, 8 seconds low.",
+    "Well then I have no idea.",
+    "So weird.",
+    "OK well.",
+    "Then we want to have some kind of like a weird creepy Castle back there.",
+    "I don't think creepy castles really required at this point.",
+    "But All of these should be aligned.",
+    "Right, although we should be aligned, 'cause they're all.",
+    "The same what I wanted to play with.",
+    "Free tutorials and if it's free, you pay the iron price of your attention.",
+    "Creepy trees, yeah, maybe some creepy trees.",
+    "I think the general idea is good.",
+    "Execution of idea, maybe not.",
+    "Not being able to.",
+    "Yeah, I am missing the little branches.",
+    "You know, I'm I'm missing.",
+    "Having little connective branches.",
+    "And the floating leaves kind of make me unhappy.",
+    "So I can try to cluster these up a little.",
+    "Get the more clustered.",
+    "See if that helps my disposition on the matter.",
+    "I don't want to increase their density necessarily.",
+    "Now they're real real shrubs.",
+    "Shrub Life OK.",
+    "Let's just go until nothing is disconnected.",
+    "Go back to this.",
+    "OK.",
+    "Huh?",
+    "Oh, how did the 1005 here too?",
+    "Yeah, this is kind of working out actually, actually.",
+    "I know it shouldn't shouldn't be surprised at it now.",
+    "Something to say is I'm careful not to rotate.",
+    "These Schreber Louise.",
+    "Because.",
+    "The way we have.",
+    "Things undulating through them, right?",
+    "If we were to rotate it at that undulation, flow wouldn't really make that much sense, and it wouldn't seem like they're all kind of getting affected by the same wind.",
+    "So just a tip there, I suppose.",
+    "Oh, really doesn't feel like we're coming out of the Woods on this thing.",
+    "Oh boy.",
+    "If you go out in the Woods today, don't go to a creepy door.",
+    "If you go out in the Woods today.",
+    "Uh.",
+    "Turn, turn, turn, turn, turn turn turn.",
+    "Don't don't, don't don't.",
+    "OK, OK.",
+    "Not really feeling lightning myself.",
+    "Although that part was kind of funny.",
+    "I like this.",
+    "Mad is shiny, but I'll figure that out later.",
+    "Walking through the Woods you encounter free plastic looking cats Castle.",
+    "Funny.",
+    "OK, I want to do some kind of torch fire and I know we beefed it earlier earlier episode.",
+    "Did not go well.",
+    "The fire truck.",
+    "Oh well oh yards Oh my goodness so sorry everybody.",
+    "Now I've seen a few.",
+    "Guess the mat were smaller.",
+    "Absolutely it would.",
+    "Everything's about proportion.",
+    "Is there anything I want to tweak?",
+    "Would I like to return to cinema 4D?",
+    "Um?",
+    "Oh Sure, let's see what happens.",
+    "I really like how the Sinner Where is sort of.",
+    "Really able to.",
+    "Time.",
+    "You know the Sinner?",
+    "Where does such a great job of pulling pulling things together?",
+    "That that that that her mother is the welcome mat.",
+    "Alright, I was trying to make a bool.",
+    "I was trying to.",
+    "I was trying to stick letters in the welcome mat.",
+    "Ended up not being useful.",
+    "But Uh.",
+    "Could have them at curl up a bit in the breeze, who that's a very light Matt.",
+    "I don't think that's a welcome mat you would want, but we can try it.",
+    "Let's see if we can do that by warping this geometry.",
+    "I've done it with extrude.",
+    "Huh?",
+    "So I would think, Oh yeah, I've got access to a bend.",
+    "Why don't I just go ahead and bring that on, you know?",
+    "But.",
+    "Hey good morning to Timo Yeah it is starting to look like something.",
+    "I think it's starting to look like something nice, you know.",
+    "I think it's certainly go interesting places.",
+    "OK, so 'cause right now we're looking at display we got.",
+    "We got our garage shading lines going on.",
+    "Let me just see here what I can do about so that's got segments.",
+    "Close this bad boy segment situation.",
+    "OK, that's got segments.",
+    "Extrude caps",
+    "I need are.",
+    "Look Maybe this will help.",
+    "I'm going to have to replace that.",
+    "I don't think it can be.",
+    "I don't want to extrude.",
+    "Maybe I'll just show why 1st and then, then we'll get into it.",
+    "So we got this extrude with this welcome mat.",
+    "Welcome at I'm going to put do we have a band I gotta OK?",
+    "OK.",
+    "Click.",
+    "Alright, attempt to bend the welcome mat.",
+    "Ah.",
+    "Yeah, that's not going to.",
+    "Uh-huh Yeah, the geometry it is de forming.",
+    "Hold on, hold on.",
+    "Hold on step one, uh.",
+    "File new project.",
+    "That thing was too cluttered.",
+    "I was confusing myself.",
+    "Let's see, I'm gonna make us make us this.",
+    "Everybody's audio is not In Sync, it's crazy.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        20,
+        21
+      ],
+      "sentence": [
+        "So uh, hey good morning oh hey, who got hang it?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        32,
+        33
+      ],
+      "sentence": [
+        "We can't how's it go?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        34,
+        35
+      ],
+      "sentence": [
+        "You know why?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        37,
+        38
+      ],
+      "sentence": [
+        "What I've done in the?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        65,
+        66
+      ],
+      "sentence": [
+        "It's kind of like Zoetrope style, like if you're able to rap a cylinder all the way around something right?"
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        80,
+        81
+      ],
+      "sentence": [
+        "You know this end would match up with that end, right?"
+      ]
+    },
+    "T9": {
+      "id": "T9",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        113,
+        114
+      ],
+      "sentence": [
+        "Is the sound not In Sync?"
+      ]
+    },
+    "T13": {
+      "id": "T13",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        133,
+        134
+      ],
+      "sentence": [
+        "I wonder what that's all about?"
+      ]
+    },
+    "T15": {
+      "id": "T15",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        173,
+        174
+      ],
+      "sentence": [
+        "Oh, how did the 1005 here too?"
+      ]
+    },
+    "T16": {
+      "id": "T16",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        180,
+        181
+      ],
+      "sentence": [
+        "Things undulating through them, right?"
+      ]
+    },
+    "T23": {
+      "id": "T23",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        226,
+        227
+      ],
+      "sentence": [
+        "Why don't I just go ahead and bring that on, you know?"
+      ]
+    },
+    "T24": {
+      "id": "T24",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        244,
+        245
+      ],
+      "sentence": [
+        "Welcome at I'm going to put do we have a band I gotta OK?"
+      ]
+    },
+    "T25": {
+      "id": "T25",
+      "label": "ANSWER",
+      "span": [
+        21,
+        22
+      ],
+      "sentence": [
+        "We got Ahmed hanging out we got PD from Spain."
+      ]
+    },
+    "T26": {
+      "id": "T26",
+      "label": "ANSWER",
+      "span": [
+        35,
+        37
+      ],
+      "sentence": [
+        "Didn't put any things back there in the in the render so it's completely wide open for us to put all kinds of stuff back there.",
+        "So in terms of what elements I kind of want to drop down here, let's see."
+      ]
+    },
+    "T27": {
+      "id": "T27",
+      "label": "ANSWER",
+      "span": [
+        33,
+        34
+      ],
+      "sentence": [
+        "And the Sky is completely open."
+      ]
+    },
+    "T28": {
+      "id": "T28",
+      "label": "ANSWER",
+      "span": [
+        38,
+        42
+      ],
+      "sentence": [
+        "What I've done in the cinema 4D file is too messy.",
+        "Camps here or what would have been laughs kind of.",
+        "I removed the sconces.",
+        "Just because I'm not sure yet."
+      ]
+    },
+    "T29": {
+      "id": "T29",
+      "label": "ANSWER",
+      "span": [
+        66,
+        71
+      ],
+      "sentence": [
+        "If you created a comp that's kind of the same on the edges, then just offset it then.",
+        "Everything will be fine so.",
+        "I'll make one of those, so let's see.",
+        "This is 1080 by 1080 so.",
+        "I should be able to make something out of this."
+      ]
+    },
+    "T30": {
+      "id": "T30",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        73,
+        76
+      ],
+      "sentence": [
+        "Have any other solids going on in here?",
+        "And no, I want this one, yeah?",
+        "So what I'm doing?"
+      ]
+    },
+    "T31": {
+      "id": "T31",
+      "label": "ANSWER",
+      "span": [
+        76,
+        80
+      ],
+      "sentence": [
+        "Making sure these things are spaced out.",
+        "So right now we definitely have a pattern.",
+        "So if I were to.",
+        "Simply start rotating this thing around."
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "ANSWER",
+      "span": [
+        81,
+        83
+      ],
+      "sentence": [
+        "If I were to do an offset of that, so we're going to be a comp too.",
+        "I'm going to call this."
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "ANSWER",
+      "span": [
+        114,
+        120
+      ],
+      "sentence": [
+        "Good question now.",
+        "I don't know.",
+        "Hard to say sometimes.",
+        "Not sure what things other than my mouth should be making sound.",
+        "But Looks pretty good, let's see.",
+        "Now let's look fine come out of this, which are so this could be another Behance thing, I don't know."
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "ANSWER",
+      "span": [
+        122,
+        126
+      ],
+      "sentence": [
+        "Maybe I'll look into that for tomorrow.",
+        "Will figure out how to some kind of soundtrack so you're not.",
+        "So that is a big delay.",
+        "That's really weird."
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        120,
+        122
+      ],
+      "sentence": [
+        "What if I should put on music while we're doing this?",
+        "Would that be good?"
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "ANSWER",
+      "span": [
+        134,
+        138
+      ],
+      "sentence": [
+        "Yeah, I don't think I don't think refreshing is going to solve anything.",
+        "That's, uh.",
+        "Yeah.",
+        "I don't know how to delay video to make it sync up."
+      ]
+    },
+    "T12": {
+      "id": "T12",
+      "label": "ANSWER",
+      "span": [
+        174,
+        177
+      ],
+      "sentence": [
+        "Yeah, this is kind of working out actually, actually.",
+        "I know it shouldn't shouldn't be surprised at it now.",
+        "Something to say is I'm careful not to rotate."
+      ]
+    },
+    "T14": {
+      "id": "T14",
+      "label": "ANSWER",
+      "span": [
+        181,
+        183
+      ],
+      "sentence": [
+        "If we were to rotate it at that undulation, flow wouldn't really make that much sense, and it wouldn't seem like they're all kind of getting affected by the same wind.",
+        "So just a tip there, I suppose."
+      ]
+    },
+    "T19": {
+      "id": "T19",
+      "label": "ANSWER",
+      "span": [
+        208,
+        211
+      ],
+      "sentence": [
+        "Oh Sure, let's see what happens.",
+        "I really like how the Sinner Where is sort of.",
+        "Really able to."
+      ]
+    },
+    "T22": {
+      "id": "T22",
+      "label": "QUESTION-AFTER-EFFECT",
+      "span": [
+        205,
+        207
+      ],
+      "sentence": [
+        "Is there anything I want to tweak?",
+        "Would I like to return to cinema 4D?"
+      ]
+    },
+    "T17": {
+      "id": "T17",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        212,
+        214
+      ],
+      "sentence": [
+        "You know the Sinner?",
+        "Where does such a great job of pulling pulling things together?"
+      ]
+    },
+    "T18": {
+      "id": "T18",
+      "label": "ANSWER",
+      "span": [
+        214,
+        219
+      ],
+      "sentence": [
+        "That that that that her mother is the welcome mat.",
+        "Alright, I was trying to make a bool.",
+        "I was trying to.",
+        "I was trying to stick letters in the welcome mat.",
+        "Ended up not being useful."
+      ]
+    },
+    "T20": {
+      "id": "T20",
+      "label": "ANSWER",
+      "span": [
+        245,
+        246
+      ],
+      "sentence": [
+        "OK."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T0",
+      "answer": "T25",
+      "question_sentence": [
+        "So uh, hey good morning oh hey, who got hang it?"
+      ],
+      "answer_sentence": [
+        "We got Ahmed hanging out we got PD from Spain."
+      ]
+    },
+    "R2": {
+      "id": "R2",
+      "label": "Chitchat",
+      "question": "T2",
+      "answer": "T26",
+      "question_sentence": [
+        "You know why?"
+      ],
+      "answer_sentence": [
+        "Didn't put any things back there in the in the render so it's completely wide open for us to put all kinds of stuff back there.",
+        "So in terms of what elements I kind of want to drop down here, let's see."
+      ]
+    },
+    "R3": {
+      "id": "R3",
+      "label": "Chitchat",
+      "question": "T1",
+      "answer": "T27",
+      "question_sentence": [
+        "We can't how's it go?"
+      ],
+      "answer_sentence": [
+        "And the Sky is completely open."
+      ]
+    },
+    "R4": {
+      "id": "R4",
+      "label": "Relevance",
+      "question": "T3",
+      "answer": "T28",
+      "question_sentence": [
+        "What I've done in the?"
+      ],
+      "answer_sentence": [
+        "What I've done in the cinema 4D file is too messy.",
+        "Camps here or what would have been laughs kind of.",
+        "I removed the sconces.",
+        "Just because I'm not sure yet."
+      ]
+    },
+    "R5": {
+      "id": "R5",
+      "label": "Relevance",
+      "question": "T4",
+      "answer": "T29",
+      "question_sentence": [
+        "It's kind of like Zoetrope style, like if you're able to rap a cylinder all the way around something right?"
+      ],
+      "answer_sentence": [
+        "If you created a comp that's kind of the same on the edges, then just offset it then.",
+        "Everything will be fine so.",
+        "I'll make one of those, so let's see.",
+        "This is 1080 by 1080 so.",
+        "I should be able to make something out of this."
+      ]
+    },
+    "R6": {
+      "id": "R6",
+      "label": "Chitchat",
+      "question": "T30",
+      "answer": "T31",
+      "question_sentence": [
+        "Have any other solids going on in here?",
+        "And no, I want this one, yeah?",
+        "So what I'm doing?"
+      ],
+      "answer_sentence": [
+        "Making sure these things are spaced out.",
+        "So right now we definitely have a pattern.",
+        "So if I were to.",
+        "Simply start rotating this thing around."
+      ]
+    },
+    "R7": {
+      "id": "R7",
+      "label": "Chitchat",
+      "question": "T8",
+      "answer": "T5",
+      "question_sentence": [
+        "You know this end would match up with that end, right?"
+      ],
+      "answer_sentence": [
+        "If I were to do an offset of that, so we're going to be a comp too.",
+        "I'm going to call this."
+      ]
+    },
+    "R8": {
+      "id": "R8",
+      "label": "Relevance",
+      "question": "T9",
+      "answer": "T6",
+      "question_sentence": [
+        "Is the sound not In Sync?"
+      ],
+      "answer_sentence": [
+        "Good question now.",
+        "I don't know.",
+        "Hard to say sometimes.",
+        "Not sure what things other than my mouth should be making sound.",
+        "But Looks pretty good, let's see.",
+        "Now let's look fine come out of this, which are so this could be another Behance thing, I don't know."
+      ]
+    },
+    "R9": {
+      "id": "R9",
+      "label": "Chitchat",
+      "question": "T10",
+      "answer": "T7",
+      "question_sentence": [
+        "What if I should put on music while we're doing this?",
+        "Would that be good?"
+      ],
+      "answer_sentence": [
+        "Maybe I'll look into that for tomorrow.",
+        "Will figure out how to some kind of soundtrack so you're not.",
+        "So that is a big delay.",
+        "That's really weird."
+      ]
+    },
+    "R10": {
+      "id": "R10",
+      "label": "Relevance",
+      "question": "T13",
+      "answer": "T11",
+      "question_sentence": [
+        "I wonder what that's all about?"
+      ],
+      "answer_sentence": [
+        "Yeah, I don't think I don't think refreshing is going to solve anything.",
+        "That's, uh.",
+        "Yeah.",
+        "I don't know how to delay video to make it sync up."
+      ]
+    },
+    "R11": {
+      "id": "R11",
+      "label": "Chitchat",
+      "question": "T15",
+      "answer": "T12",
+      "question_sentence": [
+        "Oh, how did the 1005 here too?"
+      ],
+      "answer_sentence": [
+        "Yeah, this is kind of working out actually, actually.",
+        "I know it shouldn't shouldn't be surprised at it now.",
+        "Something to say is I'm careful not to rotate."
+      ]
+    },
+    "R12": {
+      "id": "R12",
+      "label": "Chitchat",
+      "question": "T16",
+      "answer": "T14",
+      "question_sentence": [
+        "Things undulating through them, right?"
+      ],
+      "answer_sentence": [
+        "If we were to rotate it at that undulation, flow wouldn't really make that much sense, and it wouldn't seem like they're all kind of getting affected by the same wind.",
+        "So just a tip there, I suppose."
+      ]
+    },
+    "R13": {
+      "id": "R13",
+      "label": "Relevance",
+      "question": "T22",
+      "answer": "T19",
+      "question_sentence": [
+        "Is there anything I want to tweak?",
+        "Would I like to return to cinema 4D?"
+      ],
+      "answer_sentence": [
+        "Oh Sure, let's see what happens.",
+        "I really like how the Sinner Where is sort of.",
+        "Really able to."
+      ]
+    },
+    "R14": {
+      "id": "R14",
+      "label": "Chitchat",
+      "question": "T17",
+      "answer": "T18",
+      "question_sentence": [
+        "You know the Sinner?",
+        "Where does such a great job of pulling pulling things together?"
+      ],
+      "answer_sentence": [
+        "That that that that her mother is the welcome mat.",
+        "Alright, I was trying to make a bool.",
+        "I was trying to.",
+        "I was trying to stick letters in the welcome mat.",
+        "Ended up not being useful."
+      ]
+    },
+    "R15": {
+      "id": "R15",
+      "label": "Chitchat",
+      "question": "T24",
+      "answer": "T20",
+      "question_sentence": [
+        "Welcome at I'm going to put do we have a band I gotta OK?"
+      ],
+      "answer_sentence": [
+        "OK."
+      ]
+    }
+  }
+}

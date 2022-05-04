@@ -1,0 +1,1596 @@
+{
+  "sentence": [
+    "Who he good?",
+    "Morning everybody, hopefully.",
+    "Hopefully people can hear me alright had some at some technical troubles this morning to plug in and unplug and then plug it back in again.",
+    "Anyway, we're back.",
+    "We're on it and we are going to have some fun today and I think some lazy exploration of Cinema 4D hopefully.",
+    "Hopefully you enjoy the ride and by kind of bumbling stumbling through it.",
+    "It.",
+    "What can I say?",
+    "Um symbol 40 is not my my application of choice and the light version doesn't have all the bells and whistles, so sometimes I feel a little bit a little bit hamstrung in there so hopefully hopefully you're fine.",
+    "Hang out with me for that process.",
+    "It's all learning process.",
+    "I'm not sure people remember about last week.",
+    "Last week I was messing around and trying to make like a like a little scene.",
+    "In after effects, click some sconces and like a wall and.",
+    "They're going to open that up, let's see.",
+    "Most this it I don't know.",
+    "Let's find out.",
+    "Cough cough.",
+    "So this is something that we made a while ago.",
+    "I think it was last week that we were working on this and I was thinking this morning.",
+    "That There is a lot about this that.",
+    "Could be done better, maybe not better, but um, easier uhm?",
+    "Easier for us if we made this just in Cinema 4D.",
+    "'cause I was thinking like well I kinda want reactive lighting from this to be bouncing off of geometry and stuff.",
+    "I don't know.",
+    "Maybe maybe actually doing it in 3D would be a more interesting way to do it.",
+    "Ooh and oh so many people hang out in the chat today what do we got here?",
+    "Call Timo team was in the house.",
+    "Oh man, getting his own bake like a pro hanging out.",
+    "Booty movie made a case study that's awesome.",
+    "Where can we go check out the case study demo?",
+    "Also, I don't know if people are able to post the links in the chat.",
+    "I hope I hope that you are 'cause I would love to see the presentation of that.",
+    "Not obvious Oh no.",
+    "It's OK, Hey, put your case studies wherever you want, but be hands is a lovely place to do so and Adobe portfolio.",
+    "If I could say, well, we're here.",
+    "If you don't have a portfolio site, give that a try.",
+    "I should I should redo my website because it is currently a trash fire.",
+    "There have been some formatting problems for over a year, but I have done nothing about it anyway.",
+    "Yeah, check out if you're hanging out with us in the checkout teamos link because it is great to see.",
+    "Who fibbin people nachi sequence?",
+    "Now I have to Google this.",
+    "Uh.",
+    "Ooh Yes.",
+    "Timo, you also have the best taste in mechanical pencils, so just so you know, Oh my goodness.",
+    "Yes, Oh well, I love this.",
+    "That's so good.",
+    "I love it.",
+    "I love it.",
+    "So do do.",
+    "Let's get into some work.",
+    "Let's do some stuff and let's like I said, let's play around in.",
+    "Let's play around in Cinema 4D light and see what we do.",
+    "So I'm going to try to kind of recreate this kind of a thing and we're going to see is that easy?",
+    "Is it not easy?",
+    "I don't know.",
+    "I don't even know.",
+    "Look at.",
+    "I'm not going to.",
+    "I'm not going to tell people to overspend on writing implements, but as someone who is.",
+    "Constantly using the tools that hang around and hang around my desk, you know it's something that I tried to invest in if possible.",
+    "So let's see, let's see.",
+    "I like working with square gifts.",
+    "How much you can take us to 30 frames a second for a few reasons, I think that's what Instagram likes.",
+    "I don't even know.",
+    "I don't.",
+    "I don't even know anymore, but I'm going to do 10 seconds.",
+    "10 seconds at 30.",
+    "So when we are.",
+    "We're going to be working across different softwares.",
+    "It's really useful to just take a few notes for yourself, so we're working in 30 frames a second, 1080 by 1080.",
+    "1010 seconds of stuff so we can assume there are 300 frames.",
+    "So you know, we know, OK, we got 300 frames going on it's 30 FPS.",
+    "I'm taking physical notes on a physical piece of paper.",
+    "For anyone wondering, I use the Uni Kuru Toga which is a wonderful wonderful mechanical pencil.",
+    "Has this feature where it rotates the lead over the Graphite every time you poke it down on the paper cause mutava constantly Sharp Graphite which is wonderful and we are one to one.",
+    "1080 so, like almost at my critical stats, written down so when I go creating something in my eye, something in another bit of software, whether we were bouncing into.",
+    "Mocha, or whether we're going to bounce into cinema 4D or wherever we're going to go.",
+    "Making sure everything lines up, I think is pretty critical.",
+    "So I'm going to go new.",
+    "Max Anstie 40 file.",
+    "We're going to see if the program explodes.",
+    "Uh.",
+    "We're going to make a new folder here.",
+    "It's going to be June.",
+    "Resist June 21.",
+    "Perfect.",
+    "Untitled, I don't think so.",
+    "And this is like DND doorway is what we were doing last time, so we're going to continue that.",
+    "Oh no, 'cause I had to update things now it's going to give me problems.",
+    "I don't want it.",
+    "I don't want to deal.",
+    "I don't want to deal.",
+    "Come on now.",
+    "Looks like it was OK.",
+    "So oh some anonymous application activity it would like to have a look at that.",
+    "So we are graced, I suppose with semaphore delight.",
+    "Uh, What is this?",
+    "I don't want it.",
+    "I want to do updates.",
+    "Come on now.",
+    "Come on now I don't want people to hang out.",
+    "what I have to do updates.",
+    "I'll update later, OK?",
+    "Oh well hello Hello a good good to see people hanging out so many returning returning people here Scotts in the mix piddies back Zenas back.",
+    "Asks Wonderful, Wonderful Ken's here.",
+    "Now everyone's everyone's in the mix today.",
+    "OK, so simple 40 light.",
+    "What do I think about the new icons o'boy now?",
+    "Here's some of them now.",
+    "I think it's interesting I don't have as much of a problem differentiating between things.",
+    "But I don't know.",
+    "I liked the rainbow.",
+    "I enjoyed the cornucopia of things.",
+    "Yeah.",
+    "I don't know, I don't know.",
+    "I don't.",
+    "I don't totally understand the logic, but.",
+    "Personally, if it was up to me They would all be unique shapes and unique colors like one of them would be a triangle.",
+    "One of them would be a hexagon, but what are you gonna do?",
+    "You know, let's clearly there was a meeting and.",
+    "Some people did some things.",
+    "That's about all I can say, so I want to make an archway.",
+    "I wanna make an archway a gateway.",
+    "What is the scene that we are making?",
+    "Uh.",
+    "Let's see, let's see.",
+    "Let's think for a minute.",
+    "So I think in rough terms we're going to plop a plane where my plane go.",
+    "There it is.",
+    "OK, so let's see we have a ground good for us.",
+    "OK, How do I want to make the gateway?",
+    "What I'm thinking about that.",
+    "There's a few ways I might make it.",
+    "Few ways.",
+    "I could make a cube.",
+    "Why should I mean there's like infinite ways that you could make something so we could make like.",
+    "And at that.",
+    "So we could just assemble it out of some blocks like we could do that like we're playing with Lego.",
+    "Who who doesn't like playing with Lego, right?",
+    "Uh-huh We could copy and make another one.",
+    "Right and then we got this gate open.",
+    "How did I miss that?",
+    "How big are these?",
+    "Poop.",
+    "Wow.",
+    "Big plane OK.",
+    "What I'm trying to do is to think about.",
+    "Just some of the basic stuff of this you know, like like What is this thing going to?",
+    "I guess some lines out here, but yeah my hot take on the icons, they're OK I guess.",
+    "Some ancient Greek pillars, so that would be fun.",
+    "Hold on, let me write that down.",
+    "That might be an upgrade for later.",
+    "Peelers What do you think in what do you think of Mac?",
+    "Or do you think it's, uh, some Doric pillars some Corinthian pillars?",
+    "There is a lot to be thought in terms of.",
+    "Like No, not like that, uh?",
+    "I was constantly do the one that I don't want to do first.",
+    "You know, like?",
+    "Like is this the kind of a door frame?",
+    "That would be interested in I don't know.",
+    "'cause I'm thinking?",
+    "Minecraft Ian pillars.",
+    "Sick burn Timo?",
+    "What's really nice about some of this geometry here is that we can do things like.",
+    "Let's put a band on it.",
+    "Um, what else do we have bens bulge?",
+    "Fear taper twists?",
+    "OK.",
+    "Think.",
+    "And so if I want to start bending this First off, I'm bending in the wrong direction.",
+    "Protected Click and we're not going to see any bending because we need more segments.",
+    "It's not going to be enough.",
+    "Yes, kind of a Tory Gate Maybe.",
+    "Uh-huh And now can't we're going to get into this idea of is there a protection tag?",
+    "OK, hold on.",
+    "Oh No, no, no.",
+    "That can't be it.",
+    "Really tags.",
+    "Hold on, hold on camera tags.",
+    "Oh, there it is OK?",
+    "So something to know about the difference between cinema 40 light and set up 40 regular is.",
+    "You know these lists of things will have less fewer things in them, and you know that's one of the troubles.",
+    "So now I shouldn't be able to move the camera.",
+    "Yeah, OK, nothing's happening to the camera.",
+    "Thumbs up.",
+    "We're doing it.",
+    "OK, what were some of the other elements that we had in that other scene?",
+    "Let me name things.",
+    "Geometry, the sedum really matter, let's see.",
+    "Plymouth Uh.",
+    "Nope, not a plinth.",
+    "Lengths are cool, though interesting.",
+    "Had that wrong?",
+    "Do you know?",
+    "Ha ha ha.",
+    "What is this piece?",
+    "What am I thinking of little?",
+    "Lintel that it?",
+    "Yes.",
+    "Oh boy.",
+    "The.",
+    "OK, so yeah, let's see this.",
+    "Little Lin Lin tell.",
+    "Lentol Is it cooler?",
+    "If it's like this is a cooler?",
+    "If it's like art?",
+    "Huh?",
+    "Uh-huh I mean, in the original there was no bend at all, so I don't really know.",
+    "What the takeaway from that group?",
+    "You poo poo?",
+    "OK, let's see.",
+    "Uh-huh I'm wondering.",
+    "The other way around, which way this?",
+    "Should be this way.",
+    "What do we think Shoji Gates or alright?",
+    "Huh now and now I'm compelled to try to make it more complex.",
+    "Every Masons Nightmare.",
+    "Thanks Tim.",
+    "Boo.",
+    "OK, so ripped at the time.",
+    "You know?",
+    "Right now.",
+    "So we were talking about kind of making this.",
+    "More interesting.",
+    "Huh?",
+    "Now we are using.",
+    "We're just going to do some primitives modeling over here.",
+    "Vogue, Vogue do have instances.",
+    "Is that something I have?",
+    "I don't know what else do I have.",
+    "We do have instances OK?",
+    "So did you do an?",
+    "We've not yet delved into the terrifying world of lighting yet.",
+    "Go pinchy pinch.",
+    "Make it small.",
+    "Pinch pinch pinch.",
+    "Go into the S rude the inside.",
+    "Here we go.",
+    "Here we go.",
+    "Now we're getting an evil goatee.",
+    "Right?",
+    "Not only do minimal.",
+    "See little complementary geometry me, pinching here, pinching here, huh?",
+    "What do you think about that?",
+    "I mean.",
+    "It's OK, but you know still.",
+    "Hey should.",
+    "Quick quick question question.",
+    "Should all of the things that I name things be hilarious?",
+    "Will keep in mind everybody that share special was made at a time when it was hard to distill your green screens.",
+    "Yeah, yeah, that's right that share West Side Story stuff.",
+    "1978 snow joke.",
+    "I don't even think they had computers.",
+    "And I know, I know Star Wars looked a lot better and what was Star Wars like?",
+    "Let's see Star Wars.",
+    "Right now my Google searches all full of Star Wars squadrons information.",
+    "It was 1977, so this technology did exist.",
+    "Did it exist in the capacity that share could access it?",
+    "For what I'm going to consider, one of the strangest art projects I've ever observed.",
+    "OK, so we got this thing.",
+    "Get this wall.",
+    "I wrote down we should do better pillars, but.",
+    "I don't know yet.",
+    "Don't knew her dinner.",
+    "Right, I owe.",
+    "Sconces were something we needed.",
+    "Can't I love that you have the date Star Wars came out unlock?",
+    "Truly.",
+    "That's that's when you know people are true fans, OK?",
+    "Oh is usually blue back then, interesting.",
+    "Huh, I didn't know that.",
+    "Didn't know that.",
+    "Now I know what you're saying yourself, Evan.",
+    "Why are you applying wind?",
+    "Where are you applying a wind?",
+    "The former to what you're doing?",
+    "Hold on?",
+    "Wait a minute.",
+    "This is strange.",
+    "Well I wanted like some weird variation in this things.",
+    "Thing.",
+    "That was the window where is that window?",
+    "Former, there we go.",
+    "All right?",
+    "I don't think windows what I wanted.",
+    "Huh, there's no displacement deformer.",
+    "That's a vexing.",
+    "I wanted to get like WAVY up and down maybe.",
+    "I don't know.",
+    "I don't know.",
+    "I feel like we put a lot of detail here.",
+    "We didn't put any detail in these walls or on these walls.",
+    "Oh Oh, let's see here.",
+    "Oh Tim, in the chat, dropping some heat on wirecast.",
+    "Um?",
+    "Switch instances this.",
+    "OK, this is door instance.",
+    "And put it on my door.",
+    "And the torches, though I did not make us instances.",
+    "Maybe I should, I don't know, um.",
+    "No, too many too much light.",
+    "Why would there be that much light?",
+    "This is meant to be bonded us.",
+    "It's meant to be ominous.",
+    "Now the real critical quests, June Christian is a lock.",
+    "We don't have a lock on this thing.",
+    "We need to get a lock on this thing.",
+    "I mean, the door also doesn't have hinges, so I don't really know what we can take away from that.",
+    "When I think about this project, though as a whole, it feels more and more like it should be in 3D or it should be modeled in this way.",
+    "If I could build it out of Popsicle sticks, that might be the ideal version of this.",
+    "If I could have a little diorama that I could like, push a tiny micro camera through, maybe that would be the way to do it.",
+    "Yeah, can't do I want to have different lights in color or intensity.",
+    "I do so like ideally we're definitely not going to get to this today.",
+    "This is something I will fumble through without subjecting you all to it, but I would want them both to like pulse independently like flicker, flicker, flicker, flicker.",
+    "This one may be going crazy and then this one's going crazy like.",
+    "You know that they should be, you know, separate and unique things, right?",
+    "The belt ever.",
+    "This is the best way to demonstrate this with your hands, but yeah, they could be unique colors that could be unique intensities that could be unique.",
+    "Flick arena's happening with them.",
+    "That's the idea anyway, that they could be unique and interesting things in that way.",
+    "Because I really think.",
+    "Um?",
+    "Just to give you an example.",
+    "How much lighting plays into mood?",
+    "You know now the mood on my face is a little bit more extreme, right?",
+    "You might think.",
+    "Evans going a little bit crazy now just because of the way the lighting situation is, but now it's evenly lit and very pleasant.",
+    "So by being able to mess with lighting intensity and lighting situations were able to change.",
+    "The way people feel about something anyway.",
+    "I I literally installed these lights only to do that.",
+    "And took us when I play Dungeons and Dragons on the Internet.",
+    "I want to be dramatic.",
+    "Uma corn is asking, can you make the wall a bit rougher at the top?",
+    "Yes, yes.",
+    "I was thinking about I have been.",
+    "Having a ponderance about how to do this.",
+    "Noir, Evan, indeed.",
+    "Well, it seemed like a case like any other.",
+    "Oh, make sure but wanted to wanted to leave the room.",
+    "I'm wondering how to what might be the best way to do that?",
+    "What might be the best way?",
+    "To make that happen.",
+    "I'm just thinking out loud.",
+    "Because variation and manipulation of things are are some of the things that.",
+    "You know I could.",
+    "Maybe do a sweep of something across the top I could do.",
+    "Um?",
+    "I have the mograph fracture.",
+    "I could I could just take one of these walls.",
+    "OK, let's take one of these walls.",
+    "Let's give it.",
+    "I don't know.",
+    "10 and 10K.",
+    "And then.",
+    "We could take the wall and we could just make editable.",
+    "Then I could grab the points.",
+    "All right?",
+    "Right?",
+    "What?",
+    "Sale Well.",
+    "Kelly, that maybe?",
+    "Is this anything?",
+    "Where did that wall go?",
+    "And put it down here and.",
+    "Appan this wall?",
+    "Or we could even was great is now I could put a little hole in the bottom of the wall.",
+    "Block So subdivision surface.",
+    "I don't think we've talked about this.",
+    "The subdivision surface helps me smooth smooth things out by adding more subdivisions.",
+    "So for example, the wall is made of these things.",
+    "This is actually kind of the WAVY wall that I was trying to.",
+    "Achieve a little bit ago, so maybe this is the way to go.",
+    "I don't know you don't know, but it does allow you to have like a wave which is cool.",
+    "All well, because this is a fantasy thing.",
+    "It could be, it could be.",
+    "Hum.",
+    "It could be like a like a like an undulating waves constantly.",
+    "Who who who?",
+    "OK, let me maybe we do some experiments with this other wall.",
+    "Hold on.",
+    "OK, 1010 car.",
+    "Thinking about.",
+    "Oh That's that.",
+    "OK, so sorry, I just put something called the formula to former up on this wall, which is great.",
+    "And you know, as you can see, it is now putting sine wave.",
+    "Through the thing which was fun, I don't think that's really what I wanted.",
+    "It was cool though I did I did find it very cool.",
+    "The.",
+    "I do like symmetry in this.",
+    "I like that this is a very symmetrical thing, so maybe we stick with that would be to keep having to do.",
+    "Is there really no mirror in here?",
+    "Is this for real?",
+    "This is where I'm at.",
+    "This is what's happening to my Life OK?",
+    "Anyway, now they'll both be mirrored.",
+    "Building high Ah yeah.",
+    "Do do do.",
+    "OK.",
+    "1st.",
+    "Hey.",
+    "Who wants to have some fun with materials I'm hanging up for another 15 minutes here?",
+    "Let's.",
+    "Let's take the top off of this thing up.",
+    "I mean, it already looks perfect already, I don't know.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION",
+      "span": [
+        0,
+        1
+      ],
+      "sentence": [
+        "Who he good?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION",
+      "span": [
+        7,
+        8
+      ],
+      "sentence": [
+        "What can I say?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION",
+      "span": [
+        21,
+        22
+      ],
+      "sentence": [
+        "Could be done better, maybe not better, but um, easier uhm?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION",
+      "span": [
+        26,
+        27
+      ],
+      "sentence": [
+        "Ooh and oh so many people hang out in the chat today what do we got here?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION",
+      "span": [
+        30,
+        31
+      ],
+      "sentence": [
+        "Where can we go check out the case study demo?"
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION",
+      "span": [
+        40,
+        41
+      ],
+      "sentence": [
+        "Who fibbin people nachi sequence?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION",
+      "span": [
+        53,
+        54
+      ],
+      "sentence": [
+        "So I'm going to try to kind of recreate this kind of a thing and we're going to see is that easy?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION",
+      "span": [
+        54,
+        55
+      ],
+      "sentence": [
+        "Is it not easy?"
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "QUESTION",
+      "span": [
+        97,
+        98
+      ],
+      "sentence": [
+        "Uh, What is this?"
+      ]
+    },
+    "T9": {
+      "id": "T9",
+      "label": "QUESTION",
+      "span": [
+        103,
+        104
+      ],
+      "sentence": [
+        "I'll update later, OK?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION",
+      "span": [
+        108,
+        109
+      ],
+      "sentence": [
+        "What do I think about the new icons o'boy now?"
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "QUESTION",
+      "span": [
+        119,
+        120
+      ],
+      "sentence": [
+        "One of them would be a hexagon, but what are you gonna do?"
+      ]
+    },
+    "T12": {
+      "id": "T12",
+      "label": "QUESTION",
+      "span": [
+        124,
+        125
+      ],
+      "sentence": [
+        "What is the scene that we are making?"
+      ]
+    },
+    "T13": {
+      "id": "T13",
+      "label": "QUESTION",
+      "span": [
+        131,
+        132
+      ],
+      "sentence": [
+        "OK, How do I want to make the gateway?"
+      ]
+    },
+    "T14": {
+      "id": "T14",
+      "label": "QUESTION",
+      "span": [
+        139,
+        140
+      ],
+      "sentence": [
+        "Who who doesn't like playing with Lego, right?"
+      ]
+    },
+    "T15": {
+      "id": "T15",
+      "label": "QUESTION",
+      "span": [
+        142,
+        143
+      ],
+      "sentence": [
+        "How did I miss that?"
+      ]
+    },
+    "T16": {
+      "id": "T16",
+      "label": "QUESTION",
+      "span": [
+        143,
+        144
+      ],
+      "sentence": [
+        "How big are these?"
+      ]
+    },
+    "T17": {
+      "id": "T17",
+      "label": "QUESTION",
+      "span": [
+        148,
+        149
+      ],
+      "sentence": [
+        "Just some of the basic stuff of this you know, like like What is this thing going to?"
+      ]
+    },
+    "T18": {
+      "id": "T18",
+      "label": "QUESTION",
+      "span": [
+        153,
+        154
+      ],
+      "sentence": [
+        "Peelers What do you think in what do you think of Mac?"
+      ]
+    },
+    "T19": {
+      "id": "T19",
+      "label": "QUESTION",
+      "span": [
+        154,
+        155
+      ],
+      "sentence": [
+        "Or do you think it's, uh, some Doric pillars some Corinthian pillars?"
+      ]
+    },
+    "T20": {
+      "id": "T20",
+      "label": "QUESTION",
+      "span": [
+        156,
+        157
+      ],
+      "sentence": [
+        "Like No, not like that, uh?"
+      ]
+    },
+    "T21": {
+      "id": "T21",
+      "label": "QUESTION",
+      "span": [
+        158,
+        159
+      ],
+      "sentence": [
+        "You know, like?"
+      ]
+    },
+    "T22": {
+      "id": "T22",
+      "label": "QUESTION",
+      "span": [
+        159,
+        160
+      ],
+      "sentence": [
+        "Like is this the kind of a door frame?"
+      ]
+    },
+    "T23": {
+      "id": "T23",
+      "label": "QUESTION",
+      "span": [
+        161,
+        162
+      ],
+      "sentence": [
+        "'cause I'm thinking?"
+      ]
+    },
+    "T24": {
+      "id": "T24",
+      "label": "QUESTION",
+      "span": [
+        163,
+        164
+      ],
+      "sentence": [
+        "Sick burn Timo?"
+      ]
+    },
+    "T25": {
+      "id": "T25",
+      "label": "QUESTION",
+      "span": [
+        166,
+        167
+      ],
+      "sentence": [
+        "Um, what else do we have bens bulge?"
+      ]
+    },
+    "T26": {
+      "id": "T26",
+      "label": "QUESTION",
+      "span": [
+        167,
+        168
+      ],
+      "sentence": [
+        "Fear taper twists?"
+      ]
+    },
+    "T27": {
+      "id": "T27",
+      "label": "QUESTION",
+      "span": [
+        174,
+        175
+      ],
+      "sentence": [
+        "Uh-huh And now can't we're going to get into this idea of is there a protection tag?"
+      ]
+    },
+    "T28": {
+      "id": "T28",
+      "label": "QUESTION",
+      "span": [
+        180,
+        181
+      ],
+      "sentence": [
+        "Oh, there it is OK?"
+      ]
+    },
+    "T29": {
+      "id": "T29",
+      "label": "QUESTION",
+      "span": [
+        187,
+        188
+      ],
+      "sentence": [
+        "OK, what were some of the other elements that we had in that other scene?"
+      ]
+    },
+    "T30": {
+      "id": "T30",
+      "label": "QUESTION",
+      "span": [
+        193,
+        194
+      ],
+      "sentence": [
+        "Had that wrong?"
+      ]
+    },
+    "T31": {
+      "id": "T31",
+      "label": "QUESTION",
+      "span": [
+        194,
+        195
+      ],
+      "sentence": [
+        "Do you know?"
+      ]
+    },
+    "T32": {
+      "id": "T32",
+      "label": "QUESTION",
+      "span": [
+        196,
+        197
+      ],
+      "sentence": [
+        "What is this piece?"
+      ]
+    },
+    "T33": {
+      "id": "T33",
+      "label": "QUESTION",
+      "span": [
+        197,
+        198
+      ],
+      "sentence": [
+        "What am I thinking of little?"
+      ]
+    },
+    "T34": {
+      "id": "T34",
+      "label": "QUESTION",
+      "span": [
+        198,
+        199
+      ],
+      "sentence": [
+        "Lintel that it?"
+      ]
+    },
+    "T35": {
+      "id": "T35",
+      "label": "QUESTION",
+      "span": [
+        204,
+        205
+      ],
+      "sentence": [
+        "Lentol Is it cooler?"
+      ]
+    },
+    "T36": {
+      "id": "T36",
+      "label": "QUESTION",
+      "span": [
+        205,
+        206
+      ],
+      "sentence": [
+        "If it's like this is a cooler?"
+      ]
+    },
+    "T37": {
+      "id": "T37",
+      "label": "QUESTION",
+      "span": [
+        206,
+        207
+      ],
+      "sentence": [
+        "If it's like art?"
+      ]
+    },
+    "T38": {
+      "id": "T38",
+      "label": "QUESTION",
+      "span": [
+        207,
+        208
+      ],
+      "sentence": [
+        "Huh?"
+      ]
+    },
+    "T39": {
+      "id": "T39",
+      "label": "QUESTION",
+      "span": [
+        209,
+        210
+      ],
+      "sentence": [
+        "What the takeaway from that group?"
+      ]
+    },
+    "T40": {
+      "id": "T40",
+      "label": "QUESTION",
+      "span": [
+        210,
+        211
+      ],
+      "sentence": [
+        "You poo poo?"
+      ]
+    },
+    "T41": {
+      "id": "T41",
+      "label": "QUESTION",
+      "span": [
+        213,
+        214
+      ],
+      "sentence": [
+        "The other way around, which way this?"
+      ]
+    },
+    "T42": {
+      "id": "T42",
+      "label": "QUESTION",
+      "span": [
+        215,
+        216
+      ],
+      "sentence": [
+        "What do we think Shoji Gates or alright?"
+      ]
+    },
+    "T43": {
+      "id": "T43",
+      "label": "QUESTION",
+      "span": [
+        221,
+        222
+      ],
+      "sentence": [
+        "You know?"
+      ]
+    },
+    "T44": {
+      "id": "T44",
+      "label": "QUESTION",
+      "span": [
+        225,
+        226
+      ],
+      "sentence": [
+        "Huh?"
+      ]
+    },
+    "T45": {
+      "id": "T45",
+      "label": "QUESTION",
+      "span": [
+        229,
+        230
+      ],
+      "sentence": [
+        "Is that something I have?"
+      ]
+    },
+    "T46": {
+      "id": "T46",
+      "label": "QUESTION",
+      "span": [
+        231,
+        232
+      ],
+      "sentence": [
+        "We do have instances OK?"
+      ]
+    },
+    "T47": {
+      "id": "T47",
+      "label": "QUESTION",
+      "span": [
+        232,
+        233
+      ],
+      "sentence": [
+        "So did you do an?"
+      ]
+    },
+    "T48": {
+      "id": "T48",
+      "label": "QUESTION",
+      "span": [
+        241,
+        242
+      ],
+      "sentence": [
+        "Right?"
+      ]
+    },
+    "T49": {
+      "id": "T49",
+      "label": "QUESTION",
+      "span": [
+        243,
+        244
+      ],
+      "sentence": [
+        "See little complementary geometry me, pinching here, pinching here, huh?"
+      ]
+    },
+    "T50": {
+      "id": "T50",
+      "label": "QUESTION",
+      "span": [
+        244,
+        245
+      ],
+      "sentence": [
+        "What do you think about that?"
+      ]
+    },
+    "T51": {
+      "id": "T51",
+      "label": "QUESTION",
+      "span": [
+        249,
+        250
+      ],
+      "sentence": [
+        "Should all of the things that I name things be hilarious?"
+      ]
+    },
+    "T52": {
+      "id": "T52",
+      "label": "QUESTION",
+      "span": [
+        254,
+        255
+      ],
+      "sentence": [
+        "And I know, I know Star Wars looked a lot better and what was Star Wars like?"
+      ]
+    },
+    "T53": {
+      "id": "T53",
+      "label": "QUESTION",
+      "span": [
+        258,
+        259
+      ],
+      "sentence": [
+        "Did it exist in the capacity that share could access it?"
+      ]
+    },
+    "T54": {
+      "id": "T54",
+      "label": "QUESTION",
+      "span": [
+        267,
+        268
+      ],
+      "sentence": [
+        "Can't I love that you have the date Star Wars came out unlock?"
+      ]
+    },
+    "T55": {
+      "id": "T55",
+      "label": "QUESTION",
+      "span": [
+        269,
+        270
+      ],
+      "sentence": [
+        "That's that's when you know people are true fans, OK?"
+      ]
+    },
+    "T56": {
+      "id": "T56",
+      "label": "QUESTION",
+      "span": [
+        274,
+        275
+      ],
+      "sentence": [
+        "Why are you applying wind?"
+      ]
+    },
+    "T57": {
+      "id": "T57",
+      "label": "QUESTION",
+      "span": [
+        275,
+        276
+      ],
+      "sentence": [
+        "Where are you applying a wind?"
+      ]
+    },
+    "T58": {
+      "id": "T58",
+      "label": "QUESTION",
+      "span": [
+        276,
+        277
+      ],
+      "sentence": [
+        "The former to what you're doing?"
+      ]
+    },
+    "T59": {
+      "id": "T59",
+      "label": "QUESTION",
+      "span": [
+        277,
+        278
+      ],
+      "sentence": [
+        "Hold on?"
+      ]
+    },
+    "T60": {
+      "id": "T60",
+      "label": "QUESTION",
+      "span": [
+        282,
+        283
+      ],
+      "sentence": [
+        "That was the window where is that window?"
+      ]
+    },
+    "T61": {
+      "id": "T61",
+      "label": "QUESTION",
+      "span": [
+        284,
+        285
+      ],
+      "sentence": [
+        "All right?"
+      ]
+    },
+    "T62": {
+      "id": "T62",
+      "label": "QUESTION",
+      "span": [
+        295,
+        296
+      ],
+      "sentence": [
+        "Um?"
+      ]
+    },
+    "T63": {
+      "id": "T63",
+      "label": "QUESTION",
+      "span": [
+        302,
+        303
+      ],
+      "sentence": [
+        "Why would there be that much light?"
+      ]
+    },
+    "T64": {
+      "id": "T64",
+      "label": "QUESTION",
+      "span": [
+        316,
+        317
+      ],
+      "sentence": [
+        "You know that they should be, you know, separate and unique things, right?"
+      ]
+    },
+    "T65": {
+      "id": "T65",
+      "label": "QUESTION",
+      "span": [
+        322,
+        323
+      ],
+      "sentence": [
+        "Um?"
+      ]
+    },
+    "T66": {
+      "id": "T66",
+      "label": "QUESTION",
+      "span": [
+        324,
+        325
+      ],
+      "sentence": [
+        "How much lighting plays into mood?"
+      ]
+    },
+    "T67": {
+      "id": "T67",
+      "label": "QUESTION",
+      "span": [
+        325,
+        326
+      ],
+      "sentence": [
+        "You know now the mood on my face is a little bit more extreme, right?"
+      ]
+    },
+    "T68": {
+      "id": "T68",
+      "label": "QUESTION",
+      "span": [
+        333,
+        334
+      ],
+      "sentence": [
+        "Uma corn is asking, can you make the wall a bit rougher at the top?"
+      ]
+    },
+    "T69": {
+      "id": "T69",
+      "label": "QUESTION",
+      "span": [
+        340,
+        341
+      ],
+      "sentence": [
+        "I'm wondering how to what might be the best way to do that?"
+      ]
+    },
+    "T70": {
+      "id": "T70",
+      "label": "QUESTION",
+      "span": [
+        341,
+        342
+      ],
+      "sentence": [
+        "What might be the best way?"
+      ]
+    },
+    "T71": {
+      "id": "T71",
+      "label": "QUESTION",
+      "span": [
+        347,
+        348
+      ],
+      "sentence": [
+        "Um?"
+      ]
+    },
+    "T72": {
+      "id": "T72",
+      "label": "QUESTION",
+      "span": [
+        357,
+        358
+      ],
+      "sentence": [
+        "All right?"
+      ]
+    },
+    "T73": {
+      "id": "T73",
+      "label": "QUESTION",
+      "span": [
+        358,
+        359
+      ],
+      "sentence": [
+        "Right?"
+      ]
+    },
+    "T74": {
+      "id": "T74",
+      "label": "QUESTION",
+      "span": [
+        359,
+        360
+      ],
+      "sentence": [
+        "What?"
+      ]
+    },
+    "T75": {
+      "id": "T75",
+      "label": "QUESTION",
+      "span": [
+        361,
+        362
+      ],
+      "sentence": [
+        "Kelly, that maybe?"
+      ]
+    },
+    "T76": {
+      "id": "T76",
+      "label": "QUESTION",
+      "span": [
+        362,
+        363
+      ],
+      "sentence": [
+        "Is this anything?"
+      ]
+    },
+    "T77": {
+      "id": "T77",
+      "label": "QUESTION",
+      "span": [
+        363,
+        364
+      ],
+      "sentence": [
+        "Where did that wall go?"
+      ]
+    },
+    "T78": {
+      "id": "T78",
+      "label": "QUESTION",
+      "span": [
+        365,
+        366
+      ],
+      "sentence": [
+        "Appan this wall?"
+      ]
+    },
+    "T79": {
+      "id": "T79",
+      "label": "QUESTION",
+      "span": [
+        378,
+        379
+      ],
+      "sentence": [
+        "Who who who?"
+      ]
+    },
+    "T80": {
+      "id": "T80",
+      "label": "QUESTION",
+      "span": [
+        391,
+        392
+      ],
+      "sentence": [
+        "Is there really no mirror in here?"
+      ]
+    },
+    "T81": {
+      "id": "T81",
+      "label": "QUESTION",
+      "span": [
+        392,
+        393
+      ],
+      "sentence": [
+        "Is this for real?"
+      ]
+    },
+    "T82": {
+      "id": "T82",
+      "label": "QUESTION",
+      "span": [
+        394,
+        395
+      ],
+      "sentence": [
+        "This is what's happening to my Life OK?"
+      ]
+    },
+    "T83": {
+      "id": "T83",
+      "label": "QUESTION",
+      "span": [
+        401,
+        402
+      ],
+      "sentence": [
+        "Who wants to have some fun with materials I'm hanging up for another 15 minutes here?"
+      ]
+    },
+    "T84": {
+      "id": "T84",
+      "label": "ANSWER",
+      "span": [
+        55,
+        56
+      ],
+      "sentence": [
+        "I don't know."
+      ]
+    },
+    "T85": {
+      "id": "T85",
+      "label": "ANSWER",
+      "span": [
+        98,
+        99
+      ],
+      "sentence": [
+        "I don't want it."
+      ]
+    },
+    "T86": {
+      "id": "T86",
+      "label": "ANSWER",
+      "span": [
+        110,
+        113
+      ],
+      "sentence": [
+        "I think it's interesting I don't have as much of a problem differentiating between things.",
+        "But I don't know.",
+        "I liked the rainbow."
+      ]
+    },
+    "T87": {
+      "id": "T87",
+      "label": "ANSWER",
+      "span": [
+        133,
+        136
+      ],
+      "sentence": [
+        "There's a few ways I might make it.",
+        "Few ways.",
+        "I could make a cube."
+      ]
+    },
+    "T88": {
+      "id": "T88",
+      "label": "ANSWER",
+      "span": [
+        176,
+        179
+      ],
+      "sentence": [
+        "Oh No, no, no.",
+        "That can't be it.",
+        "Really tags."
+      ]
+    },
+    "T89": {
+      "id": "T89",
+      "label": "ANSWER",
+      "span": [
+        199,
+        200
+      ],
+      "sentence": [
+        "Yes."
+      ]
+    },
+    "T90": {
+      "id": "T90",
+      "label": "ANSWER",
+      "span": [
+        214,
+        215
+      ],
+      "sentence": [
+        "Should be this way."
+      ]
+    },
+    "T91": {
+      "id": "T91",
+      "label": "ANSWER",
+      "span": [
+        245,
+        247
+      ],
+      "sentence": [
+        "I mean.",
+        "It's OK, but you know still."
+      ]
+    },
+    "T92": {
+      "id": "T92",
+      "label": "ANSWER",
+      "span": [
+        334,
+        335
+      ],
+      "sentence": [
+        "Yes, yes."
+      ]
+    },
+    "T93": {
+      "id": "T93",
+      "label": "ANSWER",
+      "span": [
+        349,
+        357
+      ],
+      "sentence": [
+        "I could I could just take one of these walls.",
+        "OK, let's take one of these walls.",
+        "Let's give it.",
+        "I don't know.",
+        "10 and 10K.",
+        "And then.",
+        "We could take the wall and we could just make editable.",
+        "Then I could grab the points."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T7",
+      "answer": "T84",
+      "question_sentence": [
+        "Is it not easy?"
+      ],
+      "answer_sentence": [
+        "I don't know."
+      ]
+    },
+    "R2": {
+      "id": "R2",
+      "label": "Chitchat",
+      "question": "T8",
+      "answer": "T85",
+      "question_sentence": [
+        "Uh, What is this?"
+      ],
+      "answer_sentence": [
+        "I don't want it."
+      ]
+    },
+    "R3": {
+      "id": "R3",
+      "label": "Chitchat",
+      "question": "T10",
+      "answer": "T86",
+      "question_sentence": [
+        "What do I think about the new icons o'boy now?"
+      ],
+      "answer_sentence": [
+        "I think it's interesting I don't have as much of a problem differentiating between things.",
+        "But I don't know.",
+        "I liked the rainbow."
+      ]
+    },
+    "R4": {
+      "id": "R4",
+      "label": "Chitchat",
+      "question": "T13",
+      "answer": "T87",
+      "question_sentence": [
+        "OK, How do I want to make the gateway?"
+      ],
+      "answer_sentence": [
+        "There's a few ways I might make it.",
+        "Few ways.",
+        "I could make a cube."
+      ]
+    },
+    "R5": {
+      "id": "R5",
+      "label": "Chitchat",
+      "question": "T27",
+      "answer": "T88",
+      "question_sentence": [
+        "Uh-huh And now can't we're going to get into this idea of is there a protection tag?"
+      ],
+      "answer_sentence": [
+        "Oh No, no, no.",
+        "That can't be it.",
+        "Really tags."
+      ]
+    },
+    "R6": {
+      "id": "R6",
+      "label": "Chitchat",
+      "question": "T34",
+      "answer": "T89",
+      "question_sentence": [
+        "Lintel that it?"
+      ],
+      "answer_sentence": [
+        "Yes."
+      ]
+    },
+    "R7": {
+      "id": "R7",
+      "label": "Chitchat",
+      "question": "T41",
+      "answer": "T90",
+      "question_sentence": [
+        "The other way around, which way this?"
+      ],
+      "answer_sentence": [
+        "Should be this way."
+      ]
+    },
+    "R8": {
+      "id": "R8",
+      "label": "Chitchat",
+      "question": "T50",
+      "answer": "T91",
+      "question_sentence": [
+        "What do you think about that?"
+      ],
+      "answer_sentence": [
+        "I mean.",
+        "It's OK, but you know still."
+      ]
+    },
+    "R9": {
+      "id": "R9",
+      "label": "Chitchat",
+      "question": "T68",
+      "answer": "T92",
+      "question_sentence": [
+        "Uma corn is asking, can you make the wall a bit rougher at the top?"
+      ],
+      "answer_sentence": [
+        "Yes, yes."
+      ]
+    },
+    "R10": {
+      "id": "R10",
+      "label": "Chitchat",
+      "question": "T70",
+      "answer": "T93",
+      "question_sentence": [
+        "What might be the best way?"
+      ],
+      "answer_sentence": [
+        "I could I could just take one of these walls.",
+        "OK, let's take one of these walls.",
+        "Let's give it.",
+        "I don't know.",
+        "10 and 10K.",
+        "And then.",
+        "We could take the wall and we could just make editable.",
+        "Then I could grab the points."
+      ]
+    }
+  }
+}

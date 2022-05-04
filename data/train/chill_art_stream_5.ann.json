@@ -1,0 +1,291 @@
+{
+  "sentence": [
+    "Switch that.",
+    "No, people are setting off fireworks in the park.",
+    "Should we do that now?",
+    "This bit of her good Lord, Yeah here.",
+    "Nice, perfectly good.",
+    "That is a good song.",
+    "That came out weird.",
+    "Oh, that's like a perfect curve noise.",
+    "It.",
+    "Z.",
+    "Oh cool OK OK OK OK.",
+    "I'm going to.",
+    "Oh Amazon toll Oh, and I just want to do it that way.",
+    "Oh no, it's not symmetrical.",
+    "Oh well.",
+    "OK, that is OK.",
+    "That's why I do it in such a weird way.",
+    "Just makes no sense, but 80 only.",
+    "Kind of how things work, right?",
+    "You just kind of get a basic idea of what you want to do, and then you just throw it together and you're like, is this going to work?",
+    "I don't know.",
+    "Jebby, Jacob.",
+    "Thank you for the follow.",
+    "Welcome in.",
+    "Sunday Monday Tuesday Wednesday Thursday Friday.",
+    "So so I can actually make these.",
+    "I'm going to erase all.",
+    "I'm going to make these these.",
+    "He How am I going to do this?",
+    "Ask for it.",
+    "Really.",
+    "Little bit wider.",
+    "There.",
+    "Data.",
+    "OK, we merge all those layers, Andrew or it's thank you so much for the follow.",
+    "Hello hello.",
+    "OK, so Sunday Monday Tuesday Wednesday Thursday.",
+    "OK so I need to do some finagle ING in here.",
+    "Where is that line OK?",
+    "Delete.",
+    "Inverse I think this one.",
+    "OK, so.",
+    "Exactly sure what it is that I'm doing.",
+    "I need to make all of these wider though that's one thing I do now.",
+    "OK.",
+    "I hate this be hand set up.",
+    "I always accidentally closed out.",
+    "It takes a little bit to get used to it.",
+    "It absolutely does.",
+    "I still I still get a little confused about it myself.",
+    "Sunday Monday Tuesday Wednesday Thursday Friday Saturday.",
+    "Using 3.",
+    "A.",
+    "OK yeah yeah stop it.",
+    "OK merge layers there.",
+    "How would I do that?",
+    "That's not what I wanted.",
+    "OK, here we go.",
+    "I'm just writing down.",
+    "Sunday Monday Tuesday Wednesday Thursday Friday Saturday.",
+    "So I actually need to do, yeah, so much down.",
+    "Screen.",
+    "OK.",
+    "Search Sunday Monday Tuesday Wednesday Thursday Friday Saturday.",
+    "I figured it out.",
+    "Took me a bit.",
+    "How are you streaming this uhm?",
+    "I was able to.",
+    "I got permission from Adobe an from be hands to stream on behalf.",
+    "So as you're watching there should be this little pop up that comes up and it should say do you want to stream for Behance?",
+    "Click here and you can like submit an application to be hands to ask for permission.",
+    "'cause I think Adobe is still trying to figure out how Behance works and how to get it functioning and things like that.",
+    "And, uh.",
+    "A full year of Adobe OC.",
+    "I'm gonna focus.",
+    "I'm a kid in the candy store, Yeah, but to stream I'm using OBS.",
+    "It's it's.",
+    "I don't know if I should say it's like an older streaming program.",
+    "I'm still trying to figure out how it is, but I'm just using OBSN streaming through be hands fireworks, step it up.",
+    "I'm going to do this really think someone put this blanket on my seat.",
+    "I have like a leather seat.",
+    "So as all of us, if any of us have set on whether we all know that getting sweaty but it's kind of common.",
+    "That could be growth for a minute.",
+    "Um?",
+    "OK, I'm just using the hands and Oh yes kind of thing.",
+    "But uh, while you're watching my stream a little window should be popping up.",
+    "Are you interested in streaming kind of thing?",
+    "Or you can?",
+    "There is a way for you to set up or submit an application.",
+    "I can't remember exactly how in this very moment.",
+    "And.",
+    "Oh, that's actually really cute.",
+    "I like it without that Black border.",
+    "So.",
+    "Alright, firm up those lines.",
+    "That's actually really cute, OK?",
+    "Hum.",
+    "And then.",
+    "Spam.",
+    "Let's pastels.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION",
+      "span": [
+        2,
+        3
+      ],
+      "sentence": [
+        "Should we do that now?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION",
+      "span": [
+        18,
+        19
+      ],
+      "sentence": [
+        "Kind of how things work, right?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION",
+      "span": [
+        19,
+        20
+      ],
+      "sentence": [
+        "You just kind of get a basic idea of what you want to do, and then you just throw it together and you're like, is this going to work?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION",
+      "span": [
+        28,
+        29
+      ],
+      "sentence": [
+        "He How am I going to do this?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION",
+      "span": [
+        38,
+        39
+      ],
+      "sentence": [
+        "Where is that line OK?"
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION",
+      "span": [
+        55,
+        56
+      ],
+      "sentence": [
+        "How would I do that?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        66,
+        67
+      ],
+      "sentence": [
+        "How are you streaming this uhm?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION",
+      "span": [
+        69,
+        70
+      ],
+      "sentence": [
+        "So as you're watching there should be this little pop up that comes up and it should say do you want to stream for Behance?"
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "QUESTION",
+      "span": [
+        83,
+        84
+      ],
+      "sentence": [
+        "Um?"
+      ]
+    },
+    "T9": {
+      "id": "T9",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        86,
+        87
+      ],
+      "sentence": [
+        "Are you interested in streaming kind of thing?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION",
+      "span": [
+        87,
+        88
+      ],
+      "sentence": [
+        "Or you can?"
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "QUESTION",
+      "span": [
+        95,
+        96
+      ],
+      "sentence": [
+        "That's actually really cute, OK?"
+      ]
+    },
+    "T12": {
+      "id": "T12",
+      "label": "ANSWER",
+      "span": [
+        67,
+        69
+      ],
+      "sentence": [
+        "I was able to.",
+        "I got permission from Adobe an from be hands to stream on behalf."
+      ]
+    },
+    "T13": {
+      "id": "T13",
+      "label": "ANSWER",
+      "span": [
+        70,
+        72
+      ],
+      "sentence": [
+        "Click here and you can like submit an application to be hands to ask for permission.",
+        "'cause I think Adobe is still trying to figure out how Behance works and how to get it functioning and things like that."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T6",
+      "answer": "T12",
+      "question_sentence": [
+        "How are you streaming this uhm?"
+      ],
+      "answer_sentence": [
+        "I was able to.",
+        "I got permission from Adobe an from be hands to stream on behalf."
+      ]
+    },
+    "R2": {
+      "id": "R2",
+      "label": "Chitchat",
+      "question": "T7",
+      "answer": "T13",
+      "question_sentence": [
+        "So as you're watching there should be this little pop up that comes up and it should say do you want to stream for Behance?"
+      ],
+      "answer_sentence": [
+        "Click here and you can like submit an application to be hands to ask for permission.",
+        "'cause I think Adobe is still trying to figure out how Behance works and how to get it functioning and things like that."
+      ]
+    }
+  }
+}

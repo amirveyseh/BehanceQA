@@ -1,0 +1,218 @@
+{
+  "sentence": [
+    "Trying a couple of things just to kind of see if it works or not and it might look weird, it might work.",
+    "Yeah, actually I am going to go over to a vector brush.",
+    "Just because sometimes.",
+    "I don't love how the.",
+    "The the pixel brushes can kind of lose resolution, so I think I am going to stick with this unless actually well I should look at some other pixel brushes.",
+    "I do always like the Kansas brush.",
+    "But Actually, not sure why it's looking so pixlee.",
+    "Um?",
+    "Super weird, maybe?",
+    "I mean, I guess I am zoomed in a lot, but.",
+    "Feel like it shouldn't look that pixelated.",
+    "I wonder if it's.",
+    "Has to do with the streaming or something?",
+    "That's super weird.",
+    "See.",
+    "Yeah, I don't know now I'm torn because I I guess I do like that rougher edge for this but.",
+    "I want to make sure it doesn't look weird, maybe I'll I'll do everything in vector brush and then I can rough enough edges afterwards.",
+    "Um?",
+    "I don't know.",
+    "It's weird though.",
+    "OK so.",
+    "Um?",
+    "This is a little drawing I did, um.",
+    "After I spent a night camping at um.",
+    "This.",
+    "Please call block push which is an Olympic.",
+    "National Park and come.",
+    "It's like the upper left edge of the United States, and it's just this gorgeous.",
+    "Gorgeous um area.",
+    "So we actually like pitched our tent right on the beach and um.",
+    "Alright, I don't know exactly what if I'll be able to use this Patch or not, but I just kind of thought that was a fun thing.",
+    "I feel like even 'cause I'm drawing a squirrel, it might be kind of cool to do the little 8 corn.",
+    "Um?",
+    "Which I also feel like it's like a very like Forrest Midwest.",
+    "Nostalgic thing.",
+    "I remember.",
+    "Growing up As a kid in finding acorns like all in the forest.",
+    "Camden is asking do you find when drawing music helps you or does it distract you?",
+    "It definitely helps me.",
+    "It's actually kind of a bit of a bummer that during the live streams I'm not able to listen to music because.",
+    "It would mess up the audio, uhm?",
+    "But no, I I love.",
+    "I love listening to music and just kind of getting lost.",
+    "It definitely helps me.",
+    "I also will listen to podcasts or sometimes I'll even have a good TV show in the background or whatnot.",
+    "Or audio books.",
+    "I've started doing more audio books lately, but.",
+    "Yeah, I definitely enjoy it for sure.",
+    "OK, very cool 8 corn.",
+    "And then I feel like he needs like a little.",
+    "Texture.",
+    "OK, so that's my acorn.",
+    "And let's see, let's see.",
+    "What else feels super?",
+    "Midwest City That's a good draw or write out.",
+    "Goodbye.",
+    "Uhm, OK.",
+    "So I don't really know if that this acorn is making any sense in here, but will, I guess I'm kind of see.",
+    "Maybe it would be like a cool thing to have like.",
+    "Um?",
+    "It is like a placeholder, almost 4.",
+    "Uh.",
+    "Some text I don't know yet.",
+    "I'll say that but and then also, I was kind of thinking of again.",
+    "I want to try to switch up my colors again like I always experiment and see what other colors I can start to incorporate.",
+    "So feel like this green is like a background would be cool 'cause it's super super super nostalgic and like kind of just like that Forest Green.",
+    "And then.",
+    "OK, I'm thinking like a yellow.",
+    "Cool.",
+    "Camden is asking do you practice texture a bunch or have any tips?",
+    "OK, I think my snap to line.",
+    "Feature for some reason stuffed.",
+    "It's super weird.",
+    "Let me see if I can actually, I'm going to Google it.",
+    "It used to be a snap.",
+    "Total wine in Frisco.",
+    "That was like part of the experimental features.",
+    "And it feels like it.",
+    "Um?",
+    "It seems like it just.",
+    "Somehow got Ray so.",
+    "Let me just quickly I'm looking up right now, Googling, making sure I can do this straight edge tool.",
+    "In Adobe fresco.",
+    "Sensitive.",
+    "OK, it says use a straight edge tool.",
+    "Sing artwork edge tool.",
+    "Huh?",
+    "Alright, I'm sorry guys having some technical difficulties right now, um.",
+    "So OK, this is the straight edge tools.",
+    "Now that's transform.",
+    "It totally went away.",
+    "OK, it move the straight edge tool.",
+    "Something in the screen.",
+    "Ah, I found it.",
+    "It's down here that this bottom right to off there we go yay.",
+    "OK, cool.",
+    "So I'm actually haven't used this yet.",
+    "I think this is a brand new feature.",
+    "Uh oh, don't want last so.",
+    "Nope, that is the wrong brush.",
+    ""
+  ],
+  "entity": {
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        37,
+        38
+      ],
+      "sentence": [
+        "Camden is asking do you find when drawing music helps you or does it distract you?"
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        53,
+        54
+      ],
+      "sentence": [
+        "What else feels super?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        69,
+        70
+      ],
+      "sentence": [
+        "Camden is asking do you practice texture a bunch or have any tips?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        11,
+        13
+      ],
+      "sentence": [
+        "I wonder if it's.",
+        "Has to do with the streaming or something?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "ANSWER",
+      "span": [
+        38,
+        48
+      ],
+      "sentence": [
+        "It definitely helps me.",
+        "It's actually kind of a bit of a bummer that during the live streams I'm not able to listen to music because.",
+        "It would mess up the audio, uhm?",
+        "But no, I I love.",
+        "I love listening to music and just kind of getting lost.",
+        "It definitely helps me.",
+        "I also will listen to podcasts or sometimes I'll even have a good TV show in the background or whatnot.",
+        "Or audio books.",
+        "I've started doing more audio books lately, but.",
+        "Yeah, I definitely enjoy it for sure."
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "ANSWER",
+      "span": [
+        54,
+        55
+      ],
+      "sentence": [
+        "Midwest City That's a good draw or write out."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T6",
+      "answer": "T2",
+      "question_sentence": [
+        "Camden is asking do you find when drawing music helps you or does it distract you?"
+      ],
+      "answer_sentence": [
+        "It definitely helps me.",
+        "It's actually kind of a bit of a bummer that during the live streams I'm not able to listen to music because.",
+        "It would mess up the audio, uhm?",
+        "But no, I I love.",
+        "I love listening to music and just kind of getting lost.",
+        "It definitely helps me.",
+        "I also will listen to podcasts or sometimes I'll even have a good TV show in the background or whatnot.",
+        "Or audio books.",
+        "I've started doing more audio books lately, but.",
+        "Yeah, I definitely enjoy it for sure."
+      ]
+    },
+    "R2": {
+      "id": "R2",
+      "label": "Chitchat",
+      "question": "T8",
+      "answer": "T3",
+      "question_sentence": [
+        "What else feels super?"
+      ],
+      "answer_sentence": [
+        "Midwest City That's a good draw or write out."
+      ]
+    }
+  }
+}

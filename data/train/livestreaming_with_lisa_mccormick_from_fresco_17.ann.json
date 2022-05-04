@@ -1,0 +1,175 @@
+{
+  "sentence": [
+    "Took a sun up there maybe.",
+    "Uhm, I don't know.",
+    "That's kind of cool, but I also I don't know if I like how.",
+    "Tall, it is really.",
+    "It could be a tree over there.",
+    "I guess it's kind of cool.",
+    "The.",
+    "At the different shape.",
+    "Um?",
+    "And wow yeah, look at how different that looks now then this first original 1.",
+    "Uhm, but yeah, we'll just keep those two together still and then.",
+    "Alright, what other ideas so?",
+    "I was sketching some kind of.",
+    "Other fun ideas?",
+    "Well, this is a very.",
+    "Very important little piece of the little.",
+    "Crabs.",
+    "Um?",
+    "That come once like the Tide goes down, it's crazy.",
+    "I guess it's probably true of like any anywhere that's like over by the sea, but uhm.",
+    "I'm from the Midwest, so I'm pretty much used to being landlocked, so again, seeing all the crabs and like the sea urchins and little creatures definitely made.",
+    "A big impression on me, so I wonder.",
+    "Be sure to include that.",
+    "And you know, I just had an idea too.",
+    "'cause I kind of want to make.",
+    "This guy feel a little bit more like symmetrical.",
+    "And not so.",
+    "I mean, it's definitely hand drawn, but.",
+    "Um?",
+    "Maybe not quite as loose.",
+    "So I'm gonna just draw like half of him.",
+    "I feel like I'm almost running out of room to drop, but OK.",
+    "Then draw half of him and then I'm going to duplicate.",
+    "And Transform.",
+    "Flip it.",
+    "And see if well, I.",
+    "Kind of keeps him a little bit more clean.",
+    "Oops.",
+    "Nothing to do that there you go.",
+    "OK, so then I'll close that gap up.",
+    "Smart textures look but.",
+    "Is brush might be like almost a little bit too?",
+    "Intense and wild.",
+    "'cause there's just like so much variety in the UM.",
+    "In the shape so 'cause it's it supposed to almost be like I think like A.",
+    "Runny old ink nip that just kinda.",
+    "Has a mind of its own, a little bit, which definitely gives it some cool.",
+    "Variety, but.",
+    "Sometimes, like when I'm working on.",
+    "A piece that already is a little bit complicated like.",
+    "I like to use cleaner brushes or so.",
+    "It doesn't look like a total like muddy, messy.",
+    "Uhm?",
+    "Like what the heck is going on like this is?",
+    "Little too crazy.",
+    "So I'm just going to.",
+    "Drying in a couple.",
+    "A couple pieces and then we'll see how it looks.",
+    "And then I made.",
+    "Try a different brush instead.",
+    "And that's one of my favorite things about working digitally is that we can.",
+    "Really take advantage of the fact that.",
+    "Some there's layers and everything is digital, so you can try something and then if you don't like it, delete it.",
+    "If you're not sure, you can save it on a new layer and try something else out, like.",
+    "It's it's really, really nice for.",
+    "For experimenting without losing any.",
+    "Um?",
+    "Anything really, I mean?",
+    "I think I was talking about this in my last stream, but I just remember especially in high school and my art classes I just I would always end up ruining so many leg of my paintings and drawings because I always like to like see how far I can push things and it's kind of like, you know I learned by taking them as far as possible and then a little bit over over the edge and then it's like.",
+    "OK, like.",
+    "So when you add almost too much detail are go a little bit too crazy at.",
+    "Kind of kills it, but then like this step right before that is like its full potential so.",
+    "Working digitally is nice because I can.",
+    "I can find my limit and then you know go back a step and.",
+    "And it's perfect and.",
+    "In high school that was just not really the case.",
+    "I would just always ruin ruin my drawings and paintings, but that's OK.",
+    "It's all part of the learning experience.",
+    "OK, so this is What is this one?",
+    "Kyle's in Fox Euro comics liner.",
+    "So let me just.",
+    "Kyle Your comics.",
+    "OK, so yeah, I think that that is a little bit too.",
+    "Like Fuzzy and.",
+    "And consistent I guess.",
+    "Here's a.",
+    "Pro anchor.",
+    "From drinker Yeah, I'm almost thinking maybe I do wanna just.",
+    "Do this in um.",
+    "Like a just.",
+    "A basic uhm factor brush and then.",
+    "After I'm done, I can go in and.",
+    "Switch out the brushes and do.",
+    "Or add some texture I mean.",
+    "'cause I feel like that's just like what's going to.",
+    "And do another new layer and.",
+    "Right over it again.",
+    "And then hopefully, this time we'll have our final.",
+    "Lettering national, and hopefully I'll spell it right as well, uhm.",
+    "Such a funny thing with lettering and spelling.",
+    ""
+  ],
+  "entity": {
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        11,
+        12
+      ],
+      "sentence": [
+        "Alright, what other ideas so?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        78,
+        79
+      ],
+      "sentence": [
+        "OK, so this is What is this one?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        53,
+        54
+      ],
+      "sentence": [
+        "Like what the heck is going on like this is?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "ANSWER",
+      "span": [
+        79,
+        85
+      ],
+      "sentence": [
+        "Kyle's in Fox Euro comics liner.",
+        "So let me just.",
+        "Kyle Your comics.",
+        "OK, so yeah, I think that that is a little bit too.",
+        "Like Fuzzy and.",
+        "And consistent I guess."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T10",
+      "answer": "T3",
+      "question_sentence": [
+        "OK, so this is What is this one?"
+      ],
+      "answer_sentence": [
+        "Kyle's in Fox Euro comics liner.",
+        "So let me just.",
+        "Kyle Your comics.",
+        "OK, so yeah, I think that that is a little bit too.",
+        "Like Fuzzy and.",
+        "And consistent I guess."
+      ]
+    }
+  }
+}

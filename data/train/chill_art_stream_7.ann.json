@@ -1,0 +1,313 @@
+{
+  "sentence": [
+    "Alright, I think I was actually on to something there maybe.",
+    "Alright Alright Alright.",
+    "And.",
+    "You accept Crypto, are you monetizing this at all?",
+    "I don't know.",
+    "I don't know what Crypto is an monetizing, I don't.",
+    "I don't understand what you mean by that question.",
+    "I'm kind of a goofball.",
+    "I'm sorry.",
+    "Why did my color go away?",
+    "Yeah, WS, there's there's so many ways to write a W.",
+    "Annetts I've never been satisfied with the way that I do it.",
+    "I can feel like geez.",
+    "I don't appreciate your Bang Bang out there.",
+    "OK, that's a little better.",
+    "Can I hear we are alright?",
+    "That's a little more satisfying.",
+    "Tuesday, Wednesday Sorry, my anxiety is going a little crazy.",
+    "I hate I hate fireworks.",
+    "I love them.",
+    "When I was little, but there's something like now that I'm an adult.",
+    "There's something about fireworks like.",
+    "I wonder if in my past life I was in like you know, if I did have a past life, I don't know if I did or not.",
+    "The universe is weird.",
+    "Time travel is weird, but if I did have a past life, I don't know if like I was in some kind of Great War and there was explosions and Bang Bangs and bam everywhere but it just man.",
+    "I just want to run and hide.",
+    "But this is good for me to do, so I'm gonna keep doing it.",
+    "It's giving me something to focus on.",
+    "Where is my puppy?",
+    "Are you feeling scared?",
+    "Puppy do.",
+    "Do you need a blanket to hide under?",
+    "Cryptocurrency take some minutes, will learn I tip you if I could all that so sweet I have in my I think.",
+    "Uh, let me can I post a link, gladness with the fireworks everybody good Lord, I do have a coffee or a coffee.",
+    "Um?",
+    "I just set it up today.",
+    "Let me put it in my description.",
+    "I don't know if it's OK if I do that.",
+    "I hope it will get in trouble.",
+    "There we go.",
+    "But that's so sweet of you to offer that.",
+    "Have I have I come to Brazil?",
+    "I have.",
+    "I have never left the country.",
+    "Uhm well I went to Canada once like five years ago, but I don't really count that as leaving the country.",
+    "'cause I'm still on the same continent.",
+    "What day are you getting scared?",
+    "Puppies it's alright.",
+    "I know those big days Siri fireworks are so crazy out there huh?",
+    "Hi puppy, I know it's very scary so you want a blanket to hide under.",
+    "Let me get my dog a blanket, give me half a second.",
+    "Thank goodness me.",
+    "Here.",
+    "They might be really hot.",
+    "Sugar might want the blank war.",
+    "Come here.",
+    "Big scary babies.",
+    "Do you want to hug?",
+    "I got to hug my dog.",
+    "She's getting scared walhi puppies.",
+    "This is Muppet.",
+    "She's she's my mom.",
+    "She's my stinky.",
+    "Everything.",
+    "My scooter alarm is going off but this is Muffet Hello.",
+    "I know it's so scary out there right now everyone so loud, so rude, ha.",
+    "I know it's so scary, but it's OK.",
+    "We're inside and were six.",
+    "Puppies.",
+    "So stinky, so stinky.",
+    "So they put you right on sugar.",
+    "Don't have to Sugar Bear come here.",
+    "This is sugar.",
+    "She's very tiny.",
+    "She's very small, she smells the worst out of both of them, right?",
+    "Hello, I don't know.",
+    "I think we were all jumping everywhere half a second ago, and now you're all scared 'cause I'm holding you hi Hello Oh, thank you for the weird little camp so sweet.",
+    "Snipping.",
+    "You're so funny.",
+    "Take your ears up.",
+    "She knows she's on camera.",
+    "No, she don't camera.",
+    "DPS.",
+    "OK guys I know it's going to be a rough night for all of us.",
+    "But Hello, welcome in.",
+    "You should consider cash at.",
+    "I've heard of cash app.",
+    "I've never had the opportunity to poke around with it.",
+    "I've got Kofi.",
+    "I also have.",
+    "PayPal.",
+    "I let me see I had like a donation thing on my Twitch.",
+    "Um?",
+    "I don't remember.",
+    "My thing is Twitch is going to make noises.",
+    "Oh yeah, you're muted how wonderful my channel, uhm?",
+    "Do do do do.",
+    "That is, if there's ever.",
+    "It's dream labs.",
+    "I don't know if it'll work.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        3,
+        4
+      ],
+      "sentence": [
+        "You accept Crypto, are you monetizing this at all?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION",
+      "span": [
+        9,
+        10
+      ],
+      "sentence": [
+        "Why did my color go away?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        15,
+        16
+      ],
+      "sentence": [
+        "Can I hear we are alright?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION",
+      "span": [
+        28,
+        29
+      ],
+      "sentence": [
+        "Where is my puppy?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION",
+      "span": [
+        29,
+        30
+      ],
+      "sentence": [
+        "Are you feeling scared?"
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION",
+      "span": [
+        31,
+        32
+      ],
+      "sentence": [
+        "Do you need a blanket to hide under?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION",
+      "span": [
+        34,
+        35
+      ],
+      "sentence": [
+        "Um?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        41,
+        42
+      ],
+      "sentence": [
+        "Have I have I come to Brazil?"
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "QUESTION",
+      "span": [
+        46,
+        47
+      ],
+      "sentence": [
+        "What day are you getting scared?"
+      ]
+    },
+    "T9": {
+      "id": "T9",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        48,
+        49
+      ],
+      "sentence": [
+        "I know those big days Siri fireworks are so crazy out there huh?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION",
+      "span": [
+        57,
+        58
+      ],
+      "sentence": [
+        "Do you want to hug?"
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        74,
+        75
+      ],
+      "sentence": [
+        "She's very small, she smells the worst out of both of them, right?"
+      ]
+    },
+    "T12": {
+      "id": "T12",
+      "label": "QUESTION",
+      "span": [
+        92,
+        93
+      ],
+      "sentence": [
+        "Um?"
+      ]
+    },
+    "T13": {
+      "id": "T13",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        95,
+        96
+      ],
+      "sentence": [
+        "Oh yeah, you're muted how wonderful my channel, uhm?"
+      ]
+    },
+    "T14": {
+      "id": "T14",
+      "label": "ANSWER",
+      "span": [
+        4,
+        6
+      ],
+      "sentence": [
+        "I don't know.",
+        "I don't know what Crypto is an monetizing, I don't."
+      ]
+    },
+    "T15": {
+      "id": "T15",
+      "label": "ANSWER",
+      "span": [
+        42,
+        44
+      ],
+      "sentence": [
+        "I have.",
+        "I have never left the country."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T0",
+      "answer": "T14",
+      "question_sentence": [
+        "You accept Crypto, are you monetizing this at all?"
+      ],
+      "answer_sentence": [
+        "I don't know.",
+        "I don't know what Crypto is an monetizing, I don't."
+      ]
+    },
+    "R2": {
+      "id": "R2",
+      "label": "Chitchat",
+      "question": "T7",
+      "answer": "T15",
+      "question_sentence": [
+        "Have I have I come to Brazil?"
+      ],
+      "answer_sentence": [
+        "I have.",
+        "I have never left the country."
+      ]
+    }
+  }
+}

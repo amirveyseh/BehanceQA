@@ -1,0 +1,3933 @@
+{
+  "sentence": [
+    "All right, Hey Guys Alicia here, paper illustrator and photographer.",
+    "And today we're actually going to be doing something a lot different than paper illustration.",
+    "We're going to actually be doing nothing but a 3D rendered scene.",
+    "And then on top of that, we're going to add a little bit of animation to it.",
+    "We're going to talk about that a little bit more in a second, but like always, let's review what we just did on Tuesday.",
+    "Now if you guys were with me, use all the whole production of this image.",
+    "I mean, we created.",
+    "The structure and 3D.",
+    "We translated that into a paper template.",
+    "I did the quick photography on the side and Fortunately guys didn't get to see that.",
+    "But you got to go through the images with me and then at the end of that we re touched it together.",
+    "So again this is for cancelled con which is a digital conference that's coming up this weekend which is really exciting.",
+    "It's free to attend, but of course you can do some donation tiers.",
+    "There's a lot of guests and if you see right there, you might notice a name that you might know.",
+    "Uhm and then on top of that there are like just different recommended donations.",
+    "If you guys want to do that, which is really, really cool.",
+    "Hey mom, good to see you, um.",
+    "OK, so this is again, it's at 11:00 o'clock.",
+    "It's now 11:00 o'clock.",
+    "It's July 11th to the 12th.",
+    "I will be speaking.",
+    "There is a schedule and so you can see generally the people and what they're going to be talking about.",
+    "Who knows?",
+    "Yeah, mines to be discussed.",
+    "Actually, I know what I'm going to be talking about, so I really don't know why it's to be discussed.",
+    "But anyway, good morning Austin.",
+    "Good to see you.",
+    "Austin is a member of our discord.",
+    "Family, which I'm really glad that he's part of.",
+    "Uhm so yeah.",
+    "OK, so we just got done talking about this so this is what we just did.",
+    "If you guys want to know a little bit more about this process of creating this image, remember all of my all my videos are saved underneath the hands and videos OK, alright so let's talk about a little bit more about what we're going to be creating today.",
+    "So yesterday, because it's always kind of a good idea to practice a little bit, I created this quick little 3D animation is a test concept just really to see if I can end up making something kind of like this all right?",
+    "And so I know you guys can't really see it right now, but the whole point of this was that these are people who are protesters.",
+    "OK, I get it, everything's very monochromatic.",
+    "It's looking pretty dull, but I was wondering if I could get the camera motion to do what I want to do and if the shadows could do what I want to do, but you have protesters and then what would end up happening is that the camera would zoom out.",
+    "And you would see a fist now.",
+    "I was looking for the fist because I made the fift so I know it supposed to be a fist, but I think it's really hard to read as if it's right now because it's very, very, very splotchy.",
+    "But this again was not the final render whatsoever.",
+    "This this is a test concept, and so because of that everything is just the basic colour that you start with, which is this like off white kind of thing.",
+    "So what we're going to do today is we're going to make the characters were going to layout the camera points.",
+    "We're going to do pretty much get as far as we can with this animation now.",
+    "This is a collaboration with my friend Tony.",
+    "Let's see if I can get this up here.",
+    "Not that Tony.",
+    "A Tony is a good friend.",
+    "He's a very, very talented.",
+    "Logo Ann Brandt, an illustrator and just general, just general guy.",
+    "He's a good guy but also really good.",
+    "Creator, I really love his work.",
+    "And one of the things is that I don't feel like he actually gets a lot of credit.",
+    "So because of that I wanted to work with Tony to create something that he could perhaps letter on top of.",
+    "And so at this juncture, this is a collaboration peace.",
+    "And if you guys are new to collaboration pieces.",
+    "Uhm, have you guys been seeing my screen this whole entire time?",
+    "'cause I'm looking at my video in my video is not showing my screen.",
+    "So let me know if there's something wrong with this stream 'cause it doesn't seem like you guys are seeing the stream at all.",
+    "Oh there it goes.",
+    "Maybe I just need to refresh my thing.",
+    "I don't know.",
+    "OK, anyway, I definitely wanted to, um, highlight Tony's work.",
+    "And if you guys have never done a collaboration with another artist before, I would definitely recommend you guys do that, largely because it it stretches you in a way that you've never perhaps thought about stretching yourself.",
+    "Um?",
+    "And so I recently did a piece with Kara Sykes.",
+    "Well, which is really awesome.",
+    "She's also another being an streamer, so yeah.",
+    "OK, so this is the fist like our reference image of the fish that we're going to make now because I'm using the free one I have to of course attribute it, so I'm going to attribute it to vector easy because that's where I'm getting it.",
+    "So thank you vector easy for providing this free fist that I'm going to use as a reference.",
+    "All right, so we're in blender and the first thing actually I colored my Little Rock here or whatever my Little Cube.",
+    "So when you get into blender, the first thing that you have is you have a light.",
+    "You have a camera and you have a an you have a cube.",
+    "Well, I'm going to go ahead and actually delete all of those things because I want to start from the scratch.",
+    "No, I'm going to go ahead and push.",
+    "One pushes your like, one is your front orthographic view.",
+    "Now I know this might be really hard for you guys to see, but in the upper left hand corner up here there is front orthographic, right?",
+    "Then I can push two that's user perspective than if I push three that's right orthographic for user and then Seven.",
+    "So really out of the ones you end up using, orthographic is just right on.",
+    "And the reason why orthographic is so nice is because you use these tick Marks and you can measure things to make sure that things are precise as soon as you get into.",
+    "User which is anytime that you have something that's like isometric, like this or you've toggled it around.",
+    "You lose those tick marks.",
+    "Those underlying grid features that you can get only in orthographic and so anyway, making sure that whenever you're crafting something is right and orthographic view.",
+    "It's insanely important.",
+    "So anyway, so here we are all right.",
+    "So the first thing I'm going to go ahead and do is I'm going to make a plane so I do shift a in order to add my.",
+    "Mash Uh, come here mashi mashi?",
+    "Uh, why are you lagging?",
+    "I'm just I really just wanted to mesh that's like the simplest thing that you could OK cool, alright cool and I'm going to go ahead and hit as I'm going to scale this.",
+    "I mean, I want this thing to be big.",
+    "Alright, so I mean that's that's pretty big.",
+    "Alright, cool, now the second thing I'm going to go ahead and do is I'm going to add a camera, so let's go ahead and orthographic view.",
+    "Go shift a in a camera and I know you're like you just got done deleting a camera.",
+    "Why are you adding one now?",
+    "I don't know.",
+    "I just really like to do things a little backwards and that's cool.",
+    "Alright, so I'm going to go ahead and bring it up.",
+    "I'm going to go Seven.",
+    "You can see my camera is right there and I'm going to go ahead and actually bring it down to the Y.",
+    "So whenever you're doing anything with 3D, you have three different accesses axes actually.",
+    "So you have YX&Z and so you can see that over here in the upper right hand corner.",
+    "But I also just help that with color.",
+    "So meaning XI.",
+    "Normally think of stop and so I see red.",
+    "So if I knew want to move anything on the X.",
+    "Access, I think red.",
+    "Why is green?",
+    "No idea why it's green, but it is green so I just think that OK it's green and then Zedd or Z's blue and you don't see blue but blue is chopping down right?",
+    "Alright, so whenever I go here I'm going to hit.",
+    "I'm going to select that and G.",
+    "Not Jeezy is not going to do any quality is going to do stuff, but now I'm not going to be able to see it from this perspective.",
+    "So GY an I'm going to move it down alright so if I'm wondering, kind of like what is my camera thing at this point I can click zero and that shows me what my camera is saying.",
+    "OK obviously it's staring into oblivion right now.",
+    "It's not really helpful but let me go ahead and.",
+    "Get my output properties.",
+    "OK, so my resolution right now is 1920 by night at 1080.",
+    "That's a cool.",
+    "That's not what I want.",
+    "I know our final resting place for this piece is pretty much going to be dribble and it's also going to be Instagram.",
+    "And So what I'm going to do is I'm going to go ahead and create a 1600 by 1200.",
+    "All right and then whenever I create this, I generally know that I'm going to need to make sure that whatever I create is going to be able to be cropped in a one by one square.",
+    "So meaning a lot of my graphics are going to be very centrally located, but I still want it to be wide enough so whenever I post on dribble it looks good, right?",
+    "All right, so here we go.",
+    "Now what I want to do now is I'm actually going to move the camera back now.",
+    "What's really cool is that since I'm in camera view right now because I clicked zero and you can see that there is a highlighted frame.",
+    "That's what my camera sees.",
+    "If I do shift till they it allows me to kind of like, look around with my camera and I can kind of like reposition my camera, which is really nice.",
+    "On top of that I can use my arrow card to zoom.",
+    "Back or forward or pan left or right, which is really nice.",
+    "So again that is shift till day and that's pretty stinking rat.",
+    "Of course then you need to do click your left hand mouse in order for you to make sure that you see that.",
+    "Alright, so I'm going to go ahead into top orthographic view an I imported.",
+    "My fist.",
+    "OK, so my fist is really important because my fist that I want the individual protesters shadows in order like I want those shadows to make my fist so in order to do that I kind of need I need to collect my money.",
+    "Click my first year ago I need I want this to be really in the centre here so you can kind of see that it is off a little bit so I'm going to go ahead and move this to to my X and I'm going to.",
+    "Just hide my plane.",
+    "All right?",
+    "I'm just going to look at this 123456123456 so it just needs to go over.",
+    "It doesn't need to be perfect.",
+    "I just wanted some what?",
+    "Alright cool, alright, so let's go ahead and do.",
+    "Alright, now we gotta figure out how big we want that to be alright and I want that my camera.",
+    "So if you guys remember the and I can go ahead and get rid of this.",
+    "Um, the camera.",
+    "Let's see.",
+    "Let's get our little oh where is let me go ahead and get the.",
+    "Where do I put it?",
+    "I always like forget where I put things.",
+    "I'm not the only one.",
+    "Probably not.",
+    "All right?",
+    "So this was again the test render that pretty much still like test concept, just to see if this would work and so I did this yesterday.",
+    "And so you see that the camera goes in.",
+    "It goes through everything, and then it flies back up OK.",
+    "And so I need to see now 'cause If I look at the camera over here I can see like, OK, I can see it there.",
+    "But really, how big is that when the camera gets on top?",
+    "So I need the camera to get on top so I can do this in a couple of different ways.",
+    "One of the ways that I found that's actually really that's a lot easier I have found is parenting the camera to an empty, and if you guys are wondering what an empty is, an empty is just.",
+    "A container of sorts that the camera doesn't see.",
+    "Why don't we just do one?",
+    "Alright, so I'm going to do an empty.",
+    "Sphere.",
+    "So I have an empty sphere right here.",
+    "Alright, so now what I'm going to do is I'm going to.",
+    "Parent.",
+    "So now.",
+    "If I rotate, I'm going to click 0.",
+    "So we can see now if I rotate my.",
+    "My empty.",
+    "My camera is moving, so now it's actually a lot easier to move my camera.",
+    "Now this gets a lot easier to do.",
+    "There's more reasons than what I understand of why to do this, but this is not just, yeah.",
+    "Alright, so I'm going to do alt R which supposedly removes everything all my rotations, oops no or moves everything, so let's get OK.",
+    "All right, so we're going to go ahead and clear this out.",
+    "000.",
+    "Alright sweet, so we want this to be 180 I believe.",
+    "I think negative 180 Oh Fudge Nugget one of my.",
+    "Touching.",
+    "Is it not parenting the way that I thought it would?",
+    "It should be.",
+    "Alright, so I'm just going to go here.",
+    "And then we should see the camera move, yeah?",
+    "So we're seeing the camera move.",
+    "The camera move should move like that.",
+    "There we go.",
+    "That's nice.",
+    "Alright.",
+    "So I was playing the wrong one I was doing.",
+    "I should have just did 90.",
+    "All right, so let's Go X minus 90.",
+    "And let's look at the cameras perspective.",
+    "All right?",
+    "So that was obviously.",
+    "All right, so it's negative 62.2, which obviously is not right from a mathematical standpoint.",
+    "But the reason why that is because there must've been some adjustments that I did that I didn't apply and so therefore everything looks really weird.",
+    "So I can't just do next negative 90, so that's one of the things about this.",
+    "OK is that you have to apply things.",
+    "Alright so I'm just going to go back back back, back, back, back, back, back back, back, back, back back, back back back back.",
+    "Alright cool we're going to do I I think it's control a We're going to apply all the rotations camera we're going to also apply.",
+    "All your transformation.",
+    "Your rotation.",
+    "Am I collecting the wrong one?",
+    "Alright is saying objects has no data to transform, but I see it right there so I don't know.",
+    "I don't know, alright, so let's go ahead and we're going to parent.",
+    "Alright, and now.",
+    "When we change one, the other one should change alright.",
+    "So now when we go do this?",
+    "Alright negative 90.",
+    "Alright cool.",
+    "All right, and so I'm going to go ahead and we need to move the.",
+    "There it goes.",
+    "Alright, and so should this be a little bit bigger I think so.",
+    "Maybe not that big.",
+    "Anyway, so I'm just going to move it down a bit.",
+    "And then over.",
+    "Alright, and that's going to be our hands, so that's what that is what we're going to see.",
+    "Alright sweet so now.",
+    "We need to start getting our animation in here OK.",
+    "So what we're going to do is that we're going to open up.",
+    "This is our animation in the bottom, and as you guys can see that there are, it goes to zero to 250.",
+    "That's not necessarily how long I want mine to be.",
+    "So we're going to end it at.",
+    "180 actually 160.",
+    "Alright cool and So what we need to do.",
+    "Is that I need to go back here.",
+    "And I want to go back to.",
+    "0.",
+    "OK, so I'm trying to figure out where do we want.",
+    "Where do we want our camera to start?",
+    "So I remember last time when I did this it was kind of off to the side and it was.",
+    "I never really played and it was looking at.",
+    "Yeah, zed.",
+    "There you go, and maybe a little bit down.",
+    "Alright, I'm going to shift till day.",
+    "Just to bring my camera up a little bit.",
+    "All right?",
+    "Three, so in order for me to start doing movements, I have to do key frames, right and keyframes help us indicate what's going to move and when it's going to move OK.",
+    "So right now I'm going to select these key frames and say OK, these are the ones that I'm just going to select a mall.",
+    "All right, and then I'm going to move an, let's say like OK.",
+    "Now we're going to move it.",
+    "No, I don't know if we're going to move it now just along the X.",
+    "Yeah, we're going to move it along the X.",
+    "Oh what's happening ha.",
+    "I'm not moving dagnabbit I put the key frames on the wrong thing guys.",
+    "And you can see that 'cause I had this little like indicator here, this little animation, and that's because.",
+    "I messed up.",
+    "So I put the key frames on the wrong thing.",
+    "Alright, go back to the empty.",
+    "Alright, now let's put animations over here by Bram, Bram, Bram for.",
+    "Alright cool, so now we're going to move.",
+    "Alright, so in 10 frames, let's have this.",
+    "Still kind of come down a little bit.",
+    "Over here.",
+    "And maybe let's have it start.",
+    "Like rotating alright.",
+    "So now you can see the ones that I changed are in Orange, so those are the ones that I really need to make sure that I click my things on.",
+    "So, but I'm going to click the mall just, you know, to be safe.",
+    "Because guess what?",
+    "I'm not really an animator, I don't really know what I'm doing, so we're just gonna go with it.",
+    "All right, so we're going to start going up.",
+    "Actually, this one really kind of went was really kind of like in it.",
+    "So we might change some of this stuff, but OK.",
+    "My rotate around.",
+    "And we're going to start coming.",
+    "Up here Up my D humidifier just turned on.",
+    "Alright, and now we're going to.",
+    "And I can hold you have little locks there, which is nice.",
+    "Alright, and now we're going to.",
+    "Start.",
+    "Rotating it around.",
+    "So it's nice and flat.",
+    "All right?",
+    "Let's see what that looks like.",
+    "I'm sure that looks janky.",
+    "Alright, I'm going to go ahead and zoom in a little bit.",
+    "Alright, so.",
+    "The camera comes in.",
+    "And we start rotating up words and then we're fixing it, and then it goes straight, which is nice when I'm missing, though, is the really like closeness that we got from previous?",
+    "So I always really like like towards the end 'cause you guys can see on this one too.",
+    "I really like how.",
+    "It kinda.",
+    "It's not perfect.",
+    "Whenever you zoomed out when you're at that Birds Eye view, it's not perfect yet.",
+    "It's getting there.",
+    "And so, um, I think if there's anything that I want to change to this.",
+    "One is that perhaps maybe I want to start a little bit closer.",
+    "Two things.",
+    "Like I want to be like all up.",
+    "All up in this like hey.",
+    "I didn't change, I didn't.",
+    "Baghdadi near me.",
+    "Alright so I'm going to need to.",
+    "All right?",
+    "So it's just kind of moving at all.",
+    "Alright, so there we go.",
+    "Alright, so I need to.",
+    "Alright, I think that's good.",
+    "That's good enough for us.",
+    "Alright cool, so I like that movement.",
+    "We have our movement down I know exactly where are people are going to be, so that's cool too.",
+    "Um, so the next thing and I can go ahead and put this little guy down.",
+    "So the next thing that we need to do?",
+    "I'm gonna go ahead and come over here and we turn that G humidifier down 'cause I don't know if it's not bothering you.",
+    "It is bothering me.",
+    "So 1 second guys be right back.",
+    "OK, and we're back alright.",
+    "So the next thing that we need to do is that we need to make our characters now in the test render a.",
+    "There's no color whatsoever and be the people are.",
+    "I definitely don't like this style of the people.",
+    "It was the first time that I that I made a people.",
+    "So I want to be really kind of like how can we make these people way better.",
+    "So what I'm going to do is I'm going to start a new collection over here and I'm going to go ahead and label it.",
+    "People.",
+    "Up P orbital.",
+    "That's cool too.",
+    "Alright cool man, I'm gonna go ahead and actually this other stuff I don't need.",
+    "Right, 'cause we're just going to go ahead and we're going to make a person, so let's go in front orthographic view.",
+    "We're going to go ahead and we're going to add a cube now.",
+    "Really stupid, really psyched, super psyched, psyched.",
+    "Also stoked to make a big person live because I've only done this Nelly, sorry times.",
+    "Alright cool, so we're going ahead and change into.",
+    "Uh, edit mode and I need to subdivide this guy a couple of different times in order for me to have some geometry to play with so.",
+    "What I realized is that it's really good to have.",
+    "Whenever you're making a person like a nose or something like that, it's really good to have, uh, one that has like a line that goes straight down here.",
+    "So 5 is going to be the number that we go with OK, and So what I'm going to do is I'm going to go into.",
+    "They call this like front mode.",
+    "I'm also I also call it X Ray mode.",
+    "And what we want to do is that all of these vertices right here we want to go ahead and delete, which will end up creating only half.",
+    "Because what we're going to do is that we're going to add a modifier called mirror.",
+    "And we want to make sure that it's clipping, so therefore I only have to model half of the person.",
+    "'cause that's kind of like.",
+    "Really really cool.",
+    "Alright, so now that I have everything selected, I'm going to go ahead and move this way up.",
+    "All right, and so now.",
+    "Let's go ahead and start kind of sculpting what the head is going to look like.",
+    "Now we are going to create a couple of different.",
+    "We're going to create a couple of different ones.",
+    "Um?",
+    "See how you can like, how I'm changing it and you can see that it's already.",
+    "It's already impacting.",
+    "And I have X-ray, so I'm moving and moving them all, all all the vertices instead of just the ones that I can see.",
+    "And really, this is just going to take.",
+    "Some just.",
+    "Playing with it.",
+    "To get a general head shape that I like.",
+    "Alright, let's say this feels a little bit too pointy.",
+    "So we're going to bring that in.",
+    "And then what if?",
+    "We brought everything in just just to her.",
+    "And then maybe we bring this up.",
+    "A little bit.",
+    "So we might have a little bit of A.",
+    "Appointed.",
+    "Alright, so that's so that is only the front.",
+    "So now let's go to the side, who now that does not look like side, actually, let's go ahead and to the top.",
+    "Alright, so we're going to go ahead.",
+    "And.",
+    "Let's just.",
+    "Actually, let's just do this.",
+    "Alright, so I'm going to select all I want to scale along the Y.",
+    "Just to make it a little less.",
+    "Alright cool, so now that we have that.",
+    "I might have put in a little bit too many vertices here.",
+    "'cause this is definitely a lot.",
+    "Harder to play with.",
+    "Last time I did it was like 3.",
+    "Cuts I think it was three cuts and it didn't feel like enough.",
+    "All right, so the top of the head is definitely rounded.",
+    "Granted, it's not like you're going to really see it the way that I am going to animate this, but.",
+    "I rather.",
+    "Have it somewhat correct.",
+    "Alright, and so let's go ahead and start.",
+    "Bringing those in.",
+    "OK, all right now we need to get a bit of a profile 'cause right now this is just this is just a block.",
+    "Alright, so let's see.",
+    "So this is the forehead which is going to be a little bit more.",
+    "Coming in right?",
+    "Who wrote not that way, honey.",
+    "OK, and then we do have a bit of A.",
+    "Let's see this kind of rounds up.",
+    "And be kinda nice to have a reference image.",
+    "Let's see if we can pull one up, shall we?",
+    "Alright, oh that's nice color form by the way.",
+    "This is a really awesome color hunt.",
+    "I love the Chrome extension.",
+    "'cause it just it feeds mean you.",
+    "If it's just me.",
+    "New color palettes.",
+    "OK, so let's do human head.",
+    "Uh.",
+    "Profile image nice.",
+    "Alright, I like these right here.",
+    "Alright, so obviously let's go ahead and.",
+    "All right, and where are you going to?",
+    "Select these.",
+    "Oregon move him up some.",
+    "Move in this way.",
+    "Yeah, reference images like help out so much.",
+    "All right and then what I'm going to do quite literally.",
+    "And so I'm going to smooth it out.",
+    "Lose it out.",
+    "Those things are looking a little janky.",
+    "So it's just nice to be able to smooth it out.",
+    "OK.",
+    "Now we need to.",
+    "We need to pull out.",
+    "We have a chance it goes down.",
+    "We need to pull.",
+    "Definitely need to pull out like some bit of.",
+    "A nose.",
+    "So let's go ahead and.",
+    "Pull that out and we're going to.",
+    "Bring some of this up a little bit.",
+    "All right, and we need to bring out the head just a smidgen.",
+    "All right, and so I'm going to select.",
+    "All of those actually in removed 'cause This guy looks like he's been left all alone in the.",
+    "Alright, so let's look alright.",
+    "I'm going to get rid of that all right, and sometimes I know that it's really hard to see, so I'm going to do is I'm going to do cavity.",
+    "So we can kind of see what's going on, because sometimes it's just really hard.",
+    "Alright, so.",
+    "This guy.",
+    "Definitely needs to move in.",
+    "And then back.",
+    "And then we definitely like these little dudes.",
+    "Do not need to.",
+    "Be so be so sharp.",
+    "All right?",
+    "So yeah, so I still think this line in this line can go back too.",
+    "So anyway, so going back into edit mode you can see.",
+    "What we're trying to do here, and it's I mean, it's.",
+    "Definitely interesting.",
+    "This nose is like Super Wide.",
+    "Alright, so I mean we just got.",
+    "Some basic.",
+    "Let's go over here.",
+    "We're going to select this and we're let's can we smooth that out just to her 'cause it's looking kind of crazy.",
+    "I'm going to select all of that.",
+    "Let's move that out.",
+    "Alright, so one.",
+    "OK, so the face that's just one face.",
+    "There it goes.",
+    "All right, so the next thing that we need to do.",
+    "Is that we're going to extrude and neck?",
+    "So we're going to go ahead and interface select mode.",
+    "Yeah, I definitely did too many polygons or too many too many subdivides at the very beginning.",
+    "And I think that's why I'm having such a hard time 'cause I remember it was it was way easier.",
+    "I should have done 3.",
+    "Invite K Sarat.",
+    "This is where we are.",
+    "OK, so for the neck I'm going to go ahead and select.",
+    "These three.",
+    "And go into front and we're we're going to do is that we were going to extrude down.",
+    "I needed to get the ones right next to it too, huh?",
+    "'cause that looked like it was a very puny neck.",
+    "All right, so let's go ahead and extrude down.",
+    "Alright, that looks generally decent, let some.",
+    "This I feel like this screen is a little bit.",
+    "And little bit too crazy for me, OK?",
+    "Alright, so now let's look at human profile.",
+    "Alright cool, so here's.",
+    "A good helpful understanding as to what we need to do so we need to go ahead and scale the bottom of the neck.",
+    "But we need to select all of these.",
+    "Faces Alright, so we got a bit of a neck right now.",
+    "I'm definitely feeling like this one in the front is kind of Cray Cray, but what I'm going to do really quick is I'm going to go to scale 0 or skills the zero and that really that puts all of the things on like an evil playing field so it's a lot easier now to manipulate.",
+    "And I'm going to go into edge.",
+    "And again, we're going to go to X Ray.",
+    "We're going to select these edges.",
+    "And we're going to move them back a little bit 'cause.",
+    "I don't know.",
+    "I have not seen a neck do.",
+    "Those interesting shapes before.",
+    "Right and what I want to do just to make things really simple for me.",
+    "No, this this this this one, this one and this one.",
+    "I'm going to go ahead and I'm going to dissolve faces so that is now just one face.",
+    "And now whenever we like export things.",
+    "And this this one, this one and this one.",
+    "I think it should just be that that's correct.",
+    "I'm going to go ahead and end.",
+    "Alright, cool so now.",
+    "This can be a lot easier to manage.",
+    "Do that in the front too, so we just don't have.",
+    "No.",
+    "Kind of, it's hard to do when you have this front front on.",
+    "Alright sweet, so we have our person.",
+    "Well we have ahead alright, so let's go ahead and start getting this into.",
+    "And start like doing this really quickly.",
+    "Alright sweet.",
+    "So now the next thing that I need to do is I'm going to.",
+    "Extrude this along the X.",
+    "For the shoulders.",
+    "Actually No.",
+    "Poop.",
+    "How come on?",
+    "Why are you not moving right?",
+    "So I'm going to take this alright, we're going to just move it up a little bit alright?",
+    "And then we're going to extrude down just a little bit more.",
+    "And then we're going to extrude this along the X.",
+    "For his shoulders.",
+    "OK.",
+    "Let's see, let's not do it.",
+    "So why shall we?",
+    "All right and then what we're going to do now.",
+    "Is that we're going to go ahead and work on the chest?",
+    "So I want to select all of these faces.",
+    "And I'm going to extrude down.",
+    "But I'm going to.",
+    "Kind of go.",
+    "Down again.",
+    "Alright, it's definitely feeling like.",
+    "This needs to go.",
+    "My guy is like super buff so like who wears the gym?",
+    "Sorry, OK, cool.",
+    "So let's move it.",
+    "All right, and so this loop.",
+    "I can actually make a little bit bigger little bit smaller.",
+    "Alright cool and So what I'm going to do now is I'm going to select.",
+    "All of those go down to one extrude again.",
+    "But now we're going to go.",
+    "Oh, Fudge, what happened crap?",
+    "Extrude Scale.",
+    "Alright, so I mean we're going to have to like, definitely figure this one out, but it is what it is.",
+    "Alright cool.",
+    "So now I'm going to go ahead.",
+    "Do two.",
+    "I want to select want to move that down some.",
+    "Alright, I'm going to hit 3.",
+    "And then we're going to do is that we're going to extrude from for the arms.",
+    "Alright, so we got we got some long arms they long.",
+    "And then this little loop cut here I'm going to go ahead and select that this loop cut we're going to rotate it.",
+    "Just to have a little bit of angle to it.",
+    "Cool, and now we need to do that.",
+    "We need to do the arms really quick alright, so let's go ahead and get.",
+    "A loop cut.",
+    "OK, that's good, and we're going to make that a little smaller.",
+    "Not that small, but yeah, there you go then.",
+    "Let's go ahead and do another loop cut.",
+    "Now Luca, Hey Luca, we want to do another loop cut.",
+    "Oh, I'm doing alt.",
+    "So it was really confused with like what do you want to do?",
+    "I'm trying to do what you want to do alright, cool, and now we're going to make it a little bit bigger.",
+    "Note bigger.",
+    "Alright, 'cause you know four arms and stuff.",
+    "And then this little guy.",
+    "We're going to scale that.",
+    "To be smaller.",
+    "Oh, come on.",
+    "I'm never going to move it in a little bit.",
+    "Alright, let's look at one.",
+    "Alright cool, so we got an arm.",
+    "Man cool, alright, uh so now we're going to do.",
+    "As we are going to.",
+    "Make make a hand right so we're going to extrude X.",
+    "Just just a little bit extra decks again, but this time scale.",
+    "Extrude X again.",
+    "This time.",
+    "Scale.",
+    "Extrude again.",
+    "Play scale inwardly this time.",
+    "Extrude again.",
+    "And then it really one more time.",
+    "Alright, so but the problem is the way that we did this hand.",
+    "We definitely get all of this stuff happening.",
+    "So what I want to do here is I'm going to go ahead and select.",
+    "These edges and I'm going to essentially just push them in a little bit and specifically this guy.",
+    "Actually, I could.",
+    "Probably I selected this guy too, right?",
+    "Granted one is going to go in way more than the other.",
+    "Alright, so we have a Mitten hand thing.",
+    "Cool, now we need to do a thumb.",
+    "Man, if I ever had to do fingers in things are just going to go Cray Cray.",
+    "Alright cool, so now we have this uh manasam comes towards us alright so I'm going to go ahead and actually let's go ahead and.",
+    "Select this would cut here and make it a little bit wider.",
+    "There we go cool, then we're going to extrude out.",
+    "Wow, we just really extruded the wrong way.",
+    "Alright, cool and so now we're going to rotate it.",
+    "No, not that way.",
+    "Nope, not that way.",
+    "I always forget like which way to rotate things.",
+    "There you go.",
+    "And let's go ahead and actually bring that back in a wee bit away bit.",
+    "OK.",
+    "And let's go ahead and rotate it again.",
+    "All right?",
+    "I'm going to go ahead and select.",
+    "This edge loop right here.",
+    "And when I say loop, I'm pretty much just meaning like along the edges that.",
+    "Like a whole bunch of edges that essentially connect together where the computer can say OK, I can clearly see without messing up.",
+    "That this edge loop goes.",
+    "To this one.",
+    "Alright, so we have some.",
+    "We have a hand.",
+    "We have an arm.",
+    "We have a person.",
+    "The person has hardly any depth.",
+    "Like coming back here.",
+    "Right, and this poor chest is definitely not.",
+    "Anything to write home about.",
+    "Well, we don't need that.",
+    "We just we just really want you, generally speaking, to be a little bit more.",
+    "So like you have lungs, you know.",
+    "Cool.",
+    "Um?",
+    "All right and then all of these I'm going to go ahead and just move 'cause I feel like the dude is a little bit too wide.",
+    "I want to make sure that I'm selecting all of 'em all the way around.",
+    "Moving that whole thing in and moving all of those.",
+    "And we're just to her.",
+    "And maybe his forearm is a little bit too crazy.",
+    "Alright sweet, so we have a beginning.",
+    "Well he went crazy.",
+    "Let's bring you back.",
+    "Let's just let's just hit one and call it a day.",
+    "Alright, cool, so now we're going to go ahead and start building out legs.",
+    "You know you guys are really excited for this.",
+    "And then once we have our one person.",
+    "Uh, we're going to rig and we're going to give him some bone structure so we can change his.",
+    "Alright, so in order to do a pelvis, essentially what we need to do.",
+    "When you go into one.",
+    "We're going to extrude down some.",
+    "We're going to scale inward.",
+    "Come on.",
+    "All right, and it's going to be really important.",
+    "To start kind of making a V here.",
+    "Alright, and now once we well.",
+    "That's what happens when you don't have X Ray going on.",
+    "You can't select all of them, so let's go one.",
+    "Again, I'm going to select all of these and we're going to shift him over whom?",
+    "To make her be alright, cool now that we have our V.",
+    "We can undo the X-ray and we can select these guys hey, good morning.",
+    "AH could you see you friend?",
+    "I don't think I've ever have you been.",
+    "Maybe you've been in one of my stream before but it's good to see you, raksha.",
+    "Please forgive me if I'm saying Your name incorrectly.",
+    "OK, so I'm holding down shift in order to select all of my face is going into one and we're going to extrude downwards.",
+    "Again, well, that would be really long.",
+    "It has been very long.",
+    "OK so we have our legs.",
+    "Wow we got a very.",
+    "Paper thin person.",
+    "We're going to have to definitely fix that in a minute, but for right now we're just going to worry about the legs.",
+    "OK, so the next thing that we need to do is that we need to get a loop cut around here in order to kind of mess with Arnie.",
+    "So we gotta leave cut.",
+    "There were going to make a a wee bit smaller.",
+    "And then we're going to go get it.",
+    "Go ahead and get another one.",
+    "We're going to slide it up.",
+    "And we're going to make it bigger.",
+    "All right, and the thing about the knees is that it's good to have it kind of rotating, not like that Boo.",
+    "Kind of like that, and then this one.",
+    "Good morning from me as well, Alicia.",
+    "Interesting Raksha, but you're getting Raksha Rock saw I said it.",
+    "Saw Raksha Good morning from me as well.",
+    "Alicia.",
+    "Uh, sorry for the typo.",
+    "A good morning.",
+    "Aw OK, I was like what did you typo on Pascal?",
+    "I couldn't tell.",
+    "Normally it's my name but you did not.",
+    "You did not do my name so I appreciate.",
+    "I always appreciate you guys saying Good morning it really means a lot.",
+    "Well, I did it wrong.",
+    "OK so.",
+    "We need to for sure get some.",
+    "Alright, let's.",
+    "We're going to select all that we're going to make that smaller, alright, so we need to.",
+    "Definitely, we've been working on the well, poor guy he is so thin he needs some.",
+    "He needs to eat.",
+    "A little bit more.",
+    "OK, don't mean to 3D shame you.",
+    "All right, so we're going to have to like definitely kind of work this whole thing out here.",
+    "Let's just select all of that up front.",
+    "Here.",
+    "Let's go into this.",
+    "Let's go into three.",
+    "Let's select this right here and then just move all that out a bit.",
+    "Alright cool, let's go ahead and select some of his booty area.",
+    "Again, let's get him a booty.",
+    "Uhm, OK, let's go ahead and get use a little bit of shoulder blades.",
+    "Maybe not that much.",
+    "All right?",
+    "Uhm, I wonder if these can go in just tiny there a bit.",
+    "And maybe.",
+    "Maybe this line here goes in just a hair.",
+    "All right and then back of the needs always have are a little bit more plump.",
+    "Granted, this is a low Poly guy, so we don't necessarily need to like.",
+    "Have him.",
+    "Could be too crazy.",
+    "OK, and yeah, this is.",
+    "This is just all kind of funky.",
+    "This like whatever this is.",
+    "I have no idea what's happening but whatever.",
+    "OK, cool and so now let's just like do his feet in real quick real real quick and then at this point we need to.",
+    "We're going to bring that in a bit.",
+    "I'm going to bring that in a bit.",
+    "Alright, let's look at it all right?",
+    "That looks it's looking good.",
+    "Um, alright, so let's go ahead and select all of that.",
+    "Alright, so after this we're going to do is that we're going to Regen really quickly, so we can.",
+    "We can pose them.",
+    "Alright, we should like totally messed up here right?",
+    "So I'm going to go ahead.",
+    "I'm doing my edge select, selecting all, extruding on the Z Axis.",
+    "Alright, so we got that and then I'm going to go to the profile.",
+    "Alright, I'm looking at this and it doesn't look like I.",
+    "Do you use the silhouette you have in your mood board to align the 3D figure it?",
+    "Yeah I just I'm just using it really too wow.",
+    "Just kind of as a reference.",
+    "I actually don't have a lot of experience drawing.",
+    "Things.",
+    "So because of that, um, I'm actually really horrible at proportions and understanding, like how much.",
+    "Like how much things need to be essentially.",
+    "Or where things need to be so anyway, so if you guys are just tuning in, which I understand some of you guys might be, I want to show you a little bit of a tester, so this is a collaboration that I'm doing with my friend Tony Romaine.",
+    "Um?",
+    "And we wanted to do and M and activism peace.",
+    "So I thought, you know I'm learning 3D.",
+    "Why don't I push myself and make an animation that he can then let her on top oven so this is just a test concept?",
+    "I made these 3D people I didn't really like them but the camera goes through M and then at that point it ends up making a fist.",
+    "OK, well you can't really see the fist very much, but again, this is just the proof of concept.",
+    "Just saying like OK can I do this and so I did this yesterday.",
+    "And the first part of this video was our first part of this live stream was me showing the process.",
+    "Up to that point right now, because I don't like those people.",
+    "I'm trying to make better people.",
+    "That's that's what we're doing right now.",
+    "We're trying to make better people, but specifically.",
+    "I want.",
+    "I want people.",
+    "I went all different kinds of people and so I'm kind of creating like 1.",
+    "And I'm going to rig it, but then, well, I'm going to do one, and I'm going to do three different ones and we'll just see how it goes.",
+    "OK, so now we need to create some loop cuts in this.",
+    "Actually, we can do this a little bit.",
+    "Alright, so we're going to extrude along again.",
+    "Green is Y.",
+    "And then I'm going to scale it.",
+    "Uhm, and then we're going to extrude.",
+    "Why again?",
+    "Again, we're going to scale it.",
+    "Extrude why again?",
+    "And then we're going to start scaling a little bit down.",
+    "Alright, so when I did that though.",
+    "Ended up creating.",
+    "When I scaled it, I scaled it all the way around.",
+    "So what I can do is I can do my edge select, select all of these edges.",
+    "Scale to the Z en zero and it makes it all flat.",
+    "That was like one of the first things that I learned.",
+    "How was like Oh my gosh, it's amazing.",
+    "Alright cool, because we actually want arch is.",
+    "Maybe?",
+    "We can just kind of push these in just a little bit.",
+    "Kinda maybe?",
+    "Kind of looks like an arch, maybe, or just looks weird.",
+    "Don't spend so much on shoes, don't spend so much time on shoes.",
+    "Alicia just keep going because it's not like.",
+    "Shoes are a huge deal.",
+    "No one's going to really pay attention to the shoes.",
+    "And these might be kind of big.",
+    "I mean, don't they kind of feel like?",
+    "Kind of big.",
+    "Like Dude got some big feet.",
+    "I don't know who's that.",
+    "He seems like he's kinda big, alright, cool.",
+    "So let's go into object mode.",
+    "His face is just absolutely.",
+    "Horrific.",
+    "Oh man.",
+    "Pascal says better people in a virtual world I hope, yeah, uh, hopefully they don't look anything like I'm making, because this is just creepy.",
+    "This is a very very creepy man.",
+    "Our girl.",
+    "Oh We'll just do it really deep.",
+    "I'm just kidding.",
+    "I won't.",
+    "Christian says wow, blender has changed.",
+    "It has changed.",
+    "A lot, I understand.",
+    "I tried it before when it was like 7 something 2.7 this is 2.8 three aw man, this is just looking Cray Cray.",
+    "All right, So what I'm going to do is we need I need help smooth in this out so I'm just going to select all of this stuff.",
+    "I'm going to select.",
+    "All that.",
+    "You know this is also bother me, so let's go ahead and we're just going to.",
+    "Smooth it out, oh.",
+    "Mucho better alright?",
+    "So let's go ahead and get.",
+    "This thing.",
+    "And move this over some.",
+    "Maybe this is what's bothering me too, like that needs to move in some OK so much better.",
+    "Maybe?",
+    "Let's move this over 2.",
+    "And let's move this up.",
+    "All right?",
+    "He has no mouth.",
+    "He is have you guys seen?",
+    "Um yeah, probably have not seen this.",
+    "I don't know but.",
+    "Amusement parks are saying please cream in your heart.",
+    "You know, in order to not to spread anything that's currently what my guys doing, he's screaming in his heart.",
+    "'cause he has no mouth.",
+    "Alright, so that's a little bit better, right?",
+    "I don't know.",
+    "Alright, so he definitely needs.",
+    "He definitely needs to be able to be post 'cause right now.",
+    "He poor guy has.",
+    "He has no bones so we're going to shift day and now we're going to start adding an armature armature.",
+    "And we're going to just do this actually bone by bone instead of doing the human meter work.",
+    "I mean like we could do the human meta rig, I just haven't really had that much.",
+    "A luck with it, but you know what?",
+    "It would be a lot faster if it actually works successfully.",
+    "Oh see, it's not working now, so that's not a really good.",
+    "He looks like a huge hedge on Easter Island.",
+    "He does Pascal, that's it.",
+    "Who knew that the huge heads on Easter Island were activist, right?",
+    "Holy granola, what did I just do?",
+    "Alright, a human basic.",
+    "We're just going to do the basic meter egg.",
+    "Alright cool.",
+    "We're going to scale him.",
+    "All right, and so we definitely need to fix him up because you can't see anything.",
+    "Alright, alright so now we need to really kind of like mess with this so I'm going to look here first.",
+    "And we're going to have to like just move all this guy.",
+    "We have to move him down.",
+    "This needs to go down.",
+    "Alright, collarbones need to go up some.",
+    "These Arm Thingies.",
+    "Actually, you know what you can do?",
+    "You can do this.",
+    "You can do N open up the tool and go access X mirror.",
+    "So now I can.",
+    "I only have to do 1.",
+    "Boom oh hey, person who doesn't who's not using English.",
+    "I see you and you are important but I have no idea what you're saying.",
+    "So just wanted to let you know that.",
+    "Just because I don't understand your language doesn't mean that you are any you're not list.",
+    "Or not, you're portent.",
+    "You're really important.",
+    "You're not any less insignificant, because I don't know anything.",
+    "You're very significant.",
+    "You are amazing.",
+    "I just.",
+    "Can't speak your language.",
+    "That makes me really sad.",
+    "That would be cool if there was like an auto translate.",
+    "'cause then everybody can be seen and heard as they should be.",
+    "Are you working purely with your mouse and keyboard shortcuts?",
+    "Alicia, yes.",
+    "I am Pascal.",
+    "That is how I am doing all the things.",
+    "Alright, so I'm gonna go look over on top.",
+    "You can see while I'm putting these things in here.",
+    "Things are going Cray Cray.",
+    "Now there is a sculpting.",
+    "Part, and there's also grease pencil in blender and those things.",
+    "Definitely benefit from a welcome tablet or mouse or stylus or something like that so.",
+    "Yeah, so we definitely would recommend this, you know, actually I'm not going to extend it all the way out to the fingers.",
+    "I'm just going to go to the hand and call it a day cool.",
+    "Alright, so that hand is in here.",
+    "All right?",
+    "The shoulders.",
+    "Or in here alright cool, so now we have that alright?",
+    "Don't need any Boo bones.",
+    "Goodbye Boo Bones.",
+    "Alright, and so here is our.",
+    "My pelvis area.",
+    "Alright, I need to.",
+    "Delete that bone.",
+    "And now when I do that, I'm sure my.",
+    "Relations are getting.",
+    "Kind of wacky.",
+    "Alright, how are?",
+    "How are my relationships happening?",
+    "I mean is that parenting to that like it supposed to be?",
+    "OK cool, so it is automatically Boo bones.",
+    "That's funny, Christian.",
+    "Thank you for finding.",
+    "Humor.",
+    "Wow this is really funny because it all makes me feel like my.",
+    "Like I can always see if my proportions are like Cadillac because of their basic.",
+    "Their basic proportions.",
+    "All right, so let's go down to one.",
+    "Let's zoom in.",
+    "Let's scroll up.",
+    "Alright, let's turn over right.",
+    "So yeah, this thing definitely needs to come down.",
+    "That's our heal.",
+    "This is our contact bone.",
+    "Don't really know what those things are for.",
+    "I'm not going to have my guy walk so it's really not that big of a deal.",
+    "Let's look on top of Seven and that looks good.",
+    "Alright, so it looks like everything, generally speaking, is in place.",
+    "Alright, so theoretically speaking, we're good.",
+    "The only thing that I'm wondering, though, is that I did.",
+    "Um?",
+    "Getting parent OK make.",
+    "Parent make.",
+    "Parent make and then what happens?",
+    "Keep upset yes.",
+    "Alright so 'cause I deleted that so I don't know if you guys remembered but I deleted that bone so I don't necessarily know if it was going to track.",
+    "OK, cool, so now we have our red we have our sculpture now what we need to do is we need to go into back into object mode and we need to select these two and we need to parent with automatic weights.",
+    "Now as soon as we do that if I did it right it would give us a pose.",
+    "But friends it did not, so it shows me that I did not do it right.",
+    "I'm wondering if I you know what I'm thinking, is I, I really shouldn't have made him a nose.",
+    "It looks so bad.",
+    "Alright someone do this.",
+    "Alright, Control P parent with automatic weights cool alright oppose mode pose mode alright cool so now that I have post mode I want to like.",
+    "Select my bones.",
+    "I should be able to like move it.",
+    "Cha-cha-cha Uh, OK.",
+    "Let me go to this one.",
+    "Cool alright, so we kind of that like So what about this guy?",
+    "I want him to go.",
+    "See I can shrug him, but I want him to actually rotate so I can never get my rotate right.",
+    "Right?",
+    "So that's rotating.",
+    "Z rotating Y is up and down.",
+    "An rotating X is like back and forward.",
+    "So isn't that cool, so now I don't have to.",
+    "So now.",
+    "It's really rad.",
+    "And then there's my person.",
+    "So now you can.",
+    "But The thing is, is that you can still see the bones through him.",
+    "I really don't like his nose, guys.",
+    "I think I might like quite literally take his nose away and his heads way too long, which I think is what Pascal was getting out.",
+    "But like was really nice.",
+    "And saying that it just looks like in head on Easter Island even though we all know that the heads on Easter Island or like super long.",
+    "So yeah, so but the cool thing is.",
+    "If I push F 12 to render granted.",
+    "I don't think I don't think there's going to be.",
+    "There's no light.",
+    "I have not yet put a light in there, so I rendered it black.",
+    "Cool 'cause you know.",
+    "The absence of light.",
+    "Create the black scene.",
+    "That's why we have night time.",
+    "OK, so I need a light.",
+    "I need a light.",
+    "I really don't like his face alright can I like mess his face up?",
+    "That I like deconstructive, saved his face is high, I clever.",
+    "Set your name or you just clever is that is that was going on.",
+    "Um, Alright Christian says that I need to put in a Dome light.",
+    "OK, so, so here's what we're going to do is we're gonna go back to Arsene Wow guys.",
+    "He's huge atias if I go to my camera angle.",
+    "This is literally all I see.",
+    "That's really funny.",
+    "Let's see, let's see what the animation would look like.",
+    "If we kept him this big just for giggles.",
+    "So go play.",
+    "Because he's not even standing on the plane.",
+    "That's awesome.",
+    "That's cool.",
+    "That's what we would see, alright, cool.",
+    "So let's not do that.",
+    "All right, so we we need to make our Bud alot smaller.",
+    "So let's go ahead and make her Bud a lot smaller.",
+    "Of Fudge, but it what is happening right now?",
+    "Uh, we're in pose mode.",
+    "That's what's happening.",
+    "Let's get in object mode.",
+    "Cool, let's make him smaller.",
+    "You All right?",
+    "And let's let's move him down.",
+    "To the plane.",
+    "So he needs to go.",
+    "Down to the floor.",
+    "He has like one arm sticking out, so we're definitely going to need to like fix that.",
+    "But let's go ahead and do our zero, so that's where he's at, and let's go ahead and add a light xiaoyi.",
+    "We kind of need that.",
+    "So let's let's break out of camera view by hitting zero.",
+    "I'm going to shift a.",
+    "We're going to hit.",
+    "We're going to add a light I just really.",
+    "I like the sun so if you guys.",
+    "If you guys are in Um, Bruv.",
+    "Thanks Christian.",
+    "So we are clever said to he so he's not answering my question or she.",
+    "Tiny, it's a really tiny Avatar.",
+    "I have no idea, but it doesn't matter.",
+    "You are person and that's what matters.",
+    "OK, so.",
+    "So yeah, so clever it was like I'm not answering.",
+    "I'm just going to laugh, which is totally cool you do you?",
+    "He's got to install microwave ovens, custom kitchen deliveries, and he's got to move this refrigerator.",
+    "It's clever, has a lot of things to do right now or you talking about my person.",
+    "Either way, there's a lot of stuff that needs to be done, so we're going to go ahead and move forward.",
+    "OK, so we're moving this sun up to the.",
+    "Wrong collection, that's cool.",
+    "So we're going to move it here.",
+    "I'm going to go ahead and hide the fist.",
+    "OK, so son.",
+    "Mr Golden Sun Please Shinedown on main he got some birds that song.",
+    "And I think that was like Barney song.",
+    "I don't really know.",
+    "Alright, so there's a couple of different render engines that.",
+    "Already comes with blender.",
+    "Already comes with EV and cycles.",
+    "Alright, so if you guys have a GPU.",
+    "Sometimes your GPU that you have actually will not be compatible with blender, but because blender is a shareware, what's really cool about that is that if you end up buying a GPU that's not supported by blender, oftentimes that GPU company will actually have its own render engine that you can essentially add-on into blender, and that's one of the powerful things about blender, it being a shareware.",
+    "There is a butt ton of add ONS that you can add.",
+    "To it so anyway, so I have a radio on a GPU.",
+    "Christian said he is heard of EV.",
+    "I I've used cycles and I have used the Radion Pro render.",
+    "But I have not used TV so anyway, so I'm currently using the Radion.",
+    "I'm going to go to my son an I'm we're going to go ahead.",
+    "Where's my son icon here son son son son son son light right here alright cool so right now it has no strength.",
+    "So I'm going to, like quite literally, put the strengths really high.",
+    "I like the shadows being kind of soft and The thing is, is that right now you can't even really see what the sun is doing because we're not in A.",
+    "This is what changes my thing because we're not in a render mode.",
+    "Alright, so I'm going to go ahead.",
+    "I'm moving my son kind of back 'cause I want the shadows again.",
+    "If you guys are just here, redshift is my main Christian, says redshift is.",
+    "Beyond me, I think redshift is her legs, super powerful, like 3D people in the Christian.",
+    "Maybe that's who you are.",
+    "'cause I love it.",
+    "I'm not into riches.",
+    "Uhm, I mean, I've also heard of like octane is also pretty freaking amazing as well.",
+    "Alright, so I'm kind of pointing my light towards my guy.",
+    "We're going to call this guy.",
+    "I don't know.",
+    "I don't know.",
+    "We're not call him Alright so I'm going to click my render guy.",
+    "All right, and I can't see any shadows.",
+    "What's going on with my shadows?",
+    "Out where is my shadows?",
+    "I'm going to go ahead and quickly click F2.",
+    "Or F-12.",
+    "Out so there you go.",
+    "You can see it right there.",
+    "So that's not a very bright light friends.",
+    "And what's really funny is that the shadow is looking like it's hitting above his feet.",
+    "Don't really know what's happening there.",
+    "Uh, but what I do like about it is that how you can see how the UM.",
+    "The shadow definitely get softer as it like drops.",
+    "Which is.",
+    "This parameter right here is softness, so if I did like 13.",
+    "There you go, that's it.",
+    "If we did 13 you can see how soft it is.",
+    "I'll go ahead and hit F 12 to render that out really quick and you can see how soft that that light becomes.",
+    "Oftentimes, whenever I wanted really soft light, I would actually use an emission material, so I would just make a pain or like whatever it is and make that emissive an.",
+    "It would create a really soft light, but something that I really like with this one is that I can make this like.",
+    "Alot alot.",
+    "Alright, so even though in the strength.",
+    "You can actually make it a lot brighter.",
+    "It only will let you.",
+    "Obviously I just did like one 10,000, so that's why Cray Cray.",
+    "Uh, well, let's do 200, so if you just want to scroll, it'll only scroll to 10, but you can put more numbers on there.",
+    "All right, and so the reason why this is really important here, really the Shadow and how like dense the shadow is is because again, if you guys remember the proof of concept, the shadow is going to fill the fist.",
+    "Now this shadow was like at a three.",
+    "So what happens is that you can see that adds origin point, which is where the feed our.",
+    "It's short.",
+    "But then at that point it does get softer.",
+    "And so you can see here this is a 13, so you can.",
+    "Still it still kind of sharp.",
+    "But then at the same time it gets.",
+    "It gets really really really soft.",
+    "Alright, so I'm going to like kind of zoom in here.",
+    "And I'm looking at currently at like render mode.",
+    "Which is why things are kind of like getting kind of crazy, and so I'm just wondering like what is happening to get the shadows.",
+    "Like that I wonder.",
+    "Yeah, I don't.",
+    "I don't know what's going on, but you can tell that in this I'm going to go ahead and move my camera actually down to like over here.",
+    "I'm gonna click 0 just to see what is in my camera.",
+    "All right, so that would be so I'm going to go ahead and render that 'cause I'm really interested to see.",
+    "What's happening, oh, I really zoomed in.",
+    "OK, yeah, so there's just some shading happening.",
+    "It's just really dark right there, but that's fine.",
+    "All right, but you guys can see here really closely, which is nice that even though here you can see.",
+    "The skeleton, the skeleton through it, you don't see it on your character, which is really nice.",
+    "All right, but our character is kind of Nikki.",
+    "So.",
+    "We kind of got to figure out what we're going to do about that, um.",
+    "And this our character, all of our characters kind of had like, well, look like clothes on.",
+    "But at the same time, they also didn't have arms.",
+    "They had this sign and they had a floating head.",
+    "I didn't really mind the floating head so much, but I didn't really like what ended up happening with some of the shadows it created.",
+    "Like these really harsh like linear lights or linear shadows, and I just thought it kind of really made things murky, so I don't necessarily want to do the signs, but at the same time I feel like the signs are kind of important, so I'm kind of like still kind of trying to figure out what all to do with that.",
+    "All right, so let's go ahead and make this.",
+    "500 I feel like it needs to be brighter.",
+    "Alright, that's cool.",
+    "Let's go ahead and make this plane.",
+    "Asayan And then this person.",
+    "Eh?",
+    "Dark Green I don't know.",
+    "I don't know what I'm doing.",
+    "Let's move our camera.",
+    "Just to see.",
+    "Let's see.",
+    "Let's do that.",
+    "Well, I really need to fix his Arm 'cause he looks like he might be doing something inappropriate.",
+    "Let's see and let's go ahead and F-12 that real quick.",
+    "I think we're going to need to do a little bit of a light, a front light 'cause right now there's only one light which is beautiful.",
+    "But it definitely cannot like filling in their features.",
+    "So I'm going to add an extra light, but we can go ahead and get out of this perspective.",
+    "Alright, so one of the questions that I had 'cause I never really got to never got to wonder this or under this.",
+    "Is I can select tab and I can fix this guys poor face.",
+    "Alright, come on, I'm trying to like move him sideways and he's not.",
+    "He's not moving him sideways.",
+    "Oh my goodness.",
+    "OK, So what I want to do is I just I wonder if I can smooth out his whole knows.",
+    "Let's just select this whole thing.",
+    "Uh, let's do.",
+    "Let's do vertices.",
+    "Let's select all of these around here.",
+    "Ah.",
+    "I so like your face better when you don't have a nose.",
+    "Sorry dude, love you.",
+    "You're not getting a nose for me.",
+    "Alright, I'm gonna go ahead and do X Ray an let's I'm going to go ahead and see if I can.",
+    "Scale this.",
+    "All right, we're going to scale this to the V WO.",
+    "I think that looks better.",
+    "All right, and so now let's go into object mode and his.",
+    "His arm automatically follows right now, so now he looks like he has a mass going.",
+    "Oh, poor guy, I cool.",
+    "So I guess.",
+    "Eptic are one size to look at his B hands.",
+    "Now I didn't review any of that, so.",
+    "Feel free to do so.",
+    "OK.",
+    "So I really need to fix this thing that's going on right here.",
+    "OK, I'm like getting way too way to focus on his face.",
+    "I feel like.",
+    "Oh, and he's gone by.",
+    "OK.",
+    "OK, so there you go.",
+    "Alright guys, so I'm going to go ahead and take a break because I want to share something that's really cool.",
+    "And if you guys want to join your more than welcome.",
+    "Alright, so I do have a discord.",
+    "It is for oops, hey, you're Super Duper.",
+    "It is for all of those people who love to make things so.",
+    "Generally speaking, this is a crafter makers place because I am a paper illustrator and that is what I do primarily.",
+    "So whenever I do use 3D, it's normally to create paper templates in order to then photograph them.",
+    "If you guys have looked at my big hands or my Instagram or my Twitter, you guys probably already have caught on, but there we do have a 3D chat and here so specifically blender, but we also have some CD for enthusiasts as well.",
+    "And that's where we just kind of talk about all things 3D.",
+    "But also, if you guys are interested in inspiration, so again, this is paper made.",
+    "Would a paper from someone in our discord channel and then also Austin was in here as well.",
+    "From our discord channel.",
+    "So I post inspiration every single day we can give feedback to each other.",
+    "I generally share a lot of colors that I like.",
+    "Most times they have pink in them as well.",
+    "And then I also let you guys know what I'm going live and then of course, if there is just how to tips and all that good stuff.",
+    "Anyway, it's nice, friendly place.",
+    "I'm going to go and hit that invite link.",
+    "I'm going to copy it over and when I go ahead and share it into the chat.",
+    "So if you guys are interested in joining, we would love for you guys to continue the conversation.",
+    "But at the same time, yet don't have to.",
+    "'cause you do you Boo.",
+    "Alright, so here we go.",
+    "We're back on our person trying to figure out.",
+    "What the hey, hey to do with them all right?",
+    "So he I feel like he needs some clothes but his little pelvic area I feel like is a little bit pronounced like it's almost like.",
+    "It's almost.",
+    "Like I don't want to have like look up.",
+    "You know what I mean.",
+    "So I'm trying to figure out.",
+    "I made it a lot smaller, so now it's getting really hard to like like work at work on it.",
+    "All right, so if I just like.",
+    "Let's just smooth all that out.",
+    "Again, we're going to just smooth everything you know.",
+    "Make a little bit bigger.",
+    "What happens there?",
+    "That might look weird?",
+    "Everyone joined the discord.",
+    "All thanks Austin Austin was with me on Tuesday and he joined it.",
+    "Oh, that's why.",
+    "Look at my feet is sticking through my plane.",
+    "That's cool.",
+    "Glad glad we messed up there alright cool, so let's go ahead and fix this.",
+    "We need to.",
+    "And just so you guys are aware of their cussing and hate speech and all that good stuff, we just.",
+    "There's just it's not permit Obel So that happens.",
+    "You are Audi like Curt Gowdy.",
+    "All right?",
+    "Yeah, you know what?",
+    "That's just how it's going to be.",
+    "He's just going to have a very thanks for sharing this guy's in 3D.",
+    "In discord.",
+    "You're welcome.",
+    "Clever, you're very welcome.",
+    "OK, Alright so.",
+    "Uh, we need to go ahead and start color in this dude.",
+    "Alright, so generally speaking, let's go ahead and do the face and we're going to.",
+    "Grab his legs here.",
+    "I want to go ahead and do this so I can grab the whole entire thing.",
+    "Alright, so we're going to grab his legs and down here.",
+    "I think that would also be colored.",
+    "OK, Cool, Uhm, an we're going to do a.",
+    "Dark.",
+    "Now let's give him C phone green.",
+    "Alright, so we sign that.",
+    "Um?",
+    "Now if I'm in the render view, I should be able to start seeing some of this stuff alright, cool, so now.",
+    "His shirt, let's see what color shirt do we want to give him?",
+    "Let's give him a.",
+    "Light.",
+    "Light green shirt.",
+    "Cool.",
+    "All right?",
+    "And I click assign.",
+    "I should have Click to sign.",
+    "Alright, why did that not change?",
+    "I wonder if it's gonna take me a second.",
+    "Let's go ahead.",
+    "And at least change the pose because that poses outlook theory is look.",
+    "Oh Wow Alicia.",
+    "What happened?",
+    "Cool, you could have like a racing stripe.",
+    "OK.",
+    "But The thing is, is that his racing stripe looks?",
+    "Um and I completely forgot this part of his pants.",
+    "Who this is a new style, isn't it?",
+    "OK, so let's go back and let's.",
+    "Let's go back into going to go back into object mode so I can click this and then I need to go back into edit mode.",
+    "And then I can continue to click this, but I need to get this guys poor.",
+    "And you should be seafoam grain assign.",
+    "Thank you very much, alright, so let's go back to render it.",
+    "OK, you should have changed.",
+    "I think it just takes a little bit.",
+    "OK, so and then I guess it could have changed to shoes.",
+    "Will change your shoes were still in edit mode.",
+    "Will change your shoes alright, So what color shoes should you have Bud?",
+    "So we want to do a lot of monochromatic here.",
+    "So then at that point whenever he when Tony puts the lettering on top, it's not going to be as bad like it's going to be easier for him to read.",
+    "Let's do a light blue.",
+    "I sign.",
+    "Alright cool and I can definitely tell it like I kind of like that little racing stripe that we got going on.",
+    "And the cool thing is that I can, even if I wanted to like, have.",
+    "Alright, let's get out of here.",
+    "So like this and this right here, select if I want that to be light blue 2 just because of the design of the shirt.",
+    "I could do that as well.",
+    "I'm going to go ahead and change the orientation of the camera.",
+    "Let's get outta here.",
+    "I want to change his pose really quick.",
+    "All right, so let's go ahead.",
+    "We're going to change his pose.",
+    "We are in pose mode automatically, but what I have learned is that it's just a lot easier to change his pose when you see.",
+    "Alright, so I'm going to go are.",
+    "Nope, definitely don't want the arm doing that.",
+    "Oh golly.",
+    "I want his armed be up 'cause I want him to be like.",
+    "Raisin cane like I want him to be like.",
+    "Um?",
+    "All right, and let's have this guy.",
+    "Rotate up.",
+    "We need him.",
+    "To write wow.",
+    "I I'm kind of bummed.",
+    "I think he does need a sign.",
+    "Alright, he just looks like he's in a something.",
+    "Alright, let's go ahead and we're going to move him.",
+    "Alright, let's see, let's see.",
+    "OK, let's move you back or women it.",
+    "Can we move you back?",
+    "What's happening here?",
+    "Oh no, that's not deal with that with your need that you'd break it, honey.",
+    "All right, he looks like he's kind of walking.",
+    "All right?",
+    "So let's get rid of that view.",
+    "Let's go to camera view.",
+    "Let's change the camera, let's see.",
+    "There you go.",
+    "He looks like he's running.",
+    "I like it alright of 12 let's see what happens.",
+    "Oh look at our cutie guy.",
+    "Oh man.",
+    "His little area there should not be that color.",
+    "Alright, you know what?",
+    "Though we're learning, I'm liking it.",
+    "I don't know what's happening with his thumb.",
+    "I guess he's doing like this.",
+    "His his hand really should be like that.",
+    "Or maybe it should be more front.",
+    "Alright, but I'm liking it alright, so we have.",
+    "We have one person who is completely uhm.",
+    "Red, granted, we're going to have to work on his pose, but that's OK.",
+    "He's rigged, and that's really good.",
+    "So what I want to do now is that I'm going to actually get out of rendering 'cause this takes a lot of power for the computer, and we don't necessarily need that, and there's a lot of things that we're going to have to clean up with, like clothes and Whatnot, but we're just going to go ahead and just.",
+    "It's fine.",
+    "OK, so we're going to name this person.",
+    "Person one I'm going to shift D.",
+    "Not actually overhear shift D to the wide.",
+    "OK, I actually got to select you come on come on.",
+    "Oh, I'm in pose mode.",
+    "Object mode there we go, select you Shifty Y.",
+    "Wow, what is happening to your poor arms wow.",
+    "Is it just is it trying to use the same?",
+    "Uh.",
+    "OK, I think can I don't can I delete that?",
+    "Am I going to have to re bone it?",
+    "I'm going to three, that's fine.",
+    "That's fine, let's just go ahead can.",
+    "I can't remove those, can I?",
+    "This is all new to me.",
+    "Yeah, so those are all my vertex groups to arm all that good stuff and I think it's trying to still like copy.",
+    "What's happening here?",
+    "So that kind of stinks.",
+    "Dagnab it.",
+    "Alright, so can I actually just.",
+    "Just moving, just select the person I can't, can I?",
+    "OK did does that mean I'm going to have to make another person from scratch?",
+    "Now.",
+    "What did I do to this person's pelvis area?",
+    "I just shows you that I don't really know what I'm doing like the basic anatomy of a person.",
+    "I mean, the back looks OK.",
+    "And his shoulder blades look at that.",
+    "I actually got a shoulder blades but other things look a little scary.",
+    "All right, but that's what we have.",
+    "OK, so I guess I'm going to have to make another person, but that doesn't sound very fun right now, especially since we only have 15 minutes left.",
+    "OK, so let me go ahead and just bring the camera back to me.",
+    "Let me show you guys.",
+    "This is what's going to happen.",
+    "Alright, so this is an on going project and I pretty much have shared as much as I think that would be interesting to share.",
+    "Everything else is just really going to be me grinding, so unfortunately we're not finishing the project today, nor will I be finishing this project.",
+    "One stream at all, so I just wanted to kind of share the funder parts of this.",
+    "I'm going to go ahead an like fix it.",
+    "Christian said, maybe grab it from the anchor.",
+    "That's actually a really good.",
+    "That's that's a really good point.",
+    "Uh, I'm sure that would work.",
+    "I don't necessarily understand the anchor part.",
+    "I know that there has to be an anchor, and I'm thinking it might be the origin, but I really don't know and that kind of shows you friends.",
+    "So you might be working on something for Alex.",
+    "I've been in bland blender for about 2 months and I still am learning so much about it.",
+    "The good news now is that I understand the jargon so I can search more easily as to what I'm looking for.",
+    "If you guys are looking for a really quality and this is not sponsored at all, but really quality tutorials, I really enjoy CG cookie.",
+    "Uhm, they are also the people who bring blender market as well, which provides a platform for a lot of people to sell add-ons and a little percentage of all their sales for the most part.",
+    "Goes back to the organization that makes blender, which is really awesome so.",
+    "Something for you guys to kind of know and to be aware of a man.",
+    "So anyway, if you guys are wondering what the schedule is.",
+    "I'm here every Tuesday and Thursday between 9:00 o'clock and 11:00 also if you guys are wondering what we're going to be tackling next week, I'm actually really excited.",
+    "So if you guys have been following along, you guys know that I have been recreating Hertz tone cards, her stone as a digital playing card game made by the our friends at Blizzard who also makes Overwatch.",
+    "Also Diablo Hertz tone, though is really interesting is that it has a card set system and so every card on the front has the mechanics and mechanics and also tactics of the game.",
+    "But the back has the artwork and there's 150 different facts, and so there's a lot of different things for us to create.",
+    "I already went ahead and created 2, which is really fun.",
+    "One is blush room and the other one is mark of a car.",
+    "I can actually show you guys those really quick.",
+    "So it hang with me as I bring that up.",
+    "Alright so?",
+    "That those are eggs.",
+    "I think those are eggs.",
+    "Those look pretty cool.",
+    "Not my work, but I really like it.",
+    "OK, so and these are the videos.",
+    "Alright, so I just got done doing the market for car which is really fun so again this is a this is paper.",
+    "And sand and Clay Christian said, no way my roommate has a lot of those.",
+    "All right, and so, and this is blush room, so this is all created with foam, clay and paint.",
+    "And again, the making of these are all on live stream.",
+    "So if you guys are interested in how those went down, you guys can catch that again.",
+    "If you guys are wondering where you can catch the replay of anything that I've done on line, you guys can do that right here by clicking videos all right.",
+    "But we are going to be changing our tune.",
+    "I did start another card, but frankly I think I'm kind of done with her stone cards for the moment.",
+    "So what does Alicia want to do I want to recreate icons.",
+    "OK Anne, I'm talking about your iOS icons.",
+    "They have changed from a skew morphism too.",
+    "More flat design, they're getting more into 3D shapes, and So what I thought would be really cool is what if I recreated app icons out of intangible assets so I could create a really dope, you know, like application icon and then put it in a shadow box or something.",
+    "I don't know.",
+    "I think would be really cool.",
+    "It be really small and it would also be something that I could probably do in one cast, which is what I want.",
+    "I don't want to have these big projects that take forecast for me to finish because I know that's really hard for you guys to follow along.",
+    "So again, one last time I'm going to plug my discord, let me get that.",
+    "Invite.",
+    "Yeah, and the designs oh as good as it might be, you can't post the same comment twice.",
+    "Alright?",
+    "So you guys are just gonna have to scroll up.",
+    "Alright?",
+    "I know you guys probably don't want me to sing, but you got it anyway?",
+    "So Christian says the designs are so organic so your style.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        22,
+        23
+      ],
+      "sentence": [
+        "Who knows?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        32,
+        33
+      ],
+      "sentence": [
+        "So yesterday, because it's always kind of a good idea to practice a little bit, I created this quick little 3D animation is a test concept just really to see if I can end up making something kind of like this all right?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        54,
+        55
+      ],
+      "sentence": [
+        "Uhm, have you guys been seeing my screen this whole entire time?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        74,
+        75
+      ],
+      "sentence": [
+        "Now I know this might be really hard for you guys to see, but in the upper left hand corner up here there is front orthographic, right?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        85,
+        86
+      ],
+      "sentence": [
+        "Uh, why are you lagging?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        91,
+        92
+      ],
+      "sentence": [
+        "Why are you adding one now?"
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        104,
+        105
+      ],
+      "sentence": [
+        "Why is green?"
+      ]
+    },
+    "T9": {
+      "id": "T9",
+      "label": "ANSWER",
+      "span": [
+        105,
+        106
+      ],
+      "sentence": [
+        "No idea why it's green, but it is green so I just think that OK it's green and then Zedd or Z's blue and you don't see blue but blue is chopping down right?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        119,
+        120
+      ],
+      "sentence": [
+        "So meaning a lot of my graphics are going to be very centrally located, but I still want it to be wide enough so whenever I post on dribble it looks good, right?"
+      ]
+    },
+    "T12": {
+      "id": "T12",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        137,
+        138
+      ],
+      "sentence": [
+        "I just wanted some what?"
+      ]
+    },
+    "T13": {
+      "id": "T13",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        144,
+        145
+      ],
+      "sentence": [
+        "Where do I put it?"
+      ]
+    },
+    "T15": {
+      "id": "T15",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        153,
+        154
+      ],
+      "sentence": [
+        "But really, how big is that when the camera gets on top?"
+      ]
+    },
+    "T16": {
+      "id": "T16",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        157,
+        158
+      ],
+      "sentence": [
+        "Why don't we just do one?"
+      ]
+    },
+    "T17": {
+      "id": "T17",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        176,
+        177
+      ],
+      "sentence": [
+        "Is it not parenting the way that I thought it would?"
+      ]
+    },
+    "T18": {
+      "id": "T18",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        179,
+        180
+      ],
+      "sentence": [
+        "And then we should see the camera move, yeah?"
+      ]
+    },
+    "T20": {
+      "id": "T20",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        199,
+        200
+      ],
+      "sentence": [
+        "Am I collecting the wrong one?"
+      ]
+    },
+    "T21": {
+      "id": "T21",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        204,
+        205
+      ],
+      "sentence": [
+        "So now when we go do this?"
+      ]
+    },
+    "T22": {
+      "id": "T22",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        226,
+        227
+      ],
+      "sentence": [
+        "Where do we want our camera to start?"
+      ]
+    },
+    "T24": {
+      "id": "T24",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        255,
+        256
+      ],
+      "sentence": [
+        "Because guess what?"
+      ]
+    },
+    "T26": {
+      "id": "T26",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        275,
+        276
+      ],
+      "sentence": [
+        "And we start rotating up words and then we're fixing it, and then it goes straight, which is nice when I'm missing, though, is the really like closeness that we got from previous?"
+      ]
+    },
+    "T28": {
+      "id": "T28",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        299,
+        300
+      ],
+      "sentence": [
+        "So the next thing that we need to do?"
+      ]
+    },
+    "T30": {
+      "id": "T30",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        345,
+        346
+      ],
+      "sentence": [
+        "And then what if?"
+      ]
+    },
+    "T32": {
+      "id": "T32",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        379,
+        380
+      ],
+      "sentence": [
+        "Let's see if we can pull one up, shall we?"
+      ]
+    },
+    "T33": {
+      "id": "T33",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        391,
+        392
+      ],
+      "sentence": [
+        "All right, and where are you going to?"
+      ]
+    },
+    "T35": {
+      "id": "T35",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        440,
+        441
+      ],
+      "sentence": [
+        "Is that we're going to extrude and neck?"
+      ]
+    },
+    "T37": {
+      "id": "T37",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        455,
+        456
+      ],
+      "sentence": [
+        "And little bit too crazy for me, OK?"
+      ]
+    },
+    "T39": {
+      "id": "T39",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        491,
+        492
+      ],
+      "sentence": [
+        "Why are you not moving right?"
+      ]
+    },
+    "T41": {
+      "id": "T41",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        498,
+        499
+      ],
+      "sentence": [
+        "So why shall we?"
+      ]
+    },
+    "T42": {
+      "id": "T42",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        500,
+        501
+      ],
+      "sentence": [
+        "Is that we're going to go ahead and work on the chest?"
+      ]
+    },
+    "T43": {
+      "id": "T43",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        508,
+        509
+      ],
+      "sentence": [
+        "My guy is like super buff so like who wears the gym?"
+      ]
+    },
+    "T44": {
+      "id": "T44",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        516,
+        517
+      ],
+      "sentence": [
+        "Oh, Fudge, what happened crap?"
+      ]
+    },
+    "T45": {
+      "id": "T45",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        536,
+        537
+      ],
+      "sentence": [
+        "So it was really confused with like what do you want to do?"
+      ]
+    },
+    "T46": {
+      "id": "T46",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        563,
+        564
+      ],
+      "sentence": [
+        "Probably I selected this guy too, right?"
+      ]
+    },
+    "T49": {
+      "id": "T49",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        623,
+        624
+      ],
+      "sentence": [
+        "Again, I'm going to select all of these and we're going to shift him over whom?"
+      ]
+    },
+    "T50": {
+      "id": "T50",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        626,
+        627
+      ],
+      "sentence": [
+        "AH could you see you friend?"
+      ]
+    },
+    "T51": {
+      "id": "T51",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        652,
+        653
+      ],
+      "sentence": [
+        "Aw OK, I was like what did you typo on Pascal?"
+      ]
+    },
+    "T53": {
+      "id": "T53",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        691,
+        692
+      ],
+      "sentence": [
+        "Alright, let's look at it all right?"
+      ]
+    },
+    "T54": {
+      "id": "T54",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        696,
+        697
+      ],
+      "sentence": [
+        "Alright, we should like totally messed up here right?"
+      ]
+    },
+    "T55": {
+      "id": "T55",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        701,
+        702
+      ],
+      "sentence": [
+        "Do you use the silhouette you have in your mood board to align the 3D figure it?"
+      ]
+    },
+    "T57": {
+      "id": "T57",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        712,
+        713
+      ],
+      "sentence": [
+        "Why don't I push myself and make an animation that he can then let her on top oven so this is just a test concept?"
+      ]
+    },
+    "T58": {
+      "id": "T58",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        731,
+        732
+      ],
+      "sentence": [
+        "Why again?"
+      ]
+    },
+    "T59": {
+      "id": "T59",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        733,
+        734
+      ],
+      "sentence": [
+        "Extrude why again?"
+      ]
+    },
+    "T62": {
+      "id": "T62",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        752,
+        753
+      ],
+      "sentence": [
+        "I mean, don't they kind of feel like?"
+      ]
+    },
+    "T66": {
+      "id": "T66",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        786,
+        787
+      ],
+      "sentence": [
+        "He is have you guys seen?"
+      ]
+    },
+    "T67": {
+      "id": "T67",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        792,
+        793
+      ],
+      "sentence": [
+        "Alright, so that's a little bit better, right?"
+      ]
+    },
+    "T68": {
+      "id": "T68",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        800,
+        801
+      ],
+      "sentence": [
+        "A luck with it, but you know what?"
+      ]
+    },
+    "T69": {
+      "id": "T69",
+      "label": "QUESTION",
+      "span": [
+        805,
+        806
+      ],
+      "sentence": [
+        "Who knew that the huge heads on Easter Island were activist, right?"
+      ]
+    },
+    "T70": {
+      "id": "T70",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        806,
+        807
+      ],
+      "sentence": [
+        "Holy granola, what did I just do?"
+      ]
+    },
+    "T71": {
+      "id": "T71",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        818,
+        819
+      ],
+      "sentence": [
+        "Actually, you know what you can do?"
+      ]
+    },
+    "T72": {
+      "id": "T72",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        837,
+        838
+      ],
+      "sentence": [
+        "Are you working purely with your mouse and keyboard shortcuts?"
+      ]
+    },
+    "T79": {
+      "id": "T79",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        888,
+        889
+      ],
+      "sentence": [
+        "Parent make and then what happens?"
+      ]
+    },
+    "T80": {
+      "id": "T80",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        902,
+        903
+      ],
+      "sentence": [
+        "Cool alright, so we kind of that like So what about this guy?"
+      ]
+    },
+    "T82": {
+      "id": "T82",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        930,
+        931
+      ],
+      "sentence": [
+        "I really don't like his face alright can I like mess his face up?"
+      ]
+    },
+    "T83": {
+      "id": "T83",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        948,
+        949
+      ],
+      "sentence": [
+        "Of Fudge, but it what is happening right now?"
+      ]
+    },
+    "T85": {
+      "id": "T85",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        974,
+        975
+      ],
+      "sentence": [
+        "I'm just going to laugh, which is totally cool you do you?"
+      ]
+    },
+    "T89": {
+      "id": "T89",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        1142,
+        1143
+      ],
+      "sentence": [
+        "What the hey, hey to do with them all right?"
+      ]
+    },
+    "T93": {
+      "id": "T93",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        1166,
+        1167
+      ],
+      "sentence": [
+        "Yeah, you know what?"
+      ]
+    },
+    "T95": {
+      "id": "T95",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        1185,
+        1186
+      ],
+      "sentence": [
+        "His shirt, let's see what color shirt do we want to give him?"
+      ]
+    },
+    "T97": {
+      "id": "T97",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        1193,
+        1194
+      ],
+      "sentence": [
+        "Alright, why did that not change?"
+      ]
+    },
+    "T98": {
+      "id": "T98",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        1198,
+        1199
+      ],
+      "sentence": [
+        "What happened?"
+      ]
+    },
+    "T99": {
+      "id": "T99",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        1201,
+        1202
+      ],
+      "sentence": [
+        "But The thing is, is that his racing stripe looks?"
+      ]
+    },
+    "T100": {
+      "id": "T100",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        1203,
+        1204
+      ],
+      "sentence": [
+        "Who this is a new style, isn't it?"
+      ]
+    },
+    "T101": {
+      "id": "T101",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        1213,
+        1214
+      ],
+      "sentence": [
+        "Will change your shoes alright, So what color shoes should you have Bud?"
+      ]
+    },
+    "T106": {
+      "id": "T106",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        1259,
+        1260
+      ],
+      "sentence": [
+        "Alright, you know what?"
+      ]
+    },
+    "T107": {
+      "id": "T107",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        1278,
+        1279
+      ],
+      "sentence": [
+        "Is it just is it trying to use the same?"
+      ]
+    },
+    "T109": {
+      "id": "T109",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        1281,
+        1282
+      ],
+      "sentence": [
+        "Am I going to have to re bone it?"
+      ]
+    },
+    "T110": {
+      "id": "T110",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        1284,
+        1285
+      ],
+      "sentence": [
+        "I can't remove those, can I?"
+      ]
+    },
+    "T111": {
+      "id": "T111",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        1287,
+        1288
+      ],
+      "sentence": [
+        "What's happening here?"
+      ]
+    },
+    "T112": {
+      "id": "T112",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        1291,
+        1292
+      ],
+      "sentence": [
+        "Just moving, just select the person I can't, can I?"
+      ]
+    },
+    "T114": {
+      "id": "T114",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        1294,
+        1295
+      ],
+      "sentence": [
+        "What did I do to this person's pelvis area?"
+      ]
+    },
+    "T118": {
+      "id": "T118",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        1358,
+        1359
+      ],
+      "sentence": [
+        "I know you guys probably don't want me to sing, but you got it anyway?"
+      ]
+    },
+    "T119": {
+      "id": "T119",
+      "label": "ANSWER",
+      "span": [
+        1359,
+        1360
+      ],
+      "sentence": [
+        "So Christian says the designs are so organic so your style."
+      ]
+    },
+    "T120": {
+      "id": "T120",
+      "label": "ANSWER",
+      "span": [
+        23,
+        24
+      ],
+      "sentence": [
+        "Yeah, mines to be discussed."
+      ]
+    },
+    "T121": {
+      "id": "T121",
+      "label": "ANSWER",
+      "span": [
+        33,
+        35
+      ],
+      "sentence": [
+        "And so I know you guys can't really see it right now, but the whole point of this was that these are people who are protesters.",
+        "OK, I get it, everything's very monochromatic."
+      ]
+    },
+    "T122": {
+      "id": "T122",
+      "label": "ANSWER",
+      "span": [
+        55,
+        59
+      ],
+      "sentence": [
+        "'cause I'm looking at my video in my video is not showing my screen.",
+        "So let me know if there's something wrong with this stream 'cause it doesn't seem like you guys are seeing the stream at all.",
+        "Oh there it goes.",
+        "Maybe I just need to refresh my thing."
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "ANSWER",
+      "span": [
+        86,
+        89
+      ],
+      "sentence": [
+        "I'm just I really just wanted to mesh that's like the simplest thing that you could OK cool, alright cool and I'm going to go ahead and hit as I'm going to scale this.",
+        "I mean, I want this thing to be big.",
+        "Alright, so I mean that's that's pretty big."
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "ANSWER",
+      "span": [
+        92,
+        94
+      ],
+      "sentence": [
+        "I don't know.",
+        "I just really like to do things a little backwards and that's cool."
+      ]
+    },
+    "T123": {
+      "id": "T123",
+      "label": "ANSWER",
+      "span": [
+        120,
+        121
+      ],
+      "sentence": [
+        "All right, so here we go."
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "ANSWER",
+      "span": [
+        138,
+        139
+      ],
+      "sentence": [
+        "Alright cool, alright, so let's go ahead and do."
+      ]
+    },
+    "T124": {
+      "id": "T124",
+      "label": "ANSWER",
+      "span": [
+        145,
+        148
+      ],
+      "sentence": [
+        "I always like forget where I put things.",
+        "I'm not the only one.",
+        "Probably not."
+      ]
+    },
+    "T14": {
+      "id": "T14",
+      "label": "ANSWER",
+      "span": [
+        154,
+        157
+      ],
+      "sentence": [
+        "So I need the camera to get on top so I can do this in a couple of different ways.",
+        "One of the ways that I found that's actually really that's a lot easier I have found is parenting the camera to an empty, and if you guys are wondering what an empty is, an empty is just.",
+        "A container of sorts that the camera doesn't see."
+      ]
+    },
+    "T125": {
+      "id": "T125",
+      "label": "ANSWER",
+      "span": [
+        158,
+        160
+      ],
+      "sentence": [
+        "Alright, so I'm going to do an empty.",
+        "Sphere."
+      ]
+    },
+    "T19": {
+      "id": "T19",
+      "label": "ANSWER",
+      "span": [
+        177,
+        179
+      ],
+      "sentence": [
+        "It should be.",
+        "Alright, so I'm just going to go here."
+      ]
+    },
+    "T126": {
+      "id": "T126",
+      "label": "ANSWER",
+      "span": [
+        200,
+        202
+      ],
+      "sentence": [
+        "Alright is saying objects has no data to transform, but I see it right there so I don't know.",
+        "I don't know, alright, so let's go ahead and we're going to parent."
+      ]
+    },
+    "T127": {
+      "id": "T127",
+      "label": "ANSWER",
+      "span": [
+        205,
+        207
+      ],
+      "sentence": [
+        "Alright negative 90.",
+        "Alright cool."
+      ]
+    },
+    "T128": {
+      "id": "T128",
+      "label": "ANSWER",
+      "span": [
+        227,
+        233
+      ],
+      "sentence": [
+        "So I remember last time when I did this it was kind of off to the side and it was.",
+        "I never really played and it was looking at.",
+        "Yeah, zed.",
+        "There you go, and maybe a little bit down.",
+        "Alright, I'm going to shift till day.",
+        "Just to bring my camera up a little bit."
+      ]
+    },
+    "T23": {
+      "id": "T23",
+      "label": "ANSWER",
+      "span": [
+        256,
+        257
+      ],
+      "sentence": [
+        "I'm not really an animator, I don't really know what I'm doing, so we're just gonna go with it."
+      ]
+    },
+    "T25": {
+      "id": "T25",
+      "label": "ANSWER",
+      "span": [
+        276,
+        282
+      ],
+      "sentence": [
+        "So I always really like like towards the end 'cause you guys can see on this one too.",
+        "I really like how.",
+        "It kinda.",
+        "It's not perfect.",
+        "Whenever you zoomed out when you're at that Birds Eye view, it's not perfect yet.",
+        "It's getting there."
+      ]
+    },
+    "T27": {
+      "id": "T27",
+      "label": "ANSWER",
+      "span": [
+        300,
+        302
+      ],
+      "sentence": [
+        "I'm gonna go ahead and come over here and we turn that G humidifier down 'cause I don't know if it's not bothering you.",
+        "It is bothering me."
+      ]
+    },
+    "T129": {
+      "id": "T129",
+      "label": "ANSWER",
+      "span": [
+        346,
+        349
+      ],
+      "sentence": [
+        "We brought everything in just just to her.",
+        "And then maybe we bring this up.",
+        "A little bit."
+      ]
+    },
+    "T29": {
+      "id": "T29",
+      "label": "ANSWER",
+      "span": [
+        1295,
+        1296
+      ],
+      "sentence": [
+        "I just shows you that I don't really know what I'm doing like the basic anatomy of a person."
+      ]
+    },
+    "T115": {
+      "id": "T115",
+      "label": "ANSWER",
+      "span": [
+        1292,
+        1294
+      ],
+      "sentence": [
+        "OK did does that mean I'm going to have to make another person from scratch?",
+        "Now."
+      ]
+    },
+    "T113": {
+      "id": "T113",
+      "label": "ANSWER",
+      "span": [
+        1288,
+        1290
+      ],
+      "sentence": [
+        "So that kind of stinks.",
+        "Dagnab it."
+      ]
+    },
+    "T116": {
+      "id": "T116",
+      "label": "ANSWER",
+      "span": [
+        1279,
+        1281
+      ],
+      "sentence": [
+        "Uh.",
+        "OK, I think can I don't can I delete that?"
+      ]
+    },
+    "T108": {
+      "id": "T108",
+      "label": "ANSWER",
+      "span": [
+        1282,
+        1284
+      ],
+      "sentence": [
+        "I'm going to three, that's fine.",
+        "That's fine, let's just go ahead can."
+      ]
+    },
+    "T117": {
+      "id": "T117",
+      "label": "ANSWER",
+      "span": [
+        1285,
+        1287
+      ],
+      "sentence": [
+        "This is all new to me.",
+        "Yeah, so those are all my vertex groups to arm all that good stuff and I think it's trying to still like copy."
+      ]
+    },
+    "T130": {
+      "id": "T130",
+      "label": "ANSWER",
+      "span": [
+        1260,
+        1261
+      ],
+      "sentence": [
+        "Though we're learning, I'm liking it."
+      ]
+    },
+    "T105": {
+      "id": "T105",
+      "label": "ANSWER",
+      "span": [
+        1247,
+        1249
+      ],
+      "sentence": [
+        "Oh no, that's not deal with that with your need that you'd break it, honey.",
+        "All right, he looks like he's kind of walking."
+      ]
+    },
+    "T131": {
+      "id": "T131",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        1245,
+        1247
+      ],
+      "sentence": [
+        "Can we move you back?",
+        "What's happening here?"
+      ]
+    },
+    "T102": {
+      "id": "T102",
+      "label": "ANSWER",
+      "span": [
+        1214,
+        1217
+      ],
+      "sentence": [
+        "So we want to do a lot of monochromatic here.",
+        "So then at that point whenever he when Tony puts the lettering on top, it's not going to be as bad like it's going to be easier for him to read.",
+        "Let's do a light blue."
+      ]
+    },
+    "T103": {
+      "id": "T103",
+      "label": "ANSWER",
+      "span": [
+        1202,
+        1203
+      ],
+      "sentence": [
+        "Um and I completely forgot this part of his pants."
+      ]
+    },
+    "T104": {
+      "id": "T104",
+      "label": "ANSWER",
+      "span": [
+        1199,
+        1201
+      ],
+      "sentence": [
+        "Cool, you could have like a racing stripe.",
+        "OK."
+      ]
+    },
+    "T132": {
+      "id": "T132",
+      "label": "ANSWER",
+      "span": [
+        1194,
+        1196
+      ],
+      "sentence": [
+        "I wonder if it's gonna take me a second.",
+        "Let's go ahead."
+      ]
+    },
+    "T94": {
+      "id": "T94",
+      "label": "ANSWER",
+      "span": [
+        1186,
+        1190
+      ],
+      "sentence": [
+        "Let's give him a.",
+        "Light.",
+        "Light green shirt.",
+        "Cool."
+      ]
+    },
+    "T96": {
+      "id": "T96",
+      "label": "ANSWER",
+      "span": [
+        1167,
+        1168
+      ],
+      "sentence": [
+        "That's just how it's going to be."
+      ]
+    },
+    "T92": {
+      "id": "T92",
+      "label": "ANSWER",
+      "span": [
+        1155,
+        1158
+      ],
+      "sentence": [
+        "Everyone joined the discord.",
+        "All thanks Austin Austin was with me on Tuesday and he joined it.",
+        "Oh, that's why."
+      ]
+    },
+    "T133": {
+      "id": "T133",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        1153,
+        1155
+      ],
+      "sentence": [
+        "What happens there?",
+        "That might look weird?"
+      ]
+    },
+    "T90": {
+      "id": "T90",
+      "label": "ANSWER",
+      "span": [
+        1143,
+        1147
+      ],
+      "sentence": [
+        "So he I feel like he needs some clothes but his little pelvic area I feel like is a little bit pronounced like it's almost like.",
+        "It's almost.",
+        "Like I don't want to have like look up.",
+        "You know what I mean."
+      ]
+    },
+    "T88": {
+      "id": "T88",
+      "label": "ANSWER",
+      "span": [
+        1017,
+        1021
+      ],
+      "sentence": [
+        "I'm going to go ahead and quickly click F2.",
+        "Or F-12.",
+        "Out so there you go.",
+        "You can see it right there."
+      ]
+    },
+    "T91": {
+      "id": "T91",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        1015,
+        1017
+      ],
+      "sentence": [
+        "What's going on with my shadows?",
+        "Out where is my shadows?"
+      ]
+    },
+    "T86": {
+      "id": "T86",
+      "label": "ANSWER",
+      "span": [
+        975,
+        978
+      ],
+      "sentence": [
+        "He's got to install microwave ovens, custom kitchen deliveries, and he's got to move this refrigerator.",
+        "It's clever, has a lot of things to do right now or you talking about my person.",
+        "Either way, there's a lot of stuff that needs to be done, so we're going to go ahead and move forward."
+      ]
+    },
+    "T87": {
+      "id": "T87",
+      "label": "ANSWER",
+      "span": [
+        949,
+        951
+      ],
+      "sentence": [
+        "Uh, we're in pose mode.",
+        "That's what's happening."
+      ]
+    },
+    "T84": {
+      "id": "T84",
+      "label": "ANSWER",
+      "span": [
+        931,
+        933
+      ],
+      "sentence": [
+        "That I like deconstructive, saved his face is high, I clever.",
+        "Set your name or you just clever is that is that was going on."
+      ]
+    },
+    "T78": {
+      "id": "T78",
+      "label": "ANSWER",
+      "span": [
+        903,
+        905
+      ],
+      "sentence": [
+        "I want him to go.",
+        "See I can shrug him, but I want him to actually rotate so I can never get my rotate right."
+      ]
+    },
+    "T81": {
+      "id": "T81",
+      "label": "ANSWER",
+      "span": [
+        889,
+        890
+      ],
+      "sentence": [
+        "Keep upset yes."
+      ]
+    },
+    "T134": {
+      "id": "T134",
+      "label": "ANSWER",
+      "span": [
+        864,
+        866
+      ],
+      "sentence": [
+        "I mean is that parenting to that like it supposed to be?",
+        "OK cool, so it is automatically Boo bones."
+      ]
+    },
+    "T135": {
+      "id": "T135",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        862,
+        864
+      ],
+      "sentence": [
+        "Alright, how are?",
+        "How are my relationships happening?"
+      ]
+    },
+    "T73": {
+      "id": "T73",
+      "label": "ANSWER",
+      "span": [
+        838,
+        841
+      ],
+      "sentence": [
+        "Alicia, yes.",
+        "I am Pascal.",
+        "That is how I am doing all the things."
+      ]
+    },
+    "T74": {
+      "id": "T74",
+      "label": "ANSWER",
+      "span": [
+        801,
+        803
+      ],
+      "sentence": [
+        "It would be a lot faster if it actually works successfully.",
+        "Oh see, it's not working now, so that's not a really good."
+      ]
+    },
+    "T75": {
+      "id": "T75",
+      "label": "ANSWER",
+      "span": [
+        819,
+        821
+      ],
+      "sentence": [
+        "You can do this.",
+        "You can do N open up the tool and go access X mirror."
+      ]
+    },
+    "T76": {
+      "id": "T76",
+      "label": "ANSWER",
+      "span": [
+        793,
+        794
+      ],
+      "sentence": [
+        "I don't know."
+      ]
+    },
+    "T77": {
+      "id": "T77",
+      "label": "ANSWER",
+      "span": [
+        807,
+        808
+      ],
+      "sentence": [
+        "Alright, a human basic."
+      ]
+    },
+    "T136": {
+      "id": "T136",
+      "label": "ANSWER",
+      "span": [
+        787,
+        788
+      ],
+      "sentence": [
+        "Um yeah, probably have not seen this."
+      ]
+    },
+    "T64": {
+      "id": "T64",
+      "label": "ANSWER",
+      "span": [
+        753,
+        757
+      ],
+      "sentence": [
+        "Kind of big.",
+        "Like Dude got some big feet.",
+        "I don't know who's that.",
+        "He seems like he's kinda big, alright, cool."
+      ]
+    },
+    "T63": {
+      "id": "T63",
+      "label": "ANSWER",
+      "span": [
+        732,
+        733
+      ],
+      "sentence": [
+        "Again, we're going to scale it."
+      ]
+    },
+    "T65": {
+      "id": "T65",
+      "label": "ANSWER",
+      "span": [
+        734,
+        738
+      ],
+      "sentence": [
+        "And then we're going to start scaling a little bit down.",
+        "Alright, so when I did that though.",
+        "Ended up creating.",
+        "When I scaled it, I scaled it all the way around."
+      ]
+    },
+    "T60": {
+      "id": "T60",
+      "label": "ANSWER",
+      "span": [
+        713,
+        715
+      ],
+      "sentence": [
+        "I made these 3D people I didn't really like them but the camera goes through M and then at that point it ends up making a fist.",
+        "OK, well you can't really see the fist very much, but again, this is just the proof of concept."
+      ]
+    },
+    "T56": {
+      "id": "T56",
+      "label": "ANSWER",
+      "span": [
+        702,
+        706
+      ],
+      "sentence": [
+        "Yeah I just I'm just using it really too wow.",
+        "Just kind of as a reference.",
+        "I actually don't have a lot of experience drawing.",
+        "Things."
+      ]
+    },
+    "T61": {
+      "id": "T61",
+      "label": "ANSWER",
+      "span": [
+        692,
+        693
+      ],
+      "sentence": [
+        "That looks it's looking good."
+      ]
+    },
+    "T52": {
+      "id": "T52",
+      "label": "ANSWER",
+      "span": [
+        653,
+        656
+      ],
+      "sentence": [
+        "I couldn't tell.",
+        "Normally it's my name but you did not.",
+        "You did not do my name so I appreciate."
+      ]
+    },
+    "T137": {
+      "id": "T137",
+      "label": "ANSWER",
+      "span": [
+        627,
+        630
+      ],
+      "sentence": [
+        "I don't think I've ever have you been.",
+        "Maybe you've been in one of my stream before but it's good to see you, raksha.",
+        "Please forgive me if I'm saying Your name incorrectly."
+      ]
+    },
+    "T138": {
+      "id": "T138",
+      "label": "ANSWER",
+      "span": [
+        624,
+        626
+      ],
+      "sentence": [
+        "To make her be alright, cool now that we have our V.",
+        "We can undo the X-ray and we can select these guys hey, good morning."
+      ]
+    },
+    "T48": {
+      "id": "T48",
+      "label": "ANSWER",
+      "span": [
+        537,
+        539
+      ],
+      "sentence": [
+        "I'm trying to do what you want to do alright, cool, and now we're going to make it a little bit bigger.",
+        "Note bigger."
+      ]
+    },
+    "T47": {
+      "id": "T47",
+      "label": "ANSWER",
+      "span": [
+        517,
+        520
+      ],
+      "sentence": [
+        "Extrude Scale.",
+        "Alright, so I mean we're going to have to like, definitely figure this one out, but it is what it is.",
+        "Alright cool."
+      ]
+    },
+    "T139": {
+      "id": "T139",
+      "label": "ANSWER",
+      "span": [
+        499,
+        500
+      ],
+      "sentence": [
+        "All right and then what we're going to do now."
+      ]
+    },
+    "T140": {
+      "id": "T140",
+      "label": "ANSWER",
+      "span": [
+        501,
+        508
+      ],
+      "sentence": [
+        "So I want to select all of these faces.",
+        "And I'm going to extrude down.",
+        "But I'm going to.",
+        "Kind of go.",
+        "Down again.",
+        "Alright, it's definitely feeling like.",
+        "This needs to go."
+      ]
+    },
+    "T38": {
+      "id": "T38",
+      "label": "ANSWER",
+      "span": [
+        492,
+        497
+      ],
+      "sentence": [
+        "So I'm going to take this alright, we're going to just move it up a little bit alright?",
+        "And then we're going to extrude down just a little bit more.",
+        "And then we're going to extrude this along the X.",
+        "For his shoulders.",
+        "OK."
+      ]
+    },
+    "T40": {
+      "id": "T40",
+      "label": "ANSWER",
+      "span": [
+        509,
+        511
+      ],
+      "sentence": [
+        "Sorry, OK, cool.",
+        "So let's move it."
+      ]
+    },
+    "T141": {
+      "id": "T141",
+      "label": "ANSWER",
+      "span": [
+        456,
+        457
+      ],
+      "sentence": [
+        "Alright, so now let's look at human profile."
+      ]
+    },
+    "T31": {
+      "id": "T31",
+      "label": "ANSWER",
+      "span": [
+        380,
+        383
+      ],
+      "sentence": [
+        "Alright, oh that's nice color form by the way.",
+        "This is a really awesome color hunt.",
+        "I love the Chrome extension."
+      ]
+    },
+    "T142": {
+      "id": "T142",
+      "label": "ANSWER",
+      "span": [
+        392,
+        396
+      ],
+      "sentence": [
+        "Select these.",
+        "Oregon move him up some.",
+        "Move in this way.",
+        "Yeah, reference images like help out so much."
+      ]
+    },
+    "T34": {
+      "id": "T34",
+      "label": "ANSWER",
+      "span": [
+        441,
+        444
+      ],
+      "sentence": [
+        "So we're going to go ahead and interface select mode.",
+        "Yeah, I definitely did too many polygons or too many too many subdivides at the very beginning.",
+        "And I think that's why I'm having such a hard time 'cause I remember it was it was way easier."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T118",
+      "answer": "T119",
+      "question_sentence": [
+        "I know you guys probably don't want me to sing, but you got it anyway?"
+      ],
+      "answer_sentence": [
+        "So Christian says the designs are so organic so your style."
+      ]
+    },
+    "R2": {
+      "id": "R2",
+      "label": "Chitchat",
+      "question": "T0",
+      "answer": "T120",
+      "question_sentence": [
+        "Who knows?"
+      ],
+      "answer_sentence": [
+        "Yeah, mines to be discussed."
+      ]
+    },
+    "R3": {
+      "id": "R3",
+      "label": "Chitchat",
+      "question": "T1",
+      "answer": "T121",
+      "question_sentence": [
+        "So yesterday, because it's always kind of a good idea to practice a little bit, I created this quick little 3D animation is a test concept just really to see if I can end up making something kind of like this all right?"
+      ],
+      "answer_sentence": [
+        "And so I know you guys can't really see it right now, but the whole point of this was that these are people who are protesters.",
+        "OK, I get it, everything's very monochromatic."
+      ]
+    },
+    "R4": {
+      "id": "R4",
+      "label": "Chitchat",
+      "question": "T2",
+      "answer": "T122",
+      "question_sentence": [
+        "Uhm, have you guys been seeing my screen this whole entire time?"
+      ],
+      "answer_sentence": [
+        "'cause I'm looking at my video in my video is not showing my screen.",
+        "So let me know if there's something wrong with this stream 'cause it doesn't seem like you guys are seeing the stream at all.",
+        "Oh there it goes.",
+        "Maybe I just need to refresh my thing."
+      ]
+    },
+    "R5": {
+      "id": "R5",
+      "label": "Chitchat",
+      "question": "T6",
+      "answer": "T3",
+      "question_sentence": [
+        "Uh, why are you lagging?"
+      ],
+      "answer_sentence": [
+        "I'm just I really just wanted to mesh that's like the simplest thing that you could OK cool, alright cool and I'm going to go ahead and hit as I'm going to scale this.",
+        "I mean, I want this thing to be big.",
+        "Alright, so I mean that's that's pretty big."
+      ]
+    },
+    "R6": {
+      "id": "R6",
+      "label": "Chitchat",
+      "question": "T7",
+      "answer": "T5",
+      "question_sentence": [
+        "Why are you adding one now?"
+      ],
+      "answer_sentence": [
+        "I don't know.",
+        "I just really like to do things a little backwards and that's cool."
+      ]
+    },
+    "R7": {
+      "id": "R7",
+      "label": "Chitchat",
+      "question": "T8",
+      "answer": "T9",
+      "question_sentence": [
+        "Why is green?"
+      ],
+      "answer_sentence": [
+        "No idea why it's green, but it is green so I just think that OK it's green and then Zedd or Z's blue and you don't see blue but blue is chopping down right?"
+      ]
+    },
+    "R8": {
+      "id": "R8",
+      "label": "Chitchat",
+      "question": "T10",
+      "answer": "T123",
+      "question_sentence": [
+        "So meaning a lot of my graphics are going to be very centrally located, but I still want it to be wide enough so whenever I post on dribble it looks good, right?"
+      ],
+      "answer_sentence": [
+        "All right, so here we go."
+      ]
+    },
+    "R9": {
+      "id": "R9",
+      "label": "Chitchat",
+      "question": "T12",
+      "answer": "T11",
+      "question_sentence": [
+        "I just wanted some what?"
+      ],
+      "answer_sentence": [
+        "Alright cool, alright, so let's go ahead and do."
+      ]
+    },
+    "R10": {
+      "id": "R10",
+      "label": "Chitchat",
+      "question": "T13",
+      "answer": "T124",
+      "question_sentence": [
+        "Where do I put it?"
+      ],
+      "answer_sentence": [
+        "I always like forget where I put things.",
+        "I'm not the only one.",
+        "Probably not."
+      ]
+    },
+    "R11": {
+      "id": "R11",
+      "label": "Chitchat",
+      "question": "T15",
+      "answer": "T14",
+      "question_sentence": [
+        "But really, how big is that when the camera gets on top?"
+      ],
+      "answer_sentence": [
+        "So I need the camera to get on top so I can do this in a couple of different ways.",
+        "One of the ways that I found that's actually really that's a lot easier I have found is parenting the camera to an empty, and if you guys are wondering what an empty is, an empty is just.",
+        "A container of sorts that the camera doesn't see."
+      ]
+    },
+    "R12": {
+      "id": "R12",
+      "label": "Chitchat",
+      "question": "T16",
+      "answer": "T125",
+      "question_sentence": [
+        "Why don't we just do one?"
+      ],
+      "answer_sentence": [
+        "Alright, so I'm going to do an empty.",
+        "Sphere."
+      ]
+    },
+    "R13": {
+      "id": "R13",
+      "label": "Chitchat",
+      "question": "T17",
+      "answer": "T19",
+      "question_sentence": [
+        "Is it not parenting the way that I thought it would?"
+      ],
+      "answer_sentence": [
+        "It should be.",
+        "Alright, so I'm just going to go here."
+      ]
+    },
+    "R14": {
+      "id": "R14",
+      "label": "Chitchat",
+      "question": "T20",
+      "answer": "T126",
+      "question_sentence": [
+        "Am I collecting the wrong one?"
+      ],
+      "answer_sentence": [
+        "Alright is saying objects has no data to transform, but I see it right there so I don't know.",
+        "I don't know, alright, so let's go ahead and we're going to parent."
+      ]
+    },
+    "R15": {
+      "id": "R15",
+      "label": "Chitchat",
+      "question": "T21",
+      "answer": "T127",
+      "question_sentence": [
+        "So now when we go do this?"
+      ],
+      "answer_sentence": [
+        "Alright negative 90.",
+        "Alright cool."
+      ]
+    },
+    "R16": {
+      "id": "R16",
+      "label": "Chitchat",
+      "question": "T22",
+      "answer": "T128",
+      "question_sentence": [
+        "Where do we want our camera to start?"
+      ],
+      "answer_sentence": [
+        "So I remember last time when I did this it was kind of off to the side and it was.",
+        "I never really played and it was looking at.",
+        "Yeah, zed.",
+        "There you go, and maybe a little bit down.",
+        "Alright, I'm going to shift till day.",
+        "Just to bring my camera up a little bit."
+      ]
+    },
+    "R17": {
+      "id": "R17",
+      "label": "Chitchat",
+      "question": "T24",
+      "answer": "T23",
+      "question_sentence": [
+        "Because guess what?"
+      ],
+      "answer_sentence": [
+        "I'm not really an animator, I don't really know what I'm doing, so we're just gonna go with it."
+      ]
+    },
+    "R18": {
+      "id": "R18",
+      "label": "Chitchat",
+      "question": "T26",
+      "answer": "T25",
+      "question_sentence": [
+        "And we start rotating up words and then we're fixing it, and then it goes straight, which is nice when I'm missing, though, is the really like closeness that we got from previous?"
+      ],
+      "answer_sentence": [
+        "So I always really like like towards the end 'cause you guys can see on this one too.",
+        "I really like how.",
+        "It kinda.",
+        "It's not perfect.",
+        "Whenever you zoomed out when you're at that Birds Eye view, it's not perfect yet.",
+        "It's getting there."
+      ]
+    },
+    "R19": {
+      "id": "R19",
+      "label": "Chitchat",
+      "question": "T28",
+      "answer": "T27",
+      "question_sentence": [
+        "So the next thing that we need to do?"
+      ],
+      "answer_sentence": [
+        "I'm gonna go ahead and come over here and we turn that G humidifier down 'cause I don't know if it's not bothering you.",
+        "It is bothering me."
+      ]
+    },
+    "R20": {
+      "id": "R20",
+      "label": "Chitchat",
+      "question": "T30",
+      "answer": "T129",
+      "question_sentence": [
+        "And then what if?"
+      ],
+      "answer_sentence": [
+        "We brought everything in just just to her.",
+        "And then maybe we bring this up.",
+        "A little bit."
+      ]
+    },
+    "R21": {
+      "id": "R21",
+      "label": "Chitchat",
+      "question": "T114",
+      "answer": "T29",
+      "question_sentence": [
+        "What did I do to this person's pelvis area?"
+      ],
+      "answer_sentence": [
+        "I just shows you that I don't really know what I'm doing like the basic anatomy of a person."
+      ]
+    },
+    "R22": {
+      "id": "R22",
+      "label": "Chitchat",
+      "question": "T112",
+      "answer": "T115",
+      "question_sentence": [
+        "Just moving, just select the person I can't, can I?"
+      ],
+      "answer_sentence": [
+        "OK did does that mean I'm going to have to make another person from scratch?",
+        "Now."
+      ]
+    },
+    "R23": {
+      "id": "R23",
+      "label": "Chitchat",
+      "question": "T107",
+      "answer": "T116",
+      "question_sentence": [
+        "Is it just is it trying to use the same?"
+      ],
+      "answer_sentence": [
+        "Uh.",
+        "OK, I think can I don't can I delete that?"
+      ]
+    },
+    "R24": {
+      "id": "R24",
+      "label": "Chitchat",
+      "question": "T109",
+      "answer": "T108",
+      "question_sentence": [
+        "Am I going to have to re bone it?"
+      ],
+      "answer_sentence": [
+        "I'm going to three, that's fine.",
+        "That's fine, let's just go ahead can."
+      ]
+    },
+    "R25": {
+      "id": "R25",
+      "label": "Chitchat",
+      "question": "T110",
+      "answer": "T117",
+      "question_sentence": [
+        "I can't remove those, can I?"
+      ],
+      "answer_sentence": [
+        "This is all new to me.",
+        "Yeah, so those are all my vertex groups to arm all that good stuff and I think it's trying to still like copy."
+      ]
+    },
+    "R26": {
+      "id": "R26",
+      "label": "Chitchat",
+      "question": "T111",
+      "answer": "T113",
+      "question_sentence": [
+        "What's happening here?"
+      ],
+      "answer_sentence": [
+        "So that kind of stinks.",
+        "Dagnab it."
+      ]
+    },
+    "R27": {
+      "id": "R27",
+      "label": "Chitchat",
+      "question": "T106",
+      "answer": "T130",
+      "question_sentence": [
+        "Alright, you know what?"
+      ],
+      "answer_sentence": [
+        "Though we're learning, I'm liking it."
+      ]
+    },
+    "R28": {
+      "id": "R28",
+      "label": "Chitchat",
+      "question": "T131",
+      "answer": "T105",
+      "question_sentence": [
+        "Can we move you back?",
+        "What's happening here?"
+      ],
+      "answer_sentence": [
+        "Oh no, that's not deal with that with your need that you'd break it, honey.",
+        "All right, he looks like he's kind of walking."
+      ]
+    },
+    "R29": {
+      "id": "R29",
+      "label": "Chitchat",
+      "question": "T101",
+      "answer": "T102",
+      "question_sentence": [
+        "Will change your shoes alright, So what color shoes should you have Bud?"
+      ],
+      "answer_sentence": [
+        "So we want to do a lot of monochromatic here.",
+        "So then at that point whenever he when Tony puts the lettering on top, it's not going to be as bad like it's going to be easier for him to read.",
+        "Let's do a light blue."
+      ]
+    },
+    "R30": {
+      "id": "R30",
+      "label": "Chitchat",
+      "question": "T98",
+      "answer": "T104",
+      "question_sentence": [
+        "What happened?"
+      ],
+      "answer_sentence": [
+        "Cool, you could have like a racing stripe.",
+        "OK."
+      ]
+    },
+    "R31": {
+      "id": "R31",
+      "label": "Chitchat",
+      "question": "T99",
+      "answer": "T103",
+      "question_sentence": [
+        "But The thing is, is that his racing stripe looks?"
+      ],
+      "answer_sentence": [
+        "Um and I completely forgot this part of his pants."
+      ]
+    },
+    "R32": {
+      "id": "R32",
+      "label": "Chitchat",
+      "question": "T97",
+      "answer": "T132",
+      "question_sentence": [
+        "Alright, why did that not change?"
+      ],
+      "answer_sentence": [
+        "I wonder if it's gonna take me a second.",
+        "Let's go ahead."
+      ]
+    },
+    "R33": {
+      "id": "R33",
+      "label": "Chitchat",
+      "question": "T95",
+      "answer": "T94",
+      "question_sentence": [
+        "His shirt, let's see what color shirt do we want to give him?"
+      ],
+      "answer_sentence": [
+        "Let's give him a.",
+        "Light.",
+        "Light green shirt.",
+        "Cool."
+      ]
+    },
+    "R34": {
+      "id": "R34",
+      "label": "Chitchat",
+      "question": "T93",
+      "answer": "T96",
+      "question_sentence": [
+        "Yeah, you know what?"
+      ],
+      "answer_sentence": [
+        "That's just how it's going to be."
+      ]
+    },
+    "R35": {
+      "id": "R35",
+      "label": "Chitchat",
+      "question": "T133",
+      "answer": "T92",
+      "question_sentence": [
+        "What happens there?",
+        "That might look weird?"
+      ],
+      "answer_sentence": [
+        "Everyone joined the discord.",
+        "All thanks Austin Austin was with me on Tuesday and he joined it.",
+        "Oh, that's why."
+      ]
+    },
+    "R36": {
+      "id": "R36",
+      "label": "Chitchat",
+      "question": "T89",
+      "answer": "T90",
+      "question_sentence": [
+        "What the hey, hey to do with them all right?"
+      ],
+      "answer_sentence": [
+        "So he I feel like he needs some clothes but his little pelvic area I feel like is a little bit pronounced like it's almost like.",
+        "It's almost.",
+        "Like I don't want to have like look up.",
+        "You know what I mean."
+      ]
+    },
+    "R37": {
+      "id": "R37",
+      "label": "Chitchat",
+      "question": "T91",
+      "answer": "T88",
+      "question_sentence": [
+        "What's going on with my shadows?",
+        "Out where is my shadows?"
+      ],
+      "answer_sentence": [
+        "I'm going to go ahead and quickly click F2.",
+        "Or F-12.",
+        "Out so there you go.",
+        "You can see it right there."
+      ]
+    },
+    "R38": {
+      "id": "R38",
+      "label": "Chitchat",
+      "question": "T85",
+      "answer": "T86",
+      "question_sentence": [
+        "I'm just going to laugh, which is totally cool you do you?"
+      ],
+      "answer_sentence": [
+        "He's got to install microwave ovens, custom kitchen deliveries, and he's got to move this refrigerator.",
+        "It's clever, has a lot of things to do right now or you talking about my person.",
+        "Either way, there's a lot of stuff that needs to be done, so we're going to go ahead and move forward."
+      ]
+    },
+    "R39": {
+      "id": "R39",
+      "label": "Chitchat",
+      "question": "T83",
+      "answer": "T87",
+      "question_sentence": [
+        "Of Fudge, but it what is happening right now?"
+      ],
+      "answer_sentence": [
+        "Uh, we're in pose mode.",
+        "That's what's happening."
+      ]
+    },
+    "R40": {
+      "id": "R40",
+      "label": "Chitchat",
+      "question": "T82",
+      "answer": "T84",
+      "question_sentence": [
+        "I really don't like his face alright can I like mess his face up?"
+      ],
+      "answer_sentence": [
+        "That I like deconstructive, saved his face is high, I clever.",
+        "Set your name or you just clever is that is that was going on."
+      ]
+    },
+    "R41": {
+      "id": "R41",
+      "label": "Chitchat",
+      "question": "T80",
+      "answer": "T78",
+      "question_sentence": [
+        "Cool alright, so we kind of that like So what about this guy?"
+      ],
+      "answer_sentence": [
+        "I want him to go.",
+        "See I can shrug him, but I want him to actually rotate so I can never get my rotate right."
+      ]
+    },
+    "R42": {
+      "id": "R42",
+      "label": "Chitchat",
+      "question": "T79",
+      "answer": "T81",
+      "question_sentence": [
+        "Parent make and then what happens?"
+      ],
+      "answer_sentence": [
+        "Keep upset yes."
+      ]
+    },
+    "R43": {
+      "id": "R43",
+      "label": "Chitchat",
+      "question": "T135",
+      "answer": "T134",
+      "question_sentence": [
+        "Alright, how are?",
+        "How are my relationships happening?"
+      ],
+      "answer_sentence": [
+        "I mean is that parenting to that like it supposed to be?",
+        "OK cool, so it is automatically Boo bones."
+      ]
+    },
+    "R44": {
+      "id": "R44",
+      "label": "Chitchat",
+      "question": "T72",
+      "answer": "T73",
+      "question_sentence": [
+        "Are you working purely with your mouse and keyboard shortcuts?"
+      ],
+      "answer_sentence": [
+        "Alicia, yes.",
+        "I am Pascal.",
+        "That is how I am doing all the things."
+      ]
+    },
+    "R45": {
+      "id": "R45",
+      "label": "Chitchat",
+      "question": "T68",
+      "answer": "T74",
+      "question_sentence": [
+        "A luck with it, but you know what?"
+      ],
+      "answer_sentence": [
+        "It would be a lot faster if it actually works successfully.",
+        "Oh see, it's not working now, so that's not a really good."
+      ]
+    },
+    "R46": {
+      "id": "R46",
+      "label": "Chitchat",
+      "question": "T71",
+      "answer": "T75",
+      "question_sentence": [
+        "Actually, you know what you can do?"
+      ],
+      "answer_sentence": [
+        "You can do this.",
+        "You can do N open up the tool and go access X mirror."
+      ]
+    },
+    "R47": {
+      "id": "R47",
+      "label": "Chitchat",
+      "question": "T67",
+      "answer": "T76",
+      "question_sentence": [
+        "Alright, so that's a little bit better, right?"
+      ],
+      "answer_sentence": [
+        "I don't know."
+      ]
+    },
+    "R48": {
+      "id": "R48",
+      "label": "Chitchat",
+      "question": "T66",
+      "answer": "T136",
+      "question_sentence": [
+        "He is have you guys seen?"
+      ],
+      "answer_sentence": [
+        "Um yeah, probably have not seen this."
+      ]
+    },
+    "R49": {
+      "id": "R49",
+      "label": "Chitchat",
+      "question": "T62",
+      "answer": "T64",
+      "question_sentence": [
+        "I mean, don't they kind of feel like?"
+      ],
+      "answer_sentence": [
+        "Kind of big.",
+        "Like Dude got some big feet.",
+        "I don't know who's that.",
+        "He seems like he's kinda big, alright, cool."
+      ]
+    },
+    "R50": {
+      "id": "R50",
+      "label": "Chitchat",
+      "question": "T58",
+      "answer": "T63",
+      "question_sentence": [
+        "Why again?"
+      ],
+      "answer_sentence": [
+        "Again, we're going to scale it."
+      ]
+    },
+    "R51": {
+      "id": "R51",
+      "label": "Chitchat",
+      "question": "T59",
+      "answer": "T65",
+      "question_sentence": [
+        "Extrude why again?"
+      ],
+      "answer_sentence": [
+        "And then we're going to start scaling a little bit down.",
+        "Alright, so when I did that though.",
+        "Ended up creating.",
+        "When I scaled it, I scaled it all the way around."
+      ]
+    },
+    "R52": {
+      "id": "R52",
+      "label": "Chitchat",
+      "question": "T57",
+      "answer": "T60",
+      "question_sentence": [
+        "Why don't I push myself and make an animation that he can then let her on top oven so this is just a test concept?"
+      ],
+      "answer_sentence": [
+        "I made these 3D people I didn't really like them but the camera goes through M and then at that point it ends up making a fist.",
+        "OK, well you can't really see the fist very much, but again, this is just the proof of concept."
+      ]
+    },
+    "R53": {
+      "id": "R53",
+      "label": "Chitchat",
+      "question": "T55",
+      "answer": "T56",
+      "question_sentence": [
+        "Do you use the silhouette you have in your mood board to align the 3D figure it?"
+      ],
+      "answer_sentence": [
+        "Yeah I just I'm just using it really too wow.",
+        "Just kind of as a reference.",
+        "I actually don't have a lot of experience drawing.",
+        "Things."
+      ]
+    },
+    "R54": {
+      "id": "R54",
+      "label": "Chitchat",
+      "question": "T53",
+      "answer": "T61",
+      "question_sentence": [
+        "Alright, let's look at it all right?"
+      ],
+      "answer_sentence": [
+        "That looks it's looking good."
+      ]
+    },
+    "R55": {
+      "id": "R55",
+      "label": "Chitchat",
+      "question": "T51",
+      "answer": "T52",
+      "question_sentence": [
+        "Aw OK, I was like what did you typo on Pascal?"
+      ],
+      "answer_sentence": [
+        "I couldn't tell.",
+        "Normally it's my name but you did not.",
+        "You did not do my name so I appreciate."
+      ]
+    },
+    "R56": {
+      "id": "R56",
+      "label": "Chitchat",
+      "question": "T49",
+      "answer": "T138",
+      "question_sentence": [
+        "Again, I'm going to select all of these and we're going to shift him over whom?"
+      ],
+      "answer_sentence": [
+        "To make her be alright, cool now that we have our V.",
+        "We can undo the X-ray and we can select these guys hey, good morning."
+      ]
+    },
+    "R57": {
+      "id": "R57",
+      "label": "Chitchat",
+      "question": "T50",
+      "answer": "T137",
+      "question_sentence": [
+        "AH could you see you friend?"
+      ],
+      "answer_sentence": [
+        "I don't think I've ever have you been.",
+        "Maybe you've been in one of my stream before but it's good to see you, raksha.",
+        "Please forgive me if I'm saying Your name incorrectly."
+      ]
+    },
+    "R58": {
+      "id": "R58",
+      "label": "Chitchat",
+      "question": "T45",
+      "answer": "T48",
+      "question_sentence": [
+        "So it was really confused with like what do you want to do?"
+      ],
+      "answer_sentence": [
+        "I'm trying to do what you want to do alright, cool, and now we're going to make it a little bit bigger.",
+        "Note bigger."
+      ]
+    },
+    "R59": {
+      "id": "R59",
+      "label": "Chitchat",
+      "question": "T44",
+      "answer": "T47",
+      "question_sentence": [
+        "Oh, Fudge, what happened crap?"
+      ],
+      "answer_sentence": [
+        "Extrude Scale.",
+        "Alright, so I mean we're going to have to like, definitely figure this one out, but it is what it is.",
+        "Alright cool."
+      ]
+    },
+    "R60": {
+      "id": "R60",
+      "label": "Chitchat",
+      "question": "T41",
+      "answer": "T139",
+      "question_sentence": [
+        "So why shall we?"
+      ],
+      "answer_sentence": [
+        "All right and then what we're going to do now."
+      ]
+    },
+    "R61": {
+      "id": "R61",
+      "label": "Chitchat",
+      "question": "T42",
+      "answer": "T140",
+      "question_sentence": [
+        "Is that we're going to go ahead and work on the chest?"
+      ],
+      "answer_sentence": [
+        "So I want to select all of these faces.",
+        "And I'm going to extrude down.",
+        "But I'm going to.",
+        "Kind of go.",
+        "Down again.",
+        "Alright, it's definitely feeling like.",
+        "This needs to go."
+      ]
+    },
+    "R62": {
+      "id": "R62",
+      "label": "Chitchat",
+      "question": "T39",
+      "answer": "T38",
+      "question_sentence": [
+        "Why are you not moving right?"
+      ],
+      "answer_sentence": [
+        "So I'm going to take this alright, we're going to just move it up a little bit alright?",
+        "And then we're going to extrude down just a little bit more.",
+        "And then we're going to extrude this along the X.",
+        "For his shoulders.",
+        "OK."
+      ]
+    },
+    "R63": {
+      "id": "R63",
+      "label": "Chitchat",
+      "question": "T43",
+      "answer": "T40",
+      "question_sentence": [
+        "My guy is like super buff so like who wears the gym?"
+      ],
+      "answer_sentence": [
+        "Sorry, OK, cool.",
+        "So let's move it."
+      ]
+    },
+    "R64": {
+      "id": "R64",
+      "label": "Chitchat",
+      "question": "T32",
+      "answer": "T31",
+      "question_sentence": [
+        "Let's see if we can pull one up, shall we?"
+      ],
+      "answer_sentence": [
+        "Alright, oh that's nice color form by the way.",
+        "This is a really awesome color hunt.",
+        "I love the Chrome extension."
+      ]
+    },
+    "R65": {
+      "id": "R65",
+      "label": "Chitchat",
+      "question": "T33",
+      "answer": "T142",
+      "question_sentence": [
+        "All right, and where are you going to?"
+      ],
+      "answer_sentence": [
+        "Select these.",
+        "Oregon move him up some.",
+        "Move in this way.",
+        "Yeah, reference images like help out so much."
+      ]
+    },
+    "R66": {
+      "id": "R66",
+      "label": "Chitchat",
+      "question": "T37",
+      "answer": "T141",
+      "question_sentence": [
+        "And little bit too crazy for me, OK?"
+      ],
+      "answer_sentence": [
+        "Alright, so now let's look at human profile."
+      ]
+    },
+    "R67": {
+      "id": "R67",
+      "label": "Chitchat",
+      "question": "T35",
+      "answer": "T34",
+      "question_sentence": [
+        "Is that we're going to extrude and neck?"
+      ],
+      "answer_sentence": [
+        "So we're going to go ahead and interface select mode.",
+        "Yeah, I definitely did too many polygons or too many too many subdivides at the very beginning.",
+        "And I think that's why I'm having such a hard time 'cause I remember it was it was way easier."
+      ]
+    }
+  }
+}

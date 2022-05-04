@@ -1,0 +1,2675 @@
+{
+  "sentence": [
+    "But before I do I just got my first comment.",
+    "So I'm just going to.",
+    "I'm going to go ahead and address that it's from Chris Perry who's returned from other broadcasts.",
+    "Hello from Auckland, New Zealand.",
+    "Good to see you again.",
+    "Thank you for tuning in and uh, that said, I'm going to go ahead and jump in after effects.",
+    "By the way, this program is my goto.",
+    "I use it every day.",
+    "You can do so much with after effects and if you have Premier you can seamlessly time audio with really intricate effects and compositing elements.",
+    "It's just fantastic, especially with the dynamic link.",
+    "I use it all the time, it's great so this is the one I worked on the last time.",
+    "If you weren't here for episode 23.",
+    "That backdrop back there, this was originally almost as bright as Anthony here.",
+    "Say hello to Anthony and, uh, I thought it would be nice to emphasize him a bit more.",
+    "In that scene.",
+    "There's other clips with that white wall and I wanna try compositing that out.",
+    "Well, compositing it.",
+    "So it's darker innocence, so there's more emphasis on the musician, so I'm going to take a look at what clips correspond with what numbers so I can properly.",
+    "Find it in after effects.",
+    "There's so many comps that were developed from Premier going into after effects that I have to backtrack now.",
+    "At this point there's over 30 of them.",
+    "It.",
+    "Alright, so.",
+    "There was one earlier of it was another clip of Anthony.",
+    "That's one 'cause that white wall really.",
+    "It conflicts with Brian and Anthony and I've worked on this one previously too.",
+    "So I might do a couple of pickups this time.",
+    "Oh, there's another repeat.",
+    "You are here, uhm?",
+    "I know that there is a specific way to pronounce his name.",
+    "Baja Dirk Hun right.",
+    "Hello how are you?",
+    "Your talent is amazing.",
+    "Thank you and thank you so much for tuning back in.",
+    "It's good to see you um if I am.",
+    "Let me know if I pronounce your name correctly.",
+    "I know that there was a very specific pronunciation and I know you mentioned it in a prior broadcast, so just let me know if, uh, if I mispronounced it in any way.",
+    "Alright, so I'm going to go ahead and start with this one here.",
+    "Let me find out what number it is.",
+    "#3 OK, so this one is probably going to be quick 'cause I already composite it out the musicians, so this is just a matter of making a mass for the white wall in a sense, so this should be an easy fix.",
+    "I kept looking at those particular clips and thinking how can I push those further?",
+    "'cause they look nice, but they could.",
+    "You pronounce correct.",
+    "Oh thank you.",
+    "Thank you.",
+    "I didn't want to come.",
+    "I was afraid that, uhm?",
+    "I was afraid that I had forgotten the pronunciation and I just wanted to get it right out of out of respect for your, uh, enthusiasm for watching my process.",
+    "So thank you for letting me know.",
+    "And that goes for anybody that is in the chat.",
+    "Or you know, if you ask a question, let me know if I'm if I'm pronouncing your name correctly.",
+    "OK, so this is the same.",
+    "This should be easy to handle.",
+    "Let me take a look.",
+    "Let's see Alpha channels here.",
+    "Uh, let's see what?",
+    "So it looks like this one is going to be a little more specific, 'cause I think the only thing that's maxed out here is the drums.",
+    "So question is, do I go ahead and mask out?",
+    "Or Now I suppose I could do loose masks and then.",
+    "Why not?",
+    "Show up a little bit of the masking process.",
+    "Why not?",
+    "Could be fun, could be fun.",
+    "Normally I do this ahead of time because it can get time consuming consuming, but in this case I have a simplified process that I can try for this.",
+    "OK, let's see.",
+    "So.",
+    "I'm going to call this.",
+    "Just labeling it so I know what it is.",
+    "Background mask Alright, so.",
+    "I'm just going to loosely.",
+    "Go around Anthony here.",
+    "Just almost a simplified shape.",
+    "I'm turning them into silhouette cut outs.",
+    "Now all we need really is just that one side 'cause we were going to in.",
+    "We're going to intersect with the actual lighter part of the wall.",
+    "Now I don't know how this is going to work, but it might involve more mass than one, so we'll see we'll see what happens.",
+    "Oh, that's right.",
+    "Gotta attach it to the motion track null.",
+    "If I can find it.",
+    "There's so many layers here.",
+    "Uh, OK drum no answer.",
+    "There it is.",
+    "That's the motion tracking all.",
+    "Just use that one.",
+    "There's a couple that are in scene because.",
+    "I want to make sure to keep the.",
+    "Composition as non destructive as possible so I will duplicate certain layers too.",
+    "I'll duplicate certain layers to pre compose into layers within the composition so it maintains its movement, but you still have the original to rely on in case you need another one.",
+    "Alright, so I'm going to attach it to that.",
+    "I'm just going to go every 5 frames and see what I can change here.",
+    "Again, we're kind of keeping it loosey goosey here, we're just using it as an edge.",
+    "Under the circumstances, normally you would mask out everybody, but this was one of the earlier ones where I wanted to mask out just the instruments.",
+    "At least the ones that were being emphasized at certain points in the song so.",
+    "You know it got more elaborate as I continued working on it.",
+    "An happens.",
+    "But that's where you go back and you make it stronger.",
+    "It's also going to be feathered so we don't have to be.",
+    "Exactly precise with where it lands.",
+    "You know, it just needs to follow the outline, so to speak.",
+    "Looks like it slides with the.",
+    "Oh wait a minute.",
+    "No, it's going to set it to quarters so it'll go a little faster.",
+    "All I can't really see it.",
+    "It's a It's all pixelated at quarter res.",
+    "No big deal, though.",
+    "I'd rather wait and, uh, no.",
+    "It's landing at the right points.",
+    "So I'm pretty sure I worked on this one a couple times.",
+    "But when I made that one revision.",
+    "To the other clip it just it.",
+    "It could change the approach for the other ones.",
+    "Looks like he is.",
+    "He kind of leans into the curtain area, which.",
+    "Essentially in this case, is a safe zone in terms of masking.",
+    "'cause it's not intersecting with the white wool.",
+    "So this process is actually going a little bit easier than I thought.",
+    "You're given this is involving, uhm?",
+    "Anthony, who's drumming incredibly fast at this point during the song.",
+    "And they do a fantastic cover of Hallelujah.",
+    "I love her so it's, uh.",
+    "I've always loved that song ever since I heard the.",
+    "The real the real recording on Beatles Anthology.",
+    "Uhm The Beatles cover when they were teenagers I just fell in love with it.",
+    "It was wrong, but you could tell they were pitch perfect the whole time.",
+    "It was just fantastic.",
+    "And they do a justice.",
+    "I just noticed you left a couple of years to like a <3 Bahadur.",
+    "Thank you.",
+    "Now I'm going to go as fast as I can, 'cause I want to.",
+    "This is more technical in terms of.",
+    "You know visual effects and motion graphics compositing.",
+    "I want to show more of the creative ND compositing and color treatments and animation parts of the process to you guys.",
+    "So I am going to.",
+    "Move as quickly as possible so we can continue forward with that part of it.",
+    "Back All right?",
+    "That looks good.",
+    "OK, so I see one movement that I'm going to have to add a mask for.",
+    "'cause there's a gap.",
+    "Right here, where his arm is, I can easily Adam ask for that.",
+    "I can go back and do that.",
+    "But It's always better to do loose masks, but then add more of them.",
+    "You save a lot more time having more masks.",
+    "And capturing more of the.",
+    "Of the object that you're trying to mask out or mask in, but.",
+    "If you go really detailed with them asking it could take a lot longer for you to, uh, finalise the animation process for masking so.",
+    "If you were wondering about the process, if you were going to try doing it, I would.",
+    "I would I would take a loose approach and, uh.",
+    "And if you have to go more complex, make more, make more smaller masks for those complex motions.",
+    "The end result will be the same, but it's about time consumption at that point.",
+    "Kay?",
+    "I'll tell you what though I do enjoy this process.",
+    "Uh, quite a bit.",
+    "There's so much you can do with Track Matting, Uhm?",
+    "Like you can really define how to composite certain elements in the scene and.",
+    "I don't want to make a new mouse yet.",
+    "But you can really, uh?",
+    "Like, let's say you're a masking out a person in a scene you can.",
+    "Color correct, just that person and the rest of the scene will stay the same, and, uh, that opens up a lot of possibilities, especially if you're working with film.",
+    "You know?",
+    "I kind of wonder how I can implement this kind of stuff all the time.",
+    "You know what I'm going to change the color of that mask, so it's a little easier to see on screen all.",
+    "Let's make it.",
+    "Just make it lemon yellow.",
+    "Yeah, that's easier to see.",
+    "Oh, uh, there's a comment.",
+    "Chris Perry writes Natalie.",
+    "Are you able to group selects your math notes and move them as a group of EG just for the head or shoulder etc.",
+    "You can do that.",
+    "Um, in this case I.",
+    "Because they are moving within scene.",
+    "First of all, it's actually parented to a motion track, so it's following the motion track.",
+    "As I'm moving down the line in the South sequence.",
+    "But beyond that, because it's moving with the motion track I I manually move the key frames.",
+    "Well, actually the points in the mask.",
+    "Excuse me, I have to use the right terminology.",
+    "Um?",
+    "I prefer to take that approach because you know where it's going to land and that is going to be accurate.",
+    "You know it's a little.",
+    "It takes a little longer, but it's more accurate.",
+    "I find, but you can do that essentially like I can show you an example.",
+    "Right now I'm not going to move them, but let's say you do this.",
+    "He just.",
+    "Hold down, click and just drag.",
+    "You can select all those nodes and move it once.",
+    "So yes, you can do that.",
+    "Um, I'm not going to for the purpose of this because I already have emotion tracks, but I hope that answers your question.",
+    "I'm going to take a quick sip of water while I'm at it.",
+    "Stay hydrated out there, you guys.",
+    "Chris Perry writes.",
+    "OK, great thanks.",
+    "I'm glad that, uh, I'm glad I was able to answer your question.",
+    "It's a thoughtful question, and, uh, if you don't know the process.",
+    "If you new to it, of you know.",
+    "You know if anybody is new to the process, I think they would want to know too.",
+    "How does it work?",
+    "What you're supposed to do?",
+    "So questions are always good.",
+    "K.",
+    "Sounds pretty close.",
+    "It's going to move that down.",
+    "Those in.",
+    "Selected both at the same time.",
+    "Now for this one.",
+    "OK, that is accurately following it, so I guess what I would have to do is move these in.",
+    "So in that case I can actually show that process you were asking about.",
+    "And then just move a couple in.",
+    "It's a good thing I added that keyframe 'cause his arm moves up.",
+    "Good thing it's actually it's actually following his arm, thankfully.",
+    "Let me just make sure that his leg is also doing the same thing.",
+    "Looks like that's accurate too.",
+    "The tricky one is going to be an arm, it looks like.",
+    "But we got most of the groundwork done.",
+    "This is just.",
+    "More accurately covering.",
+    "The movement.",
+    "At this point.",
+    "Alright, let me check that once it looks like.",
+    "OK, that's good.",
+    "That's all of the movement.",
+    "There's a term in animation.",
+    "I'm essentially in a manner of Speaking of essentially adding um inbetweens between the keyframes.",
+    "To flush out the movement.",
+    "So some of the key frames if they go behind the drums, that's.",
+    "That's OK because that's messed out.",
+    "That's not going to be affected by the back wall.",
+    "Just making sure that whatever does show up if it's in musicians that.",
+    "They are essentially.",
+    "The outline follows them.",
+    "Right, So what happens here?",
+    "OK, so it's sort of following that.",
+    "I'm just going to refine here.",
+    "Kay?",
+    "But what happened here?",
+    "There is a movement, I saw it.",
+    "Maybe that down.",
+    "Ha there is.",
+    "Gotcha.",
+    "Snook outside the lines.",
+    "Now I know some of the later ones already have the musicians mast out, so more than likely those ones are going to be a lot simpler than this.",
+    "This just happens to be one of the earlier ones that has, uh.",
+    "Less track matting on it.",
+    "OK, so I've got to move those down.",
+    "You know the question you asked actually was really good suggestion.",
+    "'cause I'm using it now, so thank you Chris.",
+    "For asking about a moving points is a groove.",
+    "It does a.",
+    "It does streamline the process of it.",
+    "All right, so here we go.",
+    "OK, just left the thumbs up.",
+    "Yeah no I'm I'm really glad you asked about that.",
+    "Now we're almost done, so I can probably move on to Brian now.",
+    "He's probably going to have.",
+    "He's probably going to be a bit more complex, but I'm going to try to keep it as loose as possible so we can just mask him out of the backdrop.",
+    "Oh Anthony Carbajal, who has been in previous livestreams Greetings, Natalie.",
+    "Hi it's good to see you.",
+    "Thank you for tuning in.",
+    "Alright, so.",
+    "Let's just make sure that it's following his movement.",
+    "What's going on here?",
+    "Checking his elbow, that's sort of the.",
+    "I wouldn't call it a problem area, but there's a lot of movement there, so we want to make sure to capture said movement.",
+    "OK, what's going on with his shoulder?",
+    "It's a little inward, so I'm just going to move him up a little bit.",
+    "There we go.",
+    "Alright, What's going on here?",
+    "Yep, there we go a little bit out of bounds here and see the.",
+    "Backdrop in his arm.",
+    "In the.",
+    "In the trackpad outline at least.",
+    "All right?",
+    "I'm just checking my work making sure that.",
+    "It doesn't shift and it only captures him there we go, that's one.",
+    "Well, I'm at it, so I should probably go back and make sure that all of these things are.",
+    "Completely track manage so I can really bring down the.",
+    "Brightness of that wall.",
+    "Anthony, you change the game.",
+    "You and your drumming.",
+    "No, honestly, I'm glad I found out about it.",
+    "All right?",
+    "Up what's going on here?",
+    "Wait for it.",
+    "OK, uhm, let's see OK.",
+    "What did I just move?",
+    "I swear I'm trying to click on the math.",
+    "There we go.",
+    "There should be squares in order for you to.",
+    "Play with the.",
+    "The points.",
+    "Uh, so?",
+    "Anthony Carbajal, rights.",
+    "Natalie, just curious, do the nodes in after effects have anchor points like illustrator or Photoshop?",
+    "Oh, you mean like gum like splines?",
+    "Yeah, you can do that.",
+    "You can do them that way.",
+    "I just preferred to keep them linear.",
+    "It's a lot easier to handle when you're doing track matting.",
+    "At least that's what I prefer.",
+    "Some people prefer them to be flyings aurum.",
+    "You know I'm working with linear right now, but there are people that prefer to work with lines in masks.",
+    "So, uh, yeah, you can do that.",
+    "I'll show you.",
+    "And then I'm going to undo it.",
+    "So for instance, you can take this one.",
+    "And you've got a flying going, we pray.",
+    "Fairly fairly Stein OK.",
+    "But I hope that answers your question.",
+    "It works the same way.",
+    "Sometimes I accidentally turn linear points into splines and I just keep going.",
+    "Just wanna make sure this one follows.",
+    "I think it does.",
+    "Appears like it does.",
+    "Oh wait a minute.",
+    "Didn't mean to do that.",
+    "He said.",
+    "Oh Anthony followed up and said Nicely demonstrated and fun.",
+    "Thank you.",
+    "I thought it would be good to show a visual example of that.",
+    "You know it's a lot easier to understand if you can see it.",
+    "I find like visual visual directives and tutorials are always more helpful.",
+    "I find then just giving somebody a list you know, go here, then go here.",
+    "But if you don't know where things are placed within the program if you're not familiar, that may be a lot harder for you.",
+    "Some people like it, but I much prefer the visual format.",
+    "But you will accommodate the learning style.",
+    "You always do.",
+    "Alright OK, that looks good.",
+    "These are a little out of bounds.",
+    "I'm just going to bring them in.",
+    "Slightly cayanne then bring that OK good good that looks good.",
+    "The funny thing is I thought he was going to be more difficult to mask.",
+    "'cause he's just moving at a rapid pace.",
+    "It it it it it?",
+    "Fast drumming.",
+    "Pizza, he fantastic.",
+    "I don't know if, uh, if the people watching were here for episode 23, but I premiered because it was Ringo's 80th birthday on Tuesday.",
+    "I showed the tribute video that we put together for Abbey Road on the River for Ringo's birthday and that was a lot of fun.",
+    "And, uh, it was the first one they showed in a series of tribute videos which I was so excited to find that out.",
+    "But if you want to take a look at it, it's on their Facebook page.",
+    "I would highly recommend taking a look at their covers and.",
+    "Any of the live streams that we've done.",
+    "They are fantastic musicians and.",
+    "I would definitely take a look if you're interested in classic rock and and their originals are just as phenomenal.",
+    "As the covers they do so.",
+    "Anthony followed up and said, Oh yes, definitely visuals are so much more effective.",
+    "I guess that's why I always love the pretty pictures.",
+    "Absolutely, if that's the way you learn, and that's what you're drawn to, you're going to be able to understand that a lot more.",
+    "And I'm, you know, I'm the same way my brother was also a visual learner.",
+    "He figured out.",
+    "He's he loves technology and there are things that he figured out that we couldn't explain to him.",
+    "I don't know how he knew, but he was able to without us telling him.",
+    "And this was back when he when we were kids.",
+    "He set up a projector to his laptop so he could play games and watch it on the protector.",
+    "This is like in a classroom and so I mean it wasn't disrupting anything.",
+    "This is like after hours and uh.",
+    "But we couldn't tell him how to do it.",
+    "He knew innately, an it was just.",
+    "It was fascinating.",
+    "But it's like he visually knew how to set it up.",
+    "That's the best way I can describe it.",
+    "Oh Anthony Rice.",
+    "Wow, I can't believe Ringo his 80 peace and Love Peace and Love Peace and love.",
+    "Yeah, the vast was a fantastic I, uh.",
+    "I was live streaming that night so I saw a little bit and then I had to jump into sewing my creative process, but it was wonderful.",
+    "The people that were tuning in and it was just joyous the whole thing and that that video was a lot of fun to put together.",
+    "You know the whole day we were filming, and, uh, when I was actually doing post production on it and I added a little graphic.",
+    "If you go look on their wall or an episode 23, you'll see it.",
+    "I made the yellow submarine of birthday candle an it's floating across the screen.",
+    "So I I think that this mask is.",
+    "This mask looks pretty good to go.",
+    "I can probably move on to Brian, Which.",
+    "Looking at him, I'm gonna probably need to do.",
+    "A couple I'm gonna send you a couple more mass for him in particular.",
+    "Although maybe I should go ahead and intersect the mask for the white wall perhaps?",
+    "Oh, that's right, that's right.",
+    "I almost forgot.",
+    "There's one more mass for Anthony.",
+    "I have to do.",
+    "This is going to be easy.",
+    "Oh, this is this is a piece of Cake Alright?",
+    "So.",
+    "This needs to be maxed out to.",
+    "This is a small small thing.",
+    "It's a small mask after all.",
+    "Oh, Gabriel Rodriguez, who was also who's also here from a prior broadcast rights high lady.",
+    "Hawaii, thank you for tuning in.",
+    "Alright, so this one should be.",
+    "Easy to mask out.",
+    "Now I do what I do have some new clips prepared.",
+    "But I want to make sure that every clip is as strong as it can be before I move on to any of the new ones.",
+    "And that's why you have to go back and review and.",
+    "You know if it can be stronger, make it stronger.",
+    "You know you, uh?",
+    "You step back from one of your projects and then after a while you come back and you realize that.",
+    "That there's something missing and you need to revise it, and that's OK.",
+    "It shows growth.",
+    "Growth is A is a welcomed thing.",
+    "That's the only way that you get stronger, as if you realize you can do better.",
+    "Alright, that's one.",
+    "Let me see if there's any other gaps here.",
+    "I think that's the only one, although let me just make sure.",
+    "Oh wait, there's one more.",
+    "So he's got a total of three masks.",
+    "I do like seeing the animation up close that was greatly revised from the last time I worked on it and.",
+    "It looks so much stronger afterwards.",
+    "Initially it was, uhm, it was bright on top of an already bright drum set.",
+    "Which, uh In a way almost diminished the detail.",
+    "So rather than leave it the way it is, uhm.",
+    "I wanted to create a sense of emphasis.",
+    "On the drums.",
+    "Where there's an impact and then when you see the impact there is.",
+    "A color change and a brightness change and a textural change.",
+    "Activate it.",
+    "As I say.",
+    "Alright, I think let me just.",
+    "OK, one more hang on.",
+    "One more.",
+    "There's one little one there.",
+    "OK, that is.",
+    "That's it for the starting, and then the endpoint dragon.",
+    "We just make sure it's all the way down and not OK, perfect.",
+    "And then.",
+    "Great alright so.",
+    "That's going to be set to subtract.",
+    "Sometimes if you arrange the if you are Angel.",
+    "If you arrange the layers in a certain way.",
+    "You'll be able to.",
+    "Eliminate a lot of problems with masking.",
+    "So I just want to make sure they show up correctly.",
+    "OK, that's definitely showing up correctly.",
+    "'cause we don't want to mouse him out.",
+    "I am going to.",
+    "Turn that of-.",
+    "I'm going to subtract the curtain over here 'cause we're not darkening that.",
+    "Will be a little easier to understand what we are making in terms of a track.",
+    "Matt and I think that was not on that.",
+    "OK, good, now we're on the right layer.",
+    "So Anthony Rights, is it necessary to delete the noted Matthew, drag off the active frame?",
+    "I do that so there's a start and stop point for where they appear.",
+    "And when they are dragged off the composition, that's when they are not visible, otherwise, if.",
+    "If there left there, it's going to interfere with the visibility of the effects.",
+    "So essentially we're using them just for certain parts and then.",
+    "You know?",
+    "There's a hard way to explain it because, but that's sort of the process that I use in a manner of speaking.",
+    "I'm sure there's other processes, but dumb.",
+    "This is the method that I choose to do in this case because it's only going to be on for a couple of frames and then it's not going to be there 'cause it's only masking out small shapes that are on for maybe 5 frames.",
+    "And then they're gone.",
+    "So.",
+    "I hope that answers your question.",
+    "It's a good question, though I'm sure there's other methods, but.",
+    "Visually, I like this one because I can really get in there and, uh, sort of draw.",
+    "Around the shapes that I want to either mask in or mask out.",
+    "Kind of a manual rotoscope, but with Max instead of sketching it like the take on me a music video.",
+    "Now, if it follows the motion track, it probably up.",
+    "Wait a minute.",
+    "There's a little bit over there.",
+    "It wasn't wide enough.",
+    "Got it and get that one up there.",
+    "Looks like it's following the motion tracks so that one was pretty easy to implement.",
+    "And we're going to gather that too, so it's it can be a little looser in this case.",
+    "Alright, so.",
+    "Good that was done.",
+    "The tricky one is going to be Brian.",
+    "Oh Anthony right.",
+    "Yes I get it.",
+    "I tend to do the same thing.",
+    "OK good, I'm glad that, uh, my explanation made sense to you.",
+    "Um, what you asked is really thoughtful and I had to think about it for a second because I.",
+    "That's the method that I use, and I'm sure other people do that too, just to.",
+    "You know, ease the process of keyframing, especially if it's involving some footage and compositing only certain details, but yeah.",
+    "For him, I think I'm going to break it down into shapes.",
+    "Just to simplify the process a lot further.",
+    "Everyone say hello to Brian.",
+    "While I'm at it, I might solo out the footage so I can really see.",
+    "Yeah, that works too.",
+    "That looks great.",
+    "He's a little trickier because he tends to bounce around a bit.",
+    "At least in this scene.",
+    "And with the handheld footage movement, which is.",
+    "Which was me I was holding out, his hand holding the camera and moving around the room and getting footage of them.",
+    "Now you have to take that into account when you're adding masks on film footage, whether or not.",
+    "There's any movement within the footage itself.",
+    "Looks like there's a question here so Gabriel Rodriguez asked, So what tip would you give to anyone who wants to learn more about motion?",
+    "What to study?",
+    "That is a very good question.",
+    "The first thing I would do is start with.",
+    "I would look at a couple of resources.",
+    "One of the ones off the top of my head that you can look at is School of motion which is run by a former teacher in the motion design Department at Ringling College of Art and design is which is.",
+    "Where I got my training?",
+    "Uhm, I would look at professionals in the industry based on what part of motion design you want to go into, 'cause it's actually branched out into different sectors.",
+    "There's add design there's.",
+    "There is motion graphic design.",
+    "There's broadcast designers, visual effects and compositing.",
+    "There are many facets of motion design that you can study, so depending on what you want your focus to be, I would start there.",
+    "Look at people that are in the industry that do what you want to do.",
+    "You know, listen to their interviews.",
+    "If they do tutorials, watch them.",
+    "I would look at LinkedIn learning which used to be Lynda.",
+    "Com, especially if you're going to learn about motion graphics and the software involved.",
+    "That is the best advice I can give and just take it all in taking everything that is.",
+    "Suggested all the advice and especially.",
+    "First and foremost.",
+    "You have to understand the animation principles first before anything else.",
+    "It's one thing if you know the programs, but it's quite another if you understand animation and how things move.",
+    "So I would definitely take those into account when you do research and have fun.",
+    "It's A wonderful.",
+    "It's wonderful field to be in and there's so much.",
+    "Uh, there's so many things that you can do.",
+    "Within that realm.",
+    "So.",
+    "I hope that answers your question.",
+    "It's a really thoughtful run and best of luck to you.",
+    "It's a wonderful field.",
+    "I personally wanted to study a little bit of everything so I could be strong in all areas of the production process.",
+    "And, uh.",
+    "So I learned a little bit of everything and at the time that's what they were teaching us.",
+    "They taught us graphic design, typography, design, 2D3D, Animation, stop motion, understanding how animation works, an visual effects film compositing, a little bit of sound mixing In addition.",
+    "So we had a broad range of skills and then based on that.",
+    "We decided what direction we wanted to go in, and in my case I wanted to.",
+    "I wanted to be strong and everything.",
+    "So I can handle anything.",
+    "So Gabriel followed up and said yes, I get it.",
+    "Thanks.",
+    "I'm so glad when I said, made sense and good luck to you.",
+    "Good luck to you.",
+    "Anthony follows up and says, well said it is crucial to understand the way things moved naturally in their environment, absolutely.",
+    "There are just there's a term in the animation principles called appeal in order for things to look visually pleasing, an correct it has to have appeal and it has to move in certain ways.",
+    "It has to have weight and have a sense of anticipation.",
+    "Ann, you have to take those into account when you are designing and when you are applying motion to that design.",
+    "That's the crux of it.",
+    "And I always want to get stronger.",
+    "The only way that you can get better and you can grow as if you just take it all in and you stay enthusiastic and you stay inspired.",
+    "Now this.",
+    "It's kind of like pieces of a puzzle.",
+    "We just turned Brian into it into a jigsaw puzzle.",
+    "I'm going to take another sip of water.",
+    "Hum.",
+    " Speaking of jigsaw puzzles, I guess it's a good time to mention my.",
+    "OK.",
+    "My custom design top for the evening, so I'm actually wearing a, uh.",
+    "A little chiffon tops with Anthology one at on the overall design.",
+    "I made it so, uh.",
+    "I made it just as a custom thing so I could wear it to beatlefest for one of the days and I thought it would be nice to show it on the broadcast because of Ringo's birthday for one and just the legacy he.",
+    "He represents and high Jeremy, You're back again.",
+    "What are you doing?",
+    "Jeremy has interrupted at least three broadcast so far.",
+    "I'm keeping score.",
+    "For every wonder if anybody that's wondering what I'm talking about, my rescue cat, Jeremy likes to watch me work on projects, and, uh.",
+    "He especially likes to sit against the computer, especially while it's rendering because it's nice and warm and he has, um, sometimes mess with the webcam and ship during the broadcast, and he's just a little love bug.",
+    "But he's definitely a bad boy so.",
+    "And for anybody wondering 'cause this ties into thing goes birthday again, he's named for.",
+    "The character in the nowhere man sequence in yellow submarine.",
+    "And he's just like that character.",
+    "He's just got an exuberant personality.",
+    "Normally he interrupts because he's hungry, so.",
+    "OK, you know what this is going to need a separate mask here, so I am going to.",
+    "I'm going to do this.",
+    "I'm going to take out these points here.",
+    "So I have any right.",
+    "Oh no, Brian is going to pieces.",
+    "Brian never goes to pieces.",
+    "And then he followed up and said it always enjoy seeing your wardrobe creation.",
+    "So thank you.",
+    "I thought it would be nice too well so I love the designs of the Anthology albums.",
+    "The first one I designed was a was an off the shoulder dresses anthology 3 because it's the most colorful and I just love the designs of all three put together.",
+    "They're just gorgeous gorgeous album covers and this music video for free as a bird hands down is still one of my favourites to this day.",
+    "It's got everything.",
+    "That I'm inspired by Scott compositing.",
+    "It's got animation it's got.",
+    "It's got everything.",
+    "It just plays with your perception.",
+    "And when I was when I was younger I had no idea that it was all different film clips just mesh together.",
+    "I realize that later on, but it was just so seamless.",
+    "And so beautiful.",
+    "'cause he loves cats and I said Anthony, what about Ringo?",
+    "We can leave him.",
+    "Ringo, he's the 4th cat to be adopted.",
+    "It was something like that anyway, and he goes no.",
+    "Only Jeremy like he insisted on the name so his name, his name became Jeremy.",
+    "So all we have a new viewer in the chat.",
+    "Hi Natalie, I'm I'm new here.",
+    "Thanks for sharing your work.",
+    "Any he sent a hard I emoji and to that I say.",
+    "Uh, then Django?",
+    "Um, thank you for tuning in.",
+    "And, uh, let me know if I'm pronouncing your name correctly.",
+    "Perhaps Jeremy is falling into the Sea of holes.",
+    "I maybe he did, maybe he did.",
+    "That's actually my favorite part of the whole film, especially if you see it on the big screen.",
+    "Hey, how are you?",
+    "Cancel.",
+    "I guess he doesn't want to be on camera right now.",
+    "I said no.",
+    "He chirped in approval.",
+    "He's not even on another one.",
+    "I think he's a little bit excited.",
+    "He's definitely a bad boy.",
+    "Alright, so.",
+    "I think I've got all the maths I need here, so now I can start really playing with them.",
+    "Funny story about the Sea of holes.",
+    "I'd always wanted to see that sequence on the big screen.",
+    "'cause I remember my mom telling me stories about watching that sequence at Beatlefest back in the day and they used to show that film like on a on a large screen in the auditorium and it just engulfs you and the whole thing is traditionally animated and it just.",
+    "It's gorgeous and it's just a.",
+    "It's a beautiful representation of one of the lines in a day in the life and it's just.",
+    "Beautifully depicted an captured and I'd always wanted to see it on the big screen and I got the opportunity to, um, we went out to go see it on her birthday and.",
+    "Right after.",
+    "That scene we both looked at each other.",
+    "Just like wow, like we were both just blown away by it.",
+    "If you have the chance to go see yellow submarine on the big screen, I would.",
+    "It's a wonderful, wonderful little.",
+    "It's a wonderful film just to to look at in terms of experimental animation.",
+    "And the music is just phenomenal.",
+    "Jeremy has a beautiful coat.",
+    "Thank you.",
+    "He's very loved.",
+    "Alright, so.",
+    "Since I made more math, this should be a much easier process than what we had to deal with with Anthony's masking so.",
+    "What's ironic is that it's following the motion track pretty closely, so it's just a matter of.",
+    "Defining the edges.",
+    "Let's let's see.",
+    "But once we do this then we could just dark in the backdrop.",
+    "How do you determine whether or not to add a mask?",
+    "I determine that based on complexity of the details in the footage.",
+    "In this case, it's going to be a lot easier for me to make a separate mass just for the hand, because it's got a complicated movement.",
+    "It's moving faster than the rest of his body for one because it strumming the guitar.",
+    "So in order to properly mass that without it being too complicated, you have to make a separate mass just for that.",
+    "It just eases the process.",
+    "If you can just.",
+    "Break it down into simple shapes and then mask that way.",
+    "So I hope that answers your question.",
+    "It also comes from experience.",
+    "Knowing How to separate out those shapes an when?",
+    "So it seems as you go as you practice with this kind of thing.",
+    "You're able to determine you know what should stay in, what should go essentially is what you're doing is you're just making an Alpha channel for those for those objects.",
+    "By means of a track matte.",
+    "Just making sure it's really following the hand here.",
+    "OK.",
+    "Oh, that makes sense.",
+    "I'm glad to hear it, Anthony, thank you for qualifying.",
+    "OK, that's following it, good good.",
+    "Oops, I think I just added another.",
+    "There we go.",
+    "All right?",
+    "The rest of it is going to be a lot easier to.",
+    "Determine Because they're slower movements and it's just a matter of making sure they line up with those.",
+    "Edges.",
+    "It looks like a lot, but really it's easy as the process.",
+    "For the next step.",
+    "Right?",
+    "So far this area here is has been numb.",
+    "The easiest so far.",
+    "I think I said so far twice.",
+    "Hey.",
+    "The perils of Track Matting.",
+    "You say things multiple times.",
+    "OK, so that looks pretty close I see.",
+    "I see a little bit here.",
+    "This needs to be.",
+    "There we go.",
+    "OK, want to jump to 15 frames here.",
+    "Make our key frame and then are in between's.",
+    "Let's see, this one is a little more complex.",
+    "Because.",
+    "The folds in the shirt are moving.",
+    "In which case I'm going to add a couple of points so it's nice and nice and curved.",
+    "Come up here.",
+    "Just want to make sure we get the actual edge.",
+    "OK.",
+    "Again, we can be a bit looser with this because we're going to feather it out, but I want to make sure it's accurate.",
+    "Just because it's loose doesn't mean it doesn't mean it.",
+    "Just because it's loose doesn't mean it does not have to be accurate.",
+    "I hope that made sense.",
+    "What if I can do something real quick, hang on 'cause I wanna make sure I'm actually getting the actual baseline and I'm a little concerned that I'm not because it's.",
+    "Understandably it's been composited an brightened, but I might have to look at the actual footage in order to really tell there it is.",
+    "And yeah, I'm going to need to make some adjustments here, but that's OK.",
+    "I found out early enough.",
+    "The rest of it is fine.",
+    "It was the IT was the forehead I was concerned about because I thought there was going to be white law in the baseline that wasn't supposed to be there and I wanted to catch that ahead of time.",
+    "So let me go ahead and take care of that.",
+    "OK, jump to the next key.",
+    "Bring that down.",
+    "Luckily this is a very simple process.",
+    "It'll just automatically, it'll automatically follow.",
+    "His his movements on camera.",
+    "OK.",
+    "Please don't need to be moved up.",
+    "So that's actually the raw footage right there without any color adjustments, and I'm only doing this so I can really see what I'm doing.",
+    "In regards to his baseline, because I want that to stay completely intact.",
+    "So I'm just going to go back and fix those and then move forward.",
+    "Right, so that's another one.",
+    "And then these three over here.",
+    "All right?",
+    "OK, that's OK, so that was a.",
+    "Don't own needs a little bit of an adjustment, that's good.",
+    "The rest of it's pretty accurate.",
+    "OK, and then the last one.",
+    "Oh good good this ones accurate too.",
+    "OK, so.",
+    "Wait, what was that?",
+    "So Anthony Carbajal.",
+    "Rights that's weird.",
+    "I got so used to seeing the footage in black-and-white.",
+    "It's kind of strange to see it in color.",
+    "Well, it's only temporary, so I can really get the outline.",
+    "And properly composite and rest assured we're going to go back to the black and white footage.",
+    "This is just for reference.",
+    "Let me just make sure that doesn't shift again, but there it is.",
+    "Alright OK good, now it doesn't do that anymore.",
+    "That one needs to be fixed.",
+    "There.",
+    "I might as well focus on this one.",
+    "Get that out of the way and make sure that it's properly composited.",
+    "Is the rest of it is going to be a little simpler?",
+    "But considering that it's his face, I want to make sure that.",
+    "It's properly tracked, nodded.",
+    "So I'm just going to extend this out.",
+    "Until the end of the timeline.",
+    "OK, there's the actual OK there it is alright, great.",
+    "I thought it was the one town there.",
+    "No wonder that's OK.",
+    "I found out.",
+    "I just thought it was the pink one.",
+    "Honestly, I now that I'm thinking about your comment, Anthony.",
+    "I chose black and white.",
+    "To simplify the footage so it's all unified, but then the only.",
+    "Accent of colour coming through are the.",
+    "Pieces of animation scattered throughout the footage.",
+    "And, uh, so it creates a sense of unity, and it also emulates the filmmaking style of Richard Lester, you know, when he made a hard days night.",
+    "You know, taking inspiration from that approach.",
+    "I adore that film I watched it countless times and.",
+    "I took a lot of inspiration from that when I was filming the black tie.",
+    "Like to kiss filmmaking style into account, I took my knowledge of concert photography into account when I was representing them.",
+    "And, uh.",
+    "Just dumb.",
+    "Using my own digital filmmaking skills, you've discussed that I learned when I was studying at Ringling.",
+    "And I also wanted to represent the motion design work that I do In addition.",
+    "So not only am I showing off.",
+    "Digital filmmaking techniques with what I've shot of the black tie is.",
+    "I'm also showing my, um, animation skills like depositing skills, everything that.",
+    "Everything that I learned.",
+    "When I was studying animation and film.",
+    "Just sort of.",
+    "It all comes together for this project.",
+    "Every thought, every aspect.",
+    "I feel that a lot of the stuff that I learned was supplementary and you end up using it later on, even if you don't realize it.",
+    "And this is one of those times.",
+    "Your references for inspiration or right on Point Classic.",
+    "Thank you I.",
+    "When I when I look at something when I look at a film or listen to music.",
+    "I focus on the quality of it, not necessarily when it was made, but what time frame it was developed in.",
+    "I look at the overall quality and the takeaway why it's.",
+    "Relevant creatively and.",
+    "You know what?",
+    "What was what, what impact it had essentially.",
+    "And.",
+    "Yeah, that's part of the reason I'm going to show off my other computer just for a second.",
+    "For instance, a long long time ago I watched, I chose to watch Citizen Kane, but before I watched that, I watch tarkio 281, which is about how Citizen Kane came to be and how it almost did not make it to theaters.",
+    "I would recommend watching that.",
+    "By the way, is a fantastic movie, but some after I'd watched our code 281 I watch Citizen Kane.",
+    "And.",
+    "It still had an impact like it had an impact to this day on me.",
+    "Everything about it, the writing, the.",
+    "The way it was shot, just the the overall visual impact of it.",
+    "It was just phenomenal and because of that I actually decided to make a laptop skin inspired by the film.",
+    "Because this that computer is actually the one I started my motion design journey on.",
+    "And rest assured, it's going to stay.",
+    "Oh, DJ writes, the Twilight Zone is ended.",
+    "Rest in peace black and white footage.",
+    "Well, actually no it hasn't.",
+    "This is just so I cannot track mat for an effect I want to do so this is just reference.",
+    "We're not getting rid of any affect so.",
+    "It's alright.",
+    "By the way, sorry for showing up late here.",
+    "Behance webinar.",
+    "I attended a, uh.",
+    "I assume that women in animation WA 'cause that I know that acronym is when it women in Animation.",
+    "Let me know if that's the right one.",
+    "Uh, which happened at the same time as your online class?",
+    "My bad, I hope I hope I'm not too late.",
+    "You're not too late.",
+    "Relax, you're fine.",
+    "I'm just a I'm in the second half of the technical process for something I wanted to do to this particular clip, not realizing that I hadn't tracked mated the musicians in this scene yet.",
+    "So I'm taking care of it now.",
+    "But yeah, I look at the quality of a piece of art or work film music.",
+    "And I focus on what impact it had and why.",
+    "Why it endures?",
+    "OK, so.",
+    "Yeah, I need a sip of water.",
+    "I talk too much.",
+    "Call Anthony Carbajal.",
+    "Writes very cool.",
+    "Nice kudos on the Rosebud laptop skin.",
+    "I had made a vector of that.",
+    "Long before I decided to make the laptop skin, but I knew I wanted to use it for something and.",
+    "It was just apropos.",
+    "It was it fit perfectly.",
+    "Oh yes, then they did qualify that it means women and animation.",
+    "OK, that's fine.",
+    "No, it's these are recaps so you know if you miss any of them, it's going to be recorded on my channel.",
+    "So don't worry about it.",
+    "OK, so we're almost done with.",
+    "Brian's face.",
+    "All Brian all the time.",
+    "I'm going to check down that RT O281 film.",
+    "Thanks for the recommendation it.",
+    "So if you need me to send you a link to it I will just let me know.",
+    "It's a fantastic movie.",
+    "It's one of my favourites.",
+    "And it's funny when I watched it again after seeing Citizen Kane, there were little things.",
+    "They were referenced that I missed the first time, 'cause I hadn't seen it yet, and then you watch it again and you know where it's from so.",
+    "You might want to watch it that way.",
+    "We're almost done and then we can just focus on the larger, more simpler shapes.",
+    "Yeah, that's right, I'll.",
+    "I'll send you the link.",
+    "Don't worry about it.",
+    "And, uh.",
+    "I still have the same Mac laptop that I started my journey on.",
+    "I'm babying it so I won't so it won't die easily.",
+    "Um, that's something DJ Rotan.",
+    "Honestly, I'm the same way I've had my little MacBook for years now and I I still want to use it, so I take good care of it and I.",
+    "I upgraded as much as possible and.",
+    "Do the best I can with it.",
+    "I love that little machine.",
+    "Alright, so now we're in basically.",
+    "Part 2 point something of this 'cause this is essentially Part 2 of the process.",
+    "Part one was Anthony's track Matt, which was a lot easier than this.",
+    "But I'll go through the effort because, well, Brian deserves it.",
+    "He's Bryant.",
+    "Or the comments you've missed, so I know that you and Anthony are having a conversation about laptops back and forth, and that's pretty cool that you guys are conversing in the chat.",
+    "That's I like seeing that some.",
+    "No.",
+    "People engaging each other in the chat while I'm showing my creative process that so.",
+    "It's actually pretty dumb.",
+    "It's pretty wonderful to see that, so I thought, don't worry.",
+    "Alright, so.",
+    "Now it's just a matter of.",
+    "Backtracking and adding keyframes.",
+    "This is going to be a lot simpler.",
+    "OK, that's Yeah, that's pretty close.",
+    "It's all part is almost near perfect.",
+    "I might have to go through one by one and finesse each.",
+    "OK, so I do notice it's almost 11.",
+    "I'm gonna keep going until this process is completed.",
+    "I'm almost done.",
+    "Because I want to actually show the entire process to you guys.",
+    "I don't want to, uh.",
+    "Uh, leave the project open ended.",
+    "I like to.",
+    "Give the audience closure.",
+    "As to what I'm doing?",
+    "So rest assured, we're gonna keep going until it's done.",
+    "And the processes.",
+    "Near finished, it's just a couple of things I have to do.",
+    "Before we can really implement it.",
+    "No fair mom Brian is getting all the attention.",
+    "You're too funny, and a rest assured.",
+    "Every musician in the band gets equal attention, all of them, and, uh.",
+    "And I always give equal attention 'cause there's actually two brothers in the band.",
+    "There's Brian, the rhythm guitarist, and Andrew, the bass player, and I always make sure to represent everyone equally, including them.",
+    "So.",
+    "It's only fair.",
+    "And then of course, some like the other day, I actually got footage of Ben ended up being late because of traffic to the performance where we filmed the birthday video for Ringo.",
+    "And you can even writing on his amp on a skateboard.",
+    "Very sunglasses and I managed to film the whole thing because I had a telephoto lens at the time and I was just I was laughing so hard and his entrance was just so grand.",
+    "It's it's very Ben.",
+    "If you go to the black ties Facebook page, you'll probably find it.",
+    "And you'll probably hear me laughing behind the camera.",
+    "I couldn't help it, it was just too funny.",
+    "No, I love seeing that those goofy moments.",
+    "And there are plenty of them, and they're they're just so much fun to be around and to work with and.",
+    "They they just let me say let me film what I need and.",
+    "And they're just wonderful, so.",
+    "And they are all friends who?",
+    "Which is the?",
+    "Which is a wonderful thing too.",
+    "They are.",
+    "There's a camaraderie between all of them.",
+    "And they all just you know, they goof off.",
+    "They have a good time.",
+    "And they really want to know that.",
+    "Everyone is OK.",
+    "And that's heartwarming for me to see.",
+    "Sounds like a Kodak moment.",
+    "Does that still exist?",
+    "I would say it does, I mean I know something I know something happened to Kodak, but the impact that Kodak had is still there.",
+    "So I think it might make a resurgence, you know, depending on whether or not they accept, uhm?",
+    "Modern Technology, 'cause That's the major thing you have to grow with the industry.",
+    "And if you don't, then.",
+    "It's going to change without you, that's the thing.",
+    "No DJ I I'm glad you find me.",
+    "I'm glad you find me hilarious.",
+    "Well yeah that was funny.",
+    "OK, that key frame is done.",
+    "I'm just going to go through.",
+    "And little by little, just keyframe this.",
+    "Follow the follow the movements.",
+    "All you can do.",
+    "You know, I'm pretty sure now that you mention Kodak, I'm pretty sure I had a little point and shoot camera when I went out to um.",
+    "Well, when I went on a school trip to France, I want to say it was Kodak.",
+    "It was a little point and shoot.",
+    "Camera and.",
+    "I'm going to get a lot of pictures with it.",
+    "While I was there some really beautiful ones when I was in Nice and uh.",
+    "It was just.",
+    "It was beautiful there and I just.",
+    "I just love the atmosphere.",
+    "All of it.",
+    "I still have those pictures somewhere.",
+    "I have pictures from uh from Notre Dom Cathedral.",
+    "I managed to find them, uh.",
+    "Back when the.",
+    "Back when everybody was upset about what happened to look at the Drell.",
+    "I've been in there.",
+    "I lit a candle and I made a wish.",
+    "Not going to say what it was, but.",
+    "For anybody wondering what I'm talking about, there was a fire at Notre Dom Cathedral.",
+    "Uhm, I want to say it was a few months ago.",
+    "It's time is kind of a weird thing right now, but.",
+    "There were a lot of people upset about it, um.",
+    "Then I was.",
+    "I was really sad to hear it and I know that there was a movement to restore it because it's a.",
+    "It's a landmark.",
+    "It's it's a historical piece of history of Arts of architecture.",
+    "And.",
+    "It was just really surreal because I had been in there.",
+    "I had been inside the cathedral.",
+    "To find out that it was.",
+    "That there was damage to it.",
+    "It might be, it might be a years ago I'm.",
+    "I'm honestly not sure but.",
+    "Anyway, that I still that was.",
+    "I still have fond memories of being there.",
+    "There we go.",
+    "I will get exactly hitting the path.",
+    "Necessarily, so it was.",
+    "It was trying to make new masks.",
+    "Meanwhile, I was just trying to.",
+    "Add to the one I have currently.",
+    "Oh Chris Perry right?",
+    "Hey I need to go to so take care everyone have a great rest of your day will you too and thank you for tuning in.",
+    "Now you have a good rest of the day.",
+    "Well whatever time it is for you and um.",
+    "Thank you for stopping by.",
+    "DJ roads I heard it might be restored to near original because of tourists.",
+    "Oh hold on Asek Eric Lee, thank you for following me.",
+    "Uh, I heard it might be restored in your original because of tourist recorded.",
+    "VR work way of what it looked like before the fire.",
+    "Well, I'm hoping that's the case.",
+    "There were there were a lot of people that were heartbroken about that so.",
+    "Oh yeah, I know it was a year ago.",
+    "So strange, why would I think it was months ago?",
+    "Time is kind of garden.",
+    "Time has been sort of warped I guess.",
+    "Um, that said, so somebody knew named Calvin low rights.",
+    "Are you using a tablet?",
+    "In this case, I'm actually using my.",
+    "I'm using my work station.",
+    "Only occasionally will I use my tablet for something like this, but uh, and I do have one.",
+    "I have a tablet, but I'm not currently using it for this.",
+    "But that's actually a very good question to ask.",
+    "So by the way, thank you for tuning in.",
+    "Hopefully it won't be too long before I finish this process and I can show you guys what I had in mind.",
+    "And by the way, Calvin, I hope that answers your question.",
+    "OK, so.",
+    "Calvin wrote, yeah, thanks.",
+    "I'm glad to hear that.",
+    "I'm glad that, uh, that answered the question you have.",
+    "You had.",
+    "OK, so.",
+    "Definitely need to bring that in.",
+    "Going through and.",
+    "Matching all of the masks too.",
+    "The movement there an emotion track, so it's just a matter of keyframing them so they follow Brians movements.",
+    "Yeah, that one needs to be refined a little bit further, 'cause I can see some of the edges.",
+    "Nope, don't want to do that.",
+    "Hey.",
+    "Those need those need to be brought out.",
+    "Linzia Swan Lynch at one.",
+    "I told you he would've moved it.",
+    "Hold on, let me get that beetle cooling.",
+    "There we go.",
+    "So the name coming up for me is Linjat One.",
+    "Uh, first of all, let me know if I'm pronouncing your name correctly.",
+    "And second of all they wrote I like, well, first of all, thank you and thank you for tuning into the broadcast.",
+    "All right?",
+    "Bring that down.",
+    "Bring that down.",
+    "We are almost there, you guys.",
+    "I know it's late.",
+    "Well, I don't know what time zone it is for you, but I know that, uh?",
+    "In general, this broadcast is pretty long and for good reason.",
+    "This is a complex process, but when done right you can do a lot of stuff with it.",
+    "That's the great thing about it.",
+    "And that's the takeaway.",
+    "He put in the effort.",
+    "The reward is.",
+    "More elaborate design work.",
+    "Hello.",
+    "For anybody that's just tuning in that wonders who I'm talking to, my rescue cat, Jeremy, is, uh?",
+    "He is making mischief around my life streaming table.",
+    "I've shown him on the, uh, I showed him in one of the prior broadcasts before, and, uh?",
+    "He's a little love bug, but he definitely likes to cause mischief so.",
+    "Just answer any questions any of you might have.",
+    "He likes to keep me company while I'm working though.",
+    "So Calvin low, right?",
+    "So wow.",
+    "What a coincidence.",
+    "I'm drawing a cat now, oh.",
+    "That's pretty cool.",
+    "Yeah, no, definitely you know.",
+    "You can draw.",
+    "You can do whatever you want.",
+    "I just appreciate that you're watching my, uh, my process of, uh.",
+    "Compositing and animation.",
+    "I'll put it on my Behance.",
+    "Great that's wonderful.",
+    "Yeah I know I know I'd like to see it after your done.",
+    "What are you doing?",
+    "Honey, what do you think?",
+    "He's like right around my.",
+    "My broadcasting cord so I I do not want him to, uh.",
+    "Cancel on them.",
+    "My knee.",
+    "Oh I love you too.",
+    "Oh somebody just started following me.",
+    "I want to be able to pronounce your name correctly, so just give me 1 second.",
+    "Uh, hang on a second.",
+    "So the name coming up for me is.",
+    "Wanshang Song Z.",
+    "Um Hongshan something.",
+    "Thank you for following me.",
+    "Jeremy Honey Oh oh hello hello.",
+    "He will pick up, no pun intended, referring to the pickups on the guitar.",
+    "Clever, very clever, and I didn't even think about that.",
+    "But that's a great that you pointed it out, Anthony.",
+    "For that.",
+    "And I think at this point this shape here kind of goes off screen, but I'm going to move it forward anyway, just in case.",
+    "Uh, and then.",
+    "Oh, it moves down OK.",
+    "Hold on.",
+    "And then it's off the page.",
+    "Well off the canvas.",
+    "Gotta move that up.",
+    "Rotate that.",
+    "And.",
+    "That up.",
+    "With that in.",
+    "That up.",
+    "Just finessing the motion so we really captured the shape of the guitar.",
+    "Otherwise, it's going to look like something is missing.",
+    "I think I got all of the movements.",
+    "OK, so with that.",
+    "These are already set.",
+    "I'm going to have to solo this out when I turn this off.",
+    "That's how it actually looks.",
+    "Well, first of all, let me turn off the mask.",
+    "This is with the compositing elements and the animation on the drums.",
+    "I've merely use the original footage as reference so I could really get the outlines for what we're going to do next.",
+    "I just have to make sure that it's.",
+    "Prepped and ready to go.",
+    "So let's all this out.",
+    "That's right, I have to adjust the settings a little bit, so that's going to be subtract.",
+    "Already we are on the right track and then.",
+    "This downward is all going to be subtract 'cause we just want.",
+    "We just want the backdrop behind them.",
+    "We're also going to feather them, but I'm going to do a a general blur.",
+    "So we don't mess with any of the details.",
+    "Calvin low rates.",
+    "Do you primarily use after effects?",
+    "I use pretty much all of the Adobe creative suite, the design programs, the animation and film programs.",
+    "I use cinema 4D.",
+    "Yeah.",
+    "I do a lot of film making works, though I have camera equipment and sound recording equipment sound mixing up.",
+    "If you want to know the kind of work I do, you can check out my website which is in the link below the description.",
+    "Or you could check out my big hands and you can see examples of projects I've worked on in the past.",
+    "Oh Michael Osei, thank you for fat Michael Osei.",
+    "Thank you for following me.",
+    "It's been 3 hours.",
+    "I hope that answers your question Calvin.",
+    "It's a good question.",
+    "Alright, so.",
+    "We're just going to do this so the edges are a little bit feathered.",
+    "Oh, let me see what's a good range strike 10 to start with.",
+    "You can also do it within the mass themselves, but considering there's so many.",
+    "I figured it be easier just to do 1 clean sweep over the whole thing.",
+    "Oh, he's going to go check out my work.",
+    "Well, thank you.",
+    "Alright, so.",
+    "This actually works out perfectly because we can turn back on the effects 1st.",
+    "I'm going to check and see what's turned on and turned off.",
+    "There were some effects I tried.",
+    "Looks like everything is turned on.",
+    "Although if we have it no, no.",
+    "Actually this works in our favor.",
+    "You are welcome Natalie.",
+    "Well, thank you Michael and thank you for tuning in.",
+    "He just followed before and uh?",
+    "He just wrote in the chat, so thank you.",
+    "Do you have a YouTube channel where I can learn this from scratch?",
+    "Um, Long story short, I guess you're asking if I have tutorials on this process.",
+    "If you're looking forward to torreilles, I would suggest looking at School of motion.",
+    "They have an extensive library of resources that you can pull from based on the kind of work that you want to do in motion graphics and compositing.",
+    "I would suggest starting there.",
+    "There is tutorials on LinkedIn learning that you can take a look at based on certain programs you want to learn.",
+    "And if you want to see the replay of any of the episodes of my broadcast.",
+    "They are saved on my behalf channel.",
+    "If you want to take a look at them.",
+    "If you go to videos under my channel tab, you'll find all of the episodes, so I hope that answers your question.",
+    "Calvin low right so?",
+    "Oh, hold on a second.",
+    "Wenvoe, thank you for following me.",
+    "I also want to point out just to let you know, Michael Behance requested that I show my creative process on their platform.",
+    "So I hope.",
+    "That what I explained answers your question.",
+    "So and I wish you the best of luck.",
+    "It sounds like you're interested in.",
+    "Trying it for yourself so good luck to you.",
+    "Calvin writes Marvel on your website.",
+    "Well, I guess you're asking how why there's Marvel?",
+    "Of Marvel projects in My Portfolio?",
+    "Well, that's because.",
+    "After I graduated from Ringling College of Art and design with honors.",
+    "My first Job opportunity.",
+    "After graduating was.",
+    "In New York City, with Marvel Entertainment in the Digital Comics Department, and it was a wonderful experience and I made little animations based on directives from the animation and graphics Department.",
+    "And we went back and forth, and I made revisions based on what they wanted to see and.",
+    "That that's why there's those little animations in the real because I ended up working with them on the process too.",
+    "Represents.",
+    "Their brand.",
+    "Just for fun little animations.",
+    "My in my own spare time, but I wanted to hone my skills in a matter of speaking.",
+    "But it was.",
+    "It was with their consultation, so I hope that answers your question and it was.",
+    "It was a wonderful experience and it's the main reason I ended up in New York, New Jersey Metro in the 1st place.",
+    "So I'm eternally grateful for the opportunity.",
+    "And Michael Rights.",
+    "Yes, thank you.",
+    "Oh well, I'm glad that what I said help tan.",
+    "Good luck to you.",
+    "And Calvin followed up and said cool, thank you.",
+    "OK, so we now have our.",
+    "You know what I did this backwards.",
+    "No wait, no, I didn't hold on.",
+    "I didn't do it backwards.",
+    "Yeah, I didn't do it backwards this time.",
+    "OK, now this is going to be the easy part of this entire process.",
+    "I promise you alright.",
+    "This is why did the last time.",
+    "Oh right, this wrong exposure.",
+    "There's two different exposures.",
+    "There's color correction.",
+    "Am light effects.",
+    "I was clicking on the light effects one.",
+    "Alright, so now we.",
+    "And you can probably see the adjustments in real time here.",
+    "I'm going to have to.",
+    "Bring in.",
+    "Feather out those masks a little bit more, but that's OK.",
+    "That's part of process.",
+    "And I might dark in those curtains behind Anthony too while I'm at it.",
+    "I just have to make a separate.",
+    "Kay, the feather is a little too much is going to bring that back down.",
+    "I made a website to.",
+    "That's cool cool.",
+    "I'm glad you're making one.",
+    "Well, first I know Anthony looks fine, so I want to go to Brian and just bring those feathered masks inward.",
+    "Well, first of all.",
+    "It'll be easier if I'm able to.",
+    "Well, I kinda need to see all of the.",
+    "All the layers, I suppose.",
+    "So I'm just going to make everything a little bit smaller so I can really see what I'm doing.",
+    "And then open the screen back up.",
+    "OK.",
+    "So now that I have the most selected, I'm going to drag this back down.",
+    "And then I'm going to do.",
+    "That until it looks right.",
+    "Turning that off so I can really see it.",
+    "That's tricky.",
+    "The issue is he's right in front of that white backdrop.",
+    "Hold on if I turn this off.",
+    "And then bring it in.",
+    "It's a little bit different if I do it that way, but there's some things I need to adjust, probably.",
+    "Just for grins, I want to see if I can try.",
+    "Something.",
+    "We have to adjust the.",
+    "Around here probably add another mass 'cause I don't want to.",
+    "Talking too many features.",
+    "Unless perhaps if I play with it 'cause sometimes.",
+    "Hum.",
+    "I could.",
+    "Integrate the sort of.",
+    "The light glow into the footage.",
+    "I've done it before.",
+    "I'd rather do that, then dismantle any of the details.",
+    "It might make it more playful.",
+    "I do think that let me turn this back on.",
+    "I think that this mouse here definitely needs to be.",
+    "Feathered a little bit more.",
+    "Alright, let me see what it looks like.",
+    "Where I have it right now.",
+    "It gives him more of a sense of motion, I feel.",
+    "Just looking at it.",
+    "I wonder if it should be more delayed 'cause I love that trail, but it's a little too close to him I think.",
+    "When I could try it.",
+    "Right, so I doubled the delay.",
+    "Let's see what happens.",
+    "I do kind of like that.",
+    "I'm trying to decide whether it's balanced or you know what if it matched the blue of the drums.",
+    "I think it would.",
+    "Come together.",
+    "In a sense.",
+    "So maybe I should try that.",
+    "Let me see.",
+    "Just for grins, I want to see if just adding a filter is going to.",
+    "Oh James Trey writes your life stream has been more than three hours since early morning.",
+    "Yes, uh, that is because I did the complicated task of track matting around the musicians in order to darken the background and add additional effects to Brian, who's the rhythm guitarist over here?",
+    "And it was because there was a lot of small details that need to be considered.",
+    "So I had to go in and make sure I really got all of them in order to represent them clearly.",
+    "And that's part of the reason most of the time when I do do.",
+    "When I do live streams, I tend to track Matt beforehand because it can be a time consuming process.",
+    "Uh?",
+    "If you stuck it out this long with Maine, thank you.",
+    "I'm just going to make sure that it doesn't need anymore adjustments and, uh.",
+    "Finalize it and.",
+    "Yeah, let's uh, let's see, Oh Calvin writes blue effect.",
+    "Yes.",
+    "It is a blue effect.",
+    "All right?",
+    "I'm looking at it and.",
+    "I think maybe it needs to be increased in intensity, just slightly.",
+    "I mean, perhaps I don't know.",
+    "Wonder what preserving luminosity would do?",
+    "I wondered if, uh, making it lighter and keeping some of the details might, uh?",
+    "Make it look stronger, perhaps.",
+    "At least I can try it, and if I don't like it, I can always put it back.",
+    "It's a great thing about this process.",
+    "Alright, so.",
+    "Well, I already like that blue.",
+    "That's a nice blue.",
+    "I got an idea.",
+    "So we have two photo filters.",
+    "One is.",
+    "Maybe that's it.",
+    "It's not so bright.",
+    "If you want to make sure he looks.",
+    "Well, it looks a lot more natural now that the simple choker was put in place over the precomposed track.",
+    "Matt of Brian.",
+    "I feel like it's a little more fluid.",
+    "It matches the seen a lot more.",
+    "It's not so apparent.",
+    "It feels more balanced.",
+    "I think.",
+    "Yeah, I think that this is a good place to, uh.",
+    "So I'm trying to decide whether or not there is any more adjustments I need to make the size that.",
+    "But if there are, I can always return to it.",
+    "That's the beauty of the live streams.",
+    "I can go back and make revisions as I see them.",
+    "So with that said, I'm going to go ahead and tell you guys about my next live streaming dates.",
+    "Let me just pull up my calendar.",
+    "For I do.",
+    "I'm just going to take a quick sip of water.",
+    "I've been talking nonstop for over 3 hours so.",
+    "OK.",
+    "OK, I've got the dates alright, so let me tell you about the next live streaming dates.",
+    "So my next live streaming dates are going to be on Tuesday the 14th and Thursday the 16th starting from 9:00 PM eastern Standard Time, 6:00 PM Pacific Time.",
+    "If you wrote in a chat it all tonight.",
+    "Thank you if you if you follow during the broadcast.",
+    "Thank you.",
+    "And um, if you stuck it out for the entire 3 hours.",
+    "Thank you so much for sticking it out with me.",
+    "I know this was a long one.",
+    "Um, just through the process, and, uh, oh, there's a comment here that I want to answer before.",
+    "Before concluding, Janice rewrites you're doing so well.",
+    "I see you often live stream on the hands, perhaps twice or three times a week.",
+    "Yeah, no, it's typically.",
+    "It's usually twice a week Tuesday, Thursday.",
+    "If you're able to join me, great.",
+    "If you can't, there will be replays available on my behalf page under the videos tab, so if you miss any of them, don't worry and special thanks to the black ties for allowing me to show my creative process.",
+    "You guys are amazing to work with, and with that said, have a good night.",
+    "Have a good day whatever time it is where you are.",
+    "I hope you're doing good and.",
+    "And by the way, James, before I go, thank you for the lovely comments.",
+    "And with that said.",
+    "Have a good night day, whatever time it is and I hope to see you all next time.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION",
+      "span": [
+        28,
+        29
+      ],
+      "sentence": [
+        "You are here, uhm?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION",
+      "span": [
+        31,
+        32
+      ],
+      "sentence": [
+        "Hello how are you?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION",
+      "span": [
+        40,
+        41
+      ],
+      "sentence": [
+        "I kept looking at those particular clips and thinking how can I push those further?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION",
+      "span": [
+        46,
+        47
+      ],
+      "sentence": [
+        "I was afraid that, uhm?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION",
+      "span": [
+        55,
+        56
+      ],
+      "sentence": [
+        "Uh, let's see what?"
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "QUESTION",
+      "span": [
+        116,
+        117
+      ],
+      "sentence": [
+        "You're given this is involving, uhm?"
+      ]
+    },
+    "T9": {
+      "id": "T9",
+      "label": "QUESTION",
+      "span": [
+        134,
+        135
+      ],
+      "sentence": [
+        "Back All right?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION",
+      "span": [
+        149,
+        150
+      ],
+      "sentence": [
+        "Kay?"
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "QUESTION",
+      "span": [
+        152,
+        153
+      ],
+      "sentence": [
+        "There's so much you can do with Track Matting, Uhm?"
+      ]
+    },
+    "T12": {
+      "id": "T12",
+      "label": "QUESTION",
+      "span": [
+        155,
+        156
+      ],
+      "sentence": [
+        "But you can really, uh?"
+      ]
+    },
+    "T13": {
+      "id": "T13",
+      "label": "QUESTION",
+      "span": [
+        158,
+        159
+      ],
+      "sentence": [
+        "You know?"
+      ]
+    },
+    "T14": {
+      "id": "T14",
+      "label": "QUESTION",
+      "span": [
+        175,
+        176
+      ],
+      "sentence": [
+        "Um?"
+      ]
+    },
+    "T15": {
+      "id": "T15",
+      "label": "QUESTION",
+      "span": [
+        194,
+        195
+      ],
+      "sentence": [
+        "How does it work?"
+      ]
+    },
+    "T16": {
+      "id": "T16",
+      "label": "QUESTION",
+      "span": [
+        195,
+        196
+      ],
+      "sentence": [
+        "What you're supposed to do?"
+      ]
+    },
+    "T17": {
+      "id": "T17",
+      "label": "QUESTION",
+      "span": [
+        228,
+        229
+      ],
+      "sentence": [
+        "Right, So what happens here?"
+      ]
+    },
+    "T18": {
+      "id": "T18",
+      "label": "QUESTION",
+      "span": [
+        231,
+        232
+      ],
+      "sentence": [
+        "Kay?"
+      ]
+    },
+    "T19": {
+      "id": "T19",
+      "label": "QUESTION",
+      "span": [
+        232,
+        233
+      ],
+      "sentence": [
+        "But what happened here?"
+      ]
+    },
+    "T20": {
+      "id": "T20",
+      "label": "QUESTION",
+      "span": [
+        258,
+        259
+      ],
+      "sentence": [
+        "What's going on here?"
+      ]
+    },
+    "T21": {
+      "id": "T21",
+      "label": "QUESTION",
+      "span": [
+        261,
+        262
+      ],
+      "sentence": [
+        "OK, what's going on with his shoulder?"
+      ]
+    },
+    "T22": {
+      "id": "T22",
+      "label": "QUESTION",
+      "span": [
+        264,
+        265
+      ],
+      "sentence": [
+        "Alright, What's going on here?"
+      ]
+    },
+    "T23": {
+      "id": "T23",
+      "label": "QUESTION",
+      "span": [
+        269,
+        270
+      ],
+      "sentence": [
+        "All right?"
+      ]
+    },
+    "T24": {
+      "id": "T24",
+      "label": "QUESTION",
+      "span": [
+        278,
+        279
+      ],
+      "sentence": [
+        "All right?"
+      ]
+    },
+    "T25": {
+      "id": "T25",
+      "label": "QUESTION",
+      "span": [
+        279,
+        280
+      ],
+      "sentence": [
+        "Up what's going on here?"
+      ]
+    },
+    "T26": {
+      "id": "T26",
+      "label": "QUESTION",
+      "span": [
+        282,
+        283
+      ],
+      "sentence": [
+        "What did I just move?"
+      ]
+    },
+    "T27": {
+      "id": "T27",
+      "label": "QUESTION",
+      "span": [
+        288,
+        289
+      ],
+      "sentence": [
+        "Uh, so?"
+      ]
+    },
+    "T28": {
+      "id": "T28",
+      "label": "QUESTION",
+      "span": [
+        290,
+        291
+      ],
+      "sentence": [
+        "Natalie, just curious, do the nodes in after effects have anchor points like illustrator or Photoshop?"
+      ]
+    },
+    "T30": {
+      "id": "T30",
+      "label": "QUESTION",
+      "span": [
+        330,
+        331
+      ],
+      "sentence": [
+        "It it it it it?"
+      ]
+    },
+    "T31": {
+      "id": "T31",
+      "label": "QUESTION",
+      "span": [
+        371,
+        372
+      ],
+      "sentence": [
+        "Although maybe I should go ahead and intersect the mask for the white wall perhaps?"
+      ]
+    },
+    "T32": {
+      "id": "T32",
+      "label": "QUESTION",
+      "span": [
+        377,
+        378
+      ],
+      "sentence": [
+        "Oh, this is this is a piece of Cake Alright?"
+      ]
+    },
+    "T33": {
+      "id": "T33",
+      "label": "QUESTION",
+      "span": [
+        390,
+        391
+      ],
+      "sentence": [
+        "You know you, uh?"
+      ]
+    },
+    "T34": {
+      "id": "T34",
+      "label": "QUESTION",
+      "span": [
+        435,
+        436
+      ],
+      "sentence": [
+        "So Anthony Rights, is it necessary to delete the noted Matthew, drag off the active frame?"
+      ]
+    },
+    "T35": {
+      "id": "T35",
+      "label": "QUESTION",
+      "span": [
+        440,
+        441
+      ],
+      "sentence": [
+        "You know?"
+      ]
+    },
+    "T39": {
+      "id": "T39",
+      "label": "QUESTION",
+      "span": [
+        542,
+        543
+      ],
+      "sentence": [
+        "What are you doing?"
+      ]
+    },
+    "T40": {
+      "id": "T40",
+      "label": "QUESTION",
+      "span": [
+        572,
+        573
+      ],
+      "sentence": [
+        "'cause he loves cats and I said Anthony, what about Ringo?"
+      ]
+    },
+    "T41": {
+      "id": "T41",
+      "label": "QUESTION",
+      "span": [
+        581,
+        582
+      ],
+      "sentence": [
+        "Uh, then Django?"
+      ]
+    },
+    "T42": {
+      "id": "T42",
+      "label": "QUESTION",
+      "span": [
+        587,
+        588
+      ],
+      "sentence": [
+        "Hey, how are you?"
+      ]
+    },
+    "T43": {
+      "id": "T43",
+      "label": "QUESTION",
+      "span": [
+        619,
+        620
+      ],
+      "sentence": [
+        "How do you determine whether or not to add a mask?"
+      ]
+    },
+    "T44": {
+      "id": "T44",
+      "label": "QUESTION",
+      "span": [
+        629,
+        630
+      ],
+      "sentence": [
+        "Knowing How to separate out those shapes an when?"
+      ]
+    },
+    "T45": {
+      "id": "T45",
+      "label": "QUESTION",
+      "span": [
+        640,
+        641
+      ],
+      "sentence": [
+        "All right?"
+      ]
+    },
+    "T46": {
+      "id": "T46",
+      "label": "QUESTION",
+      "span": [
+        646,
+        647
+      ],
+      "sentence": [
+        "Right?"
+      ]
+    },
+    "T47": {
+      "id": "T47",
+      "label": "QUESTION",
+      "span": [
+        689,
+        690
+      ],
+      "sentence": [
+        "All right?"
+      ]
+    },
+    "T48": {
+      "id": "T48",
+      "label": "QUESTION",
+      "span": [
+        696,
+        697
+      ],
+      "sentence": [
+        "Wait, what was that?"
+      ]
+    },
+    "T49": {
+      "id": "T49",
+      "label": "QUESTION",
+      "span": [
+        710,
+        711
+      ],
+      "sentence": [
+        "Is the rest of it is going to be a little simpler?"
+      ]
+    },
+    "T50": {
+      "id": "T50",
+      "label": "QUESTION",
+      "span": [
+        750,
+        751
+      ],
+      "sentence": [
+        "You know what?"
+      ]
+    },
+    "T51": {
+      "id": "T51",
+      "label": "QUESTION",
+      "span": [
+        775,
+        776
+      ],
+      "sentence": [
+        "Uh, which happened at the same time as your online class?"
+      ]
+    },
+    "T52": {
+      "id": "T52",
+      "label": "QUESTION",
+      "span": [
+        783,
+        784
+      ],
+      "sentence": [
+        "Why it endures?"
+      ]
+    },
+    "T53": {
+      "id": "T53",
+      "label": "QUESTION",
+      "span": [
+        847,
+        848
+      ],
+      "sentence": [
+        "As to what I'm doing?"
+      ]
+    },
+    "T54": {
+      "id": "T54",
+      "label": "QUESTION",
+      "span": [
+        870,
+        871
+      ],
+      "sentence": [
+        "And they are all friends who?"
+      ]
+    },
+    "T55": {
+      "id": "T55",
+      "label": "QUESTION",
+      "span": [
+        871,
+        872
+      ],
+      "sentence": [
+        "Which is the?"
+      ]
+    },
+    "T56": {
+      "id": "T56",
+      "label": "QUESTION",
+      "span": [
+        881,
+        882
+      ],
+      "sentence": [
+        "Does that still exist?"
+      ]
+    },
+    "T57": {
+      "id": "T57",
+      "label": "QUESTION",
+      "span": [
+        883,
+        884
+      ],
+      "sentence": [
+        "So I think it might make a resurgence, you know, depending on whether or not they accept, uhm?"
+      ]
+    },
+    "T58": {
+      "id": "T58",
+      "label": "QUESTION",
+      "span": [
+        936,
+        937
+      ],
+      "sentence": [
+        "Oh Chris Perry right?"
+      ]
+    },
+    "T59": {
+      "id": "T59",
+      "label": "QUESTION",
+      "span": [
+        948,
+        949
+      ],
+      "sentence": [
+        "So strange, why would I think it was months ago?"
+      ]
+    },
+    "T60": {
+      "id": "T60",
+      "label": "QUESTION",
+      "span": [
+        952,
+        953
+      ],
+      "sentence": [
+        "Are you using a tablet?"
+      ]
+    },
+    "T61": {
+      "id": "T61",
+      "label": "QUESTION",
+      "span": [
+        982,
+        983
+      ],
+      "sentence": [
+        "All right?"
+      ]
+    },
+    "T62": {
+      "id": "T62",
+      "label": "QUESTION",
+      "span": [
+        987,
+        988
+      ],
+      "sentence": [
+        "Well, I don't know what time zone it is for you, but I know that, uh?"
+      ]
+    },
+    "T63": {
+      "id": "T63",
+      "label": "QUESTION",
+      "span": [
+        996,
+        997
+      ],
+      "sentence": [
+        "For anybody that's just tuning in that wonders who I'm talking to, my rescue cat, Jeremy, is, uh?"
+      ]
+    },
+    "T64": {
+      "id": "T64",
+      "label": "QUESTION",
+      "span": [
+        998,
+        999
+      ],
+      "sentence": [
+        "I've shown him on the, uh, I showed him in one of the prior broadcasts before, and, uh?"
+      ]
+    },
+    "T65": {
+      "id": "T65",
+      "label": "QUESTION",
+      "span": [
+        1002,
+        1003
+      ],
+      "sentence": [
+        "So Calvin low, right?"
+      ]
+    },
+    "T66": {
+      "id": "T66",
+      "label": "QUESTION",
+      "span": [
+        1015,
+        1016
+      ],
+      "sentence": [
+        "What are you doing?"
+      ]
+    },
+    "T67": {
+      "id": "T67",
+      "label": "QUESTION",
+      "span": [
+        1016,
+        1017
+      ],
+      "sentence": [
+        "Honey, what do you think?"
+      ]
+    },
+    "T68": {
+      "id": "T68",
+      "label": "QUESTION-AFTER-EFFECT",
+      "span": [
+        1066,
+        1067
+      ],
+      "sentence": [
+        "Do you primarily use after effects?"
+      ]
+    },
+    "T69": {
+      "id": "T69",
+      "label": "QUESTION",
+      "span": [
+        1094,
+        1095
+      ],
+      "sentence": [
+        "He just followed before and uh?"
+      ]
+    },
+    "T70": {
+      "id": "T70",
+      "label": "QUESTION",
+      "span": [
+        1096,
+        1097
+      ],
+      "sentence": [
+        "Do you have a YouTube channel where I can learn this from scratch?"
+      ]
+    },
+    "T71": {
+      "id": "T71",
+      "label": "QUESTION",
+      "span": [
+        1106,
+        1107
+      ],
+      "sentence": [
+        "Calvin low right so?"
+      ]
+    },
+    "T72": {
+      "id": "T72",
+      "label": "QUESTION",
+      "span": [
+        1116,
+        1117
+      ],
+      "sentence": [
+        "Well, I guess you're asking how why there's Marvel?"
+      ]
+    },
+    "T73": {
+      "id": "T73",
+      "label": "QUESTION",
+      "span": [
+        1117,
+        1118
+      ],
+      "sentence": [
+        "Of Marvel projects in My Portfolio?"
+      ]
+    },
+    "T74": {
+      "id": "T74",
+      "label": "QUESTION",
+      "span": [
+        1213,
+        1214
+      ],
+      "sentence": [
+        "Yes, uh, that is because I did the complicated task of track matting around the musicians in order to darken the background and add additional effects to Brian, who's the rhythm guitarist over here?"
+      ]
+    },
+    "T75": {
+      "id": "T75",
+      "label": "QUESTION",
+      "span": [
+        1218,
+        1219
+      ],
+      "sentence": [
+        "Uh?"
+      ]
+    },
+    "T76": {
+      "id": "T76",
+      "label": "QUESTION",
+      "span": [
+        1225,
+        1226
+      ],
+      "sentence": [
+        "All right?"
+      ]
+    },
+    "T77": {
+      "id": "T77",
+      "label": "QUESTION",
+      "span": [
+        1229,
+        1230
+      ],
+      "sentence": [
+        "Wonder what preserving luminosity would do?"
+      ]
+    },
+    "T79": {
+      "id": "T79",
+      "label": "ANSWER",
+      "span": [
+        32,
+        33
+      ],
+      "sentence": [
+        "Your talent is amazing."
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION",
+      "span": [
+        57,
+        62
+      ],
+      "sentence": [
+        "So question is, do I go ahead and mask out?",
+        "Or Now I suppose I could do loose masks and then.",
+        "Why not?",
+        "Show up a little bit of the masking process.",
+        "Why not?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "ANSWER",
+      "span": [
+        62,
+        64
+      ],
+      "sentence": [
+        "Could be fun, could be fun.",
+        "Normally I do this ahead of time because it can get time consuming consuming, but in this case I have a simplified process that I can try for this."
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "ANSWER",
+      "span": [
+        196,
+        206
+      ],
+      "sentence": [
+        "So questions are always good.",
+        "K.",
+        "Sounds pretty close.",
+        "It's going to move that down.",
+        "Those in.",
+        "Selected both at the same time.",
+        "Now for this one.",
+        "OK, that is accurately following it, so I guess what I would have to do is move these in.",
+        "So in that case I can actually show that process you were asking about.",
+        "And then just move a couple in."
+      ]
+    },
+    "T80": {
+      "id": "T80",
+      "label": "ANSWER",
+      "span": [
+        229,
+        231
+      ],
+      "sentence": [
+        "OK, so it's sort of following that.",
+        "I'm just going to refine here."
+      ]
+    },
+    "T81": {
+      "id": "T81",
+      "label": "ANSWER",
+      "span": [
+        233,
+        238
+      ],
+      "sentence": [
+        "There is a movement, I saw it.",
+        "Maybe that down.",
+        "Ha there is.",
+        "Gotcha.",
+        "Snook outside the lines."
+      ]
+    },
+    "T82": {
+      "id": "T82",
+      "label": "ANSWER",
+      "span": [
+        262,
+        263
+      ],
+      "sentence": [
+        "It's a little inward, so I'm just going to move him up a little bit."
+      ]
+    },
+    "T83": {
+      "id": "T83",
+      "label": "ANSWER",
+      "span": [
+        283,
+        288
+      ],
+      "sentence": [
+        "I swear I'm trying to click on the math.",
+        "There we go.",
+        "There should be squares in order for you to.",
+        "Play with the.",
+        "The points."
+      ]
+    },
+    "T29": {
+      "id": "T29",
+      "label": "ANSWER",
+      "span": [
+        291,
+        297
+      ],
+      "sentence": [
+        "Oh, you mean like gum like splines?",
+        "Yeah, you can do that.",
+        "You can do them that way.",
+        "I just preferred to keep them linear.",
+        "It's a lot easier to handle when you're doing track matting.",
+        "At least that's what I prefer."
+      ]
+    },
+    "T84": {
+      "id": "T84",
+      "label": "ANSWER",
+      "span": [
+        436,
+        440
+      ],
+      "sentence": [
+        "I do that so there's a start and stop point for where they appear.",
+        "And when they are dragged off the composition, that's when they are not visible, otherwise, if.",
+        "If there left there, it's going to interfere with the visibility of the effects.",
+        "So essentially we're using them just for certain parts and then."
+      ]
+    },
+    "T36": {
+      "id": "T36",
+      "label": "QUESTION",
+      "span": [
+        480,
+        482
+      ],
+      "sentence": [
+        "Looks like there's a question here so Gabriel Rodriguez asked, So what tip would you give to anyone who wants to learn more about motion?",
+        "What to study?"
+      ]
+    },
+    "T37": {
+      "id": "T37",
+      "label": "ANSWER",
+      "span": [
+        482,
+        488
+      ],
+      "sentence": [
+        "That is a very good question.",
+        "The first thing I would do is start with.",
+        "I would look at a couple of resources.",
+        "One of the ones off the top of my head that you can look at is School of motion which is run by a former teacher in the motion design Department at Ringling College of Art and design is which is.",
+        "Where I got my training?",
+        "Uhm, I would look at professionals in the industry based on what part of motion design you want to go into, 'cause it's actually branched out into different sectors."
+      ]
+    },
+    "T38": {
+      "id": "T38",
+      "label": "ANSWER",
+      "span": [
+        544,
+        545
+      ],
+      "sentence": [
+        "I'm keeping score."
+      ]
+    },
+    "T85": {
+      "id": "T85",
+      "label": "ANSWER",
+      "span": [
+        573,
+        575
+      ],
+      "sentence": [
+        "We can leave him.",
+        "Ringo, he's the 4th cat to be adopted."
+      ]
+    },
+    "T86": {
+      "id": "T86",
+      "label": "ANSWER",
+      "span": [
+        620,
+        625
+      ],
+      "sentence": [
+        "I determine that based on complexity of the details in the footage.",
+        "In this case, it's going to be a lot easier for me to make a separate mass just for the hand, because it's got a complicated movement.",
+        "It's moving faster than the rest of his body for one because it strumming the guitar.",
+        "So in order to properly mass that without it being too complicated, you have to make a separate mass just for that.",
+        "It just eases the process."
+      ]
+    },
+    "T87": {
+      "id": "T87",
+      "label": "ANSWER",
+      "span": [
+        697,
+        698
+      ],
+      "sentence": [
+        "So Anthony Carbajal."
+      ]
+    },
+    "T88": {
+      "id": "T88",
+      "label": "ANSWER",
+      "span": [
+        776,
+        777
+      ],
+      "sentence": [
+        "My bad, I hope I hope I'm not too late."
+      ]
+    },
+    "T89": {
+      "id": "T89",
+      "label": "ANSWER",
+      "span": [
+        882,
+        883
+      ],
+      "sentence": [
+        "I would say it does, I mean I know something I know something happened to Kodak, but the impact that Kodak had is still there."
+      ]
+    },
+    "T90": {
+      "id": "T90",
+      "label": "ANSWER",
+      "span": [
+        949,
+        951
+      ],
+      "sentence": [
+        "Time is kind of garden.",
+        "Time has been sort of warped I guess."
+      ]
+    },
+    "T91": {
+      "id": "T91",
+      "label": "ANSWER",
+      "span": [
+        953,
+        956
+      ],
+      "sentence": [
+        "In this case, I'm actually using my.",
+        "I'm using my work station.",
+        "Only occasionally will I use my tablet for something like this, but uh, and I do have one."
+      ]
+    },
+    "T92": {
+      "id": "T92",
+      "label": "ANSWER",
+      "span": [
+        1067,
+        1068
+      ],
+      "sentence": [
+        "I use pretty much all of the Adobe creative suite, the design programs, the animation and film programs."
+      ]
+    },
+    "T93": {
+      "id": "T93",
+      "label": "ANSWER",
+      "span": [
+        1097,
+        1101
+      ],
+      "sentence": [
+        "Um, Long story short, I guess you're asking if I have tutorials on this process.",
+        "If you're looking forward to torreilles, I would suggest looking at School of motion.",
+        "They have an extensive library of resources that you can pull from based on the kind of work that you want to do in motion graphics and compositing.",
+        "I would suggest starting there."
+      ]
+    },
+    "T78": {
+      "id": "T78",
+      "label": "ANSWER",
+      "span": [
+        1230,
+        1232
+      ],
+      "sentence": [
+        "I wondered if, uh, making it lighter and keeping some of the details might, uh?",
+        "Make it look stronger, perhaps."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T1",
+      "answer": "T79",
+      "question_sentence": [
+        "Hello how are you?"
+      ],
+      "answer_sentence": [
+        "Your talent is amazing."
+      ]
+    },
+    "R2": {
+      "id": "R2",
+      "label": "Chitchat",
+      "question": "T5",
+      "answer": "T6",
+      "question_sentence": [
+        "So question is, do I go ahead and mask out?",
+        "Or Now I suppose I could do loose masks and then.",
+        "Why not?",
+        "Show up a little bit of the masking process.",
+        "Why not?"
+      ],
+      "answer_sentence": [
+        "Could be fun, could be fun.",
+        "Normally I do this ahead of time because it can get time consuming consuming, but in this case I have a simplified process that I can try for this."
+      ]
+    },
+    "R3": {
+      "id": "R3",
+      "label": "Chitchat",
+      "question": "T16",
+      "answer": "T7",
+      "question_sentence": [
+        "What you're supposed to do?"
+      ],
+      "answer_sentence": [
+        "So questions are always good.",
+        "K.",
+        "Sounds pretty close.",
+        "It's going to move that down.",
+        "Those in.",
+        "Selected both at the same time.",
+        "Now for this one.",
+        "OK, that is accurately following it, so I guess what I would have to do is move these in.",
+        "So in that case I can actually show that process you were asking about.",
+        "And then just move a couple in."
+      ]
+    },
+    "R4": {
+      "id": "R4",
+      "label": "Chitchat",
+      "question": "T17",
+      "answer": "T80",
+      "question_sentence": [
+        "Right, So what happens here?"
+      ],
+      "answer_sentence": [
+        "OK, so it's sort of following that.",
+        "I'm just going to refine here."
+      ]
+    },
+    "R5": {
+      "id": "R5",
+      "label": "Chitchat",
+      "question": "T19",
+      "answer": "T81",
+      "question_sentence": [
+        "But what happened here?"
+      ],
+      "answer_sentence": [
+        "There is a movement, I saw it.",
+        "Maybe that down.",
+        "Ha there is.",
+        "Gotcha.",
+        "Snook outside the lines."
+      ]
+    },
+    "R6": {
+      "id": "R6",
+      "label": "Chitchat",
+      "question": "T21",
+      "answer": "T82",
+      "question_sentence": [
+        "OK, what's going on with his shoulder?"
+      ],
+      "answer_sentence": [
+        "It's a little inward, so I'm just going to move him up a little bit."
+      ]
+    },
+    "R7": {
+      "id": "R7",
+      "label": "Chitchat",
+      "question": "T26",
+      "answer": "T83",
+      "question_sentence": [
+        "What did I just move?"
+      ],
+      "answer_sentence": [
+        "I swear I'm trying to click on the math.",
+        "There we go.",
+        "There should be squares in order for you to.",
+        "Play with the.",
+        "The points."
+      ]
+    },
+    "R8": {
+      "id": "R8",
+      "label": "Chitchat",
+      "question": "T28",
+      "answer": "T29",
+      "question_sentence": [
+        "Natalie, just curious, do the nodes in after effects have anchor points like illustrator or Photoshop?"
+      ],
+      "answer_sentence": [
+        "Oh, you mean like gum like splines?",
+        "Yeah, you can do that.",
+        "You can do them that way.",
+        "I just preferred to keep them linear.",
+        "It's a lot easier to handle when you're doing track matting.",
+        "At least that's what I prefer."
+      ]
+    },
+    "R9": {
+      "id": "R9",
+      "label": "Chitchat",
+      "question": "T34",
+      "answer": "T84",
+      "question_sentence": [
+        "So Anthony Rights, is it necessary to delete the noted Matthew, drag off the active frame?"
+      ],
+      "answer_sentence": [
+        "I do that so there's a start and stop point for where they appear.",
+        "And when they are dragged off the composition, that's when they are not visible, otherwise, if.",
+        "If there left there, it's going to interfere with the visibility of the effects.",
+        "So essentially we're using them just for certain parts and then."
+      ]
+    },
+    "R10": {
+      "id": "R10",
+      "label": "Chitchat",
+      "question": "T36",
+      "answer": "T37",
+      "question_sentence": [
+        "Looks like there's a question here so Gabriel Rodriguez asked, So what tip would you give to anyone who wants to learn more about motion?",
+        "What to study?"
+      ],
+      "answer_sentence": [
+        "That is a very good question.",
+        "The first thing I would do is start with.",
+        "I would look at a couple of resources.",
+        "One of the ones off the top of my head that you can look at is School of motion which is run by a former teacher in the motion design Department at Ringling College of Art and design is which is.",
+        "Where I got my training?",
+        "Uhm, I would look at professionals in the industry based on what part of motion design you want to go into, 'cause it's actually branched out into different sectors."
+      ]
+    },
+    "R11": {
+      "id": "R11",
+      "label": "Chitchat",
+      "question": "T39",
+      "answer": "T38",
+      "question_sentence": [
+        "What are you doing?"
+      ],
+      "answer_sentence": [
+        "I'm keeping score."
+      ]
+    },
+    "R12": {
+      "id": "R12",
+      "label": "Chitchat",
+      "question": "T40",
+      "answer": "T85",
+      "question_sentence": [
+        "'cause he loves cats and I said Anthony, what about Ringo?"
+      ],
+      "answer_sentence": [
+        "We can leave him.",
+        "Ringo, he's the 4th cat to be adopted."
+      ]
+    },
+    "R13": {
+      "id": "R13",
+      "label": "Chitchat",
+      "question": "T43",
+      "answer": "T86",
+      "question_sentence": [
+        "How do you determine whether or not to add a mask?"
+      ],
+      "answer_sentence": [
+        "I determine that based on complexity of the details in the footage.",
+        "In this case, it's going to be a lot easier for me to make a separate mass just for the hand, because it's got a complicated movement.",
+        "It's moving faster than the rest of his body for one because it strumming the guitar.",
+        "So in order to properly mass that without it being too complicated, you have to make a separate mass just for that.",
+        "It just eases the process."
+      ]
+    },
+    "R14": {
+      "id": "R14",
+      "label": "Chitchat",
+      "question": "T48",
+      "answer": "T87",
+      "question_sentence": [
+        "Wait, what was that?"
+      ],
+      "answer_sentence": [
+        "So Anthony Carbajal."
+      ]
+    },
+    "R15": {
+      "id": "R15",
+      "label": "Chitchat",
+      "question": "T51",
+      "answer": "T88",
+      "question_sentence": [
+        "Uh, which happened at the same time as your online class?"
+      ],
+      "answer_sentence": [
+        "My bad, I hope I hope I'm not too late."
+      ]
+    },
+    "R16": {
+      "id": "R16",
+      "label": "Chitchat",
+      "question": "T56",
+      "answer": "T89",
+      "question_sentence": [
+        "Does that still exist?"
+      ],
+      "answer_sentence": [
+        "I would say it does, I mean I know something I know something happened to Kodak, but the impact that Kodak had is still there."
+      ]
+    },
+    "R17": {
+      "id": "R17",
+      "label": "Chitchat",
+      "question": "T59",
+      "answer": "T90",
+      "question_sentence": [
+        "So strange, why would I think it was months ago?"
+      ],
+      "answer_sentence": [
+        "Time is kind of garden.",
+        "Time has been sort of warped I guess."
+      ]
+    },
+    "R18": {
+      "id": "R18",
+      "label": "Chitchat",
+      "question": "T60",
+      "answer": "T91",
+      "question_sentence": [
+        "Are you using a tablet?"
+      ],
+      "answer_sentence": [
+        "In this case, I'm actually using my.",
+        "I'm using my work station.",
+        "Only occasionally will I use my tablet for something like this, but uh, and I do have one."
+      ]
+    },
+    "R19": {
+      "id": "R19",
+      "label": "Chitchat",
+      "question": "T68",
+      "answer": "T92",
+      "question_sentence": [
+        "Do you primarily use after effects?"
+      ],
+      "answer_sentence": [
+        "I use pretty much all of the Adobe creative suite, the design programs, the animation and film programs."
+      ]
+    },
+    "R20": {
+      "id": "R20",
+      "label": "Chitchat",
+      "question": "T70",
+      "answer": "T93",
+      "question_sentence": [
+        "Do you have a YouTube channel where I can learn this from scratch?"
+      ],
+      "answer_sentence": [
+        "Um, Long story short, I guess you're asking if I have tutorials on this process.",
+        "If you're looking forward to torreilles, I would suggest looking at School of motion.",
+        "They have an extensive library of resources that you can pull from based on the kind of work that you want to do in motion graphics and compositing.",
+        "I would suggest starting there."
+      ]
+    },
+    "R21": {
+      "id": "R21",
+      "label": "Chitchat",
+      "question": "T77",
+      "answer": "T78",
+      "question_sentence": [
+        "Wonder what preserving luminosity would do?"
+      ],
+      "answer_sentence": [
+        "I wondered if, uh, making it lighter and keeping some of the details might, uh?",
+        "Make it look stronger, perhaps."
+      ]
+    }
+  }
+}

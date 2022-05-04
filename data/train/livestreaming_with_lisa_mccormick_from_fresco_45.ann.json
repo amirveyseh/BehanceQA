@@ -1,0 +1,166 @@
+{
+  "sentence": [
+    "But it's fun to see I guess.",
+    "Adding the color and, but I just um.",
+    "So get up, we need to tweak things.",
+    "Marta to make sure that everything up.",
+    "Feels look a little bit better 'cause I feel like two with color like.",
+    "It's so like you just have to kind of feel it out and play with play with color and where you layout everything because.",
+    "Sounds like if you're not careful it then.",
+    "Things can feel really cheesy, I guess, um, at least for me.",
+    "I feel like my work starts looking cheesy and I don't want that, so I know it looked at 737 uhm.",
+    "Might have to work on this.",
+    "A little bit more during the week too.",
+    "To just kind of keep playing with stuff, but um.",
+    "Alright, So what do we have left we have?",
+    "These birds at the bottom.",
+    "So I think I wanna.",
+    "Blue that in.",
+    "And.",
+    "Think of my actually.",
+    "Mess with the font colors.",
+    "Um?",
+    "Over here for this one, A change is going to come as well as let hope rise.",
+    "Let's see what that could look like.",
+    "So like I do like this in Black 'cause it's just like A.",
+    "Such a good graphic like.",
+    "Geometric symbol, so I feel like that kind of looks cool just like Super simplified.",
+    "Um?",
+    "Man for this piece.",
+    "The color better.",
+    "Or the gold better?",
+    "It's kind of.",
+    "Heard to decide.",
+    "I'm actually like it, big.",
+    "OK, I feel like I don't love the color and the bird one, but I do like it in the UM.",
+    "Mountain landscape on.",
+    "For kids, maybe I just need to like.",
+    "Not have this is like a.",
+    "Oh, I wonder actually.",
+    "OK.",
+    "I wonder if I can make the.",
+    "A different color like a darker blue.",
+    "And just let that.",
+    "Let that be that.",
+    "Kind of works.",
+    "Then I kind of feel like I have to do that.",
+    "I would have to do the same thing for the.",
+    "Landscape.",
+    "One which I don't.",
+    "I don't know if that would work as well.",
+    "I guess I should just try it.",
+    "You never know till you till you try.",
+    "OK so I will duplicate that save that.",
+    "Um?",
+    "Mask.",
+    "Alright, see.",
+    "The.",
+    "Looks OK.",
+    "Huh, you know?",
+    "That's actually kinda cool.",
+    "Let's say I wasn't that confident that it would look cool, but that actually.",
+    "Yeah, kinda like that.",
+    "Um?",
+    "Just move this over and.",
+    "Hide it.",
+    "OK, so you know what I'm gonna.",
+    "Go on forward, then with.",
+    "But these guys, I think.",
+    "And.",
+    "Move him over a little bit.",
+    "Cool alright.",
+    "So it looks like just a white background Buffalo kind of cool yellow background who actually in dig in that?",
+    "Something about that Navy just feels so much softer.",
+    "Wow, this is this is fun.",
+    "Cool, alright, well let's see what time is it?",
+    "7 Seven 58 over here so I've got about 20 more minutes and I have this other sketch that let's see.",
+    "Cold in.",
+    "And like this funky tree.",
+    "It is, uhm?",
+    "The I mean that kind of that feels like that goes along with the themes different things we're working with, uhm?",
+    "Me.",
+    "Make it smaller, so I've got this.",
+    "Although the only thing about this one is I don't really see how I can make it like multi color.",
+    "I'm kind of just picturing it as like almost more of like a silhouette.",
+    "Um, just you know, like it would just be like that Navy.",
+    "Blew up.",
+    "Which is cool, but.",
+    "I don't know if.",
+    "It's necessarily enough.",
+    "That person feels like a stranger just was kind to them.",
+    "They might then be inclined to be kind to the next stranger they meet and so on, so.",
+    "Everything I do really does have.",
+    "Have a deeper purpose to it, even though it looks like I might just be drawn.",
+    "Mountains and doodling trees, I really do believe that.",
+    "That these little simple things can.",
+    "Can hopefully help.",
+    "Someone come?",
+    "Even just for a moment or two, it's kind of have a.",
+    "Have a break from whatever her thing there facing.",
+    "Anyway, all that to say is, uhm.",
+    "Yeah, just remember to be kind and.",
+    "Something that I recently.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        12,
+        13
+      ],
+      "sentence": [
+        "Alright, So what do we have left we have?"
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        72,
+        73
+      ],
+      "sentence": [
+        "Cool, alright, well let's see what time is it?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        27,
+        29
+      ],
+      "sentence": [
+        "The color better.",
+        "Or the gold better?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "ANSWER",
+      "span": [
+        73,
+        74
+      ],
+      "sentence": [
+        "7 Seven 58 over here so I've got about 20 more minutes and I have this other sketch that let's see."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T8",
+      "answer": "T2",
+      "question_sentence": [
+        "Cool, alright, well let's see what time is it?"
+      ],
+      "answer_sentence": [
+        "7 Seven 58 over here so I've got about 20 more minutes and I have this other sketch that let's see."
+      ]
+    }
+  }
+}

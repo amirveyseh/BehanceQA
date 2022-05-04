@@ -1,0 +1,209 @@
+{
+  "sentence": [
+    "Oh dude, same.",
+    "I have set fire to so many pancakes.",
+    "I learn how to bake pizza.",
+    "Dude.",
+    "Uh.",
+    "Oh, nice nice.",
+    "That would be nice to learn.",
+    "There's what is it?",
+    "There's this Japanese dish.",
+    "It's called, it's called.",
+    "I'm going to say it wrong.",
+    "Okonomiyaki And it translates to as you like it, so you literally.",
+    "It's what is it?",
+    "It's.",
+    "Batter cabbage Um?",
+    "Uh tonkotsu, it's pork like like pork belly slices, almost like bacon slices and a bunch of other things an like Oh my God just watching videos of it being made.",
+    "It just looks so delicious.",
+    "Bingeing with Babish did a thing about it.",
+    "Yucky.",
+    "The.",
+    "Link address.",
+    "He does a little thing I love bingeing with babish.",
+    "I watch his stuff all the time, but.",
+    "I don't know what it is about this meal, but it looks so delicious and I'm just like Mama.",
+    "We need to make this.",
+    "It's insane how delicious it looks.",
+    "Sorry that that explosion really scared me.",
+    "It felt like someone tried to run into the door of my house.",
+    "Sorry that one really got me.",
+    "So that's, uh.",
+    "Yeah.",
+    "Like it that explosion?",
+    "I don't know if you guys heard it but it it shook my house.",
+    "It felt like someone closing the door.",
+    "We're coming in the House and I'm like Alright.",
+    "So we come in my house time to die.",
+    "Alright, I'm good.",
+    "Discuss poo kid.",
+    "Lookbook ified All right, we're going to finish this line right here or so help me God.",
+    "So help me God.",
+    "There we are.",
+    "Up wrong way.",
+    "I want it smaller.",
+    "Not that funny Jesus.",
+    "This is going to be like this for the next like.",
+    "Week and a half at least.",
+    "I swear I think I had a past life or something where I was in a war or something, 'cause every time I hear a pop or Bing I'm like.",
+    "I fight every urge to just Sprint out of this house and run for my life.",
+    "It's so weird.",
+    "The eyes on live streaming.",
+    "Oh, it'll be somebody dying.",
+    "I I definitely do not go down without a fight.",
+    "I don't know.",
+    "I don't want to lose steam yet, come on.",
+    "I think this is the longest I've ever streamed.",
+    "But I feel good like I'm I'm excited.",
+    "I'm really excited that you guys are all here.",
+    "You guys are definitely keeping me pumped right now and I really appreciate it.",
+    "I'm just going to do what I did with this I just got.",
+    "I'm going to.",
+    "I'm going to.",
+    "2.",
+    "How to draw the eyebrow though 'cause she's got the crazy thick eyebrows?",
+    "I like my eyebrows like I like my pancakes soup.",
+    "Do do do do, do do do.",
+    "I'm having a great time.",
+    "Oh yeah, so exciting.",
+    "Now you guys, are you guys are amazing.",
+    "This is honestly one of the best dreams I've ever had.",
+    "And I'm.",
+    "I'm terrified of streaming like.",
+    "You know, for someone who wants to do this is a living.",
+    "Just sitting here I'm like.",
+    "Wake me.",
+    "But this is this is definitely a very positive.",
+    "Moment and I really, really appreciate you guys so much.",
+    "I'm not done yet, but if you guys ever have to leave, well, I'm still on like.",
+    "Don't feel bad.",
+    "No.",
+    "I don't like that knows.",
+    "Hey.",
+    "I'm here, I'm here.",
+    "Can I pull that image backup?",
+    "I really like how certain people drawn noses like.",
+    "When people drawn noses like this, let me see if I can copy it.",
+    "And it like.",
+    "I like comes up like that.",
+    "And they've got like this.",
+    "You know, and then they do they do.",
+    "I like cleaning out of this frame, I'm sorry.",
+    "Like Yeah like that.",
+    "Let me grab that and kind of squish it a little bit though like I love when people draw noses like that.",
+    "I don't know why it's just so cute and charming and I'm like arm look.",
+    "Look at that.",
+    "That's so cute.",
+    "You're a natural talker.",
+    "Are you calling me a chatty Cathy?",
+    "Oh We talked about a lot of different stuff.",
+    "You have a lot of good videos.",
+    "I thank you.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        7,
+        8
+      ],
+      "sentence": [
+        "There's what is it?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        12,
+        13
+      ],
+      "sentence": [
+        "It's what is it?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        14,
+        15
+      ],
+      "sentence": [
+        "Batter cabbage Um?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        31,
+        32
+      ],
+      "sentence": [
+        "Like it that explosion?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION",
+      "span": [
+        62,
+        63
+      ],
+      "sentence": [
+        "How to draw the eyebrow though 'cause she's got the crazy thick eyebrows?"
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION",
+      "span": [
+        82,
+        83
+      ],
+      "sentence": [
+        "Can I pull that image backup?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        96,
+        97
+      ],
+      "sentence": [
+        "Are you calling me a chatty Cathy?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "ANSWER",
+      "span": [
+        8,
+        9
+      ],
+      "sentence": [
+        "There's this Japanese dish."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T0",
+      "answer": "T7",
+      "question_sentence": [
+        "There's what is it?"
+      ],
+      "answer_sentence": [
+        "There's this Japanese dish."
+      ]
+    }
+  }
+}

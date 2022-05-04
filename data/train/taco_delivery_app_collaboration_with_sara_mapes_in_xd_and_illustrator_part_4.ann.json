@@ -1,0 +1,1884 @@
+{
+  "sentence": [
+    "Hello everybody, welcome back.",
+    "I am Jack.",
+    "I am joined today by Sarah makes we are going to be working on the Taco app again Taco Tuesday so let me know in the chat if you guys can hear and see me and Sarah Sarah die.",
+    "Make sure that everybody can hear and see us.",
+    "We are working on Taco Tuesday, so on Jack I am a UI UX designer who also does simulation animation.",
+    "Donut kinda sore.",
+    "All of the things we're working on.",
+    "Taco apps there and I started this while back then.",
+    "Doing this is our third 4th stream working on Taco Tuesday, so we're going to hopefully rap it up today.",
+    "Sarah makes and I have been working together for a number of years now.",
+    "We just work as coworkers together.",
+    "She is an incredible animator and illustrator menu.",
+    "They know her from the illustrator discord, 'cause she's been a part of the illustrator DCS before so.",
+    "I think she got some work up on the screen if there if you want to make it away and introduce yourself and what you do.",
+    "Camera.",
+    "Would you say?",
+    "You want to switch to the people see your face.",
+    "So you're saying You can't?",
+    "Don't worry about it, worry about so my work remember what we did last time.",
+    "I'm sorry I have.",
+    "I'm an illustrator animator.",
+    "An Jackie has pretty much taught me everything I know about illustrator.",
+    "And it's in my work.",
+    "Yeah, I've got some links to Taras.",
+    "I got like 6 arrows instead of your hands in the description for this video.",
+    "I've also got legs to yell in Turpin, whose music you should hear in the background.",
+    "He less mainstream his music in the background so you guys have to sit here and watch us work in silence.",
+    "Although we're not going to be working in silence today 'cause There's two of us, so that's exciting.",
+    "But yeah, Sarah, this is some of the working some work from the DC sees some personal work, assistant fanart stairs going to be joining us.",
+    "A streaming out start.",
+    "She's gonna start streaming on the hands on her own so keep an eye out in the future for Sarah's dreams.",
+    "If you go and follow her on the hands, you'll get notified when she goes live, so you'll be able to hang out with her as well so.",
+    "That's it, I think.",
+    "He'll be fine.",
+    "On the sale of some people have gotten the chat.",
+    "We've got brand band.",
+    "I love that name.",
+    "When is that?",
+    "What do you guys do brand band?",
+    "Uh Ryan marches here, how are you?",
+    "How's it going?",
+    "Ryan, so glad you could join us Ryan, another amazing illustrated go check out his work.",
+    "Think our TV is here.",
+    "How's it going in car TV?",
+    "The real you?",
+    "Finally, you finally got back into your account.",
+    "What happened to here on the couch?",
+    "Anyways, um, so we are working on Taco Tuesday.",
+    "I've got the uh XT file open is this is a Taco delivery app that Saturday I'm working on.",
+    "She's got a brand new document up on her screen in illustrator.",
+    "I got the XP file.",
+    "We are using Co editing if they'll be XT to work together, she can just drag and drop files for copy and paste files from illustrator right into this document for me to pull into the design.",
+    "She can come here anytime and edit any part of this document.",
+    "She can start typing or Dragons around and I'll see her move things and he's talking it.",
+    "Fighting is super useful when you need him.",
+    "You need to have like 2 designers in a file at the same time.",
+    "Kobe Sear too high Kobe.",
+    "How's it going?",
+    "So yeah, uh, we use it to work between her.",
+    "You doing all of the kind of branding and art elements and I'm doing with design so.",
+    "That is what we are doing.",
+    "Uh, let us know if you have any questions.",
+    "Uh, I think we're pretty far along in this process.",
+    "I'm going to go ahead and hit play on this.",
+    "You guys can see what we got going on course.",
+    "It's full screen, so it's going to.",
+    "Do the thing.",
+    "At that.",
+    "There we go.",
+    "OK, so we got our.",
+    "Main sort of page singing.",
+    "Lord of the Afghan roll tacos.",
+    "Address search.",
+    "Colored locations by you, um, things we need to work on our connecting this map screen to the different take out.",
+    "Delivery menu On screen here and then just check out screen.",
+    "We need it.",
+    "We basically do connect everything together because the last time that we worked on this we work primarily on this little.",
+    "Delivery sequences are chords here, so the little delivery map.",
+    "That traces the line and then transitions over that.",
+    "There's a little bike.",
+    "Little Bell Sound.",
+    "I don't know if you guys can hear that the last time that we tried to play that for you all.",
+    "Broke The audio in my stream so.",
+    "Yeah, so all gone.",
+    "Got some older people alone.",
+    "Join Sic, shared in another another streamer so you got Colby's shared in both.",
+    "Also launching bonding and so I've got a full House today.",
+    "So I think we've got a couple more icons for Sarah to wrap up.",
+    "I gotta couple that.",
+    "I need to pull in mostly the sort of back buttons and check out buttons here and I'm going to work on just kind of wiring all this stuff up together.",
+    "Place I've got is pretty well thought out.",
+    "We're not going to go all the way with this and make this like a complete.",
+    "A completely flushed out kind of AB or just kind of doing a minimum viable product here and then.",
+    "BP, which is this map, the menu and the check out process for Taco delivery company called properties.",
+    "So also to give a shout or Ryan who suggested that we use this yellow circles tortilla, which was really an idea.",
+    "So Ryan if you got any other brilliant suggestion was no.",
+    "Sharon saying, it's my first time visiting your stream.",
+    "Jeff Watson had been made himself into just keep missing yet yeah, that happens.",
+    "I feel like I missed a lot of streams of it like I just I don't know or I'll catch.",
+    "I have this terrible tendency to catch Ryan like in the last 15 minutes of his live stream.",
+    "It's a yeah.",
+    "I don't know.",
+    "I have terrible luck catching people when they're going right so.",
+    "I cannot wait.",
+    "Sorry Sir, I'm just like talking away.",
+    "If you have anything you wanna talk about what you're doing over there on your screen, let me know.",
+    "Huh?",
+    "Well, not really doing anything yet, but kind of just a quick like re introduction of everything that we had.",
+    "We did like a sample artstyle we came up with some icons for the different categories for the menu that we made.",
+    "We came up with the spicy meter.",
+    "I don't remember who suggestions a little Peppers were but I think we went with that.",
+    "And we have a checkout icon are back button and we need to finish these topics.",
+    "So I'll be tackling those first today.",
+    "If you when you get a chance if you could throw the I don't think I have an XT file.",
+    "The back button or the.",
+    "How do I do?",
+    "OK, and I'm right here.",
+    "I just wasn't over far enough to see.",
+    "You guys.",
+    "Perfect this is IRA work in that I don't remember.",
+    "Is it thick enough.",
+    "We'll see I could always just full line waiting next uses it keeps the stroke weights from it.",
+    "Keeps the path this strokes so I can actually adjust it if I need too.",
+    "PST file when I scale everything down so.",
+    "Should be good, but now we have that issue at first.",
+    "Think the inside strokes for cheese stick and everything was kind of blending together on these.",
+    "Yeah, I dropped those.",
+    "Yeah so I had dropped those down.",
+    "You can see that little one.",
+    "I think the inside line weights we made like 25 or something like that.",
+    "Stop.",
+    "You tell me at .5.",
+    "So.",
+    "I mean, we kind of Lucky Arrow to be heavier anyways, 'cause won't be able to see it.",
+    "So yeah, I figured.",
+    "Popeye's chicken last time.",
+    "Start Margaritas involved.",
+    "We would.",
+    "Did you drink the lottery last night?",
+    "The last time that we stream together with, I think so yeah, the last time that we string together I would have heard it was like immediately following.",
+    "He recovering from that awful like sinus infection that tried to take out my eye so.",
+    "I did I remember distinctly not having a marketing that for that reason.",
+    "This.",
+    "Maybe it's not Margarita.",
+    "What?",
+    "I said I think I needed that Margarita last time.",
+    "Yeah, well I have.",
+    "And they will know by now.",
+    "Thank you Bryan.",
+    "Even a Margarita 2 but occasion right that was the problem is I was so recovering from that.",
+    "So I do not have a board meeting that I could have a Margarita today.",
+    "But I, uh, we have to go make that and I'm currently working on this app on.",
+    "Hum.",
+    "He answered.",
+    "We could turn this into a cooking live stream and I keep on making more than anything.",
+    "Make apps about food majors.",
+    "Make the food or the drinks in this case.",
+    "I feel like I need to just make a disclaimer that not everything that I make is food really.",
+    "Although a lot of things that make our food related, because if it's a personal project, I mean what like issues.",
+    "Why not?",
+    "We're not making about food.",
+    "Flight delayed.",
+    "Have an agreement.",
+    "I love food.",
+    "So much.",
+    "Not something wrong spot yet.",
+    "I used the wrong icon.",
+    "That's OK, I can still.",
+    "Nothing happened.",
+    "Since then, go over here with this.",
+    "Just scale is one down.",
+    "Or carts.",
+    "Papa card here on the radio and I don't know how many of you guys are celebrating the 4th of July.",
+    "These are all hanging out here with us.",
+    "Let me know when the chats anybody's got any.",
+    "Maybe a 4th of July plans?",
+    "Here in Ohio I know how it is by Sarah, but they were already.",
+    "They have been lighting off fireworks here like all week, so.",
+    "To life at all what?",
+    "Head of we live in an apartment, so there's not really anywhere to light them off.",
+    "Would be surprised.",
+    "People are, uh.",
+    "I know what the word is, something for crashing it.",
+    "Life finds a way to quote A Jurassic Park.",
+    "People find a way.",
+    "Save you.",
+    "Colby, I'm surprised that you're hanging out here.",
+    "I thought you were out camping.",
+    "So it and enjoying the.",
+    "I'll join the Woods forever in there.",
+    "Alright, OK.",
+    "Turn up What?",
+    "Maybe he's had enough of the outdoors.",
+    "Yeah.",
+    "Nick, nice to see your neck is selling fireworks are find away.",
+    "Yeah I mean Yeah.",
+    "They're not.",
+    "Then so I don't know.",
+    "For those of you who are not, uh.",
+    "Who is joining us from other countries?",
+    "Or other states Ohio is.",
+    "Oh, weird, states that the.",
+    "It's so you can.",
+    "You can buy fireworks in Ohio, but technically not shoot them off so so it's totally legal, is totally legal to go out and buy them like you could sell and buy fireworks in Ohio, but don't use them.",
+    "'cause that's illegal.",
+    "It's very strange rules, so I know I don't really understand it, but.",
+    "Well, that's Ohio, you can buy them, but I guess you're supposed to put it on the shelf and look at them.",
+    "So.",
+    "Kobe saying yeah camped out in the sand dunes in Colorado.",
+    "I got back yesterday afternoon.",
+    "Less fun yet.",
+    "Colorado is a weird weird stating that you have everything from like.",
+    "The fastest method first range you have everything from like mountains and snow all the way down to like desserts.",
+    "Oh my gosh that stuff so.",
+    "She will chat, chat, chat and children saying I like the music is really cute.",
+    "Yeah shared and if you like the music go to Scroll down here by the description.",
+    "Oh my.",
+    "I'm a mouse disconnecting.",
+    "It's still something very strange about labeling.",
+    "Might just have to meet up there we go, got it back.",
+    "Yes, you like the music, that's a friend of mine.",
+    "You will enter pin.",
+    "We actually did a stream a working on his album art for one of my live streams.",
+    "He is a Super Great Guy and he let's me stream his music while I work.",
+    "So so give him a some support.",
+    "Go check it out on stuff he's on all the places.",
+    "Spotify, SoundCloud, whatever your music.",
+    "Service choices his property yet?",
+    "Telephone, yeah.",
+    "Want to be the father and so never say that they are as bad as I thought they would be.",
+    "Yeah, the fireworks are not as bad as you thought they would be.",
+    "Ohio's fireworks.",
+    "Better be wall direction decorations son yet doesn't make any sense.",
+    "Yeah, I was so make any sense.",
+    "Change is asking Colby.",
+    "Did you like this and you know we said yeah they were awesome.",
+    "I just wish it was a new moon so I could see more stars.",
+    "Yeah, isn't that like a solar eclipse is like there's an eclipse today right here this weekend.",
+    "Anybody know?",
+    "I feel like I should know since I just got through like that whole soon as this space stuff but.",
+    "I feel like this technology now, but yeah, I think it was just a.",
+    "An eclipse this people.",
+    "Maybe what?",
+    "Something about that on Facebook, yeah?",
+    "So Nikki saying the lunar eclipse tonight.",
+    "Yeah, I thought there was something you keep.",
+    "I don't know if it's picking up right away like your text your top.",
+    "Speak to talk thing, whatever, but it's OK.",
+    "It's not like possibly keeping in right away.",
+    "So I left these circles in the background like the original circles I just changed.",
+    "I just dropped the color and Opacity on there too, so they're invisible.",
+    "But I want to use them basically as if it blocks for.",
+    "Done.",
+    "These icons that when you tap you can.",
+    "Um?",
+    "Tap anywhere in this circle that you can't see it.",
+    "Then it should respond.",
+    "Papa It's a good idea.",
+    "Did we ever figure out the highlight things from last time where we like talking about making these highlight or something?",
+    "Highlight, yeah, right, I was talking about the.",
+    "Not necessarily the.",
+    "Icons, but the UM.",
+    "We were talking about the location markers.",
+    "Uh.",
+    "For like to indicate which one of the.",
+    "Which I wanted to use the selected here I'm saying.",
+    "Uh, so like down the Maps from map markers, whichever one is selected.",
+    "So basically we just need like to figure out a style for like a selected states or icons.",
+    "I don't know if that will come into play with any of the other ones.",
+    "For the, for example the.",
+    "Aw words hard, deep, the ad or remove Um Taco.",
+    "Sort of.",
+    "Button that I have that like changes the numbers changes from like just line to like the Dark.",
+    "Phil, that's the way that I handled that but.",
+    "This unknown we did not cover the style from the.",
+    "Selection.",
+    "Select it up so.",
+    "Got it, I couldn't remember.",
+    "The last time.",
+    "I know it's been awhile since I've looked on yourself.",
+    "So.",
+    "No control along with.",
+    "Also that are nothing to you being here.",
+    "Why is Messenger text box?",
+    "Why?",
+    "900 Oh yeah.",
+    "Please.",
+    "How do you say girl in Fort Collins for the summer?",
+    "Very cool.",
+    "Sure did say Yama, Colorado danger and fork over and say we should meet up.",
+    "Are not Co bed.",
+    "They just did like a whole.",
+    "No.",
+    "Phone.",
+    "Oh, I see.",
+    "Sorry, I'm just my I'm just trying to figure out where this.",
+    "Thing that was named Chuck out was located on the screen.",
+    "I thought maybe I'd copied the icons over.",
+    "I was going to say something.",
+    "It's always keep my mind.",
+    "Covid related yeah, and I don't remember what it was I like.",
+    "Had some point I was gonna make like completely these operating out of my brain so.",
+    "Oops, I'm wondering if we.",
+    "What if I should change the icon style for this map?",
+    "Markets would be the broken line style that we use.",
+    "Things other than markers.",
+    "Now guys keep on the actual.",
+    "Paige would rather not markers.",
+    "The little pins, yeah.",
+    "Themselves.",
+    "One time, like change the solid white one to the line.",
+    "Sorry, yes.",
+    "Version.",
+    "I'll make sure I have all boys.",
+    "What time is it?",
+    "Hey Steven, how's it going?",
+    "Understand evening of 'cause you're OK.",
+    "Eating there.",
+    "Hurting her, if I remember correctly.",
+    "I believe.",
+    "What can you do?",
+    "What size and height?",
+    "Anybody have any questions for either Sarah or I only say to ask?",
+    "Want us to answer one about what we're doing?",
+    "Uh, as conveniently we possibly can.",
+    "I was just gonna say I will Babble their major answer how it be sometimes.",
+    "I totally know what I'm doing.",
+    "I used illustrator every day of my life.",
+    "But you do.",
+    "We do that I do.",
+    "Oh Well this is not.",
+    "Yeah, I guess it is close to the same size.",
+    "Sweet.",
+    "I don't know if anyone else can tell, but I can tell I'm lagging.",
+    "Like my illustrator is slightly.",
+    "It doesn't look like it's lagging, so I apologize when I can see from here from my screen, but it might be lagging for you.",
+    "I've had that happen before were like.",
+    "It doesn't visually look like it's lagging, but you can feel like it's not.",
+    "Not moving as fast.",
+    "I like it hot upon since been a slow being all day today, yeah.",
+    "Yeah, it's not I'm looking at.",
+    "I'm watching you work now and I don't really see much of a lag on our end.",
+    "It just might be.",
+    "I've had that happen before when, especially when I'm using the same peak in illustrator.",
+    "It like will.",
+    "Uh, last behind the path that I'm drawing.",
+    "I don't work that way to everybody on the live stream, but it will like I can feel it but it.",
+    "Yeah, I can definitely feel lagging.",
+    "I feel like every time I select something it like it takes the 2nd.",
+    "It's not like super distracting.",
+    "It's just weird.",
+    "Hindering I should say.",
+    "Yeah.",
+    "Alright, well I wow.",
+    "When I got the funds for it out, now I wanted to figure out the state I want to use for the active.",
+    "The inferences active state for the map markers.",
+    "He may have suggestions, the place I left this at the last time and I remember like not being unsure about how I wanted to handle it.",
+    "Where I left off.",
+    "At last time essentially was the.",
+    "Which I had.",
+    "With these little circles behind it, and I'm not sure that that's the right way to go about handling it, I would need to make up.",
+    "We need to make that clear that like this is the icon for the the location that is selected in some way.",
+    "So we've got this yellow one.",
+    "Maybe there's a couple of things you hear that this yellow one which is supposed to represent.",
+    "Or location and then the blue ones are representing the restaurants and then the dots behind.",
+    "We added sort of as a temporary solution for highlighting the rush up and you have selected.",
+    "I like the idea of Talian this little circles.",
+    "Maybe it's just a matter of changing with colors so that the blue is the one that represents.",
+    "Um, your location and yellow 'cause the yellow would match the tortilla color.",
+    "Then you still have to figure out how to handle the fact of steak sauce.",
+    "Huh?",
+    "I feel like this is where we got stuck last time, right?",
+    "Yeah, and it's just I don't want to go ahead and like I'm like why are up these screens until I figure out what these if I need to like reset these icons, change them.",
+    "No.",
+    "Steven's saying can't help your laggy audience and slightly choppy.",
+    "My audio hours.",
+    "Sarah's audio.",
+    "Colby, for some reason, whenever anybody tag your name in the chat on getting well like MoD approval, warning that they need to approve your any messages with, I don't know what's happening.",
+    "Might that might be something we need to ask the.",
+    "So my group about 'cause That's very strange that everything tagged with her name is getting flagged.",
+    "Say your audio is choppy.",
+    "Audience mean.",
+    "Unknown.",
+    "I never knew that.",
+    "Are you hard wired with the Internet?",
+    "All you did not do that yet.",
+    "I have not done that yet.",
+    "'cause I moved for my desk.",
+    "It's so perhaps.",
+    "That might be the problem, yeah?",
+    "I was not hard.",
+    "But OSC, however it was not hard wired in last time either.",
+    "Interstate saying this, I'm going to have to figure out.",
+    "Yeah.",
+    "7 to say that my audio is good, so uh, no must be.",
+    "It's either your headset or your or possibly or.",
+    "It's the Internet because My Internet just randomly kicks me sometimes at like.",
+    "9:10 o'clock at night it just keeps disconnecting me so.",
+    "Possibly.",
+    "Right in saying, could you put the little running Taco medical selected marker?",
+    "Then let me choose a different location.",
+    "He appears there, indicating that's the one you selected.",
+    "Yeah, we need.",
+    "We definitely need some way.",
+    "I'm just like I'm wondering if there's a way to tie it into the I guess that would work.",
+    "Taco man is made out of Global Tortilla Shell and so that would kind of visually play it back to the.",
+    "Tortilla shell containing all the information at the bottom, so maybe we could use and I like Bull Taco man so that we could add that next to the little icon to indicate that's the one that we because we don't have our little talks about on the screen anywhere so.",
+    "Let's see a.",
+    "My only concern is, uh, just the size of the line work.",
+    "If I get kind of cramps.",
+    "Too small.",
+    "So I'm only active state.",
+    "I made this button that components so there's an active state tap on it so.",
+    "Should just work as expected.",
+    "So yeah, I might have to change the line weights because it's gonna get a little bit.",
+    "Squishy That's too small.",
+    "What?",
+    "There always seemed strange trees.",
+    "Cheese Not rolica block of cheese or something.",
+    "I don't know how to show that.",
+    "Yes, I was thinking is like a cheese wedge or something, you know.",
+    "Yeah, maybe we get rid of the Little Circle Bubbles and which is like is there a way to put him behind?",
+    "Um?",
+    "Oh, I did nothing so much stuff, yeah?",
+    "He can.",
+    "Musically.",
+    "Just in front of the iPhone.",
+    "Cause like my.",
+    "Add a keyboard ever like external keyboard over here and it keeps like Act he accidentally hitting the keyboard shortcuts.",
+    "Right?",
+    "The Skype is trouble, this one right here.",
+    "It's like keeps activating windows sliding over there so I can stop asking it.",
+    "It's great when I had my since week so I can use the keyboard without having.",
+    "See I love each other things, but it also is kind of problematic when it's sitting right here.",
+    "I am I'm having illustrator struggles today.",
+    "It's me.",
+    "And I restarted before the stream, so that way everything was like fresh so I don't know.",
+    "I don't know, I just gotta write down broke it.",
+    "I don't know.",
+    "I got a random pop up, those working about like air.",
+    "It seems to result Celica.",
+    "Brad Marsh, saying he had arms, he could have held the marker in the Air Force notes in his arm was would you like stick it in it like I like speaking out of the you have it like sticking out of the Taco shell like before.",
+    "I could do that.",
+    "Evanesce Little Head Yeah.",
+    "I could switch to doing that, or I could finish this tweet.",
+    "Cheese were into hard tweeze.",
+    "Why not will have it sticking out of his head and starting at afford going?",
+    "He got his head so.",
+    "What's that?",
+    "Not marker.",
+    "Right?",
+    "Z.",
+    "Awesome things up.",
+    "The chat is really all for uh.",
+    "With the Taco man getting him.",
+    "Yeah, Steven is saying impale him like.",
+    "No.",
+    "I'm just watching what's happening on your screen right now.",
+    "I don't know.",
+    "I don't know if that works.",
+    "Doesn't need to be bigger, probably.",
+    "I mean, I don't know.",
+    "Let's roll with at the moment.",
+    "That's not what I meant.",
+    "I understand, OK, the first second I thought scale strokes and effects on and I was like why?",
+    "Oh my God.",
+    "I don't remember how to.",
+    "The ham.",
+    "An XT.",
+    "Oh, you should be able to just like, Well, you're, uh, uh.",
+    "Easier.",
+    "Um?",
+    "No, that you should be able to just throw it.",
+    "The Haunted Mansion.",
+    "Can you like middle mouse?",
+    "'cause I just use.",
+    "I just have on my.",
+    "I was like 2 finger move with my mouse, trackpad or magic mouse.",
+    "I don't have windows icon that so.",
+    "Is it like a keyboard shortcut command?",
+    "Almost knocked my drink water.",
+    "I just had my tablet plugged in.",
+    "I don't have my mouse but then.",
+    "Wow.",
+    "Nope.",
+    "Um?",
+    "Call appa myself, 'cause I can't figure this out.",
+    "No, I don't.",
+    "I don't know either because normally I just, uh, I just like I said, I normally just use the like.",
+    "The mouse to move it, I don't.",
+    "I don't know how to do that.",
+    "Also do without the like.",
+    "Being able to pan with the mouse.",
+    "What the heck?",
+    "Oh, now I am struggling today.",
+    "That is fine, just literally just drop it anywhere, just drop it on anyone, anyone, there.",
+    "Yet I'll find it's fine.",
+    "Yes, I see him.",
+    "I'm just gonna drag him over for you.",
+    "I'm here and he's getting dressed so sorry that's fine.",
+    "One of the USB ports has stopped working on my laptop, so now it's struggled to switch between like a mouse and a tablet sometimes.",
+    "And have my headset plugged in.",
+    "You're bad.",
+    "Break up this statement.",
+    "Never mind, I'm sorry to do this the easy way instead of right way, Yeah.",
+    "Well, she's wet.",
+    "Former done, what am I going?",
+    "Also his whole career.",
+    "Quit.",
+    "It's me ask her since all.",
+    "I love you.",
+    "Dara really care about us something wrong with great with credit card so I might have just been pulled over from the error message I got earlier.",
+    "Probably just crash.",
+    "Oh where are you?",
+    "What you go?",
+    "Well, that's not there.",
+    "We go find you.",
+    "We might be visited by a ferret soon, just making her way over here will have to switch over your camera to see her.",
+    "Yes.",
+    "She.",
+    "She ran away.",
+    "Goodbye.",
+    "Sing on banking.",
+    "Prime are saying death by location can drop.",
+    "Steven saying I didn't know you could call it like that.",
+    "Yeah, once I get my document reopen here, I'll show you in a second you could just add people to a document and they can just.",
+    "Was saying how you are.",
+    "I think just in general they had what is happening.",
+    "Maybe just Ohio has crap Internet right now, like as a whole 'cause it's giving me at times as well.",
+    "It's not.",
+    "No, I don't have so many.",
+    "This is my baggy.",
+    "Why somebody let off fireworks on the Internet on the Internet outside?",
+    "What?",
+    "Yeah Kevin at home.",
+    "At least everybody can watch you makes block of cheese while back to you.",
+    "Heather I'm here loading having a Christmas is.",
+    "How Have you ever had a feeling it would be?",
+    "What understand?",
+    "Finally decided to wake up.",
+    "Area.",
+    "I just like I said, kind of looks like she's need as little circles.",
+    "Like Little a full circle, you know, like Swiss cheese circles like yeah yeah, good idea.",
+    "Have you ever had you all the cheese?",
+    "Yes.",
+    "Right, I'm not going to do the same thing in the last time 'cause Everything is closed.",
+    "Yeah, undo the making of these components.",
+    "Not happy.",
+    "No records file too.",
+    "I can show.",
+    "Stuff and how this works.",
+    "I can go up to the top part here and I've already set this.",
+    "Yeah, I mean Harry responsible.",
+    "Not saying here factor up there.",
+    "Yeah it's working out.",
+    "see I can.",
+    "I can type whatever and add people dress like A.",
+    "Home work on this weekend and whoever I like him during this document is not complied.",
+    "I wish obviously that all of the program said.",
+    "Like how like and it is to deal with Apple pie with somebody.",
+    "So trying to.",
+    "Talk about his voice.",
+    "Husband Handies as far I have enjoyed it.",
+    "It would be super handy in illustrator if you're working with other people too soon enough to handle file back and forth right?",
+    "Talk about that before the illustrator discord about like it would be so.",
+    "Uh-huh Call it can also work in.",
+    "So much for your file.",
+    "Happy too happy, not fun.",
+    "Or like if you don't know how to do something somebody can like show you.",
+    "It's like in a file.",
+    "Well, I guess maybe I don't know.",
+    "Ha.",
+    "And finally got back on track here.",
+    "Now that I had that weird.",
+    "Somewhat crash happened.",
+    "Scaled down.",
+    "EBay right now.",
+    "I'm gonna re make a component with both of these guys for years together.",
+    "Seattle.",
+    "Do you?",
+    "Welcome.",
+    "For the cheese.",
+    "Oh yeah, seems like.",
+    "Just like everything about my girl, she circles.",
+    "So for the first sentence is actually.",
+    "Will be at this point.",
+    "So Stephane is saying at my day job is cutting a lot of Microsoft Office.",
+    "Really short is designed to get documents done.",
+    "Yeah, I think it's a great tool.",
+    "Should be able to work.",
+    "Files only people from.",
+    "I just kind of want it.",
+    "That's the problem is that now that XD has it I kinda just wish it was in everything.",
+    "Everything's Co edited.",
+    "Yeah.",
+    "Alright, so that those who.",
+    "Yeah.",
+    "He was kind of exciting.",
+    "Yeah, stuff.",
+    "GameStop No.",
+    "I will try.",
+    "This sounds very bizarre, but I'm going to go shut my air conditioner off really quick because I'm actually shivering sitting at my desk.",
+    "So I'll be right back, I apologized.",
+    "OK.",
+    "Yeah.",
+    "Yeah.",
+    "Thank you.",
+    "What happened to this guy?",
+    "Cortana.",
+    "Well, the other one talk.",
+    "Cute though.",
+    "Alright, fashion fixed.",
+    "Alright, well I think we're like the end of time here, right at right here, it's a war.",
+    "So.",
+    "Yeah, we made some progress on that he got for attorney Bart in here now.",
+    "Figured out all of the different states of our Taco character throughout this.",
+    "Got little running guy.",
+    "Thank you, got all of our icons in that you can ask about Brandon Animal in the same way.",
+    "Also.",
+    "If we are, I can't think of any.",
+    "A lot of art making a lot about it.",
+    "What does were at?",
+    "That that basically are out of us.",
+    "Set up another thing I'm going to have to go and pick some of this.",
+    "Issues.",
+    "Anyway, I would like to get to where these switch when you tap on them, but.",
+    "Fix on his little details like the timing on that.",
+    "Will fix that flying over.",
+    "This translation errors or upset?",
+    "Which one is that I have to go at?",
+    "This said delivery portion of it.",
+    "These screens near from the checkout.",
+    "I tend to make this transition sooner.",
+    "Actually like, probably pull some of those elements over on the other board, so that's interesting 'cause right now.",
+    "Very far.",
+    "OK, I also have to swap out of those.",
+    "Starting and icons.",
+    "Screens with the final one.",
+    "Yeah.",
+    "So I've got a couple things I need to do, but.",
+    "Can you help us the case?",
+    "Study the menu.",
+    "All right?",
+    "I feel like Iran.",
+    "America.",
+    "I don't know why this dream is to struggle, but it was.",
+    "Thank you all for sticking with us.",
+    "Akins' is watching Watson stream on Mission Impossible 3 break.",
+    "Oh, you taking a break from watching this you know possible free to watch online live stream and thank you.",
+    "Glad you could join us.",
+    "Yeah unfortunately we are at the end of the stream Ford today.",
+    "Q Recounts Aaron I pretty much finished well, sorry, definitely finished all the art assets writing stuff towards, uh.",
+    "How did you say we probably figure out?",
+    "I don't know if you want it.",
+    "I don't know.",
+    "Maybe there's two, maybe we should do with Kate.",
+    "Update three study on VNC.",
+    "These go through all the art and branding stuff and I can cook.",
+    "EXE files.",
+    "Yeah, that sounds good.",
+    "I know that you can like add coauthors or whatever project, so it's kind of little bit.",
+    "And Yeah.",
+    "But yeah, I'll probably just finish this.",
+    "I just have a lot of like clean up stuff to do.",
+    "Other things that I need to add.",
+    "Prototype all just I just need to get all the time except worked out and make sure I have all the transitions transitioning over correctly so.",
+    "Um?",
+    "What else can I say?",
+    "I think we're finally done with Taco Tuesday.",
+    "Aside from some minor details, so thanks everybody for joining us on this ride.",
+    "Thank you Sarah for working with me.",
+    "Collaborating, it's been a lot of fun.",
+    "I really enjoy these collaborative streams.",
+    "I can get there.",
+    "Yeah, all fun.",
+    "He told you sing.",
+    "So it's nice she combined.",
+    "It's hard as you EXE projects.",
+    "Bottom illustrates the elements and stuff without having.",
+    "Or having the illustrations done already, so it's nice to be able to work with somebody else in the same time so that you could do more.",
+    "Uh, but Sarah is gonna be starting room doing their own thing.",
+    "She'll be live streaming on Behance and you'll be able to go go subscribe to her, be hand school like holding hands for awhile and you will get notified when she goes live so you can check out what she's doing on their stream.",
+    "Do you have any plans for what you want to do?",
+    "Uhm, well, first of all, thank you for having me.",
+    "A second of all my only plan so far are going to be hit you a probably start streaming my design for all of my stream stuff like my schedule an.",
+    "Overlay and that kind of good stuff any of that.",
+    "Stuff.",
+    "That's it so far so.",
+    "Yes, yes you have to check out there.",
+    "I don't know what she's gonna start next week maybe and see what she's up to.",
+    "Up next week, at some point, yeah, yeah.",
+    "You could also find her.",
+    "I've got a link to her hands and her Instagram in the description below.",
+    "So if you want to go check out her to work you can find here in those two places and that that is everything signed.",
+    "It says here.",
+    "Is there anything that you want to say?",
+    "In my No, not really, just thank you again.",
+    "This has been a wonderful experience and I very much enjoyed it and your best.",
+    "Jenna saying sorry guys, I'm confused who's doing the UI part uhm?",
+    "Technically I was working in XY here, working on the well.",
+    "Both of us really.",
+    "I guess concerns you on the Internet.",
+    "You do go under the elements.",
+    "It was kind of a joint effort, so we kind of developed the brand first.",
+    "And figure out the kind of styles everything.",
+    "And then I did some wireframes on the first day and then the added are.",
+    "Little icons in art and things up as we kind of went along in the style of the interface.",
+    "Basically just kind of.",
+    "Form from there.",
+    "Yeah, it was kind of derived from the brand name is Saturday, then the icon.",
+    "His stuff like that so I can.",
+    "I know it's right combination about Tim saying the question is who isn't?",
+    "Can I see you?",
+    "Uh, yeah it was a group effort.",
+    "I don't know.",
+    "I said to see a lot.",
+    "There's a lot of in my mind.",
+    "It's hard, it's sort of weird for me because I don't separate out.",
+    "And like I said Before, I'm just not really separate out.",
+    "The things that I do is like separate individual skills.",
+    "There's like an overlap and everything they do animation, illustration, design like it's all just kind of one in my mind it's all just like these are the things that I do and they all overlap intermingle with each other in various ways and so it's hard to separate out and say like yes as a UI designer.",
+    "These are things I'm responsible for because all kind of.",
+    "Once I don't know.",
+    "We probably agree with animation that, like you don't really separate out.",
+    "Like yes, I do this one thing and that's what I do.",
+    "I guess there are jobs out there where people do that kind of stuff.",
+    "I just it's not not by the way.",
+    "A little.",
+    "Oh, I agree.",
+    "I completely agree with that at all.",
+    "Kind of overlaps.",
+    "One skill leads into something else that leads into something else and you just like I, I've learned all of this and it all kind of goes together.",
+    "Yeah, I mean, there's certainly going to be things that you're going to be like.",
+    "Enjoy more or you're going to have more practice or experience doing.",
+    "But I think that like, yeah, I think so.",
+    "I've also a little bit of everything.",
+    "But we know that we cannot work together.",
+    "I found your question.",
+    "I can't say Oh yes, I see Watson.",
+    "Thank you.",
+    "This work is complex and fun.",
+    "You have to be an official other.",
+    "We live stream.",
+    "Wow I uh, we're just I'm not.",
+    "Uh this is not.",
+    "Find Adobe lies live stream.",
+    "This is just a guess live stream, so there's a lot of behaves like chambers.",
+    "I suggest you go check them all out.",
+    "Sarah will be starting to stream mounting hands.",
+    "Hopefully this coming week, so you should definitely check out her work.",
+    "There's a whole bunch, a whole bunch of really awesome lines.",
+    "Junior zombie hands.",
+    "Now we were doing some fun stuff I think shared in we had earlier.",
+    "Also, does some lion UX work and she's another streamer on the hands and you won't pick someone up.",
+    "There was a stream in the chat earlier.",
+    "I apologize Ryan.",
+    "No Ryan doesn't.",
+    "Oh, just kidding, so I'm not sure if it was.",
+    "It was not fresh cake when he not have fresh cake in which I know.",
+    "Colby, that's who was Colby also does him.",
+    "Yeah, so yeah.",
+    "So Kobe and Sheridan both working.",
+    "EXE as well.",
+    "Do it.",
+    "See some more livestreams focused on that kind of stuff.",
+    "I'm sure they check it out.",
+    "So yeah, thank you.",
+    "But yeah, thanks, I can thanks to him thanks, um everybody for joining us.",
+    "These past four strings and everybody who joined us for this tree.",
+    "In particular, if you want to go back and check the recaps of the other ones that we've done there still links to the three other videos from the beginning part one where we just started with the branding and wireframes all the way through to this point so.",
+    "I think that that is everything for now.",
+    "Like I said, You'll be able to see this on a body.",
+    "The other case studies so.",
+    "I yeah I may be there and I'll see him again in future.",
+    "You never know what the future holds, but there's gonna be streaming on her own handsome, maybe I'll be on her channel something.",
+    "Maybe that be cool, yeah?",
+    "I can't say my gosh, my mouse is stuck so I came to before that.",
+    "Yes, I know Memphis is Gray and it should have.",
+    "I scrolled.",
+    "It's like it either wants to go like full speed or not at all, so I think he's just saying that he enjoyed history so I appreciate appreciate it.",
+    "Thanks Corey.",
+    "Thanks Nick.",
+    "Thanks everybody hung out today.",
+    "Ryan Marsh was up there earlier.",
+    "We had a bunch of people, so thanks Tim.",
+    "I'm saying see enjoy your weekend.",
+    "Yes, thank you.",
+    "I hope everybody has good 4th of July if that's what you celebrate, I'll be going to go listen to.",
+    "My neighbors were neighborhood out so.",
+    "I hope.",
+    "See everybody later.",
+    "Thanks everybody thought.",
+    "Thank you bye.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION",
+      "span": [
+        15,
+        16
+      ],
+      "sentence": [
+        "Would you say?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION",
+      "span": [
+        17,
+        18
+      ],
+      "sentence": [
+        "So you're saying You can't?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION",
+      "span": [
+        37,
+        38
+      ],
+      "sentence": [
+        "When is that?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION",
+      "span": [
+        38,
+        39
+      ],
+      "sentence": [
+        "What do you guys do brand band?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION",
+      "span": [
+        39,
+        40
+      ],
+      "sentence": [
+        "Uh Ryan marches here, how are you?"
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION",
+      "span": [
+        40,
+        41
+      ],
+      "sentence": [
+        "How's it going?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION",
+      "span": [
+        43,
+        44
+      ],
+      "sentence": [
+        "How's it going in car TV?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION",
+      "span": [
+        44,
+        45
+      ],
+      "sentence": [
+        "The real you?"
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "QUESTION",
+      "span": [
+        46,
+        47
+      ],
+      "sentence": [
+        "What happened to here on the couch?"
+      ]
+    },
+    "T9": {
+      "id": "T9",
+      "label": "QUESTION",
+      "span": [
+        57,
+        58
+      ],
+      "sentence": [
+        "How's it going?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION",
+      "span": [
+        106,
+        107
+      ],
+      "sentence": [
+        "Huh?"
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "QUESTION",
+      "span": [
+        115,
+        116
+      ],
+      "sentence": [
+        "How do I do?"
+      ]
+    },
+    "T12": {
+      "id": "T12",
+      "label": "QUESTION",
+      "span": [
+        138,
+        139
+      ],
+      "sentence": [
+        "Did you drink the lottery last night?"
+      ]
+    },
+    "T13": {
+      "id": "T13",
+      "label": "QUESTION",
+      "span": [
+        144,
+        145
+      ],
+      "sentence": [
+        "What?"
+      ]
+    },
+    "T14": {
+      "id": "T14",
+      "label": "QUESTION",
+      "span": [
+        159,
+        160
+      ],
+      "sentence": [
+        "Why not?"
+      ]
+    },
+    "T15": {
+      "id": "T15",
+      "label": "QUESTION",
+      "span": [
+        175,
+        176
+      ],
+      "sentence": [
+        "Maybe a 4th of July plans?"
+      ]
+    },
+    "T16": {
+      "id": "T16",
+      "label": "QUESTION",
+      "span": [
+        178,
+        179
+      ],
+      "sentence": [
+        "To life at all what?"
+      ]
+    },
+    "T17": {
+      "id": "T17",
+      "label": "QUESTION",
+      "span": [
+        191,
+        192
+      ],
+      "sentence": [
+        "Turn up What?"
+      ]
+    },
+    "T18": {
+      "id": "T18",
+      "label": "QUESTION",
+      "span": [
+        199,
+        200
+      ],
+      "sentence": [
+        "Who is joining us from other countries?"
+      ]
+    },
+    "T19": {
+      "id": "T19",
+      "label": "QUESTION",
+      "span": [
+        227,
+        228
+      ],
+      "sentence": [
+        "Service choices his property yet?"
+      ]
+    },
+    "T20": {
+      "id": "T20",
+      "label": "QUESTION",
+      "span": [
+        238,
+        239
+      ],
+      "sentence": [
+        "Anybody know?"
+      ]
+    },
+    "T21": {
+      "id": "T21",
+      "label": "QUESTION",
+      "span": [
+        242,
+        243
+      ],
+      "sentence": [
+        "Maybe what?"
+      ]
+    },
+    "T22": {
+      "id": "T22",
+      "label": "QUESTION",
+      "span": [
+        243,
+        244
+      ],
+      "sentence": [
+        "Something about that on Facebook, yeah?"
+      ]
+    },
+    "T23": {
+      "id": "T23",
+      "label": "QUESTION",
+      "span": [
+        254,
+        255
+      ],
+      "sentence": [
+        "Um?"
+      ]
+    },
+    "T24": {
+      "id": "T24",
+      "label": "QUESTION",
+      "span": [
+        258,
+        259
+      ],
+      "sentence": [
+        "Did we ever figure out the highlight things from last time where we like talking about making these highlight or something?"
+      ]
+    },
+    "T25": {
+      "id": "T25",
+      "label": "QUESTION",
+      "span": [
+        283,
+        284
+      ],
+      "sentence": [
+        "Why is Messenger text box?"
+      ]
+    },
+    "T26": {
+      "id": "T26",
+      "label": "QUESTION",
+      "span": [
+        284,
+        285
+      ],
+      "sentence": [
+        "Why?"
+      ]
+    },
+    "T27": {
+      "id": "T27",
+      "label": "QUESTION",
+      "span": [
+        287,
+        288
+      ],
+      "sentence": [
+        "How do you say girl in Fort Collins for the summer?"
+      ]
+    },
+    "T28": {
+      "id": "T28",
+      "label": "QUESTION",
+      "span": [
+        303,
+        304
+      ],
+      "sentence": [
+        "What if I should change the icon style for this map?"
+      ]
+    },
+    "T29": {
+      "id": "T29",
+      "label": "QUESTION",
+      "span": [
+        314,
+        315
+      ],
+      "sentence": [
+        "What time is it?"
+      ]
+    },
+    "T30": {
+      "id": "T30",
+      "label": "QUESTION",
+      "span": [
+        315,
+        316
+      ],
+      "sentence": [
+        "Hey Steven, how's it going?"
+      ]
+    },
+    "T31": {
+      "id": "T31",
+      "label": "QUESTION",
+      "span": [
+        320,
+        321
+      ],
+      "sentence": [
+        "What can you do?"
+      ]
+    },
+    "T32": {
+      "id": "T32",
+      "label": "QUESTION",
+      "span": [
+        321,
+        322
+      ],
+      "sentence": [
+        "What size and height?"
+      ]
+    },
+    "T33": {
+      "id": "T33",
+      "label": "QUESTION",
+      "span": [
+        322,
+        323
+      ],
+      "sentence": [
+        "Anybody have any questions for either Sarah or I only say to ask?"
+      ]
+    },
+    "T34": {
+      "id": "T34",
+      "label": "QUESTION",
+      "span": [
+        323,
+        324
+      ],
+      "sentence": [
+        "Want us to answer one about what we're doing?"
+      ]
+    },
+    "T35": {
+      "id": "T35",
+      "label": "QUESTION",
+      "span": [
+        370,
+        371
+      ],
+      "sentence": [
+        "Huh?"
+      ]
+    },
+    "T36": {
+      "id": "T36",
+      "label": "QUESTION",
+      "span": [
+        371,
+        372
+      ],
+      "sentence": [
+        "I feel like this is where we got stuck last time, right?"
+      ]
+    },
+    "T37": {
+      "id": "T37",
+      "label": "QUESTION",
+      "span": [
+        384,
+        385
+      ],
+      "sentence": [
+        "Are you hard wired with the Internet?"
+      ]
+    },
+    "T38": {
+      "id": "T38",
+      "label": "QUESTION",
+      "span": [
+        389,
+        390
+      ],
+      "sentence": [
+        "That might be the problem, yeah?"
+      ]
+    },
+    "T39": {
+      "id": "T39",
+      "label": "QUESTION",
+      "span": [
+        399,
+        400
+      ],
+      "sentence": [
+        "Right in saying, could you put the little running Taco medical selected marker?"
+      ]
+    },
+    "T40": {
+      "id": "T40",
+      "label": "QUESTION",
+      "span": [
+        416,
+        417
+      ],
+      "sentence": [
+        "What?"
+      ]
+    },
+    "T41": {
+      "id": "T41",
+      "label": "QUESTION",
+      "span": [
+        421,
+        422
+      ],
+      "sentence": [
+        "Yeah, maybe we get rid of the Little Circle Bubbles and which is like is there a way to put him behind?"
+      ]
+    },
+    "T42": {
+      "id": "T42",
+      "label": "QUESTION",
+      "span": [
+        422,
+        423
+      ],
+      "sentence": [
+        "Um?"
+      ]
+    },
+    "T43": {
+      "id": "T43",
+      "label": "QUESTION",
+      "span": [
+        423,
+        424
+      ],
+      "sentence": [
+        "Oh, I did nothing so much stuff, yeah?"
+      ]
+    },
+    "T44": {
+      "id": "T44",
+      "label": "QUESTION",
+      "span": [
+        429,
+        430
+      ],
+      "sentence": [
+        "Right?"
+      ]
+    },
+    "T45": {
+      "id": "T45",
+      "label": "QUESTION",
+      "span": [
+        446,
+        447
+      ],
+      "sentence": [
+        "Why not will have it sticking out of his head and starting at afford going?"
+      ]
+    },
+    "T46": {
+      "id": "T46",
+      "label": "QUESTION",
+      "span": [
+        448,
+        449
+      ],
+      "sentence": [
+        "What's that?"
+      ]
+    },
+    "T47": {
+      "id": "T47",
+      "label": "QUESTION",
+      "span": [
+        450,
+        451
+      ],
+      "sentence": [
+        "Right?"
+      ]
+    },
+    "T48": {
+      "id": "T48",
+      "label": "QUESTION",
+      "span": [
+        464,
+        465
+      ],
+      "sentence": [
+        "I understand, OK, the first second I thought scale strokes and effects on and I was like why?"
+      ]
+    },
+    "T49": {
+      "id": "T49",
+      "label": "QUESTION",
+      "span": [
+        471,
+        472
+      ],
+      "sentence": [
+        "Um?"
+      ]
+    },
+    "T50": {
+      "id": "T50",
+      "label": "QUESTION",
+      "span": [
+        474,
+        475
+      ],
+      "sentence": [
+        "Can you like middle mouse?"
+      ]
+    },
+    "T51": {
+      "id": "T51",
+      "label": "QUESTION",
+      "span": [
+        479,
+        480
+      ],
+      "sentence": [
+        "Is it like a keyboard shortcut command?"
+      ]
+    },
+    "T52": {
+      "id": "T52",
+      "label": "QUESTION",
+      "span": [
+        485,
+        486
+      ],
+      "sentence": [
+        "Um?"
+      ]
+    },
+    "T53": {
+      "id": "T53",
+      "label": "QUESTION",
+      "span": [
+        493,
+        494
+      ],
+      "sentence": [
+        "What the heck?"
+      ]
+    },
+    "T54": {
+      "id": "T54",
+      "label": "QUESTION",
+      "span": [
+        506,
+        507
+      ],
+      "sentence": [
+        "Former done, what am I going?"
+      ]
+    },
+    "T55": {
+      "id": "T55",
+      "label": "QUESTION",
+      "span": [
+        513,
+        514
+      ],
+      "sentence": [
+        "Oh where are you?"
+      ]
+    },
+    "T56": {
+      "id": "T56",
+      "label": "QUESTION",
+      "span": [
+        514,
+        515
+      ],
+      "sentence": [
+        "What you go?"
+      ]
+    },
+    "T57": {
+      "id": "T57",
+      "label": "QUESTION",
+      "span": [
+        532,
+        533
+      ],
+      "sentence": [
+        "Why somebody let off fireworks on the Internet on the Internet outside?"
+      ]
+    },
+    "T58": {
+      "id": "T58",
+      "label": "QUESTION",
+      "span": [
+        533,
+        534
+      ],
+      "sentence": [
+        "What?"
+      ]
+    },
+    "T59": {
+      "id": "T59",
+      "label": "QUESTION",
+      "span": [
+        537,
+        538
+      ],
+      "sentence": [
+        "How Have you ever had a feeling it would be?"
+      ]
+    },
+    "T60": {
+      "id": "T60",
+      "label": "QUESTION",
+      "span": [
+        538,
+        539
+      ],
+      "sentence": [
+        "What understand?"
+      ]
+    },
+    "T61": {
+      "id": "T61",
+      "label": "QUESTION",
+      "span": [
+        543,
+        544
+      ],
+      "sentence": [
+        "Have you ever had you all the cheese?"
+      ]
+    },
+    "T62": {
+      "id": "T62",
+      "label": "QUESTION",
+      "span": [
+        563,
+        564
+      ],
+      "sentence": [
+        "It would be super handy in illustrator if you're working with other people too soon enough to handle file back and forth right?"
+      ]
+    },
+    "T63": {
+      "id": "T63",
+      "label": "QUESTION",
+      "span": [
+        579,
+        580
+      ],
+      "sentence": [
+        "Do you?"
+      ]
+    },
+    "T64": {
+      "id": "T64",
+      "label": "QUESTION",
+      "span": [
+        607,
+        608
+      ],
+      "sentence": [
+        "What happened to this guy?"
+      ]
+    },
+    "T65": {
+      "id": "T65",
+      "label": "QUESTION",
+      "span": [
+        621,
+        622
+      ],
+      "sentence": [
+        "What does were at?"
+      ]
+    },
+    "T66": {
+      "id": "T66",
+      "label": "QUESTION",
+      "span": [
+        628,
+        629
+      ],
+      "sentence": [
+        "This translation errors or upset?"
+      ]
+    },
+    "T67": {
+      "id": "T67",
+      "label": "QUESTION",
+      "span": [
+        629,
+        630
+      ],
+      "sentence": [
+        "Which one is that I have to go at?"
+      ]
+    },
+    "T68": {
+      "id": "T68",
+      "label": "QUESTION",
+      "span": [
+        640,
+        641
+      ],
+      "sentence": [
+        "Can you help us the case?"
+      ]
+    },
+    "T69": {
+      "id": "T69",
+      "label": "QUESTION",
+      "span": [
+        642,
+        643
+      ],
+      "sentence": [
+        "All right?"
+      ]
+    },
+    "T70": {
+      "id": "T70",
+      "label": "QUESTION",
+      "span": [
+        652,
+        653
+      ],
+      "sentence": [
+        "How did you say we probably figure out?"
+      ]
+    },
+    "T71": {
+      "id": "T71",
+      "label": "QUESTION",
+      "span": [
+        666,
+        667
+      ],
+      "sentence": [
+        "Um?"
+      ]
+    },
+    "T72": {
+      "id": "T72",
+      "label": "QUESTION",
+      "span": [
+        667,
+        668
+      ],
+      "sentence": [
+        "What else can I say?"
+      ]
+    },
+    "T73": {
+      "id": "T73",
+      "label": "QUESTION",
+      "span": [
+        682,
+        683
+      ],
+      "sentence": [
+        "Do you have any plans for what you want to do?"
+      ]
+    },
+    "T74": {
+      "id": "T74",
+      "label": "QUESTION",
+      "span": [
+        695,
+        696
+      ],
+      "sentence": [
+        "Is there anything that you want to say?"
+      ]
+    },
+    "T75": {
+      "id": "T75",
+      "label": "QUESTION",
+      "span": [
+        698,
+        699
+      ],
+      "sentence": [
+        "Jenna saying sorry guys, I'm confused who's doing the UI part uhm?"
+      ]
+    },
+    "T76": {
+      "id": "T76",
+      "label": "QUESTION",
+      "span": [
+        711,
+        712
+      ],
+      "sentence": [
+        "I know it's right combination about Tim saying the question is who isn't?"
+      ]
+    },
+    "T77": {
+      "id": "T77",
+      "label": "QUESTION",
+      "span": [
+        712,
+        713
+      ],
+      "sentence": [
+        "Can I see you?"
+      ]
+    },
+    "T78": {
+      "id": "T78",
+      "label": "QUESTION",
+      "span": [
+        775,
+        776
+      ],
+      "sentence": [
+        "Maybe that be cool, yeah?"
+      ]
+    },
+    "T79": {
+      "id": "T79",
+      "label": "ANSWER",
+      "span": [
+        145,
+        146
+      ],
+      "sentence": [
+        "I said I think I needed that Margarita last time."
+      ]
+    },
+    "T80": {
+      "id": "T80",
+      "label": "ANSWER",
+      "span": [
+        372,
+        373
+      ],
+      "sentence": [
+        "Yeah, and it's just I don't want to go ahead and like I'm like why are up these screens until I figure out what these if I need to like reset these icons, change them."
+      ]
+    },
+    "T81": {
+      "id": "T81",
+      "label": "ANSWER",
+      "span": [
+        386,
+        387
+      ],
+      "sentence": [
+        "I have not done that yet."
+      ]
+    },
+    "T82": {
+      "id": "T82",
+      "label": "ANSWER",
+      "span": [
+        449,
+        450
+      ],
+      "sentence": [
+        "Not marker."
+      ]
+    },
+    "T83": {
+      "id": "T83",
+      "label": "ANSWER",
+      "span": [
+        481,
+        483
+      ],
+      "sentence": [
+        "I just had my tablet plugged in.",
+        "I don't have my mouse but then."
+      ]
+    },
+    "T84": {
+      "id": "T84",
+      "label": "ANSWER",
+      "span": [
+        544,
+        545
+      ],
+      "sentence": [
+        "Yes."
+      ]
+    },
+    "T85": {
+      "id": "T85",
+      "label": "ANSWER",
+      "span": [
+        654,
+        655
+      ],
+      "sentence": [
+        "I don't know."
+      ]
+    },
+    "T86": {
+      "id": "T86",
+      "label": "ANSWER",
+      "span": [
+        683,
+        686
+      ],
+      "sentence": [
+        "Uhm, well, first of all, thank you for having me.",
+        "A second of all my only plan so far are going to be hit you a probably start streaming my design for all of my stream stuff like my schedule an.",
+        "Overlay and that kind of good stuff any of that."
+      ]
+    },
+    "T87": {
+      "id": "T87",
+      "label": "ANSWER",
+      "span": [
+        696,
+        697
+      ],
+      "sentence": [
+        "In my No, not really, just thank you again."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T13",
+      "answer": "T79",
+      "question_sentence": [
+        "What?"
+      ],
+      "answer_sentence": [
+        "I said I think I needed that Margarita last time."
+      ]
+    },
+    "R2": {
+      "id": "R2",
+      "label": "Chitchat",
+      "question": "T36",
+      "answer": "T80",
+      "question_sentence": [
+        "I feel like this is where we got stuck last time, right?"
+      ],
+      "answer_sentence": [
+        "Yeah, and it's just I don't want to go ahead and like I'm like why are up these screens until I figure out what these if I need to like reset these icons, change them."
+      ]
+    },
+    "R3": {
+      "id": "R3",
+      "label": "Chitchat",
+      "question": "T37",
+      "answer": "T81",
+      "question_sentence": [
+        "Are you hard wired with the Internet?"
+      ],
+      "answer_sentence": [
+        "I have not done that yet."
+      ]
+    },
+    "R4": {
+      "id": "R4",
+      "label": "Chitchat",
+      "question": "T46",
+      "answer": "T82",
+      "question_sentence": [
+        "What's that?"
+      ],
+      "answer_sentence": [
+        "Not marker."
+      ]
+    },
+    "R5": {
+      "id": "R5",
+      "label": "Chitchat",
+      "question": "T51",
+      "answer": "T83",
+      "question_sentence": [
+        "Is it like a keyboard shortcut command?"
+      ],
+      "answer_sentence": [
+        "I just had my tablet plugged in.",
+        "I don't have my mouse but then."
+      ]
+    },
+    "R6": {
+      "id": "R6",
+      "label": "Chitchat",
+      "question": "T61",
+      "answer": "T84",
+      "question_sentence": [
+        "Have you ever had you all the cheese?"
+      ],
+      "answer_sentence": [
+        "Yes."
+      ]
+    },
+    "R7": {
+      "id": "R7",
+      "label": "Chitchat",
+      "question": "T70",
+      "answer": "T85",
+      "question_sentence": [
+        "How did you say we probably figure out?"
+      ],
+      "answer_sentence": [
+        "I don't know."
+      ]
+    },
+    "R8": {
+      "id": "R8",
+      "label": "Chitchat",
+      "question": "T73",
+      "answer": "T86",
+      "question_sentence": [
+        "Do you have any plans for what you want to do?"
+      ],
+      "answer_sentence": [
+        "Uhm, well, first of all, thank you for having me.",
+        "A second of all my only plan so far are going to be hit you a probably start streaming my design for all of my stream stuff like my schedule an.",
+        "Overlay and that kind of good stuff any of that."
+      ]
+    },
+    "R9": {
+      "id": "R9",
+      "label": "Chitchat",
+      "question": "T74",
+      "answer": "T87",
+      "question_sentence": [
+        "Is there anything that you want to say?"
+      ],
+      "answer_sentence": [
+        "In my No, not really, just thank you again."
+      ]
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "sentence": [
+    "$5 for I don't know how like 300 pages, you know?",
+    "Camden says yes, bike rides always bring the inspirations in new ideas.",
+    "Yeah, totally me too and.",
+    "I feel like I've taken for granted, uhm, a lot of just this landscape of, uh, what's directly right around me like Emma is wanting to travel out West.",
+    "To get more of that inspiration, but I've been honestly realizing more and more lately.",
+    "Hey guys.",
+    "Lisa, we're back at it live streaming.",
+    "Let me just.",
+    "Pull up Quick something.",
+    "OK perfect, got everything pull up.",
+    "Um, have everyone doing today, um.",
+    "Hope you guys are having a good dumb but what day is it?",
+    "Tuesday a good Tuesday.",
+    "It's night time here for me in Chicago.",
+    "But whatever time of day it is for you, I hope hope it's a good one.",
+    "Uhm?",
+    "So, uh, let me turn this off real quick.",
+    "So kind of going off of continuing with different themes that I was.",
+    "I was working on.",
+    "I'm on my last dream in on Sunday.",
+    "I just want to.",
+    "Just continue.",
+    "Exploring just these messages of hope and Love and moving forward towards a better future.",
+    "In my art work so.",
+    "Yeah, as you can see again, I spent some time sketching today in my sketchbook and have these.",
+    "This kind of.",
+    "Quirky I guess.",
+    "Pieces that.",
+    "To me represents those different things, and, um.",
+    "They actually break this one up and two.",
+    "Um?",
+    "Yeah that over there yeah so anyway it's.",
+    "Like all these.",
+    "Different ideas are kind of more more abstract themes, but things out.",
+    "I keep thinking of, uhm, I think of you know, hope love.",
+    "Um?",
+    "Rising higher.",
+    "Healing.",
+    "I think of water.",
+    "Flying, even dance dancing uhm.",
+    "And all these different things, so that is kind of this hodgepodge of ideas that I have here.",
+    "A man I see there's some people in the chat say hi, say where you're from.",
+    "I'd love to.",
+    "Love to hear from you guys, um?",
+    "So yeah.",
+    "Without further ado, I'm gonna can start to roll.",
+    "Roll with some of these ideas.",
+    "Uhm, I think I'm just going to make kind of like A.",
+    "Flickr Collage Type A.",
+    "Hodgepodge of of doodles here so.",
+    "And as always, if you if you guys ever have any questions about illustrating.",
+    "In general, or you know specifically how to illustrate in Adobe fresco.",
+    "My is more than happy to share my um.",
+    "I guess my my tips and tricks or my yeah, my process is probably the better words.",
+    "I'm like I don't really know my tips and tricks are but more so just my process how I?",
+    "Approach things.",
+    "As you can see from this piece, as well as if you guys.",
+    "Have seen any of my other streams, uhm, I almost always, always always start with.",
+    "Sketching in real life in a sketchbook so.",
+    "Or it doesn't even have to be a sketch work, it could be on a napkin, it could be.",
+    "On a receipt you know whatever, but I do always like.",
+    "Starting my sketches in an analog form, um.",
+    "That might just be because of my history with uhm.",
+    "Having that background in in Fine Arts, but I do find that that actually ends up making your breaking my.",
+    "Uh, overall illustration.",
+    "I've I've tried to skip the sketchbook process and it just.",
+    "Without fail it always.",
+    "It's always just kinda in a number.",
+    "Never really works out as good as I'd hope so.",
+    "Hello everyone uhm welcome back to my live stream.",
+    "Make sure everything is up and running properly.",
+    "OK, awesome.",
+    "Call well yeah, thanks for thanks for tuning tuning in today again and.",
+    "Today I am.",
+    "I'm just going to kind of work on some different illustrations from my sketchbook of different concepts that I was.",
+    "I was thinking about wanting to explore so I have already took some photos of images that I want to try creating into more comprehensive illustration.",
+    "So here's.",
+    "This one particular idea that for some reason I've been really loving, looking at stain glass recently, uhm?",
+    "And so I kind of wanted to use this mix of saying like a stain glass window.",
+    "And mix it with some of my like outdoor art.",
+    "It's just yeah.",
+    "I just had this.",
+    "This would be like a cool symbol and.",
+    "Also, just like this image of.",
+    "You know a stream of water running, running down, flowing from a mountain, and the sun.",
+    "Kind of like bursting out, it just feels like a very hopeful uplifting.",
+    "Message for me.",
+    "So I want to want to kind of explore this and.",
+    "Yeah, make make a symbol of hope.",
+    "Um?",
+    "Oops.",
+    "So I think I'm going to probably do most of.",
+    "My illustrations today using a vector based brush.",
+    "So that just means that I can scale it and.",
+    "Pretty much just make sure everything is looking now, crisp and perfect and.",
+    "Even later on, if I want to, I can open it up in Adobe Illustrator and be able to.",
+    "Tweak things from there so.",
+    "Yeah, the the vector brushes super nice for that.",
+    "And I mean, as with most of my artwork, I'm never.",
+    "Too worried about making sure everything is like, uh.",
+    ""
+  ],
+  "entity": {
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        11,
+        12
+      ],
+      "sentence": [
+        "Hope you guys are having a good dumb but what day is it?"
+      ]
+    },
+    "T9": {
+      "id": "T9",
+      "label": "ANSWER",
+      "span": [
+        12,
+        13
+      ],
+      "sentence": [
+        "Tuesday a good Tuesday."
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        0,
+        1
+      ],
+      "sentence": [
+        "$5 for I don't know how like 300 pages, you know?"
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "ANSWER",
+      "span": [
+        1,
+        2
+      ],
+      "sentence": [
+        "Camden says yes, bike rides always bring the inspirations in new ideas."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T1",
+      "answer": "T9",
+      "question_sentence": [
+        "Hope you guys are having a good dumb but what day is it?"
+      ],
+      "answer_sentence": [
+        "Tuesday a good Tuesday."
+      ]
+    },
+    "R2": {
+      "id": "R2",
+      "label": "Chitchat",
+      "question": "T10",
+      "answer": "T11",
+      "question_sentence": [
+        "$5 for I don't know how like 300 pages, you know?"
+      ],
+      "answer_sentence": [
+        "Camden says yes, bike rides always bring the inspirations in new ideas."
+      ]
+    }
+  }
+}

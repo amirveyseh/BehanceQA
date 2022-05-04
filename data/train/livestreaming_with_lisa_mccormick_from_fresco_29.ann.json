@@ -1,0 +1,356 @@
+{
+  "sentence": [
+    "Um, or potentially nothing at all, but I'm going to use it right now.",
+    "It's just like a guide.",
+    "To the edge and.",
+    "Since the highlight from this guy is actually yellow area, the yellow on the Lake I want to.",
+    "Probably have.",
+    "Yellow, some sunbeams coming out, so I kind of have to two different ideas.",
+    "I can do one as like a swirly Sunbeam Sunbeam.",
+    "Hello I'm having trouble talking today.",
+    "Um?",
+    "Alright, so yeah, like a swirly Sunbeam as I'm doing right now.",
+    "And then my other idea was to do it as a just like the straight lines.",
+    "We'll see.",
+    "And then kind of keep the clouds that like cream color.",
+    "But this also.",
+    "Might be overkill, so.",
+    "We'll see I don't know if if this is going to make.",
+    "The drawing way too overwhelming to even look at.",
+    "Sorry, such like a delicate balance between.",
+    "But yeah.",
+    "What have you been working on this week look?",
+    "Or I guess since we last talked on with that, I can't even remember the last time I streamed.",
+    "Was it Thursday?",
+    "It was one of the nights this week.",
+    "Alright I am.",
+    "I'm going to turn that of.-.",
+    "Do you?",
+    "Olympic Luke says characters design nice that used musical instruments as weapons, so that sounds interesting.",
+    "Is that for school or is that just like a something for fun?",
+    "It's an independent project, nice.",
+    "Very cool.",
+    "This also is an independent project.",
+    "I'm all about those.",
+    "An honestly feel that's like.",
+    "Probably one of the single most important things as an artist that you can do is.",
+    "Always, always be doing self initiated projects.",
+    "Whether you're in school still or uhm.",
+    "At work and have client projects, it's still like you should always just still be doing, um.",
+    "Work that you just really, really want to do an.",
+    "It's just kind of like a fun side thing.",
+    "Because that's like Totale, in my opinion where we develop our styles where we find our voice.",
+    "These are best work because it's you know exactly what we want to hopefully be working on an then.",
+    "Um, also, like I can't tell you how many times I've gotten.",
+    "I've gotten work then through these self initiated projects because.",
+    "Yeah, some of my best work 'cause it's like some of the work that I'm having the most fun with.",
+    "And that always ends up showing 'cause it's just.",
+    "Yeah, it's like when you when your loving what you're doing it's always just going to be better.",
+    "So good job Luke.",
+    "Brownie points for you.",
+    "Alright, so.",
+    "It's a little rough.",
+    "But Wanted to have some type of like a.",
+    "Script type of.",
+    "Fun for this as well.",
+    "Um?",
+    "Wonder if I should even make this like sick or like I'm gonna oh whoops I drew weird line.",
+    "Erase that.",
+    "Alright, I'm going to.",
+    "Can it really quick see if?",
+    "See if this would look weird or not if I made it even thicker.",
+    "I've been really liking that like high contrast with weights and type up.",
+    "Be actual grass color.",
+    "That would be helpful.",
+    "See I just want to say hi again to everyone in its tuning in.",
+    "I'm seeing again some some new faces.",
+    "And yeah, let me know where you guys are tuning in from in the chat.",
+    "Let me know if you have any questions.",
+    "Yeah, I'm here to talk so.",
+    "Um?",
+    "Camden is asking, do you ever add perspective blur or motion blur?",
+    "I actually don't.",
+    "And mostly just because I'm not sure how to do that in Frisco.",
+    "So yeah, do you have you added motion blur?",
+    "Perspective blur in fresco.",
+    "Is that a feature actually really don't know.",
+    "So yeah, I'd love to hear more about that.",
+    "Alright, do we like the grass or is that kind of weird?",
+    "It's kind of looking weird I think.",
+    "What if I made it like?",
+    "More like stubby like actual.",
+    "Blades of grass.",
+    "Um Camden is saying it could be, but I tried it in procreate.",
+    "Oh yes, actually.",
+    "I do remember seeing that in procreate.",
+    "I can't.",
+    "Remember seeing it in Frisco?",
+    "I'm trying to think back.",
+    "I know that they recently had a big update for fresco so.",
+    "There's like a potential that.",
+    "It might be available now, but honestly I'm not really sure.",
+    "I feel like there's.",
+    "There's still a lot of things that Adobe is working on adding to fresco that aren't available yet, so I could kind of see that going either way.",
+    "Alright, I feel like all these little like.",
+    "Colorful additional lines turn this totally until I get children's design, which is kind of fun.",
+    "I love that.",
+    "That is something that I want to do more of.",
+    "I've made a lot of merchandise, mostly for women's clothes.",
+    "Which is really.",
+    "Really fun, really great, super thankful for all those opportunities.",
+    "But yeah, I think it would be really fun also too.",
+    "To make clothes for kids.",
+    ""
+  ],
+  "entity": {
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        21,
+        22
+      ],
+      "sentence": [
+        "Was it Thursday?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        27,
+        28
+      ],
+      "sentence": [
+        "Is that for school or is that just like a something for fun?"
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        68,
+        69
+      ],
+      "sentence": [
+        "Camden is asking, do you ever add perspective blur or motion blur?"
+      ]
+    },
+    "T9": {
+      "id": "T9",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        71,
+        72
+      ],
+      "sentence": [
+        "So yeah, do you have you added motion blur?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        75,
+        76
+      ],
+      "sentence": [
+        "Alright, do we like the grass or is that kind of weird?"
+      ]
+    },
+    "T12": {
+      "id": "T12",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        84,
+        85
+      ],
+      "sentence": [
+        "Remember seeing it in Frisco?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        19,
+        20
+      ],
+      "sentence": [
+        "What have you been working on this week look?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "ANSWER",
+      "span": [
+        28,
+        29
+      ],
+      "sentence": [
+        "It's an independent project, nice."
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        57,
+        59
+      ],
+      "sentence": [
+        "Can it really quick see if?",
+        "See if this would look weird or not if I made it even thicker."
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "ANSWER",
+      "span": [
+        69,
+        71
+      ],
+      "sentence": [
+        "I actually don't.",
+        "And mostly just because I'm not sure how to do that in Frisco."
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "ANSWER",
+      "span": [
+        72,
+        74
+      ],
+      "sentence": [
+        "Perspective blur in fresco.",
+        "Is that a feature actually really don't know."
+      ]
+    },
+    "T13": {
+      "id": "T13",
+      "label": "ANSWER",
+      "span": [
+        76,
+        77
+      ],
+      "sentence": [
+        "It's kind of looking weird I think."
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        77,
+        80
+      ],
+      "sentence": [
+        "What if I made it like?",
+        "More like stubby like actual.",
+        "Blades of grass."
+      ]
+    },
+    "T14": {
+      "id": "T14",
+      "label": "ANSWER",
+      "span": [
+        80,
+        83
+      ],
+      "sentence": [
+        "Um Camden is saying it could be, but I tried it in procreate.",
+        "Oh yes, actually.",
+        "I do remember seeing that in procreate."
+      ]
+    },
+    "T15": {
+      "id": "T15",
+      "label": "ANSWER",
+      "span": [
+        85,
+        91
+      ],
+      "sentence": [
+        "I'm trying to think back.",
+        "I know that they recently had a big update for fresco so.",
+        "There's like a potential that.",
+        "It might be available now, but honestly I'm not really sure.",
+        "I feel like there's.",
+        "There's still a lot of things that Adobe is working on adding to fresco that aren't available yet, so I could kind of see that going either way."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T4",
+      "answer": "T3",
+      "question_sentence": [
+        "Is that for school or is that just like a something for fun?"
+      ],
+      "answer_sentence": [
+        "It's an independent project, nice."
+      ]
+    },
+    "R2": {
+      "id": "R2",
+      "label": "Relevance",
+      "question": "T9",
+      "answer": "T7",
+      "question_sentence": [
+        "So yeah, do you have you added motion blur?"
+      ],
+      "answer_sentence": [
+        "Perspective blur in fresco.",
+        "Is that a feature actually really don't know."
+      ]
+    },
+    "R3": {
+      "id": "R3",
+      "label": "Relevance",
+      "question": "T10",
+      "answer": "T13",
+      "question_sentence": [
+        "Alright, do we like the grass or is that kind of weird?"
+      ],
+      "answer_sentence": [
+        "It's kind of looking weird I think."
+      ]
+    },
+    "R4": {
+      "id": "R4",
+      "label": "Relevance",
+      "question": "T11",
+      "answer": "T14",
+      "question_sentence": [
+        "What if I made it like?",
+        "More like stubby like actual.",
+        "Blades of grass."
+      ],
+      "answer_sentence": [
+        "Um Camden is saying it could be, but I tried it in procreate.",
+        "Oh yes, actually.",
+        "I do remember seeing that in procreate."
+      ]
+    },
+    "R5": {
+      "id": "R5",
+      "label": "Relevance",
+      "question": "T12",
+      "answer": "T15",
+      "question_sentence": [
+        "Remember seeing it in Frisco?"
+      ],
+      "answer_sentence": [
+        "I'm trying to think back.",
+        "I know that they recently had a big update for fresco so.",
+        "There's like a potential that.",
+        "It might be available now, but honestly I'm not really sure.",
+        "I feel like there's.",
+        "There's still a lot of things that Adobe is working on adding to fresco that aren't available yet, so I could kind of see that going either way."
+      ]
+    }
+  }
+}

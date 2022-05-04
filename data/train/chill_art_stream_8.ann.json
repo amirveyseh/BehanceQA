@@ -1,0 +1,295 @@
+{
+  "sentence": [
+    "Oh, it won't let me post links.",
+    "Oh, OK, so here's.",
+    "Copy that copy.",
+    "Does it fit?",
+    "That one might work, but that's my.",
+    "That's, uh, my donation tip thing on my Twitter or on my Twitch TV Christmas.",
+    "That's interesting that I can't post the link in my thing.",
+    "Photo.",
+    "Yeah, thank you guys all so much for the follow.",
+    "I really appreciate that.",
+    "Oh my gosh so many of you right here.",
+    "Goodness.",
+    "Where did I go?",
+    "Oh, I have the thing got here.",
+    "OK, that was interesting, OK well yeah.",
+    "Just here now the booms I like.",
+    "I feel like such a goofball because just like it's just, it's just noise.",
+    "You know what I mean by brain is like this.",
+    "Do you prefer Photoshop or illustrator?",
+    "I don't think I've ever used illustrator.",
+    "I think I've only played with photo shop.",
+    "But when I first started doing digital art, I use.",
+    "Um, uh?",
+    "Paint tool Sai.",
+    "Which is an old old school thing and I use that for many many many many years up until about I think this I used paint tool Sai up until about 2016, 'cause That's when I Met Voodoo Val who is an amazing friend of mine here on Behance.",
+    "She's she's an amazing artist.",
+    "She's an amazing person.",
+    "Voodoo Val.",
+    "Here she is.",
+    "But if you, if you like my stuff, you're going to love voodoo Val.",
+    "She is a phenomenal artist and creative.",
+    "But she is the one who got me into streaming an into photo shop, so I've been.",
+    "I've been using photo shop.",
+    "Ever since, I think.",
+    "I think they're setting up those high pitched themes.",
+    "Once you.",
+    "Unless that's the music.",
+    "I feel so bad.",
+    "My dog just have to sit there and just deal with the noise.",
+    "And I'm like Alana law.",
+    "What are fireworks?",
+    "Mom.",
+    "How to data or data?",
+    "Are And then if we haven't asked right there that I can.",
+    "Copy.",
+    "As it a strange way of doing all this, I know.",
+    "OK, that's looking good, but I am going to Scooch so this day over little bit there we are wonderful.",
+    "Yes good.",
+    "Thursday, OK?",
+    "And.",
+    "F is another one that I hate.",
+    "WS and S.",
+    "There's so many different ways to do and like right out letters, and I've those are the ones that I've never been able to figure out my own way.",
+    "Are I.",
+    "Friday",
+    "Yeah, like that.",
+    "And write it out right it out but a little.",
+    "I like your work.",
+    "It's great.",
+    "Oh thank you Mike, I appreciate that.",
+    "Welcome to the stream.",
+    "As I'm sitting here being fussy over the way, I write my S.",
+    "'cause letters are hard and weird.",
+    "Yeah.",
+    "Fr.",
+    "Friday, yes I am that nerd who puts a heart over my eyes not all the time sometimes.",
+    "Compared.",
+    "I have something in my eye.",
+    "Speaking of eyes, I have something in mind Friday, alright OK looking good for now control save if you're working on stuff.",
+    "If you're drawing on things, if you're if you're writing anything on a document control, save it for the love it old.",
+    "And.",
+    "Yes.",
+    "Saturday OK, so I think that is looking pretty good.",
+    "For now, Oh Lord, in my eye.",
+    "I think I have a hair like in my eyes, so I'm going to turn my camera off really quick if I can find it.",
+    "'cause I'm blind.",
+    "Why is it that one?",
+    "OK, yeah, I don't want to see you guys to see me as I poked my eye because sometimes the stuff can get really gross.",
+    "What are you There you are?",
+    "Come here.",
+    "Oh, it was a little cat Fuzz.",
+    "Why am I not surprised from cat fuzz?",
+    "I'm back, buzz has been removed from my eyeball.",
+    "Do you think to be a designer?",
+    "You need to know how to draw.",
+    "Um?",
+    "Honestly, no, because there's there.",
+    "So there is no.",
+    "Well.",
+    "If you want to be a character designer.",
+    "You have to understand basic anatomy and one way you can start doing that is looking up like pose references on um.",
+    "On Pinterest or online and start drawing them, start tracing over them to try to figure out the flow of the body, how the anatomy works, um, things like that.",
+    "But if you're if you're designing clothes, whatever, not necessarily 'cause.",
+    "Art is such an interesting N broad creative spectrum.",
+    "You can do anything with it.",
+    "Um?",
+    "Man, I mean for me.",
+    "In my case I my goal is to be a character designer or an animator.",
+    "And so because of that I have to understand the anatomy of the face, the human anatomy of the body.",
+    "You know proportions, things like that.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION",
+      "span": [
+        3,
+        4
+      ],
+      "sentence": [
+        "Does it fit?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION",
+      "span": [
+        12,
+        13
+      ],
+      "sentence": [
+        "Where did I go?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        18,
+        19
+      ],
+      "sentence": [
+        "Do you prefer Photoshop or illustrator?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION",
+      "span": [
+        22,
+        23
+      ],
+      "sentence": [
+        "Um, uh?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        40,
+        41
+      ],
+      "sentence": [
+        "What are fireworks?"
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        42,
+        43
+      ],
+      "sentence": [
+        "How to data or data?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        48,
+        49
+      ],
+      "sentence": [
+        "Thursday, OK?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        76,
+        77
+      ],
+      "sentence": [
+        "Why is it that one?"
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "QUESTION",
+      "span": [
+        78,
+        79
+      ],
+      "sentence": [
+        "What are you There you are?"
+      ]
+    },
+    "T9": {
+      "id": "T9",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        81,
+        82
+      ],
+      "sentence": [
+        "Why am I not surprised from cat fuzz?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        83,
+        84
+      ],
+      "sentence": [
+        "Do you think to be a designer?"
+      ]
+    },
+    "T12": {
+      "id": "T12",
+      "label": "QUESTION",
+      "span": [
+        95,
+        96
+      ],
+      "sentence": [
+        "Um?"
+      ]
+    },
+    "T13": {
+      "id": "T13",
+      "label": "ANSWER",
+      "span": [
+        19,
+        21
+      ],
+      "sentence": [
+        "I don't think I've ever used illustrator.",
+        "I think I've only played with photo shop."
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "ANSWER",
+      "span": [
+        84,
+        88
+      ],
+      "sentence": [
+        "You need to know how to draw.",
+        "Um?",
+        "Honestly, no, because there's there.",
+        "So there is no."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Relevance",
+      "question": "T2",
+      "answer": "T13",
+      "question_sentence": [
+        "Do you prefer Photoshop or illustrator?"
+      ],
+      "answer_sentence": [
+        "I don't think I've ever used illustrator.",
+        "I think I've only played with photo shop."
+      ]
+    },
+    "R2": {
+      "id": "R2",
+      "label": "Chitchat",
+      "question": "T10",
+      "answer": "T11",
+      "question_sentence": [
+        "Do you think to be a designer?"
+      ],
+      "answer_sentence": [
+        "You need to know how to draw.",
+        "Um?",
+        "Honestly, no, because there's there.",
+        "So there is no."
+      ]
+    }
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "sentence": [
+    "Things they have pink so Gee Board.",
+    "Brazil Hello Alex.",
+    "Welcome in all the way from Brazil how you doing down there.",
+    "It is.",
+    "Like 85 degrees in my room at this moment.",
+    "I have I love to see you all.",
+    "Thank you.",
+    "Thank you so much that makes you feel so good.",
+    "On such a timid streamer.",
+    "It's so goofy.",
+    "Like for someone who wants to make this like their profession, you know.",
+    "I get really, really anxious and I'm like OO.",
+    "No one wants to see me.",
+    "But that's just 'cause I have anxiety, but that's OK.",
+    "Send I'm really sorry for all the stupid freaking fireworks going on out there.",
+    "It's just been rude and dumb.",
+    "OK, I'm going to do this all the way across.",
+    "So I know how big I want my learners defer.",
+    "I love it when it does the weird dot anything that's fun.",
+    "OK, so I know how big I want my words.",
+    "I don't understand you better.",
+    "I don't speak English very well.",
+    "All I'm sorry.",
+    "But that's OK.",
+    "That's going to be my small letter size.",
+    "There we go.",
+    "Oh Geez.",
+    "I did not mean to zoom zoom in that much boy.",
+    "And they.",
+    "Look I'm excited that so many people from around the world are in here.",
+    "That's so freaking cool.",
+    "I get excited about that stuff.",
+    "This July 4th after all, I got my white cloth.",
+    "I unfortunately don't have any of those.",
+    "Um?",
+    "I've been feeling oddly, like indifferent about 4th of July lately.",
+    "I mean.",
+    "Maybe it's because of the state of the world right now and things like that, but it's it's.",
+    "It's a little weird.",
+    "Good Lord.",
+    "Better be fireworks or swear to G i'ma have to go out and beat someone up right now.",
+    "Yeah, my family, my mom's out with her boyfriend, my sisters with her fiance and her sons.",
+    "I'm here at home.",
+    "Just show my thing.",
+    "Are you doing a planner?",
+    "I'm trying to make a streaming schedule 'cause I I like streaming.",
+    "I want to make it mycareer.",
+    "It's so fun and it gives me an excuse to draw all day like I've always dreamed, but I am.",
+    "The worst at holding myself accountable.",
+    "So I am trying to make a schedule that I can adhere to and.",
+    "You know, just do kind of thing, so it's it's like a planner.",
+    "It's like my own planner and then I can post this on my be Hans and be like these are the days I'm guaranteed to stream, you know, and post it to my Twitter and things like that.",
+    "So that's the goal.",
+    "It's a schedule.",
+    "This is such a weird thing.",
+    "I like how I write certain letters and I just figure I can go in and copy them.",
+    "Oh yeah, I'm sure.",
+    "I'm sure you guys can hear.",
+    "Everything blowing up where I am right now.",
+    "Mildly aggravating.",
+    "Yeah.",
+    "Hey.",
+    "OK, that's not bad.",
+    "Just to get a tiny bit there we are.",
+    "OK, it's looking good.",
+    "Alright.",
+    "I'm liking my handwriting for once.",
+    "Oh, what did I do?",
+    "What did I do?",
+    "OK, I'm going to.",
+    "M&MS Here, Hang on.",
+    "Copy.",
+    "Why did they merge all layers?",
+    "OK, there we are.",
+    "That was very strange.",
+    "There we are alright.",
+    "Fix it, everything's good.",
+    "Guys, don't worry.",
+    "I hit a button somewhere Sunday, Monday, Tuesday.",
+    "WS were always so hard.",
+    "Taking a quick one for myself for the week yet.",
+    "And that's The thing is, I've I've had jobs before.",
+    "I've had a set schedule like you come in on this day and you work for 8 hours and I'm like Alright, you know, but that's.",
+    "That someone telling me what to do, and, uh.",
+    "And that's a lot different than.",
+    "Making my own schedule.",
+    "You know, being my own boss.",
+    "WS are so hard.",
+    "So many ways to do it.",
+    "If you could do that, you can do that.",
+    "You can do this.",
+    "You could do a weird like.",
+    "Shoot my doing that.",
+    "Make myself barf.",
+    "3.",
+    "And then just.",
+    "Do it like that.",
+    "WS are one of my least favorite letters in the English language.",
+    "Who?",
+    "Also, too bad those kind of cute.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION",
+      "span": [
+        34,
+        35
+      ],
+      "sentence": [
+        "Um?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        44,
+        45
+      ],
+      "sentence": [
+        "Are you doing a planner?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION",
+      "span": [
+        67,
+        68
+      ],
+      "sentence": [
+        "Oh, what did I do?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION",
+      "span": [
+        68,
+        69
+      ],
+      "sentence": [
+        "What did I do?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION",
+      "span": [
+        72,
+        73
+      ],
+      "sentence": [
+        "Why did they merge all layers?"
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        98,
+        99
+      ],
+      "sentence": [
+        "Who?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "ANSWER",
+      "span": [
+        45,
+        47
+      ],
+      "sentence": [
+        "I'm trying to make a streaming schedule 'cause I I like streaming.",
+        "I want to make it mycareer."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T1",
+      "answer": "T6",
+      "question_sentence": [
+        "Are you doing a planner?"
+      ],
+      "answer_sentence": [
+        "I'm trying to make a streaming schedule 'cause I I like streaming.",
+        "I want to make it mycareer."
+      ]
+    }
+  }
+}

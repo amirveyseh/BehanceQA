@@ -1,0 +1,202 @@
+{
+  "sentence": [
+    "I think that would be.",
+    "Let me super cool.",
+    "Um?",
+    "Alright, let's see what else we got.",
+    "In terms of our sketches.",
+    "Um, Camden, what did you think about it in procreate?",
+    "I don't think I actually ever tried it in procreate.",
+    "I just remember hearing about it.",
+    "Yes, I'm curious whether.",
+    "Um?",
+    "Yeah, what your thoughts are.",
+    "If you liked it if.",
+    "It was kind of weird if it was cool.",
+    "So this is another one that is.",
+    "A rough, rough sketch?",
+    "Hum.",
+    "I have also liked putting like.",
+    "A branch.",
+    "It's incorporating like a branch and.",
+    "Um?",
+    "The birds mouth.",
+    "And the like, symbolizing peace.",
+    "It's that just feels like a.",
+    "Huh, very important message to just keep on putting out into the world.",
+    "Yeah, I think I.",
+    "Probably keep that.",
+    "But it might be.",
+    "So little wonky?",
+    "OK.",
+    "It's probably pretty good for now and then.",
+    "Let's see I will turn that sketch back on.",
+    "And kind of add in.",
+    "The sound like.",
+    "Different fun, playful elements.",
+    "Again, I'm probably going to change some of those.",
+    "Hum.",
+    "Sometimes I'm drawing like birds or animals, or you know, just something that I don't normally draw.",
+    "I'll look up a reference photo.",
+    "That's the kind of make sure I'm on the right track, but.",
+    "I also other times like to like purposely not look at a reference photo and just kind of like.",
+    "Um?",
+    "Draw based off of like memory and just kind of like what what is that?",
+    "Object feel like um, and even when it's like not like.",
+    "Quite like a technically sound.",
+    "I find that those drawings still like feel almost more accurate then like if I were to like.",
+    "Just go and go ahead and look at a drawing or I'm sorry look at.",
+    "The photograph and um draw from that, so sometimes they just kind of actually like not really knowing exactly.",
+    "Exactly what something looks like and just kind of like.",
+    "Um, playing with it and using my own like memory and.",
+    "Like just more of like that intuitive.",
+    "Side See if I can get somewhere close.",
+    "I mean, I don't even know what type of bread this would be.",
+    "It kind of looks like a goose maybe, which I don't love.",
+    "Geese by any means like.",
+    "I mean, I guess I don't.",
+    "This like them, but.",
+    "It's not like a super cool bird.",
+    "Alright, that's actually I I am.",
+    "I am liking that.",
+    "Um?",
+    "I want it to feel like both of these pieces are working together, so I'm almost like wondering if I could do something like.",
+    "Like it's almost like a little sun, like how?",
+    "The sun is.",
+    "On the other piece, is beams shining down.",
+    "Is that weird?",
+    "Is that cool?",
+    "It might be a lot.",
+    "Control this other thing.",
+    "Market also.",
+    "Just kind of.",
+    "Do that.",
+    "Still like little circles.",
+    "Um?",
+    "Give him little.",
+    "Overdoing it and um.",
+    "Adding that, just like really cool extra detail that brings it to the next level.",
+    "Remember, um?",
+    "In school, like working on an art project or whatnot.",
+    "And I feel like I would always like that.",
+    "I like experimenting and seeing like you know, how far can I take something and.",
+    "Almost like every art projects that I would do I would always.",
+    "Like take it just a little bit too far 'cause I would want, you know.",
+    "Explore and see.",
+    "See what ideas work with ideas didn't work and I would always just end up ruining, but not always.",
+    "But, uh, a lot of a lot of my artwork got ruined just because I kept pushing it and seeing what.",
+    "What I could do with it?",
+    "Which now that I do a lot of digital artwork.",
+    "It doesn't matter 'cause I can always just do commands the OR the iPad.",
+    "You just double tap something and undos it or does it?",
+    "And I can, you know, duplicate it, save the layer.",
+    "Super Super Convenient.",
+    "'cause yeah.",
+    "Back in the old days, you can do that.",
+    "OK, so.",
+    "I don't know is that like way.",
+    "Way too much way too overwhelming.",
+    "I kind of like that.",
+    "But it also feels like it could be like ways.",
+    "Play overkill.",
+    "I do wanna see what this would look like is.",
+    ""
+  ],
+  "entity": {
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        5,
+        6
+      ],
+      "sentence": [
+        "Um, Camden, what did you think about it in procreate?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        41,
+        42
+      ],
+      "sentence": [
+        "Draw based off of like memory and just kind of like what what is that?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        64,
+        65
+      ],
+      "sentence": [
+        "Is that weird?"
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        65,
+        66
+      ],
+      "sentence": [
+        "Is that cool?"
+      ]
+    },
+    "T15": {
+      "id": "T15",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        88,
+        89
+      ],
+      "sentence": [
+        "You just double tap something and undos it or does it?"
+      ]
+    },
+    "T16": {
+      "id": "T16",
+      "label": "ANSWER",
+      "span": [
+        6,
+        8
+      ],
+      "sentence": [
+        "I don't think I actually ever tried it in procreate.",
+        "I just remember hearing about it."
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        61,
+        64
+      ],
+      "sentence": [
+        "Like it's almost like a little sun, like how?",
+        "The sun is.",
+        "On the other piece, is beams shining down."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Relevance",
+      "question": "T1",
+      "answer": "T16",
+      "question_sentence": [
+        "Um, Camden, what did you think about it in procreate?"
+      ],
+      "answer_sentence": [
+        "I don't think I actually ever tried it in procreate.",
+        "I just remember hearing about it."
+      ]
+    }
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "sentence": [
+    "Like, almost like, uh, like like really big tracking in between the letters.",
+    "Make him a little bit more like short and fat.",
+    "Fill up the space a little bit better.",
+    "This might be a little bit too big.",
+    "Yeah, I'm curious if anyone in the chat has ever ever been to either Olympic National Park or any other national parks, and if so.",
+    "Yeah, what's what's your favorite other National Park or what's like a fun?",
+    "Fun memory from Olympic National Park.",
+    "I'd love to hear.",
+    "I know I was sharing a little bit about my experience at Olympic National Park yesterday.",
+    "Was it yesterday?",
+    "I can't even remember now was I feel like the days are all blurring together.",
+    "These are yesterday that I streamed her the day before.",
+    "Actually, I think I streamed yesterday and the day before.",
+    "Just the biggest slug you'll ever see.",
+    "It's just it's so creepy and there's so slimy and I don't know, but uhm, I was.",
+    "Um?",
+    "I was hiking up Rattlesnake Ledge which it was not in Olympic National Park but it's out in Washington still and.",
+    "We are hiking up and we had to like we were going up with really steep incline 'cause we went through a different way like the not the regular paved way but.",
+    "Um, the back way where at several points we had like it's called scramble.",
+    "So like you have to.",
+    "Pretty much like climb with your.",
+    "Like on your hands and knees up and move up through the mountain, but uhm.",
+    "I.",
+    "I can't remember if I accidentally grabbed the slug or what happened.",
+    "I was around this long hike and all of a sudden maybe I like just.",
+    "I was I moved in with like right in front of it like I looked and I saw this thing right in front of my face.",
+    "And I didn't even know that these creatures existed.",
+    "Yeah, and um, Oh my gosh, I almost rolled down the mountain.",
+    "I was freaking out.",
+    "Probably like that scene from parent trap where the.",
+    "The evil step.",
+    "Mom or I guess girlfriend?",
+    "Uh, find the the lizard on her face and just freaks out.",
+    "But Yeah so.",
+    "Needless to say, banana slugs left an impression on me and.",
+    "That is why I am including it.",
+    "And this.",
+    "This drawing so.",
+    "So this one I have this, uh.",
+    "Picture or not pictures sketch.",
+    "Of.",
+    "A tropical flower?",
+    "Which I might have to change the way this flower looks a little bit 'cause I can't remember if this is.",
+    "Actually true too.",
+    "The.",
+    "Um environment out there or not?",
+    "Definitely believe are uhm.",
+    "And how like this is almost like a Fern like leaf, which there's ferns everywhere?",
+    "Um, definitely, big leaves everywhere but.",
+    "I'm just kind of quickly sketching this out and then I'm going to double check and.",
+    "Make sure that flower is correct, and if it's not all.",
+    "Draw a different flower.",
+    "I like making sure that, uhm.",
+    "Specially like when I'm doing any uhm?",
+    "Like outdoor branding work like I really want to make sure that uhm.",
+    "We're showing the native.",
+    "Species to that land.",
+    "And not just making stuff up another thing.",
+    "There's a lot of bears over there.",
+    "Which is really cool.",
+    "So this bear, I sketched out Super Quick.",
+    "As you can see, he's not like.",
+    "Super.",
+    "Uh, technically accurate, but.",
+    "Kind of captures that, uhm?",
+    "Captures maybe a more like playful aesthetic.",
+    "So I might change his shape a little bit, but also kind of like.",
+    "How like illustrative yes.",
+    "Rather than just like a.",
+    "Exact technical.",
+    "Drawing.",
+    "We'll see.",
+    "OK, wow that there's way too skinny there think is there we go?",
+    "Around Europe, but um, Oh my gosh.",
+    "Yeah, Paris is just.",
+    "More than I could have ever imagined is just amazing and the Louvre was incredible.",
+    "Oh, I could spend her month walking around the Louvre, but uhm.",
+    "Mohammed's asking what device am I using?",
+    "I am using an iPad, some I'm working with an on an iPad pro and using an Apple pencil to draw on it, and I'm working in Adobe fresco which is.",
+    "It's their app for, uhm.",
+    "Uh illustration so.",
+    "Mobile illustration on any mobile device so or not any mobile device but iPad.",
+    "Yeah, it it's really great, um.",
+    "They actually officially came out with fresco.",
+    "Maybe like nine months ago, it hasn't even been out of full year, which is pretty crazy, um.",
+    "But I.",
+    "I've already used it so much I actually.",
+    "Um illustrated a children's book this past year that should be getting released.",
+    "Soon ish hopefully.",
+    "So I can share that with you guys, but uhm.",
+    "I illustrated the entire thing in Adobe fresco and it was really good experience, especially when working on such a big project and I made it all in like a watercolor style, so that was.",
+    "Those nice to be able to.",
+    "Do digital watercolors because it's easier to save up.",
+    "An Yeah Revisioning made revisions a lot easier and just a really, really good workflow.",
+    "Even switching from Frisco to illustrator and Photoshop, it's all.",
+    "It's all very, very cohesive.",
+    "Yeah, I like it a lot.",
+    "So this is where I always get stuck because I kind of.",
+    "Go back and forth with either wanting.",
+    "Her wanting to do like bright colors or I have like all these earth tones that you can see that literally labeled Myers tones.",
+    ""
+  ],
+  "entity": {
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        9,
+        10
+      ],
+      "sentence": [
+        "Was it yesterday?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        47,
+        48
+      ],
+      "sentence": [
+        "And how like this is almost like a Fern like leaf, which there's ferns everywhere?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        77,
+        78
+      ],
+      "sentence": [
+        "Mohammed's asking what device am I using?"
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        5,
+        7
+      ],
+      "sentence": [
+        "Yeah, what's what's your favorite other National Park or what's like a fun?",
+        "Fun memory from Olympic National Park."
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "ANSWER",
+      "span": [
+        48,
+        52
+      ],
+      "sentence": [
+        "Um, definitely, big leaves everywhere but.",
+        "I'm just kind of quickly sketching this out and then I'm going to double check and.",
+        "Make sure that flower is correct, and if it's not all.",
+        "Draw a different flower."
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "ANSWER",
+      "span": [
+        78,
+        82
+      ],
+      "sentence": [
+        "I am using an iPad, some I'm working with an on an iPad pro and using an Apple pencil to draw on it, and I'm working in Adobe fresco which is.",
+        "It's their app for, uhm.",
+        "Uh illustration so.",
+        "Mobile illustration on any mobile device so or not any mobile device but iPad."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Relevance",
+      "question": "T6",
+      "answer": "T2",
+      "question_sentence": [
+        "And how like this is almost like a Fern like leaf, which there's ferns everywhere?"
+      ],
+      "answer_sentence": [
+        "Um, definitely, big leaves everywhere but.",
+        "I'm just kind of quickly sketching this out and then I'm going to double check and.",
+        "Make sure that flower is correct, and if it's not all.",
+        "Draw a different flower."
+      ]
+    },
+    "R2": {
+      "id": "R2",
+      "label": "Relevance",
+      "question": "T10",
+      "answer": "T3",
+      "question_sentence": [
+        "Mohammed's asking what device am I using?"
+      ],
+      "answer_sentence": [
+        "I am using an iPad, some I'm working with an on an iPad pro and using an Apple pencil to draw on it, and I'm working in Adobe fresco which is.",
+        "It's their app for, uhm.",
+        "Uh illustration so.",
+        "Mobile illustration on any mobile device so or not any mobile device but iPad."
+      ]
+    }
+  }
+}

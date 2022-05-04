@@ -1,0 +1,179 @@
+{
+  "sentence": [
+    "What time is it even I totally lost track.",
+    "I can't remember what time I started 1013.",
+    "I think I started at like 845.",
+    "Uhm, yeah, probably like another 30 minutes here.",
+    "Hum.",
+    "Right, This is very nice.",
+    "Thanks for sharing.",
+    "Yeah no problem.",
+    "Thanks for tuning in.",
+    "Where are you tune from today?",
+    "OK, I have an idea for this next one so.",
+    "The lines are blurry.",
+    "Oh I can't.",
+    "OK wow, I'm so happy.",
+    "I figured that I.",
+    "I thought I've tried to do the paint.",
+    "Bucket fill on um.",
+    "Other vector lines and it didn't work, but.",
+    "I obviously didn't do that right because it totally works and this is really good, because now the line is not blurry and that makes me.",
+    "So happy yay.",
+    "OK, that looks a lot better.",
+    "Alright, let me just quickly.",
+    "Go fell in the bear.",
+    "Um?",
+    "OK.",
+    "Then they should probably do this one as well.",
+    "And I know.",
+    "For oops, OK uhm.",
+    "His fur has some of the.",
+    "Blue still but.",
+    "I won't bore you guys with.",
+    "Watching me do each and every little individual strand of hair.",
+    "Um?",
+    "OK, yes, Oh my gosh, this is so awesome.",
+    "I'm so glad that.",
+    "So glad that this works.",
+    "OK, quickly just making sure all of my colors match.",
+    "It's only only slightly important.",
+    "Um, that full?",
+    "How are OK.",
+    "Here we go.",
+    "So it's nice and all your colors are or all the lines are attached to, so you just have to click it once.",
+    "OK.",
+    "Now we're now we're cooking.",
+    "Got all the same.",
+    "Color schemes very good alright so.",
+    "OK.",
+    "Back to this so.",
+    "I'm going to.",
+    "Had more shadows again.",
+    "Um?",
+    "Cool and I just want to say again.",
+    "Hello to everyone who just strange dream up.",
+    "My name is Lisa and I'm a freelance artist, graphic designer.",
+    "Illustrator.",
+    "Um?",
+    "I have my own.",
+    "Freelance company called made by Lisa Marie so you guys can find me on Instagram at made by Lisa Marie.",
+    "But yeah, thanks for thanks for joining in the stream, um.",
+    "It's been fun streaming over the last couple weeks.",
+    "And it's kind of getting to know the community a little bit better and Whatnot.",
+    "And it's always if you guys have any questions.",
+    "About my process or.",
+    "How to use Adobe fresco or.",
+    "Anything like that?",
+    "I'm I'm always up.",
+    "Up for sharing.",
+    "Sharing a anything any of that.",
+    "Those tips or freelance strategy?",
+    "It's another thing I love talking about.",
+    "All right?",
+    "So now I'm just kind of slowly building up the.",
+    "Colors again on.",
+    "Um?",
+    "And this.",
+    "This piece Hey Julie, Um I Julie says Lisa, where are you based out of?",
+    "So I'm actually.",
+    "I'm just outside of Chicago, so uhm, yeah I am born and raised in the Midwest, Uhm?",
+    "Ungroup these layers.",
+    "Group.",
+    "Hum group and then.",
+    "I feel like I want.",
+    "I want to start.",
+    "Playing with like adding.",
+    "Text to think so.",
+    "Going to for sure.",
+    "Just merge these two together.",
+    "Keep this one out, this one out.",
+    "Mike had the flood for now, had the bear.",
+    "Hawaii it.",
+    "That Which that down.",
+    "And I guess I've never looked up.",
+    "If there are, let me see the Flowers in Olympic.",
+    "National Park So there's definitely a lot of different Flowers in Olympic National Park, but I don't know if.",
+    "I mean this far just kind of made up.",
+    "In my head, so I'm just trying to make sure it looks like it could be something that.",
+    "Ambrose there.",
+    "And kind of scanning through things quickly.",
+    "I don't know.",
+    "I don't feel 100% confident with.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        9,
+        10
+      ],
+      "sentence": [
+        "Where are you tune from today?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        68,
+        69
+      ],
+      "sentence": [
+        "Those tips or freelance strategy?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        75,
+        76
+      ],
+      "sentence": [
+        "This piece Hey Julie, Um I Julie says Lisa, where are you based out of?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        63,
+        65
+      ],
+      "sentence": [
+        "How to use Adobe fresco or.",
+        "Anything like that?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "ANSWER",
+      "span": [
+        76,
+        78
+      ],
+      "sentence": [
+        "So I'm actually.",
+        "I'm just outside of Chicago, so uhm, yeah I am born and raised in the Midwest, Uhm?"
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T10",
+      "answer": "T2",
+      "question_sentence": [
+        "This piece Hey Julie, Um I Julie says Lisa, where are you based out of?"
+      ],
+      "answer_sentence": [
+        "So I'm actually.",
+        "I'm just outside of Chicago, so uhm, yeah I am born and raised in the Midwest, Uhm?"
+      ]
+    }
+  }
+}

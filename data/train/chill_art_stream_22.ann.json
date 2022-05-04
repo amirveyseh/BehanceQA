@@ -1,0 +1,209 @@
+{
+  "sentence": [
+    "I'm almost 30 years old and like I'm walking down Walmart do to do to do it like down the aisle and I'm like Oh I can't go down.",
+    "Wait a minute.",
+    "I'm an adult.",
+    "I don't drink.",
+    "I don't drink that often.",
+    "I mean, I was raised in a house for like you know, my mom growing up.",
+    "She hated alcohol with every fiber of her being.",
+    "She hated alcohol so you know, I kind of, you know, you adhere to the thought process of your parents when you're young and so I kind of stuck with that.",
+    "An you know, as an adult my mom's relax a little bit and like.",
+    "Yeah, yeah, like my mom in the past couple of years has started drinking wine and I'm like.",
+    "Who are you and what have you done with my mom?",
+    "Like you like wine and.",
+    "And football.",
+    "Huh?",
+    "But like where we are now living in a safer environment where we can be more ourselves.",
+    "So it's cool that I get to learn a whole new part of my mom.",
+    "But at the same time I'm like.",
+    "Is this you or is just this like hardcore rebound?",
+    "Kind of thing that happens after you move out of a toxic situation.",
+    "I don't know yet.",
+    "I survived on Ritz bits when I was at base girlfriends house.",
+    "You know you could have complained.",
+    "I would have.",
+    "Then again, I'm I'm a little but then I would be guilty about it.",
+    "Columbia Independence Day is on July 20th.",
+    "Oh, interesting.",
+    "I need to learn more about.",
+    "World history I remember so little.",
+    "Of it.",
+    "Alright where they go.",
+    "I'm over here now.",
+    "They made food sometimes, but I didn't want to bother him in their little time they had.",
+    "Not true.",
+    "I'm happy that they did get to see each other though.",
+    "It was cool that that bass took you out there.",
+    "And I gotta say base girlfriend.",
+    "Jesus, she is beautiful.",
+    "I'm like.",
+    "I don't know how I feel about you right now.",
+    "I think I'm questioning things, but holy you're beautiful.",
+    "Need an air fryer?",
+    "Yeah dude.",
+    "My sister got one of those and she like made us French fries the other night and I was like.",
+    "There so.",
+    "Soft and savory.",
+    "What is this?",
+    "And she's like it's an air Fryer and I was like, whoa.",
+    "This is amazing.",
+    "An insta pot, yeah?",
+    "I just need to learn how to cook.",
+    "Well.",
+    "I don't need to learn how to cook.",
+    "I need to.",
+    "I need to learn how to not be afraid to cook.",
+    "And it's not.",
+    "It's not because like I'm afraid of ruining food.",
+    "You know I've ruined food.",
+    "Before I, I'll tell you, I I.",
+    "It's weird when I cook, I feel like I'm stealing food for my mother.",
+    "Like Oh, that's most food like I don't know if she's going to have visitors or someone's going to come over and want to eat, or if mom wants to have this later on, but I want to eat it now and I think I'm stealing from her.",
+    "So this is this weird.",
+    "Stupid thing that I developed.",
+    "Like a long time ago and I haven't figured out how to break it yet.",
+    "But So like most of my diet is like.",
+    "Asian Asian noodles.",
+    "Which is not healthy.",
+    "You know, when you eat it like continuously.",
+    "There we go, that looks better.",
+    "Amazon.",
+    "I was on the road, Oh yeah.",
+    "Oh see, that would be nice.",
+    "I haven't is supot actually.",
+    "But even then, it's just like it's beef and veggies.",
+    "I'm stealing from my mom.",
+    "That's a sentence my mom needs.",
+    "You know it's I am.",
+    "I I can live off of noodles.",
+    "You know, my mom is the one that needs all the vitamins and stuff like that.",
+    "It's so it's so stupid and it's weird and I know it's a dumb thought process.",
+    "You know, it's like panda.",
+    "You can cook something a little and I'm like no.",
+    "Mom.",
+    "And it's like.",
+    "Can we stop with this now?",
+    "Panda K thanks.",
+    "But it's a thing I've had for like.",
+    "15 years now.",
+    "So it's going to take a long time to break, but I'm starting to break it.",
+    "I'll tell you, if you like um, your fried potatoes, like a little bit crunchy, I make some mean fried potatoes, that is, that is something I can cook.",
+    "Some good, slightly crunchy fried potatoes.",
+    "I have every confidence in myself about that.",
+    "You just need with this logic plugs for your lighter outlet Fryer riding shotgun.",
+    "He From the Scrooge.",
+    "Is now.",
+    "Oh Jesus.",
+    "I hate when you click on something in it like like.",
+    "It doesn't let go when you're done clicking, so it starts doing weird things and you're like well.",
+    "Cartoon isn't quite that there, we go.",
+    "Hello fried potatoes.",
+    "Oil in real butter.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        10,
+        11
+      ],
+      "sentence": [
+        "Who are you and what have you done with my mom?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION",
+      "span": [
+        13,
+        14
+      ],
+      "sentence": [
+        "Huh?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        17,
+        18
+      ],
+      "sentence": [
+        "Is this you or is just this like hardcore rebound?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        40,
+        41
+      ],
+      "sentence": [
+        "Need an air fryer?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        45,
+        46
+      ],
+      "sentence": [
+        "What is this?"
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        48,
+        49
+      ],
+      "sentence": [
+        "An insta pot, yeah?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        83,
+        84
+      ],
+      "sentence": [
+        "Can we stop with this now?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "ANSWER",
+      "span": [
+        46,
+        47
+      ],
+      "sentence": [
+        "And she's like it's an air Fryer and I was like, whoa."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T4",
+      "answer": "T7",
+      "question_sentence": [
+        "What is this?"
+      ],
+      "answer_sentence": [
+        "And she's like it's an air Fryer and I was like, whoa."
+      ]
+    }
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "sentence": [
+    "Yeah.",
+    "That's so cool though.",
+    "Hello, welcome in We're having strange conversations about sponge Bob and Nickelodeon announcing his possible possibility of being an LGB tikku ally.",
+    "I love it.",
+    "Oh man, that's cool.",
+    "I think that's great.",
+    "Oh man, that makes you just so happy.",
+    "It's like heck Yeah, man.",
+    "Everybody.",
+    "What time is it there is 2:00 o'clock AM Oh my goodness.",
+    "It is very early in the morning for you.",
+    "It is 1030 for me.",
+    "So not horribly late, but.",
+    "It's also 4th of July night, so this whole night is going to be like a rollercoaster.",
+    "I just figured tonight was going to be hectic and from the booming you guys can hear in the background.",
+    "It has been.",
+    "24 who's doing stuff in my driveway?",
+    "I have my screen close.",
+    "I can't see.",
+    "This is keeping us.",
+    "This is keeping a lot of us here listening.",
+    "I ask the real questions, where are you from California?",
+    "I am in the heart of a miracle.",
+    "So it's it's 4th of July here right now.",
+    "And if you hear popping and banging in the background, it's.",
+    "Either gunshots or fireworks.",
+    "It's a little hard to tell the difference between the two.",
+    "All right, who's being outside my house right now.",
+    "OK, you're taking up garbage.",
+    "I'm checking my security cameras.",
+    "I'm sorry.",
+    "I want to make sure there's no one being its range.",
+    "Outside of my house.",
+    "OK, now we're good.",
+    "We're in the clear.",
+    "But I am from.",
+    "California.",
+    "What is my job I currently.",
+    "Do not have a job at the moment.",
+    "Recite this.",
+    "At my house right now.",
+    "Um?",
+    "Currently I am I'm working on.",
+    "Streaming and creating my own business this way so.",
+    "Not really doing a whole lot with my life and especially with the virus.",
+    "And the fact that asthma runs excessively rampant in my family.",
+    "It's a little.",
+    "It's a little tough for me to try to get a job right now.",
+    "Texas, here, here in Texas we get our guns out to celebrate, yeah.",
+    "See I live in the neighborhood where where you don't know if someone is using the fireworks to hide, you know someone else being murdered or something.",
+    "A hard time with that I was going to do this.",
+    "Weird little trick of mine that is not what I wanted to do.",
+    "When you go for her.",
+    "Is there any terror?",
+    "This looks weird.",
+    "Totally understand.",
+    "Give me half having sex.",
+    "There we are not actually hookah cute.",
+    "Switch it down.",
+    "Well, that's actually like a cute.",
+    "OK, I'm going to do something about this mouth so most.",
+    "San Jose I have been in the Sacramento region my whole life.",
+    "I've never moved outside of it.",
+    "Well, no.",
+    "I lived in Tuala Utah for about.",
+    "Um?",
+    "Oh Lord, how long do I have there?",
+    "Show major.",
+    "About six months into, well, Utah with muddied.",
+    "Lived out there at the time and then we had a family tragedy back then in 2005 and I moved back home.",
+    "And I've been.",
+    "I've been living here in the Sacramento region.",
+    "For as long as I can remember, really.",
+    "I looked up something that I wanted for reference, open, then I got super distracted.",
+    "There we are.",
+    "It.",
+    "Come back where to go?",
+    "OK, I really like how she did him.",
+    "Bowls on that looks so cute.",
+    "OK.",
+    "Turn me on video call.",
+    "Unfortunately, I don't do a lot of video calls.",
+    "Streaming streaming is the only thing I really do.",
+    "I don't even really talk to my family that often on video calls.",
+    "That's actually so cool.",
+    "I need a switch.",
+    "This over a little more actually.",
+    "Oh my gosh, it's looking so cute.",
+    "Oh my God, yes.",
+    "If you're working on stuff control saved by the way.",
+    "Don't don't let photo shop or whatever program you're using.",
+    "Take you away.",
+    "Who?",
+    "Toasty.",
+    "OK.",
+    "So we're slowly getting this figured out.",
+    "Uh-huh I want to try to get my line art finished before I call it a night.",
+    "There we are.",
+    "Oh yeah.",
+    "Her good cute, but are you making?",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION",
+      "span": [
+        16,
+        17
+      ],
+      "sentence": [
+        "24 who's doing stuff in my driveway?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        21,
+        22
+      ],
+      "sentence": [
+        "I ask the real questions, where are you from California?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION",
+      "span": [
+        41,
+        42
+      ],
+      "sentence": [
+        "Um?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION",
+      "span": [
+        53,
+        54
+      ],
+      "sentence": [
+        "Is there any terror?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION",
+      "span": [
+        65,
+        66
+      ],
+      "sentence": [
+        "Um?"
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION",
+      "span": [
+        66,
+        67
+      ],
+      "sentence": [
+        "Oh Lord, how long do I have there?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION",
+      "span": [
+        76,
+        77
+      ],
+      "sentence": [
+        "Come back where to go?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION",
+      "span": [
+        92,
+        93
+      ],
+      "sentence": [
+        "Who?"
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "QUESTION",
+      "span": [
+        99,
+        100
+      ],
+      "sentence": [
+        "Her good cute, but are you making?"
+      ]
+    },
+    "T9": {
+      "id": "T9",
+      "label": "ANSWER",
+      "span": [
+        67,
+        70
+      ],
+      "sentence": [
+        "Show major.",
+        "About six months into, well, Utah with muddied.",
+        "Lived out there at the time and then we had a family tragedy back then in 2005 and I moved back home."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T5",
+      "answer": "T9",
+      "question_sentence": [
+        "Oh Lord, how long do I have there?"
+      ],
+      "answer_sentence": [
+        "Show major.",
+        "About six months into, well, Utah with muddied.",
+        "Lived out there at the time and then we had a family tragedy back then in 2005 and I moved back home."
+      ]
+    }
+  }
+}

@@ -1,0 +1,2176 @@
+{
+  "sentence": [
+    "Make sure it's catching up.",
+    "Alright, I'm dropping frames like crazy.",
+    "Why am I dropping frames by frames, iframes?",
+    "OK, it's starting to go down.",
+    "I think we're good.",
+    "Let's do it.",
+    "Alright i'ma meeting.",
+    "Let's do.",
+    "Oh Oh hey friends.",
+    "Hey everybody, welcome to the stream.",
+    "I'm here with Peter Delta heater.",
+    "Hi Andrew, you're here to MC.",
+    "Might my stream?",
+    "Yeah, that's right.",
+    "So we were Co streaming all the things.",
+    "It's true warco streaming so if you're here or if you're on my channel or if you aren't Peters channel were coast through me you can go back and forth.",
+    "We don't have a centralized chat but I don't know deal with that.",
+    "You wanna pull feature like that would be a cool feature mention that that would be fun to like.",
+    "Be able to go live with two people and then yeah have both of the chats.",
+    "I'm actually going to open up your stream over there.",
+    "So let us know where you're from, where you're watching from up.",
+    "There is 60 people here in my stream.",
+    "How do you have feeder by?",
+    "Probably not that much.",
+    "I have no.",
+    "I like I like you.",
+    "I like to don't worry.",
+    "I probably messed something up, but I'm going to move you onto the other monitor so I can see you better 'cause I have to like look up every time to interact with you.",
+    "Anne, it's weird.",
+    "Sorry it put like so many of us on there.",
+    "I'm going to change some things on my screen then I think that's now there's four of us on here, so I'm just going to make sure that they're going.",
+    "Now I'm just screen casting your screen and it's beautiful and gorgeous and we are flawless and glowing.",
+    "Yeah I like it alright sweetie, I can't decide where do I watch you?",
+    "Watch right here.",
+    "Alright, so today we're going to be jumping in and doing some reviews from those that are doing the Adobe XP Daily Creative Challenge.",
+    "So I've got Andrew on screen share will just kind of run through these and talk about him back and forth and give some thoughts and perspectives and I don't know how fun.",
+    "Yeah, she's.",
+    "It's 'cause end licious.",
+    "I know nothing about UI, UX, design and so I'm going to give you all of my thoughts that are probably wrong but just know.",
+    "Yeah, hot takes.",
+    "Yep oh are you going to cover us that Peter or you gonna have a sliding above that note?",
+    "Because you're doing it off of my screen I follow which is going.",
+    "I forget the technical trickery's that we have to do to make this work.",
+    "I know alright, I'll put this window down here then does not work today.",
+    "Yeah, OK, cool.",
+    "Alright, the Magic of the Internet and technology.",
+    "OK, cool, so let's jump in here.",
+    "We're going to scroll.",
+    "All the way to the bottom and let's just start running through these.",
+    "So we've got some challenges that are a little bit older.",
+    "Let's take a look at this one.",
+    "I don't think I've done this one from ODI yet and so.",
+    "Let's see the scribe ODS.",
+    "Username will pass that over, and we're at the three minute mark, so just kind of make a little note there, whatever needs, let's check these out.",
+    "So the challenge for this Andrew was to create a workout app.",
+    "Something for being able to stay at home, do some workouts an this is from last week, but if I'm not mistaken, actually, let's just double check it while I'm here.",
+    "Check on my other screen.",
+    "The objective of the workout one was to utilize plugins and bring in photography and stuff, so I don't think we've met that objective just by having photography.",
+    "But let's take a look at this so.",
+    "A couple of things that I'm seeing here because we've got this home indicator, which is going to be always at the bottom of your screen.",
+    "It's it's about like things like 11 pixels up irritates the hell out of me.",
+    "Why it's 11 pixels and not something more specific, but that's going to sit down there, but I would love to see these items where they might be evenly spaced in the design of this bar.",
+    "You really want to space it more visually from this up to the top and so that way you have less likelihood of accidentally tapping that.",
+    "So I just move it up a bit.",
+    "It's also really good to showcase, you know, the actual service bars that you have at the top, so we might want to nudge this info down just a little bit, so that way it doesn't interfere as much.",
+    "But overall, I mean this is looking pretty good.",
+    "You want to get some initial talks?",
+    "Andrew, yeah, I agree.",
+    "I mean the the equivalent of like kerning visually versus like technically on those icons.",
+    "and I totally agree like moving it up a little bit will help.",
+    "The thing that's getting me on the middle screen.",
+    "Is the type feels too small to me?",
+    "Or like the spacing feels super weird.",
+    "That I could do like a like vertical stroke in between the fourth sets and the 20 mountain climbers.",
+    "Just like a little like hash or something to like.",
+    "Take that to two lines to make it bigger something so that the IT matches better with what's happening with the photo.",
+    "Because when I look at the photo I'm like there's so much extra space like to the side yellow above that it kind of throws me off and then it looks like you didn't put any text on the bottom image.",
+    "And if you're going to do that.",
+    "Make sure that there's text underneath that start workout screen.",
+    "Yeah, something else I would say is just in terms of going to do this really really rough, but like how you've got.",
+    "Get started here.",
+    "Lock that down a little bit in size.",
+    "We did something like this where.",
+    "We've got these items here, cool what I would love to see you do is like the way that you can lay out this information.",
+    "So I'm getting used to the new camera orientation, not looking straight on.",
+    "And now all the way over here is that we can modify this a little bit and display this information in a better way to kind of get these points across.",
+    "Why does this have a border on it, dear Lord?",
+    "Uhm, OK, So what you might be able to do here instead would be mountain climbers.",
+    "And then we could have that here show.",
+    "And maybe this is like.",
+    "Let's go 18 an maybe semibold or bowl just to give it a little differentiation.",
+    "And then what we could do is we could say 4 * 20.",
+    "And now we stack this information.",
+    "Like this?",
+    "And that allows you to take the image to the same aspect ratio as it is on the cards in front to push it to a little more 16 by 9 than that like 2 by three.",
+    "That is now.",
+    "And that way it is just consistent threat.",
+    "You can even run the corner so that it's like, oh, this card that I saw on the screen before is the same card that I'm seeing on this screen.",
+    "Yeah, absolutely.",
+    "So, just like really thinking through how you go about that.",
+    "And again, I'm going to butcher the.",
+    "The stuff here, but.",
+    "To this repeat grid.",
+    "And now this feels a lot better in terms of like how were laying out that information.",
+    "So I agree with you and I kind of get that same vibe from like I want this button to just.",
+    "Like I don't want a floating button, that kind of sits.",
+    "This is probably feels like it's something like up here.",
+    "I want the button to be either down below and the same width, or I really like the button style.",
+    "Of something like this, that's maybe usually do like 88 tall.",
+    "And then just this whole area is the button a call to action and that's the start workout.",
+    "I put the text in there that would be better to me.",
+    "You've completely lost the bottom NAV.",
+    "That throws me off too.",
+    "There's a couple of pages that don't have the bottom NAV and then a couple of pages that do and it feels like the beginning workout like should maybe have one.",
+    "But Yes, Oh yeah, let's definitely post in discord, yeah?",
+    "Hi friends.",
+    "Also, if you want to, Samir portfolios were giving away a free year of Adobe Creative Cloud tomorrow at 1:00 PM at Pacific Standard Time with Nick Longo and I so tuning for office hours, you need to use the hashtag on social media hashtag, Adobe office hours and will be giving away a free year of creative map.",
+    "That's it.",
+    "I like it.",
+    "It has to go in with like that.",
+    "The tune you know would even weigh tomorrow.",
+    "It's got to have the tune.",
+    "Yeah, what do you think about like the consistency between screens?",
+    "'cause I don't know like what the.",
+    "Like status quo is for whatever, but it seems like each of the Navs is like different and each of like the place is different.",
+    "And like as a user, I wouldn't know where to tap except for the back button, so I don't mind these two screens here because if I'm coming in here at home, I'm seeing featured workouts what's probably going to happen is I'm going to click on like core workout and then I'm going to go into this screen which allows me to go back if I were to, say start workout.",
+    "It's probably going to take this photo.",
+    "And LG that and that would then start into the video up here.",
+    "This information just pushes down like I like the flow of that we don't want to have that navigation 'cause it would be distracting on these screens.",
+    "This one feels out of place though Yeah.",
+    "The witch with auto animate stuff would be pretty easy to do that transition between that going into the photo and then the content going underneath.",
+    "I don't even.",
+    "I've only watched your streams that I'm like.",
+    "Oh I think that I could maybe do that.",
+    "Yeah, definitely.",
+    "As long as you have the layers name the same.",
+    "And it's the same photo going from one to the other.",
+    "As long as you just scale it.",
+    "Yep, it's going to auto animate beautifully.",
+    "This one here.",
+    "This is where actually if I hold my phone up.",
+    "This is actually about the same size on my phone, but it's really hard to read this text and it feels kind of stagger.",
+    "EI would just rather see something like Apple does a great job with the multiple rings to show.",
+    "Multiple things in one chart or graph bomb.",
+    "It allows it to be larger rather than I don't like this like zigzag kind of River style.",
+    "Of information, especially in mobile apps, 'cause like when you can only say 3 or 4 words wide, it's really difficult to read, and I think this whole section just could be designed differently.",
+    "But keep in mind, the whole the challenge is a whole here is really solid.",
+    "We're getting like Super Nitpicky, but also this stuff.",
+    "You guys probably didn't spend a ton of time on.",
+    "This would be a screen that I would say hey, go back and spend another 30 minutes on this and push it further.",
+    "But overall I think a really nice job on this one.",
+    "Yeah, background colors.",
+    "On that image to for just like a hero image from design perspective, I'd rather see the actual green that you're using in the background.",
+    "Going to something and not like more colors added.",
+    "Yeah, definitely yeah.",
+    "Something like highlights it even just like a straight dark background or something like these.",
+    "Look cool.",
+    "I really dig, Yep.",
+    "All of these so yeah, just a little presentation are right.",
+    "So let's jump into morning here.",
+    "Who think this is the same?",
+    "Person from the live streams.",
+    "I see them in all of 'em, so thank you for tuning in.",
+    "OK, let's take a look at what the heck did that Chris up.",
+    "Did it jump to?",
+    "I hate discords so much I don't know what's happening.",
+    "Yeah it is OK.",
+    "How you do that I have no, it's gonna be like.",
+    "Copy that link it's got.",
+    "Yeah yeah, let's go.",
+    "Interesting, I thought I reviewed this last nights already, so I had like skipped.",
+    "It's probably somebody just use the same graphic.",
+    "OK, cool.",
+    "So let's start off with.",
+    "I like seeing a device other than an iPhone.",
+    "It's just a nice change of pace.",
+    "The zoom right?",
+    "Yeah, uh.",
+    "Like the Android 82, I don't know.",
+    "They're all just crazy right?",
+    "So let's jump in.",
+    "We've got this video file here.",
+    "Will make that larger an.",
+    "That'll probably messing up your screen for a second Andrew, but that's fine.",
+    "OK, so let's jump in here.",
+    "I think this is the cursor, or this would be a placeholder for.",
+    "A user photo.",
+    "Yeah favourites.",
+    "Recommended last played OK overall.",
+    "I mean, I think this is pretty solid.",
+    "The only thing I would say is it feels.",
+    "Small in terms of text already, and this is taking up.",
+    "I actually measured my screen the other night for a different project.",
+    "My screen is like 13 1/2 inches tall.",
+    "So imagine all of this got shrunk down by more than half 'cause I think the iPhones like 5 and a quarter or something.",
+    "This is probably going to be in possibly small to read.",
+    "It's definitely not going to Accessibility, so do keep that in mind.",
+    "Although visually I'm really digging it.",
+    "Yeah, I think I'd love to see, um, some kind of gradient or something on that right to inform me that like there is more there.",
+    "Um, also Pok\u00e9mon theme major apps, but I'd love to see something on the initial screen that has a gradient that shows like hey, there's more that you can scroll 'cause even though it's getting cut off in my brain.",
+    "I'm like OK like, looks like there's just more that is getting cut off like they didn't load right here to say that.",
+    "'cause I feel like I used to do a lot of that with the gradient fades on the sides and I feel like I've gotten away from it.",
+    "Maybe because I feel like the shadows and the gradient stuff is like starting to go away.",
+    "It's kind of nice hearing like this really nice hearing.",
+    "Somebody that is not a UI or UX designer, product designer, forever stupid titles.",
+    "We use these days or confuse ourselves with say that because like I don't even think about that anymore like I just know that that's a thing and I expect that there's something there, yeah?",
+    "I also like that right there.",
+    "Sorry real quick.",
+    "Injuries just dots that animation we talked about with auto activate where were carrying that over all the things came in that was really clean.",
+    "I don't see some color in this, just from a branding perspective is OK.",
+    "We are so going to disagree on this lot.",
+    "This is this is the thing that I preach whenever it comes to actually right here is probably a good example.",
+    "Whenever I see photo, Video Music, TV, media type stuff I like.",
+    "Almost like the anti brand, I want everything in your light UI or dark UI and I'm all for branding in the sense of like if your brand color is green I want accents of Green.",
+    "I don't want like Spotify shouldn't have a green background.",
+    "It should have green icons with a light or dark UI.",
+    "What they're doing here on this particular screen is they literally took the background an like it's taking tones of the Yellow M blurring and blurring it so it looks really good based on the artwork.",
+    "But I hate when I see a UI and it's like, oh, it's a pink background or like a blue to purple gradient and it completely clashes with the artwork.",
+    "I I I want the artwork to shine the way it's meant to be so I like the simplicity of of color branding in these kind of projects, yeah?",
+    "But I'm with you like this could be red or blue or green or whatever, and I think maybe just on the home page like I want a little call to action like less about like branding and more like called action.",
+    "That's gorgeous.",
+    "Yeah, that's that's really good.",
+    "Uhm, but yeah, I think on the home screen I want something that tells me where to go or like some kind of call to action in a little pop color.",
+    "Also, if you're going to do a mock up like this with your screens, put the time that you have on there.",
+    "Closer to that 3 minutes or whatever.",
+    "'cause right now it says that it's 1 second in when it looks like it's almost over just a small little detail.",
+    "Yeah, definitely.",
+    "Overall, I mean I think you did an amazing job caring this through.",
+    "I'm with you like this.",
+    "Feels kind of like a wire frame with with the images dropped in 'cause it doesn't feel like there's any kind of branding with it, but you build out a ton of screens.",
+    "Everything was animated beautifully, like you crush this fantastic job.",
+    "Even just dropping something in that little Avatar for me would be like, Oh yeah, yeah, exactly.",
+    "I think little details like sorry, keep going from my camera here.",
+    "Little details like that would really make it big difference to make that feel more realistic and everyone thought so.",
+    "Also, if you're in chat and you're watching, say hello literally no one is talked in chat, which is very irregular for my streams like so there's usually no one chat and then again I never stream on Thursday night.",
+    "So yeah, I'm usually Monday Tuesday, but not this week.",
+    "Open that up in this one.",
+    "OK, and so here we've got.",
+    "Tijani OK, awesome.",
+    "Yeah, only or at 17 1/2 minutes.",
+    "My goodness, Peter, you're talking too much.",
+    "All right, uh, let's go back over here.",
+    "OK, cool, so shoe store concept so it looks like this got modified for mobile.",
+    "We originally did a web app.",
+    "I think that's what this is.",
+    "I'm not sure if this is great presentation like off the bat.",
+    "We talk about it a lot on the office hour show that we do tomorrow is like presenting you have to like put it in context and I love the way that you like added accents.",
+    "An like little elements into the actual presentation.",
+    "So great job with that.",
+    "Yeah, I mean, it's really visually interesting to look at here again.",
+    "A couple things like I'd love for these icons to be brought in a little bit.",
+    "Be up a little bit taller 'cause I can tell this is going to interfere.",
+    "I know it's not as clean, but like I, I do want things here at the time that are going to show the status is again it just it feels more realistic.",
+    "The only other thing I would say here is I can't tell if this was just something that you did for fun or if this was meant to be the challenge that we worked on.",
+    "But like we we do challenges that are focused around Prototyping and this one particular was around changing color.",
+    "I'd love to see that somehow in this work, 'cause I mean I see it looks like an ability to change shoe size here, but.",
+    "You know, I would want to see some of the mechanics of what we went through in the lesson, and so that's why.",
+    "I'm not sure if that's what this is or if it's just a shoe store app concept.",
+    "Yeah, and then there's an action button on the screen above that that's in like the bottom right.",
+    "I feel like that would break my thumb like putting that centered and making it like a bigger call to action even with a pop of color.",
+    "Again, like that is the to me like this is the purchase like Chipotle has a really great button.",
+    "It's like hold to purchase and you have to hold it for like 3 seconds or whatever.",
+    "Something like that in the centre.",
+    "That's like this is what you're doing next 'cause that in my brain is like is this a back button?",
+    "But like for going forward.",
+    "Yeah I also, um and Hey Nina, thanks for joining us.",
+    "I don't get what the heck this is.",
+    "So like I have no clue business.",
+    "Check out this take me to the next item and that's where I feel like.",
+    "This is more concept even.",
+    "You know anything?",
+    "Like down here I as nice as this kind of looks to me.",
+    "This is actually more confusing.",
+    "I'd rather just have like the standard iOS like Rotary dial where I can make a selection because I feel like with this I'd get really frustrated of what if I click in the middle.",
+    "What if I click off of this?",
+    "do I go back out and I have to come back in?",
+    "I have to make a selection like there's just more room for error and it's not like I would want to simplify this to where it takes over the entire screen if I'm trying to go for just a pure clean aesthetic.",
+    "This one is a little muddied up for me.",
+    "I think it could be kind of cool and this is probably wrong, but I think it could be kind of cool to you to like blur that out like leave it how it is, but then blur out that background so it creates like a dimension that you are like I'm in a different space and I'm going to push one of these things.",
+    "'cause right now it looks like it's kind of like flat so like trying to focus attention I think would be cool and like the aesthetic is super clean and that's just like the frosted glass kind of thing so otherwise it is really distracting but meant the Moody.",
+    "Hello what up beautiful people were just here being beautiful.",
+    "This is my intro back into streaming.",
+    "Getting back ready.",
+    "Yeah, do that one for the next three weeks every day.",
+    "Let's do it.",
+    "I love it.",
+    "Alright so we did.",
+    "Corny alright.",
+    "Meg has been doing these challenges left and right.",
+    "I love your little Avatar.",
+    "Reminds me the Spotify illustrations.",
+    "Every time I see it from the other Meg I was gonna say yeah, it's very like Meg Meg.",
+    "Yeah, what if this is Meg but if this is Megan she's like I'm alone HD now and you're like Oh my gosh, we're talking about Meg Lewis by the way.",
+    "If you guys aren't following her good, check it out.",
+    "She is I think.",
+    "Your Buddy Meg on.",
+    "Instagram I feel like I'm confusing MB now.",
+    "Omega you talking about?",
+    "Meg draws.",
+    "Oh yeah, yeah, we're talking about different.",
+    "Sorry yeah, I just think of like Blobby things and then I think of Meg Lewis.",
+    "Yeah, let Travis 'cause now you have any blanking on her last name.",
+    "It's gone forever.",
+    "Meg Robichaux, that's it.",
+    "Now I don't know who that is.",
+    "You would know me.",
+    "Actually she's very creative.",
+    "South Atanan is done workshops and talked there before, sorry.",
+    "It was likely, but that's not make loose.",
+    "Oh that Meg, Alright, so let's jump in here.",
+    "Let me make sure I got chat backup OK Anina If you've done any new projects, make sure to send me your link.",
+    "It will get that one up here right away.",
+    "OK, so day six the newsletter.",
+    "So what we did on this day.",
+    "Andrew was we built out a web newsletter for like an E blast or something and then we used responsive resize which allows you to just kind of drag your Artboard Left right and what not and automatically kind of resize everything.",
+    "So I feel like I might have not explained something.",
+    "Well enough during this challenge, because something that I've noticed and it's being done right here is that.",
+    "With uh, with emails they don't ever just take up your entire screen size.",
+    "They generally are still going to stay within a 600 width container, but then it will shrink it down.",
+    "It might shrink up barely slightly, but it really only goes down, and so I've seen a lot of people that have just done full desktop with newsletters or tablet or Whatnot, and that isn't as accurate, so I would just say here.",
+    "I would shrink this down towards actually takes up more like 1/3 or 2/3 of the screen and then then put a little Mail header in there with like the back to inbox kind of thing exactly.",
+    "Owen magazine here in chat with us and Meg is the Goonies Meg it's her name.",
+    "Like Takano awesome.",
+    "OK so you know same thing and as you do this like simulate it being in.",
+    "If you're going to put it in a mock up, simulate it as though it was in some kind of like Gmail container or email app for your phone.",
+    "Like go to your email, take a screenshot and then like literally throw it in XD or photo shop and create a mock up from that.",
+    "That's the best Instagram mock up if you're trying to present to a client.",
+    "It's like oh, high quality.",
+    "I'm like just take a screenshot, take a screenshot, replace the image, yeah?",
+    "Um, so let's see.",
+    "OK, so in this.",
+    "I can see the way I would picture this working is this top section is going to respond really well to ought responsive resize and that's something it doesn't work perfectly.",
+    "It kind of gets you like 50 to 80% of the way there and then you need to modify some things.",
+    "So I'm going to guess like this section here has to be manually move down below.",
+    "Same thing here.",
+    "We probably need to tweak stuff, but the rest of this is going to be nice and quick and easy.",
+    "An I mean this all it's great.",
+    "So I totally think you get the.",
+    "The mechanics of this challenge and this looks great.",
+    "Yeah, I would just modify the presentation so that it feels a little bit more realistic.",
+    "Other that catch up and I would augment your presentation presentation if you want to do it as like a little case that he just had some sexual elements in the background on those blue ones, like take some of the blobs from the peoples hair, the charts and just kind of put him on the corners and it will just up it into another level, yeah?",
+    "Cool cool alright.",
+    "We love it.",
+    "Try it next week.",
+    "Three stars.",
+    "I don't know out of helmets out of three stars I guess.",
+    "Alright, we're at 25 minutes.",
+    "Alright, are e-commerce challenge OK?",
+    "Once again once we make this full screen, it's probably break some stuff, but we're good.",
+    "Alright, so this was creating a shoe mockup, changing color, changing size.",
+    "This is going to be showing some different graphics here, so off the bat I mean this feels super intuitive in ease of use.",
+    "Presentation is great.",
+    "Ideally I'd love to see this.",
+    "It doesn't present as nicely.",
+    "Don't get me wrong.",
+    "But in like a Chrome container or fire Fox or something like that.",
+    "So it feels like I'm actually using the computer.",
+    "People don't generally browse the Internet like this, but it looks really good, so I don't know if I've ever seen like a shoe site have a dark you I like.",
+    "I want to see it 'cause this is like the Nike like all the Nike Sneakers app like looks like.",
+    "This is like I want to see what happens if you try to figure something into like a crazy dark UI.",
+    "I think a lot of that is because a lot are probably shot on white backgrounds and so I was not clipping required.",
+    "Yeah, 'cause it's easier to like mask through photo filters and effects and stuff like that.",
+    "Alright, so cool we've got I would add some hover styles, but the transition here look great.",
+    "Awesome.",
+    "I would slow this down just for presentation purposes.",
+    "I felt like it was like.",
+    "Sorry.",
+    "But you know, other than that, I think this is great.",
+    "Yeah.",
+    "Yeah, it does feel like you're presenting really fast.",
+    "Yeah, one other thing this I would assume is going to change color.",
+    "I would assume that these change angles of the shoes, so I actually would.",
+    "Just if you're not going to change the angle, I wouldn't show anything here because that to me felt like a mistake rather than intentional.",
+    "That's the only thing I don't like here so that the only thing that would be not perfect for me.",
+    "I would flip the add to cart.",
+    "We called actions more noticeable in the bottom, so I have added cart be Gray and then hover goes to white.",
+    "Yeah definitely.",
+    "Even though it like, that's one of those things that's a little challenging sometimes, because we look at it, we go.",
+    "It's not quite as aesthetically pleasing, however, if the main point of going to the site is to sell shoes, you got to make sure there's no confusion on where that button is.",
+    "So if that's the balance of things, purpose over preference, yes, alright means.",
+    "Planes, Twins, these look like cool shoes oh oh we're doing shoes OK hold on can I you talk about this one?",
+    "I'm going to grab some shoes I just finished him off on cancer.",
+    "Doing shoes are very funny.",
+    "Yesterday someone's like have a sneaker head and also when it gets back but their project was so good like you could tell that they love shoes and it just came through in it so.",
+    "Good stuff alright, so I'm going to jump in here on this.",
+    "Let's first see.",
+    "How this is all working before we make any other comments?",
+    "OK, I'm not a big fan of how the scaling their changed throughout.",
+    "I would love to see that be more consistent, but.",
+    "But you got the animation stuff there, really solid.",
+    "Overall, I feel like you could spend more time on the design of this and push it further.",
+    "Definitely not a fan of the the type he ran the shadow like kind of global effect.",
+    "And then as we go down on the site like.",
+    "So.",
+    "No, I don't have the Playhead area visible.",
+    "But when we Scroll down the like kind of gradient background with the dark background, the white cut outs of the products themselves like that whole thing just felt really off to me.",
+    "So I would love to see that cleaned up a little bit, but.",
+    "Yeah, and if you want to learn how to make logos and icons you can join us next week everyday at 11:30.",
+    "Four ways daily, creative challenges in illustrator.",
+    "An all funeral.",
+    "Pass it off to me and I'll help you learn how to make icons and logos in illustrator.",
+    "Yeah, but see like this here, Andrew.",
+    "This is probably why a lot of the dark blue eyes totally are tough.",
+    "Yep, and look like one of the issue images you had was clipping on that.",
+    "Oh so I don't know if you talked about that.",
+    "Yeah, overall, I mean you got you got the mechanics of changing colors in the prototyping of that.",
+    "I would just love to see.",
+    "But the UI push further.",
+    "That's really the only thing.",
+    "So I got these issues.",
+    "Dinner Gloria dude there so good they have like the like neon leather strap that goes around the side.",
+    "There's like I don't know how well you can see it, but there's like a holographic part right here that has like little dots in it.",
+    "Uh.",
+    "But yeah there has see it on the shine notorious and I need like I don't know.",
+    "I need to be able to go out now.",
+    "This reminds me of your Toy Story shoes and the fact that we're not hanging out at Disneyland right now.",
+    "It bugs me out.",
+    "It really bums me out.",
+    "It keeps going like little like videos that people post of like remember Disneyland.",
+    "And I'm like I don't want to remember it right now.",
+    "I can't go to Disneyland with my friends.",
+    "I know I like see like a bottle of like cinnamon and I like churros.",
+    "Yeah?",
+    "Oh man, yeah Android.",
+    "I run or ran meet up for designers together at Disneyland called designer meetups and we would meet once a week and just go hang out and have fun at Disneyland together.",
+    "It's going to be fun.",
+    "It was really good.",
+    "I miss it.",
+    "I miss the world famous people I know, right?",
+    "Uh 31 minutes.",
+    "OK, what's that?",
+    "Oh, it's behind OK, I was like what's happening.",
+    "I literally have 12345 versions of the screen that we're currently using on display.",
+    "There's like this screen capture that have a monitor and then have your stream and then have my stream in the chats.",
+    "This is fun.",
+    "Now I should probably have your stream up here too so I can monitor your chat too.",
+    "I think that I'm going to do this for when I do my child you are having earthquake.",
+    "Do you feel that now?",
+    "Alright, are you, Andrew Hawk rattle or Hok Hok Taco?",
+    "Aware.",
+    "I'll be hence now I got you on track.",
+    "Oh yeah Alright watch live stream it's me.",
+    "Oh neat is here.",
+    "Nina Yay, you're welcome for the feedback.",
+    "We love to feedback.",
+    "Right OK cool, now I got both Qotsa Fan Tastic.",
+    "Uh, all right.",
+    "So this one here for akansha virtual doctor so that this is actually today's challenge.",
+    "Yesterday's yesterday's challenge all of the days of days are blending together.",
+    "Alright, so choose the doctor you want always for you near you get started OK, find your desired doctor.",
+    "Yep, 2.0 fifteen seconds ago.",
+    "Oh really yeah it was.",
+    "I didn't feel anything.",
+    "Huh, I just had a little like BBB, BBB, BBB.",
+    "Alright sorry, I'm pulling him back on what we're doing.",
+    "OK, so we got dental care heart surgeon I specialist little typo here.",
+    "Not that big of a deal but.",
+    "OK, so why don't you go first?",
+    "Andrew?",
+    "And then I'll share some thoughts on this.",
+    "I think that the illustrations are fun.",
+    "I think that the like you could have more contrast.",
+    "It feels like everything is really like powdery or supersaturated.",
+    "And then, stylistically, like the little icons have different like line weights on them.",
+    "So we just playing around.",
+    "I don't know.",
+    "It's probably stock stuff.",
+    "Um, just trying to augment that so it is cohesive across the board.",
+    "The headers for me just feel really like Orfini, like having that extra like word underneath on both of them, like I would rather have find your and then design desired doctor on another line and then choose.",
+    "I guess the doctor was fine.",
+    "The type hierarchy, the headlines feel too small for me and then the hierarchy leg gets magnified down and down and down and down until it's like the body copy.",
+    "Somebody copy is like Super Tiny.",
+    "So yeah, those be.",
+    "Some of my thoughts and then the widths feel weird that summer going full across and then somehow like a border on the edge, especially in categories where the ones below are.",
+    "Like even in column, and then there's one that's like off the screen.",
+    "Those are my thoughts.",
+    "Hey Jonathan, where can I see all the upcoming live shows?",
+    "Is there schedule?",
+    "There is Dane.",
+    "There is a schedule.",
+    "I believe it be hands.net/live underneath whatever video is there right now, yeah.",
+    "Schedule to go ahead.",
+    "I was just saying when we do these late night streams is just kind of a spinning up when we're able to and hopefully will probably both join each other on some of our streams.",
+    "Doing reviews for each of our challenges.",
+    "Maybe I'll jump in with Andrew next week the week after, but otherwise you can join me tomorrow at 2:00 o'clock Pacific Standard Time, which will be the last challenge of this series for XD and then Andrew will be on and I think you're at wait.",
+    "am I leading into I'm at 1:00 o'clock.",
+    "Tomorrow, yeah, we often ours.",
+    "Yeah, so you guys have office hours and then in the stream so yeah.",
+    "And then I'm on next week with the daily created challenges for illustrator.",
+    "Fossil yeah yeah so but yeah we don't usually keep a super strict schedule here in the evenings is like more informal stuff.",
+    "The other is our official Adobe capacity.",
+    "This is just us having a good time and if you follow a click the follow button which is somewhere above us or below us.",
+    "Or I can actually see if you go that way you should be able to follow Peter or follow me on one of those ideas and then going notification when we go live.",
+    "I'm always live Monday, Tuesday night 8 to 10, usually Pacific Time.",
+    "So here I say on Thursday at like.",
+    "At 8:30, yeah, my life is chaos.",
+    "I get on when I can get on.",
+    "There's no rules right now.",
+    "Yeah, yeah, OK cool, sorry those are my thoughts for you.",
+    "Concha, yeah, so I kind of have the same.",
+    "The big thing for me is the color palette.",
+    "Like I don't get a cohesive like this.",
+    "Feels a little bit more vibrant.",
+    "These like sort of very muted.",
+    "There's a lot of color is happening which I think is kind of working against it.",
+    "The other is a two of the colors that I feel are kind of primary.",
+    "Here are red and green and one of the difficulties is that red is usually associated with error.",
+    "Don't do this.",
+    "Stay away and that's the color of your get started button.",
+    "That's the color of your search.",
+    "So it.",
+    "Feels a little off putting of like do I do this?",
+    "do I not do it because of that color and then down here like this is super vibrant?",
+    "We've got different color Reds and hear things like that and red, green, blue color blindness.",
+    "This would be a disaster.",
+    "That's true, I mean, one thing that you want to check out is if you search in Google WCAG color contrast, you want to follow the ADA compliance for Accessibility standards.",
+    "So you need a 4.5 contrast ratio or above to pass.",
+    "And yeah, there's definitely going to be a lot of things here that may not pass.",
+    "You actually are going to do pretty well because of the green and red with this dark very dark text.",
+    "But some of these greys on these colors May.",
+    "May struggle and Dana.",
+    "Yeah absolutely man.",
+    "Make sure to follow and we'll see you guys.",
+    "We both host Andrew.",
+    "Does the illustrator daily daily creative challenges.",
+    "I do the XP daily creative challenges from time to time.",
+    "There's kind of a group of hosts.",
+    "We all kind of rotate in and out so you'll probably see us at least.",
+    "Once a month, once every other 2, three months, we're all in there and we also do feedback here in the XD discordant the illustrator discord.",
+    "So we're kind of just always around were around.",
+    "If you want to get a part of the display, you can follow it bit dot LY.",
+    "Oh, it's not above Maine.",
+    "Oh, I don't have it set up on the so BS.",
+    "Yeah oh, I do yes.",
+    "So go ahead and join if this is the one for students and portfolio reviews.",
+    "If you want to go to this link, this will get you in to office hours slack.",
+    "I don't know what I just push the button and hope that there was one there, so that's the one you got.",
+    "Alright, let's move onto Ahmed and we this fun.",
+    "Why don't we do this more often, right?",
+    "Where we at 38 minutes.",
+    "I'll take it, did it again.",
+    "What did it do?",
+    "So?",
+    "Because his name has a characters in other language, it like really messes with.",
+    "My text it like changes about my notepad.",
+    "It is.",
+    "It's doing it again.",
+    "Why is it doing that?",
+    "Hum.",
+    "I don't know the best way.",
+    "OK, I'm just going to say.",
+    "Oh my God.",
+    "And with you.",
+    "So OK, so let's check this one out.",
+    "Blow that up Alright Good Morning how can we help you?",
+    "She's a specialist.",
+    "First, I'm assuming it was kinda like an error message.",
+    "I definitely want consistency through these like 123.",
+    "Just have this one extend the full width.",
+    "You could probably get rid of the bar.",
+    "Talk to a specialist.",
+    "I need a.",
+    "You could even hide the talk to a specialist until this has been selected, but just make sure you keep the width of everything consistent here, Yep.",
+    "OK, this is the fun, um?",
+    "Find illustration I almost would play with that illustration with some of the UM.",
+    "I think this is something you can do some of the like animations or whatever to make that maybe background like the little boo-boo wobble that you have, like add some.",
+    "We believe Wobbliness to it some eggplants we call them again like it.",
+    "Yeah I can see it like as you're like I don't know tapping things are going to the next screen like that would like wobble and like just have some motion to it.",
+    "Yeah no this is great.",
+    "I know we did a video one on the chat around the stream but this is really nice.",
+    "Being able to immediately text with the doctor so again little clean up stuff but I can tell you got.",
+    "You got the basics of this here, so let's it done.",
+    "OK, let's keep going.",
+    "I saw missed.",
+    "Threading.",
+    "Yep.",
+    "Discord, how I hate you.",
+    "Braves.",
+    "Discord is so good for gaming, and it is so terrible for everything else.",
+    "OK, Speaking of which, we should probably games after this If anyone wants to join us.",
+    "So yeah, I'm definitely going to eat some food, but yes, let's do that.",
+    "Yeah, do Chipotle cheese.",
+    "It's an Modern Warfare, so I also have so much work to do.",
+    "But yes, let's definitely.",
+    "Oh God alright.",
+    "So OK so this is cool 'cause I'm gonna assume maybe you're not a shoe person you like fashion you like tease or this style of art work.",
+    "So I love that you change this challenge to modify to your interest again.",
+    "You do the best work when it's something that you care about in our passion about.",
+    "So I love that modified this.",
+    "Alright, cool, uh, coming in.",
+    "Change the color.",
+    "That's cool.",
+    "I like that a lot, yeah?",
+    "I like I love then awesome.",
+    "I.",
+    "What would you think about the blobbing different on each color and like maybe like morphing so do like how you're doing with the color shades, but like chains that shape so that it animates to like it's just a different bubble.",
+    "Yeah, you can easily do that with automatic mate and you could either do it the same color or you could do it like a complementary color so you know like blue find, make that cool and pop off a little bit more.",
+    "Is one of those things that, like I say that, not knowing if that's the right answer, but I'm the type of designer that I just like to try it out and I would have another artboard that test that in conjunction with this.",
+    "And that's why my project files are super messy because it's literally like like I was looking at another project I did for Facebook for creators an I had 89 different versions of a blog page.",
+    "Yep, like and some of them are just like full image side by side image.",
+    "What if it's a video like?",
+    "Is every little detail being slightly different for a single page like 89 versions of it, so just just experiment?",
+    "Only thing here, maybe it would be to move this button so that it sits flush with everything else.",
+    "It feels a little floaty, other than that really nice stuff here.",
+    "Goo goo.",
+    "Also change the color of the button to whatever color the shirt is so you don't want that.",
+    "Could be fun.",
+    "I'm an art director now.",
+    "Yes, you are.",
+    "I gotta we gotta finish up the stream with Logan to be postponed it this week with everything going on, but I'm through with Logan tomorrow.",
+    "We're working on cancel con stuff.",
+    "Oh nice.",
+    "So he ditched me for you login, you're evil, she's moved on.",
+    "It's cool here.",
+    "I might be neighbors and you're going to have to come live with us.",
+    "OK, that's Fair.",
+    "Alright, so let's jump in.",
+    "We got Amy here.",
+    "Yeah, I'm seeing it again.",
+    "These full full screen newsletters, sorry.",
+    "I think that's my bad.",
+    "I don't think I communicated that.",
+    "Clearly enough for folks.",
+    "Oh alright.",
+    "OK, so we got our this feels more like a website than a newsletter.",
+    "I could see being a good newsletter.",
+    "It's a website, Yeah?",
+    "Yeah, this is definitely more in the website.",
+    "Immediately watch your spacing, uhm?",
+    "On the left to right like how you did this spacing, gutters.",
+    "Yeah like the between kitchen and bedroom like the columns would just be the same distance from those photos.",
+    "Yeah I.",
+    "I don't think these ones work like desktop and what would be tablet?",
+    "You need more space in between sections here like same kind of thing on mobile.",
+    "But if you were to remove shop in Contacts up here I think this would feel a lot more like a newsletter and I think this is solid.",
+    "I don't know, I could see responsive or auto responsive working well from desktop to tablet here.",
+    "I think the design you have is going to be very complicated on mobile and probably required a lot of changes.",
+    "But yeah, I feel like this is more of a website then newsletter an part of that's going to be.",
+    "You need to be restricted to that 600 pixel with if you have those constraints like you have to design more around those parameters, but.",
+    "Yeah.",
+    "Cool anything else you want to say on this morning?",
+    "Then I think the the colours that you've used.",
+    "Are fun like the overall flow is nice, the type hierarchy.",
+    "There's a lot of like standard stuff happening and I like centered text.",
+    "I know that everyone gets mad about it, but I like it but maybe a little less, yeah.",
+    "I don't know if there's a rule, I don't, yeah.",
+    "I mean, it really is an idea center testing.",
+    "I'm like I like it.",
+    "Everything else feels align one way or the other, although on these I don't mind it, but I would want them spread out more so like take it more to where you got like 24 pixels on each side.",
+    "It just feels really crammed in that would be.",
+    "The one the one item I think.",
+    "Dude, I think I'm going to move my setup so I just switched my monitors actually right before the stream.",
+    "I think I'm going to move this monitor like kind of flush left and get the camera more centered 'cause I feel like even as I'm looking at it I don't feel like I'm interacting with the camera.",
+    "I think I gotta fix that.",
+    "All right?",
+    "See, it's akin.",
+    "All right?",
+    "Aaron and John.",
+    "Mayra.",
+    "A run.",
+    "What's my name?",
+    "All right?",
+    "Jonathan, I thought yeah Jonathan knows in.",
+    "Chat earlier.",
+    "Maybe so.",
+    "You OK, so let's check this out design.",
+    "This is exiting.",
+    "Welcome, OK, I'm a little confused at the Multilingual, Just 'cause.",
+    "I feel like we're English, English, Spanish, English, English English.",
+    "Um?",
+    "Yeah, it's a little consistency on that.",
+    "Other than that, this looks great.",
+    "Yeah, maybe the colours are like a little vibrating for me.",
+    "These are like a little in the neon realm, but overall I mean some alignment stuff maybe, but this looks clean.",
+    "The one thing I might say is this might look a little too much like one of the example things that I have from way no in my moodboard.",
+    "I feel like this might be a replication of that, so that would be the only thing if it needs some differentiation, but without having it side by side I would just say maybe.",
+    "Try to expand off a little bit more from it.",
+    "Yep, and I'd say the year type hierarchies get really, really small, really fast, and then the hierarchy of widths the like H1 that you have the heading feels like it should be a body copy width, and so I would push that up to a bold if you have it, and then take that super hairline and make it regular and they just make it more readable and more punchy.",
+    "I think yeah.",
+    "Alright, let's keep going up.",
+    "Stu circle.",
+    "And for your minutes.",
+    "OK, my hands are so sweaty and I don't know why, like they just suddenly got super sweaty.",
+    "Welcome to our stream.",
+    "So.",
+    "Alright, I'll be live tomorrow night as well.",
+    "If you guys wanna come hang out then petering reviews then as well.",
+    "I might take tomorrow off and just unwind, but I will be streaming Saturday and Sunday.",
+    "So Dang OK, yeah.",
+    "Yes, we're building the canceled con website tomorrow.",
+    "So if you guys want to come hang out and learn about cancelled con.",
+    "Boy is it going to be fun.",
+    "Will use XD will you 60 yeah.",
+    "The I don't know, alright, so let's check this out.",
+    "We got a video here for Christina.",
+    "An man this makes me, we, you and I have never been in San Francisco at doing the streams at the same time we need to go to France and disco.",
+    "Some good pizza out there 'cause all the California just not really have good pizza.",
+    "I'll play that are pretty OK, but.",
+    "I just see Italian from New York in me like we have different standards.",
+    "So your Italian.",
+    "Yeah no, I'm not so I don't know, but pizza is.",
+    "OK.",
+    "Cool, so the challenge of this was doing anchor links, which it looks like you've done very nicely.",
+    "So as we Scroll down, it's going to the different sections.",
+    "And then we can click around.",
+    "I love the interactions.",
+    "This is great.",
+    "So this is cheat day getting pizza.",
+    "I love it.",
+    "Very clean and simple branding.",
+    "Finishes yeah, this is fantastic.",
+    "I, uh.",
+    "Yeah concur yeah.",
+    "I was always on war like I always.",
+    "Want more like to me it feels like I wanted to be like more fun but like if this is like an upscale place, yeah, I think my brain I can't comprehend like using this site to order pizza because I'm like Oh it's so upscaled like I'd have to go there.",
+    "Or like I wouldn't order this pizza but maybe just like your man shopping experience.",
+    "I don't feel like I would go pick up pizza from this place like I want to eat it fresh.",
+    "Yes and I don't know what high end pizza experiences, but maybe this is luxury pie worth having.",
+    "In the restaurant, otherwise you just order like Domino's or Pizza Hut in Gorge on.",
+    "The disgusting Yeah, hard word substances that they are, but yeah, into something Andrew mentioned before too.",
+    "Like how here check out is bold and like kind of interface.",
+    "I want that over here too and I know it's not necessarily as clean but.",
+    "If I want to add these to my order, I want that to be prominent in an easily visible.",
+    "So what's happening with the X in the cart button on the top right?",
+    "Oh, that's excuse me, just the mouse hover?",
+    "That's what that Circle is.",
+    "It's not like my.",
+    "so I thought that was like the X button of like exit out.",
+    "I don't know how anything works.",
+    "I thought is off centered and I was like excuse me.",
+    "Who I like that absolutely beautiful yeah Christina.",
+    "Fantastic job.",
+    "Good job.",
+    "I remember the Year this challenge.",
+    "Yeah you did a really great job on all of these animations and check out this fun branding she had.",
+    "I remember 'cause OK I public profile last time 'cause I was like this work was really good.",
+    "I want to see more and I remember this project so we put back again.",
+    "At your work to office hours, like send it to us, hashtag Adobe office hours on any of these, put on Twitter or whatever so that it to us 'cause this is really good stuff.",
+    "Yeah, this is so good.",
+    "A little bit, this is one of those were like you question you go.",
+    "Is this a real thing is?",
+    "It's like a student project like I'm really not sure 'cause it's pretty solid.",
+    "Yeah yeah.",
+    "Nicely, nicely done.",
+    "Alright, I think we got a time for a couple more.",
+    "I can do that better their group.",
+    "I was worse.",
+    "It was worth it, was bad.",
+    "I'm sorry.",
+    "Good and then I would just like stop doing it.",
+    "But part of it is 54 minutes.",
+    "Alright group that is better but not not good still.",
+    "OK so Pizza House this is cleaner really like this.",
+    "The menu down here like this is totally getting lost.",
+    "I can't see I can't read this I can't.",
+    "And if you need that, if you have a hamburger in the top left and bottom, now diesels, because OK.",
+    "So reason for this.",
+    "And again, I'd love to see this with my time stamps and signal strength and stuff like that up here.",
+    "It needs to be there because this is probably like I genuinely wish I could see this.",
+    "It's like home.",
+    "I'm going to guess like search or near me.",
+    "Maybe my profile.",
+    "I have no clue at this is I can't read it an I can't see the icon to make sense of it, but this is probably going to dive deeper into the users account settings or something like that.",
+    "Where these are going to be the primary actions that they're likely going to interact with.",
+    "OK, so but I mean, overall, I love iconography up here.",
+    "Your imagery is fantastic.",
+    "This is great typos.",
+    "Just make sure you spell snacks, right?",
+    "Oh, that's those are.",
+    "Those are snacks, snacks, some snacky snacks.",
+    "But other than that, I mean again, the only other thing I can say is, you know.",
+    "This phone I hold mine up, it's at least 60% larger an I can barely read this text.",
+    "There's no way I can read this on a real device.",
+    "Yep, same thing.",
+    "I highly doubt I can see this and there's so much information here I have no idea where to start.",
+    "Can't tell her this is my ingredients and my customizing this pizza.",
+    "Selected toppings like it doesn't mean I get 8 toppings that I can add.",
+    "Again, I can't read this stuff, so I just don't know what else is going on.",
+    "Yeah, but this is a really pretty but difficult interface to work with.",
+    "Yep, and from a visual communication standpoint, I think the photography using is really good.",
+    "I don't think that it fits the brand that you set like.",
+    "To me it's too fancy, especially like the fund like emoji.",
+    "Kind of like pizza like.",
+    "I'd rather see something fun of like.",
+    "I don't know.",
+    "I want to see something more like illustrative or like fun and quirky, 'cause I feel like the logo is super like.",
+    "Yeah, let's hang out and then this is very like it's a fun emoji like I would love to see that in some of the key imagery at the beginning.",
+    "Oh, this is really cool.",
+    "Yeah I, I like the look of this but like from.",
+    "The size and visibility standpoint, that's the only thing I struggle with here, so I would wonder what ways can you do this.",
+    "You know there's a lot of things interacting with the bottom.",
+    "Oh, the interactions that you're doing are great.",
+    "We like you, had something that tells you the calories like updates, live with like all the Animations.",
+    "It's really good.",
+    "Yeah?",
+    "I mean, you're crushing the use of auto animate and prototyping here, just Accessibility and kind of some of the UX needs to be reworked, but this is really close to being super super solid.",
+    "Ferrets who other mentors Ville gusts?",
+    "Oh, and Chris Yeah.",
+    "So high XD people what's up?",
+    "I'm showing the photo shop are the illustrator channels as well.",
+    "Ricardo, you're welcome Tracy.",
+    "Happy to help.",
+    "Alright, let's do this.",
+    "So my alma 1:00 AM at school like I will wake up when I do the illustrator challenges like I'll wake up and there's like 90 people from like Germany that like did the challenge like cool guys.",
+    "I think that's maybe one of the nicest compliments that people don't realize that they give is when they're like like what will be live for the main Adobe streams and they're like it's 3:00 AM and I'm staying up to watch this.",
+    "It's like holy crap, go to bed yet.",
+    "Thank you for making this.",
+    "Important enough to show up to like that really means a lot, and it definitely is like the proud teacher moment when you guys turn in projects that like are good that it's like, oh cool like I can tell it.",
+    "Not necessarily there good, but like you put effort in that it's like oh Dang.",
+    "They're like totally learning that there's some like random woman who is like, oh, this is my mom that lives in Tennessee is learning illustrator and like I don't know her but she's somehow creating planets an like doing her best.",
+    "Which is awesome.",
+    "But I love his cheese oldest night.",
+    "Is I was yelling at like 8 last night.",
+    "It was really bad when I see folks who.",
+    "I recognize their name from may be the last time I taught the challenges, as maybe a month or two or three months ago, and I look back and I'm like wow, your work has gotten so much better since, and I see that progression and like Heather Hawkins was one I haven't seen her in the challenges lately, but she's sonar gaming, discord, and she ended up getting hired at a game company and got a job as a product designer.",
+    "And she was one that just crushed.",
+    "It should always have beautiful.",
+    "You know, be hands projects that showcase showcase the project she was working on and it was just someone that like literally like put in the hard work and effort and it paid off and I love those kind of stories.",
+    "Seeing people that do this an they're making their dreams come true.",
+    "So super cool.",
+    "Going through all right, OK, so jumping into this I definitely like the color palette of this.",
+    "Overall better.",
+    "I feel like this light blue maybe isn't working as well with stuff, but it does feel more cohesive.",
+    "Again, I want things to be more consistent in terms of width, or at least what kind of specialist are you looking for in the drop down like that?",
+    "Could be wider.",
+    "The button at the bottom could be thinner, but it feels kind of flip flopped at the moment.",
+    "Um?",
+    "This is going to be our live call, OK?",
+    "It looks like they're like getting probed.",
+    "Things have been a little bit.",
+    "There's a very sad baby next to the other room right next to Maine here.",
+    "Neighbors launching off fireworks again.",
+    "No, they're always launching off fireworks.",
+    "Yeah, I really go out and yell at the video road at night.",
+    "Oh no, but now my so my streaming lights I'll turn them 'cause it right up by my window.",
+    "I'll turn them toward the window and then turn them on.",
+    "So like the second story like shining down these super bright lights out the window and then just like stare at them from the window and then they'll turn their music on it.",
+    "So yeah, it was like tactical EDC lights blasted in the face when they do that.",
+    "Colors are great, like the interactions that great that's too big.",
+    "Sorry, the confirmation spiral was way too big.",
+    "I'd scared me that I bring that down.",
+    "The $3 per hour for doctors at least you know you're only gonna get billed for like 4 minutes.",
+    "'cause doctors are usually in and out pretty good.",
+    "Kay, yeah I yeah.",
+    "I mean yeah.",
+    "You done good AA Ron.",
+    "Is this little Aaron no Dang it.",
+    "I missed the name.",
+    "In two, Oh yeah, this is good, yeah?",
+    "I do an illustration.",
+    "Then there.",
+    "Do you totally could?",
+    "So this is one of those items where again because of color usage.",
+    "Look at this and like which one are you supposed to hit?",
+    "Oh yeah, this is like what Apple does with the timers to wear like the timer is one and the alarm is the other, yeah.",
+    "Step tread, wait.",
+    "Don't do that.",
+    "Not now is white like so this is where it's dangerous having that kind of color.",
+    "I mean, I worked at a company where we have that like burnt orange kind of color and we could try so hard to make them change it and they wouldn't and we ran into that problem all the time I think we finally switched it to blue because there was always confusion with that and it really made things difficult.",
+    "So yeah, just be aware that as you're selecting color palettes for things",
+    "I would like to see this screen at the beginning actually.",
+    "And maybe I missed it, but this is this is really nice.",
+    "I like this.",
+    "Cool yeah nice nicely done.",
+    "Remind me a lot of the Verizon app.",
+    "For some reason it just like clean and like I can see that yeah, it's nice alright.",
+    "This one at the moment 'cause I know we did one from.",
+    "From beginner already, unless we can once we've already hit the others will come back to this.",
+    "Cool folks here.",
+    "Absolutely happy to help.",
+    "Me and Sam is the address for folio free.",
+    "Yes, I can answer that question, but we portfolio is free and included in creative cloud.",
+    "It also is.",
+    "Free for I believe your first 60 days and might be your first 90 days.",
+    "It is free for a trial if you have creative cloud.",
+    "It is included in creative cloud and there are some more announcements coming for Adobe portfolio in the next few weeks.",
+    "So there's fun stuff, I know.",
+    "Is not like that's the trickiest part.",
+    "Every time you like go to Max or you go to.",
+    "The HQ and you come back and you're like oh and then wait.",
+    "Which things are my?",
+    "Let's talk about what am I supposed to say?",
+    "Into the the illustrator better for iPod the bed and I'm like just don't give this to me 'cause I'm going to say things like don't just don't give it to me please yeah.",
+    "I remember one of the streams.",
+    "I did the stream right.",
+    "Before and after.",
+    "Max, I think I did.",
+    "Yeah, an.",
+    "I remember in prepping for the second one, it was like OK, there's certain things, like even I couldn't know going into Max and going into the next stream.",
+    "But then there like OK the last day of Max.",
+    "We're going to tell you XY and Z and like including those challenges like OK like I've never worked with this before.",
+    "I don't know how this feature really works.",
+    "Yeah like, let's figure this out.",
+    "So to do that I'm pushing them because they're doing online right now for Max is online.",
+    "Hi Kelly.",
+    "And.",
+    "Little hint he.",
+    "Trying to pick them up on.",
+    "Game show for like an Adobe live stream.",
+    "So heck yeah would be really find something to try to stay tuned everyone.",
+    "OK sorry, let's keep looking at things.",
+    "Yeah, I think this is our last one.",
+    "And then we've caught up on all of that.",
+    "Was fun.",
+    "I love this.",
+    "It's nice to hang out you weed.",
+    "I feel like we've all been busy or just depressed this weekend.",
+    "So nice to just hear your voice.",
+    "Yeah, I wish that I could do this every week.",
+    "But like with a different person on Fridays at 1:00 PM Pacific Standard Time?",
+    "Yeah, TuneIn tomorrow with me and Nick Longo.",
+    "As we review your portfolios.",
+    "Oh gosh, shameless plugs.",
+    "We need to have you on office hours.",
+    "That would be kind of fun to do like an XP week and bring you on.",
+    "Yeah, count me in.",
+    "Alright, so we got another newsletter here.",
+    "Uh, let's see OK?",
+    "So this kind of works.",
+    "I feel like there's a lot happening here, just in terms of like visual hierarchy where you're supposed to look, and there's a lot of things being covered by like photo filters and things like that.",
+    "Again, I want to see these design in that 600 pixel with kind of container.",
+    "And then the challenge for this too is doing it in using auto responsive.",
+    "So having desktop, tablet, mobile comps of these and showcasing that so we're not getting to see that yet.",
+    "But what I see here.",
+    "I mean, I think Andrew just in terms of type and layout is totally your wheelhouse too.",
+    "So maybe you can speak into some of the other things here as well and actually love you.",
+    "I'm going to say goodnight to Kelly and then I'll be right back.",
+    "OK, so now that he's gone now we can really start talking.",
+    "No, I don't know.",
+    "OK, so let's talk about this.",
+    "So I think that the type that you've chosen is very playful and fun.",
+    "But I think some of the imagery is very like professional, so maybe I would look at using a San serif that is less scripted.",
+    "So look at something that might be a sanserif that's maybe Boulder and then I love what you're doing with the serif, which those little pointy things on the expires tomorrow.",
+    "I would maybe.",
+    "It justify that to the left.",
+    "Right now it kind of seems like things are not necessarily justified an when you're working with type.",
+    "Think of it as rectangles and make sure that they all line up and they all kind of lock in and so the read our blog on the left there is a little bit too far to the left.",
+    "Bring it to the right so that it lines up really straight.",
+    "So that's why Peter is one of the worst people I've ever met.",
+    "Completely agree.",
+    "Love you too.",
+    "I guess in feedback on the type, and I think we got it.",
+    "I try to think especially like this.",
+    "I try to think of placing type as like just rectangles like where the rectangles fit and so thinking about it that way it's like kind of unbalanced in a lot of places and such as the place them as if they were rectangles and then working with like a San serif in a serif and kind of getting rid of the script would be helpful.",
+    "Yeah and I was like to work.",
+    "Like if you have a grid system, you don't have to follow the grid system, you can change it, but.",
+    "Kind of by having rules and parameters you can then decide how to break the rules and parameters.",
+    "Yeah, but like without it my entire occurs to yeah and it's like OK, this is misaligned, but then this one seems more or less OK.",
+    "This is angled, but if we set this up with like maybe it's a four column grid or 12 column grid like you can start there and have some structure to it and then you give like cool.",
+    "Now I want to mess with this and I'm going to intentionally break this thing or that thing to make it visually interesting or whatnot.",
+    "But until you do, it tends to feel messy otherwise, because things tend to be inconsistent, so I'm taking so yeah, and think about the values of the colors.",
+    "So if you're putting like black or white on a color, you should keep it consistent to whatever that color value is, so the values of that purple in the blue are pretty much the same that it's there a little bit darker, and so putting one on white one on black to me is like OK.",
+    "Where does this land?",
+    "I just do them all white so that you have that like.",
+    "Peter contrast together through.",
+    "Yeah, we did that today on the stream.",
+    "Will just kind of pull this over.",
+    "So like if I wanted to make this item green an I've got this blue color as part of my palette already.",
+    "If I just grab this an I bring that same blue in.",
+    "Really all I have to do now I'm going to move this a little bit more.",
+    "Make this a little bit bigger.",
+    "all I have to do to even kind of just get other color palettes that kind of sync well with.",
+    "That is just now slide this up and down, even have to move this thing around.",
+    "I can just be like oh, that feels like a pretty good warning color that has like a little bit of a pink tint to it.",
+    "Or if I want to come in and get something that is green for like approval.",
+    "You know something like this is kind of electric and hot but like it works well with that blue or I can come in and darken that up a little bit more and I kind of go right into the yellows and that's where if I were to grab this but then go down here like that wouldn't gel well.",
+    "So just even manipulating it that easily, it's allowing me to quickly, not say is not better ways to do this, but to kind of quickly get some colors that are going to go nicely Joelle and yeah.",
+    "And that's kind of what we did here on the stream, so we've got this kind of fun green color to make that a little bit more exciting.",
+    "I like that, yeah.",
+    "It was fun little challenge.",
+    "I think we built this out.",
+    "I did it more and actually my pre prep file because I added a couple more things to it but it was fun.",
+    "We did did a quick little like.",
+    "Tell your personal assistant what to add to your To Do List and then it auto ads it and does the voice recognition and then we started like completing and deleting tasks so it's really cool that you can prototype with this.",
+    "It's really really amazing and XD that's right.",
+    "Well, let's see unless we've got anybody else.",
+    "That's all of the challenges that we have, so we're caught.",
+    "I did it.",
+    "In French.",
+    "Come come in anything else we want to go over a chat about tonight and anybody have questions in chat.",
+    "I got it right.",
+    "Let us know and while we wait on the delay do you have other things to say Peter?",
+    "Are no just thank you guys for doing these challenges.",
+    "It's so much fun getting to teach these and to give the feedback and I think like Andrew touched on before, it's like a proud dad.",
+    "Proud teacher moment when we get to see these projects come in and they're really solid or we see maybe your first challenge wasn't so great, but then like challenge three and four and five really start clicking, it tells us that you're listening to the feedback that you're starting to understand it.",
+    "Getting your exposure and experience, and it's really fun to see you guys succeed.",
+    "So thank you all for joining us.",
+    "Yep, and if you want to come back again tomorrow 1:00 PM Nick Longo and I will be going live were giving me a free year of creative cloud.",
+    "So hashtag Adobe office hours on social media.",
+    "Send it to your work and we may review it.",
+    "And then next week I'll be live doing the daily creative challenges everyday for the next 2 weeks.",
+    "So what time is your DCC?",
+    "'cause I'll be live tomorrow after Andrew.",
+    "He's on at one.",
+    "I'll be on two and then what time does illustrator?",
+    "Is it like 1130?",
+    "Eleven thirty 11:30?",
+    "Then the two hours segment then XD?",
+    "Than 30 and 30.",
+    "Yes, we still have yet to be on challenges at the same time, we need to make a requirement that we should figure out some kind of pass off to wear like we do like activity in illustrator challenges.",
+    "But then, like there's a collaboration between it like on our livestreams.",
+    "Oh yeah, like, what if you create the nogra fi asset so the branding and then they used to do some of the three day challenge.",
+    "The three day streams.",
+    "Used to work that way where it was like a brand designer would come up and create a brand for like a conference and then the UI designer would create the website for the conference and then all the things I talked with Howard Pinsky a little bit about that idea.",
+    "It would be fun to do like A.",
+    "I don't know like to do almost like a March madness to where it's like brand designers get hooked up with UX designers and then it's each week is like cool.",
+    "Each of them are doing a project and then like chat gets to vote on who wins at the end of the month or something like a bracket that would be really good.",
+    "Yeah it means thank you for tuning and you have a great night as well bye.",
+    "Well, yeah, I think with that man, let's let's kind of rap it up.",
+    "Maybe I will go online or you got some work to do.",
+    "Will figure out what we do next and I don't sleep anymore so I'll do it then yeah I'm gonna go eat some shrimp that I made.",
+    "OK ghost shrimp.",
+    "Thanks for hanging out everyone.",
+    "I'll be live again tomorrow night.",
+    "We're working against kind of website and I'm also going to continue on a branding project that I'm working on for an actual client were doing the brand book tomorrow night will be fine, so this is still the church.",
+    "Yeah, yeah, we're we're at the point where the Domino's are starting to fall.",
+    "So I'm doing the brand book and then passing it off to my animator.",
+    "He's going to animate it.",
+    "Then I'm passing off wireframes to my web guy.",
+    "He's going to the web and then I'm going to build out the signage systems and everything's.",
+    "Yeah, now it's just a matter of digging the ditch is that's awesome man.",
+    "Excited to see that we're not that rap up since we last data stream for that that project.",
+    "Oh, that's true.",
+    "You were like integral on that process.",
+    "I'm excited to go back and make a supercut of like.",
+    "Here's literally how this happened.",
+    "Yeah, that'll be cool cool alright.",
+    "Well thanks.",
+    "Everybody sounds good man, hey you wanna regroup in like 15 or something?",
+    "Yes I'm going to make food let's do it Alright let me catch you all later bye friend stream up for a minute or two 'cause I think we need to and we'll go from there I got sounds good alright I'm gonna wait I'll just put the list up until I.",
+    "Till this ends.",
+    "I got my holding screen made me switch mine off, let me turn off my audio.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        2,
+        3
+      ],
+      "sentence": [
+        "Why am I dropping frames by frames, iframes?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        12,
+        13
+      ],
+      "sentence": [
+        "Might my stream?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        22,
+        23
+      ],
+      "sentence": [
+        "How do you have feeder by?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        32,
+        33
+      ],
+      "sentence": [
+        "Yeah I like it alright sweetie, I can't decide where do I watch you?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        40,
+        41
+      ],
+      "sentence": [
+        "Yep oh are you going to cover us that Peter or you gonna have a sliding above that note?"
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION",
+      "span": [
+        66,
+        67
+      ],
+      "sentence": [
+        "You want to get some initial talks?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION",
+      "span": [
+        86,
+        87
+      ],
+      "sentence": [
+        "Why does this have a border on it, dear Lord?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION",
+      "span": [
+        122,
+        123
+      ],
+      "sentence": [
+        "Yeah, what do you think about like the consistency between screens?"
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        160,
+        161
+      ],
+      "sentence": [
+        "Who think this is the same?"
+      ]
+    },
+    "T12": {
+      "id": "T12",
+      "label": "QUESTION",
+      "span": [
+        164,
+        165
+      ],
+      "sentence": [
+        "Did it jump to?"
+      ]
+    },
+    "T13": {
+      "id": "T13",
+      "label": "QUESTION",
+      "span": [
+        176,
+        177
+      ],
+      "sentence": [
+        "The zoom right?"
+      ]
+    },
+    "T14": {
+      "id": "T14",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        179,
+        180
+      ],
+      "sentence": [
+        "They're all just crazy right?"
+      ]
+    },
+    "T15": {
+      "id": "T15",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        205,
+        206
+      ],
+      "sentence": [
+        "We use these days or confuse ourselves with say that because like I don't even think about that anymore like I just know that that's a thing and I expect that there's something there, yeah?"
+      ]
+    },
+    "T19": {
+      "id": "T19",
+      "label": "QUESTION",
+      "span": [
+        274,
+        275
+      ],
+      "sentence": [
+        "What if I click off of this?"
+      ]
+    },
+    "T20": {
+      "id": "T20",
+      "label": "QUESTION",
+      "span": [
+        275,
+        276
+      ],
+      "sentence": [
+        "do I go back out and I have to come back in?"
+      ]
+    },
+    "T22": {
+      "id": "T22",
+      "label": "QUESTION",
+      "span": [
+        328,
+        329
+      ],
+      "sentence": [
+        "I'm like just take a screenshot, take a screenshot, replace the image, yeah?"
+      ]
+    },
+    "T23": {
+      "id": "T23",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        340,
+        341
+      ],
+      "sentence": [
+        "Other that catch up and I would augment your presentation presentation if you want to do it as like a little case that he just had some sexual elements in the background on those blue ones, like take some of the blobs from the peoples hair, the charts and just kind of put him on the corners and it will just up it into another level, yeah?"
+      ]
+    },
+    "T24": {
+      "id": "T24",
+      "label": "QUESTION",
+      "span": [
+        347,
+        348
+      ],
+      "sentence": [
+        "Alright, are e-commerce challenge OK?"
+      ]
+    },
+    "T25": {
+      "id": "T25",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        380,
+        381
+      ],
+      "sentence": [
+        "Planes, Twins, these look like cool shoes oh oh we're doing shoes OK hold on can I you talk about this one?"
+      ]
+    },
+    "T27": {
+      "id": "T27",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        422,
+        423
+      ],
+      "sentence": [
+        "Yeah?"
+      ]
+    },
+    "T28": {
+      "id": "T28",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        428,
+        429
+      ],
+      "sentence": [
+        "I miss the world famous people I know, right?"
+      ]
+    },
+    "T29": {
+      "id": "T29",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        430,
+        431
+      ],
+      "sentence": [
+        "OK, what's that?"
+      ]
+    },
+    "T30": {
+      "id": "T30",
+      "label": "QUESTION",
+      "span": [
+        437,
+        438
+      ],
+      "sentence": [
+        "Do you feel that now?"
+      ]
+    },
+    "T31": {
+      "id": "T31",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        438,
+        439
+      ],
+      "sentence": [
+        "Alright, are you, Andrew Hawk rattle or Hok Hok Taco?"
+      ]
+    },
+    "T32": {
+      "id": "T32",
+      "label": "QUESTION",
+      "span": [
+        457,
+        458
+      ],
+      "sentence": [
+        "OK, so why don't you go first?"
+      ]
+    },
+    "T33": {
+      "id": "T33",
+      "label": "QUESTION",
+      "span": [
+        458,
+        459
+      ],
+      "sentence": [
+        "Andrew?"
+      ]
+    },
+    "T34": {
+      "id": "T34",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        476,
+        477
+      ],
+      "sentence": [
+        "Hey Jonathan, where can I see all the upcoming live shows?"
+      ]
+    },
+    "T35": {
+      "id": "T35",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        477,
+        478
+      ],
+      "sentence": [
+        "Is there schedule?"
+      ]
+    },
+    "T36": {
+      "id": "T36",
+      "label": "QUESTION",
+      "span": [
+        511,
+        512
+      ],
+      "sentence": [
+        "Feels a little off putting of like do I do this?"
+      ]
+    },
+    "T37": {
+      "id": "T37",
+      "label": "QUESTION",
+      "span": [
+        512,
+        513
+      ],
+      "sentence": [
+        "do I not do it because of that color and then down here like this is super vibrant?"
+      ]
+    },
+    "T38": {
+      "id": "T38",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        538,
+        539
+      ],
+      "sentence": [
+        "Why don't we do this more often, right?"
+      ]
+    },
+    "T39": {
+      "id": "T39",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        541,
+        542
+      ],
+      "sentence": [
+        "What did it do?"
+      ]
+    },
+    "T41": {
+      "id": "T41",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        547,
+        548
+      ],
+      "sentence": [
+        "Why is it doing that?"
+      ]
+    },
+    "T42": {
+      "id": "T42",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        554,
+        555
+      ],
+      "sentence": [
+        "Blow that up Alright Good Morning how can we help you?"
+      ]
+    },
+    "T43": {
+      "id": "T43",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        563,
+        564
+      ],
+      "sentence": [
+        "OK, this is the fun, um?"
+      ]
+    },
+    "T45": {
+      "id": "T45",
+      "label": "QUESTION",
+      "span": [
+        600,
+        601
+      ],
+      "sentence": [
+        "What if it's a video like?"
+      ]
+    },
+    "T46": {
+      "id": "T46",
+      "label": "QUESTION",
+      "span": [
+        601,
+        602
+      ],
+      "sentence": [
+        "Is every little detail being slightly different for a single page like 89 versions of it, so just just experiment?"
+      ]
+    },
+    "T47": {
+      "id": "T47",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        626,
+        627
+      ],
+      "sentence": [
+        "It's a website, Yeah?"
+      ]
+    },
+    "T50": {
+      "id": "T50",
+      "label": "QUESTION",
+      "span": [
+        640,
+        641
+      ],
+      "sentence": [
+        "Cool anything else you want to say on this morning?"
+      ]
+    },
+    "T53": {
+      "id": "T53",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        660,
+        661
+      ],
+      "sentence": [
+        "What's my name?"
+      ]
+    },
+    "T56": {
+      "id": "T56",
+      "label": "QUESTION",
+      "span": [
+        723,
+        724
+      ],
+      "sentence": [
+        "So what's happening with the X in the cart button on the top right?"
+      ]
+    },
+    "T58": {
+      "id": "T58",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        740,
+        741
+      ],
+      "sentence": [
+        "Is this a real thing is?"
+      ]
+    },
+    "T60": {
+      "id": "T60",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        794,
+        795
+      ],
+      "sentence": [
+        "Yeah?"
+      ]
+    },
+    "T62": {
+      "id": "T62",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        798,
+        799
+      ],
+      "sentence": [
+        "So high XD people what's up?"
+      ]
+    },
+    "T63": {
+      "id": "T63",
+      "label": "QUESTION",
+      "span": [
+        823,
+        824
+      ],
+      "sentence": [
+        "Again, I want things to be more consistent in terms of width, or at least what kind of specialist are you looking for in the drop down like that?"
+      ]
+    },
+    "T65": {
+      "id": "T65",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        827,
+        828
+      ],
+      "sentence": [
+        "This is going to be our live call, OK?"
+      ]
+    },
+    "T68": {
+      "id": "T68",
+      "label": "QUESTION",
+      "span": [
+        853,
+        854
+      ],
+      "sentence": [
+        "Look at this and like which one are you supposed to hit?"
+      ]
+    },
+    "T73": {
+      "id": "T73",
+      "label": "QUESTION",
+      "span": [
+        952,
+        953
+      ],
+      "sentence": [
+        "Where does this land?"
+      ]
+    },
+    "T74": {
+      "id": "T74",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        981,
+        982
+      ],
+      "sentence": [
+        "Let us know and while we wait on the delay do you have other things to say Peter?"
+      ]
+    },
+    "T75": {
+      "id": "T75",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        991,
+        992
+      ],
+      "sentence": [
+        "So what time is your DCC?"
+      ]
+    },
+    "T76": {
+      "id": "T76",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        994,
+        995
+      ],
+      "sentence": [
+        "I'll be on two and then what time does illustrator?"
+      ]
+    },
+    "T77": {
+      "id": "T77",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        995,
+        996
+      ],
+      "sentence": [
+        "Is it like 1130?"
+      ]
+    },
+    "T80": {
+      "id": "T80",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        1028,
+        1029
+      ],
+      "sentence": [
+        "Everybody sounds good man, hey you wanna regroup in like 15 or something?"
+      ]
+    },
+    "T81": {
+      "id": "T81",
+      "label": "ANSWER",
+      "span": [
+        13,
+        14
+      ],
+      "sentence": [
+        "Yeah, that's right."
+      ]
+    },
+    "T82": {
+      "id": "T82",
+      "label": "ANSWER",
+      "span": [
+        23,
+        24
+      ],
+      "sentence": [
+        "Probably not that much."
+      ]
+    },
+    "T83": {
+      "id": "T83",
+      "label": "ANSWER",
+      "span": [
+        33,
+        34
+      ],
+      "sentence": [
+        "Watch right here."
+      ]
+    },
+    "T84": {
+      "id": "T84",
+      "label": "ANSWER",
+      "span": [
+        41,
+        43
+      ],
+      "sentence": [
+        "Because you're doing it off of my screen I follow which is going.",
+        "I forget the technical trickery's that we have to do to make this work."
+      ]
+    },
+    "T85": {
+      "id": "T85",
+      "label": "ANSWER",
+      "span": [
+        67,
+        68
+      ],
+      "sentence": [
+        "Andrew, yeah, I agree."
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "ANSWER",
+      "span": [
+        177,
+        179
+      ],
+      "sentence": [
+        "Yeah, uh.",
+        "Like the Android 82, I don't know."
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        297,
+        299
+      ],
+      "sentence": [
+        "Omega you talking about?",
+        "Meg draws."
+      ]
+    },
+    "T9": {
+      "id": "T9",
+      "label": "ANSWER",
+      "span": [
+        299,
+        300
+      ],
+      "sentence": [
+        "Oh yeah, yeah, we're talking about different."
+      ]
+    },
+    "T16": {
+      "id": "T16",
+      "label": "ANSWER",
+      "span": [
+        341,
+        342
+      ],
+      "sentence": [
+        "Cool cool alright."
+      ]
+    },
+    "T17": {
+      "id": "T17",
+      "label": "ANSWER",
+      "span": [
+        423,
+        424
+      ],
+      "sentence": [
+        "Oh man, yeah Android."
+      ]
+    },
+    "T18": {
+      "id": "T18",
+      "label": "ANSWER",
+      "span": [
+        431,
+        432
+      ],
+      "sentence": [
+        "Oh, it's behind OK, I was like what's happening."
+      ]
+    },
+    "T21": {
+      "id": "T21",
+      "label": "ANSWER",
+      "span": [
+        478,
+        481
+      ],
+      "sentence": [
+        "There is Dane.",
+        "There is a schedule.",
+        "I believe it be hands.net/live underneath whatever video is there right now, yeah."
+      ]
+    },
+    "T26": {
+      "id": "T26",
+      "label": "ANSWER",
+      "span": [
+        542,
+        547
+      ],
+      "sentence": [
+        "So?",
+        "Because his name has a characters in other language, it like really messes with.",
+        "My text it like changes about my notepad.",
+        "It is.",
+        "It's doing it again."
+      ]
+    },
+    "T40": {
+      "id": "T40",
+      "label": "ANSWER",
+      "span": [
+        548,
+        550
+      ],
+      "sentence": [
+        "Hum.",
+        "I don't know the best way."
+      ]
+    },
+    "T44": {
+      "id": "T44",
+      "label": "ANSWER",
+      "span": [
+        627,
+        628
+      ],
+      "sentence": [
+        "Yeah, this is definitely more in the website."
+      ]
+    },
+    "T48": {
+      "id": "T48",
+      "label": "ANSWER",
+      "span": [
+        724,
+        726
+      ],
+      "sentence": [
+        "Oh, that's excuse me, just the mouse hover?",
+        "That's what that Circle is."
+      ]
+    },
+    "T49": {
+      "id": "T49",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        795,
+        796
+      ],
+      "sentence": [
+        "I mean, you're crushing the use of auto animate and prototyping here, just Accessibility and kind of some of the UX needs to be reworked, but this is really close to being super super solid."
+      ]
+    },
+    "T51": {
+      "id": "T51",
+      "label": "ANSWER",
+      "span": [
+        854,
+        855
+      ],
+      "sentence": [
+        "Oh yeah, this is like what Apple does with the timers to wear like the timer is one and the alarm is the other, yeah."
+      ]
+    },
+    "T52": {
+      "id": "T52",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        909,
+        910
+      ],
+      "sentence": [
+        "But like with a different person on Fridays at 1:00 PM Pacific Standard Time?"
+      ]
+    },
+    "T54": {
+      "id": "T54",
+      "label": "ANSWER",
+      "span": [
+        910,
+        911
+      ],
+      "sentence": [
+        "Yeah, TuneIn tomorrow with me and Nick Longo."
+      ]
+    },
+    "T55": {
+      "id": "T55",
+      "label": "ANSWER",
+      "span": [
+        953,
+        955
+      ],
+      "sentence": [
+        "I just do them all white so that you have that like.",
+        "Peter contrast together through."
+      ]
+    },
+    "T57": {
+      "id": "T57",
+      "label": "ANSWER",
+      "span": [
+        982,
+        987
+      ],
+      "sentence": [
+        "Are no just thank you guys for doing these challenges.",
+        "It's so much fun getting to teach these and to give the feedback and I think like Andrew touched on before, it's like a proud dad.",
+        "Proud teacher moment when we get to see these projects come in and they're really solid or we see maybe your first challenge wasn't so great, but then like challenge three and four and five really start clicking, it tells us that you're listening to the feedback that you're starting to understand it.",
+        "Getting your exposure and experience, and it's really fun to see you guys succeed.",
+        "So thank you all for joining us."
+      ]
+    },
+    "T59": {
+      "id": "T59",
+      "label": "ANSWER",
+      "span": [
+        996,
+        999
+      ],
+      "sentence": [
+        "Eleven thirty 11:30?",
+        "Then the two hours segment then XD?",
+        "Than 30 and 30."
+      ]
+    },
+    "T61": {
+      "id": "T61",
+      "label": "ANSWER",
+      "span": [
+        1029,
+        1030
+      ],
+      "sentence": [
+        "Yes I'm going to make food let's do it Alright let me catch you all later bye friend stream up for a minute or two 'cause I think we need to and we'll go from there I got sounds good alright I'm gonna wait I'll just put the list up until I."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T1",
+      "answer": "T81",
+      "question_sentence": [
+        "Might my stream?"
+      ],
+      "answer_sentence": [
+        "Yeah, that's right."
+      ]
+    },
+    "R2": {
+      "id": "R2",
+      "label": "Chitchat",
+      "question": "T2",
+      "answer": "T82",
+      "question_sentence": [
+        "How do you have feeder by?"
+      ],
+      "answer_sentence": [
+        "Probably not that much."
+      ]
+    },
+    "R3": {
+      "id": "R3",
+      "label": "Chitchat",
+      "question": "T3",
+      "answer": "T83",
+      "question_sentence": [
+        "Yeah I like it alright sweetie, I can't decide where do I watch you?"
+      ],
+      "answer_sentence": [
+        "Watch right here."
+      ]
+    },
+    "R4": {
+      "id": "R4",
+      "label": "Relevance",
+      "question": "T4",
+      "answer": "T84",
+      "question_sentence": [
+        "Yep oh are you going to cover us that Peter or you gonna have a sliding above that note?"
+      ],
+      "answer_sentence": [
+        "Because you're doing it off of my screen I follow which is going.",
+        "I forget the technical trickery's that we have to do to make this work."
+      ]
+    },
+    "R5": {
+      "id": "R5",
+      "label": "Chitchat",
+      "question": "T5",
+      "answer": "T85",
+      "question_sentence": [
+        "You want to get some initial talks?"
+      ],
+      "answer_sentence": [
+        "Andrew, yeah, I agree."
+      ]
+    },
+    "R6": {
+      "id": "R6",
+      "label": "Chitchat",
+      "question": "T13",
+      "answer": "T6",
+      "question_sentence": [
+        "The zoom right?"
+      ],
+      "answer_sentence": [
+        "Yeah, uh.",
+        "Like the Android 82, I don't know."
+      ]
+    },
+    "R7": {
+      "id": "R7",
+      "label": "Chitchat",
+      "question": "T8",
+      "answer": "T9",
+      "question_sentence": [
+        "Omega you talking about?",
+        "Meg draws."
+      ],
+      "answer_sentence": [
+        "Oh yeah, yeah, we're talking about different."
+      ]
+    },
+    "R8": {
+      "id": "R8",
+      "label": "Chitchat",
+      "question": "T23",
+      "answer": "T16",
+      "question_sentence": [
+        "Other that catch up and I would augment your presentation presentation if you want to do it as like a little case that he just had some sexual elements in the background on those blue ones, like take some of the blobs from the peoples hair, the charts and just kind of put him on the corners and it will just up it into another level, yeah?"
+      ],
+      "answer_sentence": [
+        "Cool cool alright."
+      ]
+    },
+    "R9": {
+      "id": "R9",
+      "label": "Chitchat",
+      "question": "T27",
+      "answer": "T17",
+      "question_sentence": [
+        "Yeah?"
+      ],
+      "answer_sentence": [
+        "Oh man, yeah Android."
+      ]
+    },
+    "R10": {
+      "id": "R10",
+      "label": "Chitchat",
+      "question": "T29",
+      "answer": "T18",
+      "question_sentence": [
+        "OK, what's that?"
+      ],
+      "answer_sentence": [
+        "Oh, it's behind OK, I was like what's happening."
+      ]
+    },
+    "R11": {
+      "id": "R11",
+      "label": "Chitchat",
+      "question": "T34",
+      "answer": "T21",
+      "question_sentence": [
+        "Hey Jonathan, where can I see all the upcoming live shows?"
+      ],
+      "answer_sentence": [
+        "There is Dane.",
+        "There is a schedule.",
+        "I believe it be hands.net/live underneath whatever video is there right now, yeah."
+      ]
+    },
+    "R12": {
+      "id": "R12",
+      "label": "Chitchat",
+      "question": "T39",
+      "answer": "T26",
+      "question_sentence": [
+        "What did it do?"
+      ],
+      "answer_sentence": [
+        "So?",
+        "Because his name has a characters in other language, it like really messes with.",
+        "My text it like changes about my notepad.",
+        "It is.",
+        "It's doing it again."
+      ]
+    },
+    "R13": {
+      "id": "R13",
+      "label": "Chitchat",
+      "question": "T41",
+      "answer": "T40",
+      "question_sentence": [
+        "Why is it doing that?"
+      ],
+      "answer_sentence": [
+        "Hum.",
+        "I don't know the best way."
+      ]
+    },
+    "R14": {
+      "id": "R14",
+      "label": "Chitchat",
+      "question": "T47",
+      "answer": "T44",
+      "question_sentence": [
+        "It's a website, Yeah?"
+      ],
+      "answer_sentence": [
+        "Yeah, this is definitely more in the website."
+      ]
+    },
+    "R15": {
+      "id": "R15",
+      "label": "Chitchat",
+      "question": "T56",
+      "answer": "T48",
+      "question_sentence": [
+        "So what's happening with the X in the cart button on the top right?"
+      ],
+      "answer_sentence": [
+        "Oh, that's excuse me, just the mouse hover?",
+        "That's what that Circle is."
+      ]
+    },
+    "R16": {
+      "id": "R16",
+      "label": "Chitchat",
+      "question": "T68",
+      "answer": "T51",
+      "question_sentence": [
+        "Look at this and like which one are you supposed to hit?"
+      ],
+      "answer_sentence": [
+        "Oh yeah, this is like what Apple does with the timers to wear like the timer is one and the alarm is the other, yeah."
+      ]
+    },
+    "R17": {
+      "id": "R17",
+      "label": "Chitchat",
+      "question": "T52",
+      "answer": "T54",
+      "question_sentence": [
+        "But like with a different person on Fridays at 1:00 PM Pacific Standard Time?"
+      ],
+      "answer_sentence": [
+        "Yeah, TuneIn tomorrow with me and Nick Longo."
+      ]
+    },
+    "R18": {
+      "id": "R18",
+      "label": "Chitchat",
+      "question": "T73",
+      "answer": "T55",
+      "question_sentence": [
+        "Where does this land?"
+      ],
+      "answer_sentence": [
+        "I just do them all white so that you have that like.",
+        "Peter contrast together through."
+      ]
+    },
+    "R19": {
+      "id": "R19",
+      "label": "Chitchat",
+      "question": "T74",
+      "answer": "T57",
+      "question_sentence": [
+        "Let us know and while we wait on the delay do you have other things to say Peter?"
+      ],
+      "answer_sentence": [
+        "Are no just thank you guys for doing these challenges.",
+        "It's so much fun getting to teach these and to give the feedback and I think like Andrew touched on before, it's like a proud dad.",
+        "Proud teacher moment when we get to see these projects come in and they're really solid or we see maybe your first challenge wasn't so great, but then like challenge three and four and five really start clicking, it tells us that you're listening to the feedback that you're starting to understand it.",
+        "Getting your exposure and experience, and it's really fun to see you guys succeed.",
+        "So thank you all for joining us."
+      ]
+    },
+    "R20": {
+      "id": "R20",
+      "label": "Chitchat",
+      "question": "T77",
+      "answer": "T59",
+      "question_sentence": [
+        "Is it like 1130?"
+      ],
+      "answer_sentence": [
+        "Eleven thirty 11:30?",
+        "Then the two hours segment then XD?",
+        "Than 30 and 30."
+      ]
+    },
+    "R21": {
+      "id": "R21",
+      "label": "Chitchat",
+      "question": "T80",
+      "answer": "T61",
+      "question_sentence": [
+        "Everybody sounds good man, hey you wanna regroup in like 15 or something?"
+      ],
+      "answer_sentence": [
+        "Yes I'm going to make food let's do it Alright let me catch you all later bye friend stream up for a minute or two 'cause I think we need to and we'll go from there I got sounds good alright I'm gonna wait I'll just put the list up until I."
+      ]
+    }
+  }
+}

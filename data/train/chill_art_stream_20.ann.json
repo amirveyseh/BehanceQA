@@ -1,0 +1,242 @@
+{
+  "sentence": [
+    "It's it's a little tough.",
+    "You know, and I'm sorry.",
+    "That I can't really give you more on that.",
+    "Just just keep experimenting with what time you post when you're most active.",
+    "And just keep doing it.",
+    "Keep doing it because it's really disheartening when you put so much work and so much effort is so much love into whatever it is that you're doing, and there's no one there to share it with.",
+    "Um?",
+    "Oh yeah, I wanna look.",
+    "I'm looking at your stuff.",
+    "There is a.",
+    "Columbia.",
+    "Oh, OK.",
+    "Oh, is that you in the picture.",
+    "Oh, you're so pretty.",
+    "Since every part.",
+    "Oh, that's so cool.",
+    "Oh that's so beautiful.",
+    "I like how you made your portfolio.",
+    "Are those all fonts and things like that that you've designed, or that you're playing around with?",
+    "All your stuff is so cool.",
+    "Sure.",
+    "You definitely already have.",
+    "Your own style, like your own theme.",
+    "Kind of going on.",
+    "Keep playing with it.",
+    "Keep keep trying to figure like like stick to the art that you have.",
+    "Stick to the creativity's that you have, you know and keep pushing.",
+    "Keep trying.",
+    "Keep trying to figure out something you know yeah.",
+    "Yeah, you're so cute in that picture.",
+    "I love that shirt.",
+    "Light green is really pretty on you.",
+    "Look at that.",
+    "That's so pretty.",
+    "It's like a yellow Gray and actually.",
+    "That's so cool.",
+    "Is that your office?",
+    "Is it always that clean?",
+    "'cause I'm Jelly?",
+    "Yeah.",
+    "Yeah, I love it.",
+    "That it just it takes some time trying to figure out.",
+    "Who you are.",
+    "What your style is.",
+    "What your schedule is, you know.",
+    "It's it's tough.",
+    "I'm still definitely trying to figure out what the hell.",
+    "My stuff is, you know, I know, I know what I like to do.",
+    "It's a Weird Challenge.",
+    "Just for the picture.",
+    "Yeah, oh.",
+    "OK cool, I'm not the only one.",
+    "Honestly, is that a little bit?",
+    "But it's complicated.",
+    "It really, really is trying to figure out what works for you.",
+    "Anne, with what you want to do?",
+    "I keep repeating myself.",
+    "I just realized that such a Ding Dong.",
+    "False advertising.",
+    "I think her head is too big.",
+    "I think that's what my problem is.",
+    "Nope.",
+    "Just a little bit, I'm here.",
+    "Her hair.",
+    "Little bit.",
+    "Hey.",
+    "There we are.",
+    "It's definitely a.",
+    "There's no.",
+    "I mean, I'm not exactly sure.",
+    "I think for in my case.",
+    "Um?",
+    "When I first started streaming on be hands, I did a show with voodoo Val who works with Adobe and she has her own little like drawing show and she had me on that her and I are really good friends and I think because of that opportunity I had a little bit of like, you know a push and because of that you know that was on Adobe live.",
+    "More people look at my stuff.",
+    "But I'm still very much.",
+    "Trying to figure out.",
+    "How to get?",
+    "My stuff out there.",
+    "You know how to get more viewers and things like that, and I think looking at other artists that I follow on Instagram on Twitter, you know everywhere.",
+    "I think it's a mix of.",
+    "Keep pushing, keep posting.",
+    "Keep doing stuff.",
+    "Keep working forward you know.",
+    "An experiment.",
+    "At the same time.",
+    "If that makes sense.",
+    "Can I ask what you use?",
+    "I have a Wacom intuos.",
+    "From old school into US.",
+    "I think this thing is like 2 three years old now.",
+    "This is a little old.",
+    "But that's OK.",
+    "OK.",
+    "So we're getting somewhere.",
+    "And figuring it out.",
+    "Uh-huh Huh?",
+    "My gummies Sorry if my eating sound are really obvious.",
+    "The last time I got a message from someone in the USA, we did an interview, but I had to be next to a translator because I couldn't understand at all what he was saying.",
+    "Oh, OK.",
+    "I think that project is not going to keep ahead because of the communication.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION",
+      "span": [
+        6,
+        7
+      ],
+      "sentence": [
+        "Um?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        18,
+        19
+      ],
+      "sentence": [
+        "Are those all fonts and things like that that you've designed, or that you're playing around with?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        36,
+        37
+      ],
+      "sentence": [
+        "Is that your office?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        37,
+        38
+      ],
+      "sentence": [
+        "Is it always that clean?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        38,
+        39
+      ],
+      "sentence": [
+        "'cause I'm Jelly?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        55,
+        56
+      ],
+      "sentence": [
+        "Anne, with what you want to do?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION",
+      "span": [
+        71,
+        72
+      ],
+      "sentence": [
+        "Um?"
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "QUESTION",
+      "span": [
+        76,
+        77
+      ],
+      "sentence": [
+        "How to get?"
+      ]
+    },
+    "T9": {
+      "id": "T9",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        86,
+        87
+      ],
+      "sentence": [
+        "Can I ask what you use?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION",
+      "span": [
+        95,
+        96
+      ],
+      "sentence": [
+        "Uh-huh Huh?"
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "ANSWER",
+      "span": [
+        87,
+        88
+      ],
+      "sentence": [
+        "I have a Wacom intuos."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T9",
+      "answer": "T5",
+      "question_sentence": [
+        "Can I ask what you use?"
+      ],
+      "answer_sentence": [
+        "I have a Wacom intuos."
+      ]
+    }
+  }
+}

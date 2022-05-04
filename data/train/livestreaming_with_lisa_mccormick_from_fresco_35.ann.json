@@ -1,0 +1,191 @@
+{
+  "sentence": [
+    "Girl.",
+    "I also feel like that color maybe makes him look.",
+    "Kind of more like a Fox.",
+    "At low.",
+    "I might be a little bit better at least alright?",
+    "Well, I'll leave it for now.",
+    "Again, it's kind of more like a kids T shirt or what have you.",
+    "So it's OK if it's a little quirky.",
+    "And.",
+    "So we got this little waterfall.",
+    "Coming down.",
+    "Do.",
+    "Cool.",
+    "And then.",
+    "Let's see.",
+    "So we're definitely going to need a phone.",
+    "I always gravitate for pink for son, I don't know.",
+    "Exactly what's wrong with me, but that is in my mind the color of the sun is either pink or red, which is so.",
+    "Inaccurate, yet I think I just want it to be so.",
+    "I don't know.",
+    "It looks little dumb.",
+    "Uh-huh Alright, is that I feel like this this what this supposed to be.",
+    "A Wolf looks more like a dog or something.",
+    "I should mass that and make it.",
+    "Gray, that's probably may be helpful.",
+    "Because he just doesn't look like Wolf.",
+    "So.",
+    "OK, this is actually going to be kind of weird 'cause I'm trying to change the color.",
+    "It's about as.",
+    "As detailed as a, I would.",
+    "Like to be with my animation knowledge but.",
+    "I'm saying, yeah, I have a team and we work on different project, so that's awesome.",
+    "Do you work for like an agency or like a freelance team?",
+    "What kind of kind of team are you on?",
+    "That is something that I miss, um, as I just work on my own, uhm?",
+    "As a freelancer, which.",
+    "You know it has.",
+    "It has its perks to it, but it also has.",
+    "Yeah, pros and cons with.",
+    "I definitely miss having that team aspect, uhm?",
+    "So I was like collaborating with people.",
+    "When I can though.",
+    "OK.",
+    "So.",
+    "This is what we're working with, uhm?",
+    "So can I feel like?",
+    "I could probably.",
+    "Get rid of.",
+    "Some of these just 'cause there's so much going on and.",
+    "I don't know like I don't feel like.",
+    "Well, actually I do kind of like that that one is.",
+    "Pretty different, uhm?",
+    "And I'm trying to figure out which ones to keep, which ones not to keep, but anyway.",
+    "I can start to play around a little bit with.",
+    "Colors.",
+    "So.",
+    "See.",
+    "So my colors over here.",
+    "Hum.",
+    "This blue and pink color scheme is definitely been like my go to as.",
+    "You guys have more than likely noticed.",
+    "See, so it's a factor.",
+    "Kind of a fun one.",
+    "Trying to figure out to like if I want to make these like.",
+    "Badges, uhm?",
+    "I just feel like a little bit torn about the way that I have everything laid out.",
+    "I don't know if this is like the best possible layout or not.",
+    "Think I could probably.",
+    "Hey hey, hey look, what's up?",
+    "Oh, thank you.",
+    "Yeah you know I these were some of my uh.",
+    "My sketchbook drawings from earlier today.",
+    "Um?",
+    "Yes, some of them are pretty random, but there all kind of signifying you know, hope and Love and.",
+    "Yeah, all that all that good stuff, but it's good to see your face on here.",
+    "What kind of art work are you working on these days?",
+    "Luke Luke is uhm.",
+    "He's one of my friends, and, uh, it's a local artist, Um as well, and this is super cool dude.",
+    "So you guys should check out his profile.",
+    "Yeah, I've had some colors I want to sleep Haha OK Uh Alright.",
+    "Let me see, let me see.",
+    "I just feel like it's a little bit too cluttered right now, so I think I am going.",
+    "To get rid of.",
+    "Some of the pieces that feel like.",
+    "Yeah, I've been trying to to listen and learn.",
+    "But also speak and you know.",
+    "Sam petitions and go to protest, and it's called different.",
+    "Local government officials and what not, and um.",
+    "Yeah, I just I find myself at just a really kind of tired.",
+    "Really tired place right now so.",
+    "I wanted to uhm.",
+    "Make some artwork that is just kind of like therapeutic.",
+    "Um?",
+    "Artists always has always been just like such a great outlet.",
+    "Um, for me and so many others just highlighting the joys of life and small so obviously but hard.",
+    "Her parts of life as well, but just having this outlet too.",
+    "To make and create an almost like.",
+    "I mean, I love like day dreaming and Doodling.",
+    "Uhm and.",
+    "It's like you can just go into your own.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        4,
+        5
+      ],
+      "sentence": [
+        "I might be a little bit better at least alright?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        32,
+        33
+      ],
+      "sentence": [
+        "Do you work for like an agency or like a freelance team?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        33,
+        34
+      ],
+      "sentence": [
+        "What kind of kind of team are you on?"
+      ]
+    },
+    "T9": {
+      "id": "T9",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        68,
+        69
+      ],
+      "sentence": [
+        "Hey hey, hey look, what's up?"
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        75,
+        76
+      ],
+      "sentence": [
+        "What kind of art work are you working on these days?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "ANSWER",
+      "span": [
+        69,
+        72
+      ],
+      "sentence": [
+        "Oh, thank you.",
+        "Yeah you know I these were some of my uh.",
+        "My sketchbook drawings from earlier today."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T9",
+      "answer": "T3",
+      "question_sentence": [
+        "Hey hey, hey look, what's up?"
+      ],
+      "answer_sentence": [
+        "Oh, thank you.",
+        "Yeah you know I these were some of my uh.",
+        "My sketchbook drawings from earlier today."
+      ]
+    }
+  }
+}

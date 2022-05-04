@@ -1,0 +1,1169 @@
+{
+  "sentence": [
+    "OK.",
+    "It looks like.",
+    "We are live.",
+    "Hello.",
+    "How is everyone today good morning Good afternoon good evening?",
+    "Wherever you are in the world?",
+    "My name is Jason Levine and for today's brief live stream.",
+    "We're going to be talking to you about something that I get asked about a lot.",
+    "In fact, it was recently asked on my YouTube channel.",
+    "And so I thought I'd showed you today, which is quite simply what's an easy and somewhat automated way to remove?",
+    "Gaps or more importantly, how to identify mark and find gaps and silence and other things in your dialogue tracks.",
+    "And then what are some best practices are easy ways to remove them?",
+    "I'm going to show you some of the options here again some of this is automated.",
+    "Being automated, it doesn't always get it right the first time, but you've got lots of flexibility.",
+    "And I'm going to show you that in Adobe audition, so as always give a couple shots into the chat here Marco.",
+    "Ankit Yoni Saeed.",
+    "Celine very cool nice to see you Nachman Tab from Brooklyn great to see you karrar.",
+    "Anna ground from Sweden Hello.",
+    "Hey.",
+    "Paolo Thomas, Daniel Velez Sebastian nice to see you Daniel Everado from Midland, TX.",
+    "Very nice alright, an let's see we've got Donald ping.",
+    "An evil series what's happening good to see you all.",
+    "All right.",
+    "And usually and we've got have got some people over and be Hans great to see you as well, Desiree.",
+    "EC Abrams, how are you doing OK alright well let's go ahead and get right to it?",
+    "And we're going to hop over to hold on.",
+    "Let me just minimize my focusrite mixer here.",
+    "An let's hop over to audition OK.",
+    "So as mentioned there's a lot of there's a lot of ways to do this?",
+    "What's up CUDA cash.",
+    "Uh there's a lot of different ways to do this.",
+    "But in a really easy way is to use the diagnostics panel where we actually have.",
+    "A mark audio function now for those of you who are kind of old school.",
+    "You know that we used to have lots of different options for marking.",
+    "Dialogue and silence and pauses and things in previous versions of audition lot of that tech has been confined to the diagnostics panel.",
+    "It's just kind of hidden in there, I've shown the clipping in there, I've shown the clicking in there.",
+    "I'm not sure if I've shown recently the mark audio section.",
+    "So the first thing you want to do is go.",
+    "Your window menu.",
+    "And open up the diagnostics panel not sure where it's going to dock for you by default, but you can see that I've got mine.",
+    "Duct up here in the upper left an under the effects.",
+    "Uh.",
+    "Fly out menu which.",
+    "It's also an odd choice of a name, there really marking an audio shouldn't be in effect, but alright whatever.",
+    "Uh.",
+    "Note to the engineers if anyone's anyones watching right now, we need to kind of rethink that one.",
+    "Um declare that the Clipper.",
+    "Delete silence and then Mark Audio.",
+    "We're going to focus on Mark and delete silence today.",
+    "All right.",
+    "Now, as always, we give you a couple of preset options will talk about these.",
+    "I'm actually going to show you this kind of the manual way 'cause I think you're going to get a lot more.",
+    "A lot more mileage a lot more of ease of use out of this feature.",
+    "And the manual way is really just as easy so I'm going to show you how alright so first.",
+    "Let's take a listen.",
+    "This is just something that I recorded.",
+    "Uh just a few minutes ago as an example here.",
+    "Uh what's up, Tim just to kind of showcase?",
+    "What we're looking to do here and you can kind of see already if you're an audio person.",
+    "You can see the gaps you can see what we'd likely want to cut out or remove.",
+    "If nothing else.",
+    "This also makes it easier to manipulate that dialogue in the multi track or wherever your going to be assembling this alright.",
+    "Let's just take a quick listen 1st in here what we've got.",
+    "In today's brief tutorial.",
+    "I'm going to show you how to use auditions marking features to eliminate pauses.",
+    "The main idea here is that if you have elongated pauses.",
+    "You can automatically mark these and then take them away.",
+    "Now of course, there is a tradeoff here as sometimes you want the pauses to kind of convey mood or emotion.",
+    "But you do have some options to adjust that duration and make things a little smoother.",
+    "In the process.",
+    "OK.",
+    "So.",
+    "In a somewhat uncharacteristic way I'm reading this very deliberately and slowly.",
+    "Perfectly timed hydration break thank you.",
+    "Dude, I miss your comments it's good to virtually CU Evan Abrams, everybody you should check out EC Abrams.",
+    "Channel on YouTube by the way if you're looking for.",
+    "To really understand after effects motion graphics motion design.",
+    "Evan Abrams Good Buddy of mine, he spent on Adobe live multiple times.",
+    "He's hosted Adobe live.",
+    "Um.",
+    "A true fountain of knowledge and I highly recommend his channel so.",
+    "Be sure to you should put that up in the chat or something.",
+    "Dude, OK alright so you've got my audio in front of you here.",
+    "All right, so let's go to diagnostics an first.",
+    "The first thing I just want to do is show you how you can mark the audio.",
+    "Not even talking about eliminating pauses or silence just yet.",
+    "Just marking it because ultimately this is a pretty short piece.",
+    "But if I've read copy for let's say 30 seconds a minute.",
+    "And I'm doing this for a commercial for voice over or something.",
+    "It just comes it becomes really handy if I can just very quickly kind of separate.",
+    "All the little spoken pieces.",
+    "So here on Mark Audio.",
+    "I'm going to use I'm actually in a default preset here.",
+    "I just changed something earlier on.",
+    "But the first thing you're going to do.",
+    "Is scan the audio and when you do that?",
+    "It's going to identify sections that it thinks are rich with audio content.",
+    "Now there's a secondary function here if you click on the settings button all right now, this by default.",
+    "This may look a little daunting a little scary.",
+    "Super nerdy.",
+    "Effectively, this isn't a section that uses the algorithm to define what is silence and what is audio now?",
+    "You can look at this visually or you can read meters there, you go YouTube.",
+    "Com EC Abrams OK.",
+    "Thank you Evan.",
+    "You can use this or look at the meters or look at the actual waveform view and kind of determine.",
+    "What signal defines silence so anything below you can see here negative 67 DB for more than 100?",
+    "Milliseconds is determined as silence and audio is anything above minus 58 for more than 25 milliseconds OK.",
+    "Now this was actually done via this find levels button, so you don't even have to do anything if you click on that.",
+    "It's going to identify what are effectively threshold levels OK so it's going to do all of this for you?",
+    "Now again it's not always going to get it exactly right.",
+    "I tend to think this probably is pretty good, so let's go ahead and just.",
+    "Scan this one more time OK, so I found these 5 sections.",
+    "Alright go ahead and let's Mark all.",
+    "Click on Mark all.",
+    "And just by doing that what you'll see.",
+    "Now is it has gone in and created marker regions for.",
+    "Each of the spoken passages an in the markers panel.",
+    "In audition, which you can see whoops, which you can see right over here.",
+    "I now have 5 sections with their start and end times and their duration basically isolating all of those spoken.",
+    "Messages so let's take a listen and see what it did let's click on the first one here.",
+    "In today's brief tutorial.",
+    "I'm going to show you how to use auditions marking features to eliminate pauses.",
+    "OK very nice didn't cut off the end good.",
+    "Let's take a listen to the next one.",
+    "The main idea here is that if you have elongated pauses.",
+    "You can automatically mark these and then take them away.",
+    "The main idea here now I've got this little like thing at the at the beginning right there, it detected that is.",
+    "Spoken word again this is where you can adjust those thresholds accordingly.",
+    "RTV media online nice to see you let's check take out the next one here now.",
+    "Of course, there is a tradeoff here as sometimes you want the pauses to kind of convey mood or emotion.",
+    "Now of course, OK pretty tight, but still good, but you do have some options to adjust that duration and make things a little smoother.",
+    "But you do have some options and the last one in the process in the process in the process.",
+    "OK.",
+    "So right away you can imagine you have a very long piece of audio this already marked everything for us.",
+    "OK, So what do we do?",
+    "What if we wanted to be able to take these audio bits and move them around?",
+    "Couple of options here.",
+    "So this was partially contained in a multitrack session here, so couple of things you could do.",
+    "Sometimes people just like the ability to simply select things and kind of clip and move them around So what this allows you to do.",
+    "Is to essentially?",
+    "Select those markers.",
+    "And then you can do one of two things you can split.",
+    "Audio.",
+    "Which basically just takes it out?",
+    "Uh of the original tracker, but again this is all non destructive so we're just moving things around virtually.",
+    "But what it's going to do is it's going to cut all those sections out so that we can move around freely alright.",
+    "So I'm going to do that right now, I'm just highlighting between the sections here split split.",
+    "Split also a fantastic movie by my friend, Anne Yours M night.",
+    "Shama lawn and now I can just move.",
+    "These pieces around and you can see that the silence.",
+    "Is left behind and we know that these sections are perfect?",
+    "Nothing is cut off everything?",
+    "Is there it sounds great?",
+    "It's good to go all right now that's slightly manual in the sense that I had to make selections there, but You get the idea and this gives you a lot of flexibility because all the marking that's kind of the laborious part that's the tedious part.",
+    "So it did all of that for us, OK, so that's if we're doing this in the multi track.",
+    "Now you have a couple of other options here as well.",
+    "Let's just zoom out full here, so again.",
+    "Here's our original track.",
+    "Multitrack is non destructive.",
+    "Nothing is actually been touched here.",
+    "Once you mark those regions.",
+    "Once you mark those sections, something that I personally like to do is I will often take all of those marked sections.",
+    "And export them out as separate files.",
+    "Right especially if it's copy that I'm reading so it might be like this is audio copy.",
+    "This is video copy.",
+    "This is colour correction copy Anile Label, an number them accordingly, well actually it will do the numbering for me.",
+    "So if you want to break this out into separate files entirely keeping the original intact and by the way you can save the original with all those markers.",
+    "You can highlight all of the markers that it created for you inside the markers panel.",
+    "And then you'll see, there's this little button here that says export audio of selected range markers 2 separate files.",
+    "Let's go ahead and click on that and we can give it a prefix.",
+    "If we want so I'll say.",
+    "I'll call this you know how to mark.",
+    "Alright tell it where you want it to go.",
+    "Let's just stick it here.",
+    "We're going to make a new folder on the desktop.",
+    "Just to keep things nice and clean.",
+    "All right.",
+    "Thirst.",
+    "Choose.",
+    "Alright sample type now this is got some conversion going on here we can just keep this all same as source, so same as source same as source.",
+    "In this case this is all mono 48 K 32 bit float.",
+    "Oh yeah, I've been saying that will be very nice for moving clips around in animation project exactly because.",
+    "Again, if you've got stuff that you have copy for rather than nondestructively moving pieces just have them a separate audio files.",
+    "You still have the original if you want you still have all the marked regions.",
+    "This just makes it a little bit easier.",
+    "So we're going to click OK on this click export.",
+    "It's already done now, if I go into my files panel.",
+    "Let's go to the desktop.",
+    "Hurst.",
+    "There's all my files notice they're all labeled how to mark and then it added the actual marker labels.",
+    "Adjacent to them by the way it's taking the names of the markers an appending them there, so realistically I should have just called this.",
+    "How to mark underscore in the marker itself and then it would have just taken those names rather than adding a prefix.",
+    "We give you lots of naming options just like in prelude in some of the other apps.",
+    "You get the idea Go ahead and click open and now each of those pieces is its own file.",
+    "In today's brief tutorial there's first one.",
+    "The main idea here second now of course, 3rd but you do have some awful worth in the process 5th OK.",
+    "So.",
+    "A really quick way.",
+    "To mark the audio.",
+    "Identify spoken sections.",
+    "Export as separate files or take those marks sections from the multitrack.",
+    "Split them.",
+    "And then freely move them around OK.",
+    "Couple of different cool options, there alright.",
+    "But we're not done yet.",
+    "Let's go back over to this, let's go back to our original file and I'm actually going to.",
+    "Let's remove.",
+    "Remove all of my.",
+    "All my markers.",
+    "All right.",
+    "Why is it not letting me delete my markers?",
+    "Let me get rid of all these things 1st.",
+    "OK.",
+    "All right back over to diagnostics.",
+    "So.",
+    "I mentioned there's a couple of resets in here OK.",
+    "We're going to give this a shot.",
+    "I don't know how well it's going to do so you'll see that there are 3 in here right.",
+    "One is ignore short sentence is.",
+    "OK, I'm not quite sure what that means another is mark non silent areas.",
+    "That's what we just did right.",
+    "We marked non silence so we marked dialogue.",
+    "Interesting choice.",
+    "Mark non silent and then mark the speech.",
+    "I never notice that aren't those both the same thing.",
+    "I don't know I don't know what any of this means.",
+    "Alright well, let's see what happens if we do.",
+    "Mark non silent areas.",
+    "I don't know what that's supposed to do.",
+    "I'm going to scan OK, it found 5 sections who wants to guess it's going to mark the same ones.",
+    "Yeah, it did because non silence would be dialogue OK.",
+    "Let's check out the second reset here mark the speech.",
+    "Let's can.",
+    "OK, now this, this found 23 sections.",
+    "So let's click on Mark all.",
+    "OK, So what mark the speech did is it identified more notes for the engineering team, it identified sort of.",
+    "Each section.",
+    "Or piece of talking.",
+    "Inside.",
+    "The dialogue, he ran it, even left off a few so like.",
+    "Here is here is here is.",
+    "Have have?",
+    "Elongated long gated.",
+    "Follow up.",
+    "Automatically marked automatically marked automatically mark I mean, I guess there's some use for this.",
+    "Um.",
+    "Perhaps.",
+    "I don't really know so as I told you that the pause thing I don't know.",
+    "I'm just I'm just not I'm just not sure.",
+    "But here we're going to get to the house is now because now I just showed you we showed you how to mark.",
+    "The audio that you want.",
+    "Let's talk about eliminating the audio that you don't want which in this case.",
+    "Is silence OK now again under the preset menu here?",
+    "You've got keep fun parts speed up the lecture trim long silent pauses.",
+    "Trim short digital dropouts, OK and again.",
+    "We're under delete silence.",
+    "Here, now, so I switched it from Mark audio to delete silence alright.",
+    "I'm going to just go to the settings again and click on find levels OK and it's going to do its analysis here.",
+    "So let's see OK.",
+    "And let's go ahead and scan.",
+    "Right and it found 5 problems 5 areas of silence so let's see how it did.",
+    "Let's delete them.",
+    "And it looks pretty good all right, and let's take a listen to what it did the main idea here is that if you have elongated pauses you can automatically mark these and then take them away.",
+    "Now of course, there is a tradeoff here as sometimes you want the pauses to kind of convey mood or emotion.",
+    "But you do have some options to adjust that duration and make things a little smoother in the process.",
+    "So all of this sounded pretty good, except that last little bit right there because there was just.",
+    "There's just not enough pause things a little smoother in the process things a little smoother in the process.",
+    "Right so I might come in here.",
+    "And add a little silence, which by the way is up under the edit menu.",
+    "Insert.",
+    "Silence.",
+    "And you know something like.",
+    "You know a 10th of a second here.",
+    "Things a little smoother in the process right just like that.",
+    "So now it sounds so much more just normal like normal pace duration and make things a little smoother.",
+    "In the process.",
+    "100 milliseconds.",
+    "How did you know 100 milliseconds a 10th of a second?",
+    "Again think about like standard kind of pausing if you're talking.",
+    "This isn't slow this isn't rapid it's just kind of.",
+    "Normal pace.",
+    "A 10th.",
+    "1/5 of a second.",
+    "That's usually about the duration that you want.",
+    "The key here is that right away.",
+    "It zapped out all of that silence an edited everything else together for us, nicely pretty slick.",
+    "Pretty cool, but as I mentioned you know depends it may not do it the way you want.",
+    "All the time so it can be a little challenging so let's go and let's actually see what these.",
+    "Resets do.",
+    "So.",
+    "Let's say just keep the fun parts.",
+    "OK, it's not detecting anything with just keep the fun parts, OK speed up the lecture.",
+    "OK, it found 23 problems.",
+    "Or 23 sections that's curious because.",
+    "I don't think there's that much, pausing in here.",
+    "But this is really going to identify very, very small very, very short durations.",
+    "Now, if we go into the settings.",
+    "OK.",
+    "This is where it gets tricky right because the default of this preset is silence is anything that's below 32 decibels.",
+    "For more than 140 seconds.",
+    "I'm 140 milliseconds uh I don't know.",
+    "Now you'll notice you have some fixed by options shortening silence or deleting silence so this is going to shorten.",
+    "By 100.",
+    "I immediately think that's too long, but alright let's see what this preset did.",
+    "So just by looking it's interesting right at the end here that one looks pretty good.",
+    "It maybe it's OK.",
+    "Maybe it doesn't sound bizarre, let's take a listen main idea here is that have elongated has an automatically market way now.",
+    "Of course, there is a tradeoff here as sometimes want pauses today motions.",
+    "You do have some options to adjust that.",
+    "What happened all these words all kinds of things are missing right because let's go ahead and undo it?",
+    "Because as I mentioned to you.",
+    "This preset is defining silence as anything below 32 decibels well there's lots of stuff below.",
+    "32.",
+    "- 32.",
+    "Here's minus 32.",
+    "Right here.",
+    "So there's a lot of signal below that for more than 140 milliseconds, so some of these like little.",
+    "Little bits where I'm like little glottal sounds of things that are just part of natural talking.",
+    "It's zapping those out of there.",
+    "So this is where again, you know the presets are OK, but and you can try them, but I really just recommend.",
+    "Doing the analysis manually so let's go ahead and do that alright so let's find the levels.",
+    "It is now determined what it is OK.",
+    "Oh, and by the way and yeah, we're going to shorten silence instead of delete silence.",
+    "All right and maybe will do 60 milliseconds.",
+    "I'm able to like 80.",
+    "All right.",
+    "So let's scan.",
+    "OK, now it only found 4 sections.",
+    "That makes sense because you can see that there's 4 holes in here.",
+    "Let's go ahead and delete those.",
+    "It takes those out you can also see.",
+    "Now that it looks to have reserved a little bit more of the space.",
+    "In between those sections.",
+    "Which means when I play this back now?",
+    "The main idea here is that if you have elongated pauses.",
+    "You can automatically mark these and then take them away.",
+    "Now of course, there is a tradeoff here as sometimes you want the pauses to kind of convey mood or emotion.",
+    "But you do have some options to adjust that duration and make things a little smoother in the process.",
+    "All right.",
+    "And this time with the what?",
+    "What is it called smoothing shortening silence instead of deleting silence.",
+    "It left a little bit of that breathing room in there, so I didn't have to add back in I would.",
+    "Probably still add in about 20 milliseconds between that very last last bit of speech.",
+    "There just to make it a little more natural.",
+    "But if I needed to fit something for time this is an ideal way.",
+    "Uh to get rid of that and to just move through it, so quickly.",
+    "The Chris Brown this kind of stuff makes me want to start podcasting yes 'cause.",
+    "It's so, so easy and so.",
+    "Useful alright let's bounce over real quickly to some of the chats here and see if we've got additional questions coming in.",
+    "All right.",
+    "So let's see we've got.",
+    "Sergio to wreck this feature only works for addition 2020.",
+    "No, it is in previous versions of audition as well.",
+    "Although I'd recommend moving to 2020.",
+    "More stable.",
+    "And better experience most likely for you.",
+    "Fernando from Cologne Dan from Balma what's up, Tommy Lee Lasiter nice to see over Hey Leo.",
+    "Home is EO from Portugal Militi Oh.",
+    "Alex.",
+    "You so from Brandy and nice to see you.",
+    "John from Nigeria OK.",
+    "Jiban from Bangladesh.",
+    "Dave why is everyone, saying where there from uh I ask everybody that when they sign in just so.",
+    "We can all see how big this community is and how far reaching and this is something that I talk about all the time.",
+    "Why it's so amazing and why I feel so?",
+    "Uh.",
+    "Appreciative an honor to be able to do this because you got people watching from all over the world and sharing ideas.",
+    "Record that we came across your YouTube about 2 months ago and I'm hooked and learned so much from your Adobe audition tutorials by far the best I've seen out there, you're awesome.",
+    "Thank you very much Ricardo Ortiz.",
+    "I appreciate that.",
+    "Evan is asking does the diagnostic run before the effects rack yes, it does?",
+    "It absolutely does, yeah, so if you've got and that's a great question so just to determine some of the people.",
+    "Understand what ever was just asking so if you have effects in the effects rack.",
+    "Let's say things like compression.",
+    "Which are going to amplify?",
+    "Theoretically, you got a limiter on there.",
+    "It's going to amplify noise and silence.",
+    "It is doing the diagnostic scan before the effects rack.",
+    "Now, if you apply those effects of course, Destructively.",
+    "That all comes into play, then that's another example of where you would absolutely want to Rescan to find your levels.",
+    "But yes by default.",
+    "It is doing the analysis off of the raw media before any effects are applied.",
+    "Sandy chew has it going nice to see you.",
+    "All right.",
+    "Kagiso from Botswana Mohammed you're a newbie in this alright man, we got lots of stuff to help you.",
+    "Mohammed you don't have any idea what I'm talking about at all.",
+    "It's just about removing silence and pauses and.",
+    "Tightening up your audio.",
+    "All right.",
+    "OK.",
+    "Tim I think maybe non silent areas in speech or different in that non silent could be anything, including.",
+    "Arms or clicks or other things speeches just actual words.",
+    "Yeah, I agree.",
+    "It's a confusing preset name right.",
+    "All right.",
+    "Uh.",
+    "All right.",
+    "Bruce Johnson cut out, the click at 6 seconds.",
+    "I know this one right here.",
+    "Now now now there we go gone way alright.",
+    "Uh I've got friends from Guyana Morlando from Atlanta.",
+    "All right.",
+    "Evonik from the middle of Hessen Alright, Marco from Brazil Martin Lucas how are you?",
+    "Konstantinos in Greece.",
+    "And Martin you're coming from to us from Mohall.",
+    "All right.",
+    "Anything else what, if we got on the tubes anybody else, Papa know lots on the youtubes OK.",
+    "Trinity project.",
+    "Thank you so much great to see you Hassan.",
+    "Alright net tube user could see as well archive, Pete from Belfast.",
+    "Thank you very much Samantha 38G great to see you as well.",
+    "Totally useful and cool stuff, Susanna Metzger, Hey from Switzerland very nice to see you.",
+    "OK Archive Pete can it re import the files back into audition like Premier can if you take a still frame.",
+    "Did I miss your question here?",
+    "Can it re import the files back into addition like Premier?",
+    "Can if you take a still frame?",
+    "I'm not exactly sure what you're asking archive Pete maybe you can.",
+    "Re ask it.",
+    "And that's user it was awesome meeting night, he was.",
+    "Seriously, such a nice, dude, I love when you meet.",
+    "In particular in particular, famous people and they're just they're really, really nice.",
+    "And he was just one of the nicest humans.",
+    "I've ever encountered.",
+    "So yeah, nothing but love for that man.",
+    "OK.",
+    "Any other questions.",
+    "Tony from Dominican Republic?",
+    "What's up Tony and the der.",
+    "Jeffrey from Ghana.",
+    "OK, Max it would be cool if you taught a course on how to remove noise from the stitches.",
+    "Recorded on the street.",
+    "The noise of cars and the noise of the city.",
+    "You have to use a huge number of filters and often the noises.",
+    "Needed it turns out like it's a robot, but not a person.",
+    "Yeah, so here's the thing Max with that kind of stuff and, yes, tons Imola put my YouTube channel in the chat here.",
+    "Um when you're doing on location field recording.",
+    "I just had a user asked me this.",
+    "I'm on my YouTube channel actually.",
+    "I want to make sure I spelled that correctly.",
+    "The issue is, you know if it's constant.",
+    "Changing.",
+    "Noise.",
+    "You can't really remove it, you know it.",
+    "Best you can attenuate it and more importantly, what you really ultimately want to do.",
+    "Is let me switch the Camera here?",
+    "So I can just talk to you?",
+    "Is?",
+    "Really accentuate the fundamentals of vocal frequencies to make it more intelligible.",
+    "So yes, you want to be able to somewhat.",
+    "Attenuate and soften and if there's like Rumble and certain elements.",
+    "Those you can do a fairly decent job.",
+    "It's not sometimes without a trade off of potential artifacting, though.",
+    "You know it just depends on the severity now in terms of the transitions right if you're cutting different videos and of course, that background noise.",
+    "Um changes.",
+    "If it's really radically different I mean, obviously you can.",
+    "Crossfade, it, you're still going to hear that there is a different.",
+    "There's a change in environment, so one of the techniques that I use is I'll actually fly back in.",
+    "Additional sound design, so like you know from our own collection.",
+    "In fact, we have, like sounds of the city you know.",
+    "It's like New York sits honking and just you know you know drills and Jackhammers and things.",
+    "And you add back in some common background noise at a very low level and you can even EQ.",
+    "It so that you're kind of taking off the high end in a bit of the Lowe's and kind of scooping out the middle.",
+    "Just so that you have a consistent bed of ambient noise.",
+    "So when you're cutting between dialogue.",
+    "It's less jarring and it sounds more familiar.",
+    "It's faking it, it's a fake little technique, but it works, great and again what you're trying to do is give the viewer the perception.",
+    "That this was kind of the same space, the same time of day, the same everything right this achieves that.",
+    "Really easily.",
+    "So I'd recommend that.",
+    "OK.",
+    "Uh.",
+    "Oh, he means dynamic link.",
+    "He was talking about dynamic link.",
+    "Archive Pete.",
+    "Yeah.",
+    "Just checking back over here.",
+    "Um.",
+    "So what was the question can I re import the file back into addition?",
+    "I'm not sure what you mean by a still frame, though.",
+    "Yeah, I mean, if you're in Premier and you take a still frame from something.",
+    "From the video you can always send it back to audition I guess I'm still not.",
+    "Sure, what you what you're asking me, I'm sorry.",
+    "Maybe I'm just slow.",
+    "OK.",
+    "I mean, I definitely could be.",
+    "Tanuki from Latvia OK.",
+    "All right.",
+    "Well, fairy, I hope you're seeing better performance in 2020.",
+    "You know this was really our focus for all of these apps was to make them.",
+    "Inherently more performance more stable so if you're having issues please.",
+    "Feel free to hit me up on Twitter.",
+    "If I can't answer them or tell you what they are if they're known I can connect you directly with care.",
+    "And they can help you as well.",
+    "Alright.",
+    "And it looks like that's all the questions we have.",
+    "OK, no archive Peter saying no sorry not dynamic link what's good C500?",
+    "The C 500 is definitely.",
+    "Peter Wieder How are you doing?",
+    "OK.",
+    "And it looks like that's it.",
+    "Alright archive eat if you can get it in the next 30 seconds, I can hopefully answer otherwise.",
+    "I think we're going to end the stream.",
+    "OK.",
+    "So until tomorrow, I'll be back tomorrow, possibly on the creative cloud channel.",
+    "Talking about some additional things and then Thursday and Friday.",
+    "I'm going to be doing some audio streams recording streams.",
+    "Um in audition, I've gotta finish up a single supposed to finish it today to be released before the end of the year.",
+    "It's called fear of the Q-tip.",
+    "I don't know it's going to happen.",
+    "So uh.",
+    "It may only get out in 2020.",
+    "That's OK in any case as always.",
+    "Thank you all so much for joining me.",
+    "Will be able to watch the replay on Twitter Periscope on Facebook on YouTube and on Behance 'cause we simulcast yo?",
+    "For everyone, joining me on all of the various social networks.",
+    "Thank you so much.",
+    "I hope you have a great rest of your morning afternoon evening.",
+    "Wherever you are in the world and we will see you again next time take care everybody, bye bye.",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION",
+      "span": [
+        4,
+        5
+      ],
+      "sentence": [
+        "How is everyone today good morning Good afternoon good evening?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION",
+      "span": [
+        5,
+        6
+      ],
+      "sentence": [
+        "Wherever you are in the world?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION",
+      "span": [
+        9,
+        10
+      ],
+      "sentence": [
+        "And so I thought I'd showed you today, which is quite simply what's an easy and somewhat automated way to remove?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        11,
+        12
+      ],
+      "sentence": [
+        "And then what are some best practices are easy ways to remove them?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION",
+      "span": [
+        24,
+        25
+      ],
+      "sentence": [
+        "EC Abrams, how are you doing OK alright well let's go ahead and get right to it?"
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION",
+      "span": [
+        28,
+        29
+      ],
+      "sentence": [
+        "So as mentioned there's a lot of there's a lot of ways to do this?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION",
+      "span": [
+        57,
+        58
+      ],
+      "sentence": [
+        "Uh what's up, Tim just to kind of showcase?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION",
+      "span": [
+        95,
+        96
+      ],
+      "sentence": [
+        "Is scan the audio and when you do that?"
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "QUESTION",
+      "span": [
+        100,
+        101
+      ],
+      "sentence": [
+        "Effectively, this isn't a section that uses the algorithm to define what is silence and what is audio now?"
+      ]
+    },
+    "T9": {
+      "id": "T9",
+      "label": "QUESTION",
+      "span": [
+        105,
+        106
+      ],
+      "sentence": [
+        "What signal defines silence so anything below you can see here negative 67 DB for more than 100?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION",
+      "span": [
+        108,
+        109
+      ],
+      "sentence": [
+        "It's going to identify what are effectively threshold levels OK so it's going to do all of this for you?"
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "QUESTION",
+      "span": [
+        134,
+        135
+      ],
+      "sentence": [
+        "OK, So what do we do?"
+      ]
+    },
+    "T12": {
+      "id": "T12",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        135,
+        136
+      ],
+      "sentence": [
+        "What if we wanted to be able to take these audio bits and move them around?"
+      ]
+    },
+    "T13": {
+      "id": "T13",
+      "label": "QUESTION",
+      "span": [
+        139,
+        140
+      ],
+      "sentence": [
+        "Is to essentially?"
+      ]
+    },
+    "T14": {
+      "id": "T14",
+      "label": "QUESTION",
+      "span": [
+        143,
+        144
+      ],
+      "sentence": [
+        "Which basically just takes it out?"
+      ]
+    },
+    "T15": {
+      "id": "T15",
+      "label": "QUESTION",
+      "span": [
+        150,
+        151
+      ],
+      "sentence": [
+        "Is left behind and we know that these sections are perfect?"
+      ]
+    },
+    "T16": {
+      "id": "T16",
+      "label": "QUESTION",
+      "span": [
+        151,
+        152
+      ],
+      "sentence": [
+        "Nothing is cut off everything?"
+      ]
+    },
+    "T17": {
+      "id": "T17",
+      "label": "QUESTION",
+      "span": [
+        152,
+        153
+      ],
+      "sentence": [
+        "Is there it sounds great?"
+      ]
+    },
+    "T18": {
+      "id": "T18",
+      "label": "QUESTION",
+      "span": [
+        210,
+        211
+      ],
+      "sentence": [
+        "Why is it not letting me delete my markers?"
+      ]
+    },
+    "T19": {
+      "id": "T19",
+      "label": "QUESTION",
+      "span": [
+        241,
+        242
+      ],
+      "sentence": [
+        "Have have?"
+      ]
+    },
+    "T20": {
+      "id": "T20",
+      "label": "QUESTION",
+      "span": [
+        252,
+        253
+      ],
+      "sentence": [
+        "Is silence OK now again under the preset menu here?"
+      ]
+    },
+    "T21": {
+      "id": "T21",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        277,
+        278
+      ],
+      "sentence": [
+        "How did you know 100 milliseconds a 10th of a second?"
+      ]
+    },
+    "T22": {
+      "id": "T22",
+      "label": "QUESTION",
+      "span": [
+        309,
+        310
+      ],
+      "sentence": [
+        "What happened all these words all kinds of things are missing right because let's go ahead and undo it?"
+      ]
+    },
+    "T23": {
+      "id": "T23",
+      "label": "QUESTION",
+      "span": [
+        333,
+        334
+      ],
+      "sentence": [
+        "Which means when I play this back now?"
+      ]
+    },
+    "T24": {
+      "id": "T24",
+      "label": "QUESTION",
+      "span": [
+        339,
+        340
+      ],
+      "sentence": [
+        "And this time with the what?"
+      ]
+    },
+    "T25": {
+      "id": "T25",
+      "label": "QUESTION",
+      "span": [
+        364,
+        365
+      ],
+      "sentence": [
+        "Why it's so amazing and why I feel so?"
+      ]
+    },
+    "T26": {
+      "id": "T26",
+      "label": "QUESTION",
+      "span": [
+        370,
+        371
+      ],
+      "sentence": [
+        "Evan is asking does the diagnostic run before the effects rack yes, it does?"
+      ]
+    },
+    "T27": {
+      "id": "T27",
+      "label": "QUESTION",
+      "span": [
+        374,
+        375
+      ],
+      "sentence": [
+        "Which are going to amplify?"
+      ]
+    },
+    "T28": {
+      "id": "T28",
+      "label": "QUESTION",
+      "span": [
+        402,
+        403
+      ],
+      "sentence": [
+        "Evonik from the middle of Hessen Alright, Marco from Brazil Martin Lucas how are you?"
+      ]
+    },
+    "T29": {
+      "id": "T29",
+      "label": "QUESTION",
+      "span": [
+        413,
+        414
+      ],
+      "sentence": [
+        "Did I miss your question here?"
+      ]
+    },
+    "T30": {
+      "id": "T30",
+      "label": "QUESTION",
+      "span": [
+        414,
+        415
+      ],
+      "sentence": [
+        "Can it re import the files back into addition like Premier?"
+      ]
+    },
+    "T31": {
+      "id": "T31",
+      "label": "QUESTION",
+      "span": [
+        415,
+        416
+      ],
+      "sentence": [
+        "Can if you take a still frame?"
+      ]
+    },
+    "T32": {
+      "id": "T32",
+      "label": "QUESTION",
+      "span": [
+        426,
+        427
+      ],
+      "sentence": [
+        "Tony from Dominican Republic?"
+      ]
+    },
+    "T33": {
+      "id": "T33",
+      "label": "QUESTION",
+      "span": [
+        444,
+        445
+      ],
+      "sentence": [
+        "Is let me switch the Camera here?"
+      ]
+    },
+    "T34": {
+      "id": "T34",
+      "label": "QUESTION",
+      "span": [
+        445,
+        446
+      ],
+      "sentence": [
+        "So I can just talk to you?"
+      ]
+    },
+    "T35": {
+      "id": "T35",
+      "label": "QUESTION",
+      "span": [
+        446,
+        447
+      ],
+      "sentence": [
+        "Is?"
+      ]
+    },
+    "T36": {
+      "id": "T36",
+      "label": "QUESTION",
+      "span": [
+        477,
+        478
+      ],
+      "sentence": [
+        "So what was the question can I re import the file back into addition?"
+      ]
+    },
+    "T37": {
+      "id": "T37",
+      "label": "QUESTION",
+      "span": [
+        495,
+        496
+      ],
+      "sentence": [
+        "OK, no archive Peter saying no sorry not dynamic link what's good C500?"
+      ]
+    },
+    "T38": {
+      "id": "T38",
+      "label": "QUESTION",
+      "span": [
+        497,
+        498
+      ],
+      "sentence": [
+        "Peter Wieder How are you doing?"
+      ]
+    },
+    "T39": {
+      "id": "T39",
+      "label": "QUESTION",
+      "span": [
+        513,
+        514
+      ],
+      "sentence": [
+        "Will be able to watch the replay on Twitter Periscope on Facebook on YouTube and on Behance 'cause we simulcast yo?"
+      ]
+    },
+    "T40": {
+      "id": "T40",
+      "label": "ANSWER",
+      "span": [
+        12,
+        13
+      ],
+      "sentence": [
+        "I'm going to show you some of the options here again some of this is automated."
+      ]
+    },
+    "T41": {
+      "id": "T41",
+      "label": "ANSWER",
+      "span": [
+        136,
+        138
+      ],
+      "sentence": [
+        "Couple of options here.",
+        "So this was partially contained in a multitrack session here, so couple of things you could do."
+      ]
+    },
+    "T42": {
+      "id": "T42",
+      "label": "ANSWER",
+      "span": [
+        211,
+        214
+      ],
+      "sentence": [
+        "Let me get rid of all these things 1st.",
+        "OK.",
+        "All right back over to diagnostics."
+      ]
+    },
+    "T43": {
+      "id": "T43",
+      "label": "ANSWER",
+      "span": [
+        278,
+        284
+      ],
+      "sentence": [
+        "Again think about like standard kind of pausing if you're talking.",
+        "This isn't slow this isn't rapid it's just kind of.",
+        "Normal pace.",
+        "A 10th.",
+        "1/5 of a second.",
+        "That's usually about the duration that you want."
+      ]
+    },
+    "T44": {
+      "id": "T44",
+      "label": "ANSWER",
+      "span": [
+        340,
+        341
+      ],
+      "sentence": [
+        "What is it called smoothing shortening silence instead of deleting silence."
+      ]
+    },
+    "T45": {
+      "id": "T45",
+      "label": "ANSWER",
+      "span": [
+        371,
+        372
+      ],
+      "sentence": [
+        "It absolutely does, yeah, so if you've got and that's a great question so just to determine some of the people."
+      ]
+    },
+    "T46": {
+      "id": "T46",
+      "label": "ANSWER",
+      "span": [
+        478,
+        480
+      ],
+      "sentence": [
+        "I'm not sure what you mean by a still frame, though.",
+        "Yeah, I mean, if you're in Premier and you take a still frame from something."
+      ]
+    },
+    "T47": {
+      "id": "T47",
+      "label": "ANSWER",
+      "span": [
+        496,
+        497
+      ],
+      "sentence": [
+        "The C 500 is definitely."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T3",
+      "answer": "T40",
+      "question_sentence": [
+        "And then what are some best practices are easy ways to remove them?"
+      ],
+      "answer_sentence": [
+        "I'm going to show you some of the options here again some of this is automated."
+      ]
+    },
+    "R2": {
+      "id": "R2",
+      "label": "Chitchat",
+      "question": "T12",
+      "answer": "T41",
+      "question_sentence": [
+        "What if we wanted to be able to take these audio bits and move them around?"
+      ],
+      "answer_sentence": [
+        "Couple of options here.",
+        "So this was partially contained in a multitrack session here, so couple of things you could do."
+      ]
+    },
+    "R3": {
+      "id": "R3",
+      "label": "Chitchat",
+      "question": "T18",
+      "answer": "T42",
+      "question_sentence": [
+        "Why is it not letting me delete my markers?"
+      ],
+      "answer_sentence": [
+        "Let me get rid of all these things 1st.",
+        "OK.",
+        "All right back over to diagnostics."
+      ]
+    },
+    "R4": {
+      "id": "R4",
+      "label": "Chitchat",
+      "question": "T21",
+      "answer": "T43",
+      "question_sentence": [
+        "How did you know 100 milliseconds a 10th of a second?"
+      ],
+      "answer_sentence": [
+        "Again think about like standard kind of pausing if you're talking.",
+        "This isn't slow this isn't rapid it's just kind of.",
+        "Normal pace.",
+        "A 10th.",
+        "1/5 of a second.",
+        "That's usually about the duration that you want."
+      ]
+    },
+    "R5": {
+      "id": "R5",
+      "label": "Chitchat",
+      "question": "T24",
+      "answer": "T44",
+      "question_sentence": [
+        "And this time with the what?"
+      ],
+      "answer_sentence": [
+        "What is it called smoothing shortening silence instead of deleting silence."
+      ]
+    },
+    "R6": {
+      "id": "R6",
+      "label": "Chitchat",
+      "question": "T26",
+      "answer": "T45",
+      "question_sentence": [
+        "Evan is asking does the diagnostic run before the effects rack yes, it does?"
+      ],
+      "answer_sentence": [
+        "It absolutely does, yeah, so if you've got and that's a great question so just to determine some of the people."
+      ]
+    },
+    "R7": {
+      "id": "R7",
+      "label": "Chitchat",
+      "question": "T36",
+      "answer": "T46",
+      "question_sentence": [
+        "So what was the question can I re import the file back into addition?"
+      ],
+      "answer_sentence": [
+        "I'm not sure what you mean by a still frame, though.",
+        "Yeah, I mean, if you're in Premier and you take a still frame from something."
+      ]
+    },
+    "R8": {
+      "id": "R8",
+      "label": "Chitchat",
+      "question": "T37",
+      "answer": "T47",
+      "question_sentence": [
+        "OK, no archive Peter saying no sorry not dynamic link what's good C500?"
+      ],
+      "answer_sentence": [
+        "The C 500 is definitely."
+      ]
+    }
+  }
+}

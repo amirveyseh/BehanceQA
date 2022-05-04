@@ -1,0 +1,218 @@
+{
+  "sentence": [
+    "Cubicle desk job and it was just.",
+    "I mean it was it was good work and what not but just it sucks.",
+    "The Lifeout of me so I would I would go home and be drawing anyway so I started reaching out to friends and in client or I'm sorry not clients but you know just friends and just people kind of word of mouth and said Hey.",
+    "You know you need it would be.",
+    "I would have like someone being like there's This person that goes to my church that needs a painting.",
+    "Can you do it, you know?",
+    "and I would say yeah, I can do that and.",
+    "How to draw?",
+    "I would make the painting and then.",
+    "I can't even remember I would do like I think I did a couple of logos for friends that were starting.",
+    "OK Yoga studio and you know either do it for free or first super cheap and just kind of build my experience and.",
+    "Slowly but surely.",
+    "Those things add up so.",
+    "I guess I can just keep.",
+    "Keep moving to the Next One I'm going to.",
+    "Organize.",
+    "These layers real quick.",
+    "There we go.",
+    "And Alright so.",
+    "Bottom three are pretty much locked in.",
+    "So.",
+    "Don't know if I really need.",
+    "This one up here 'cause I feel like I'm starting to kind of run into the same.",
+    "Landscape uhm?",
+    "I don't want to make it too repetitive and boring.",
+    "And it also definitely I feel like I can do a lot more with this.",
+    "Tree.",
+    "As well as this crab one.",
+    "Um?",
+    "I want to make sure I make those these two really fun.",
+    "So all right, let's start with.",
+    "This.",
+    "Tree.",
+    "So.",
+    "Oops.",
+    "In the you know.",
+    "Again, I think I'm actually going to.",
+    "Going to start by, just like retracing it.",
+    "And.",
+    "Um?",
+    "ZX graphic says I just joined.",
+    "Do you work for Adobe?",
+    "Hey, welcome to the stream.",
+    "Thanks for joining uhm.",
+    "I know I don't work for Adobe, I actually have my own freelancing company, so I uhm.",
+    "I'm a one woman show, so I work for myself and take on different clients.",
+    "In all different industries.",
+    "But mostly the outdoor industry as well as the design industry so.",
+    "I have done some work for Adobe UM like contract work, but I'm not in an employee.",
+    "Um?",
+    "But I am part of this program of the like first.",
+    "First time streamers for the Adobe fresco app.",
+    "So I think that uhm.",
+    "It should be.",
+    "Uh, available to everyone soon.",
+    "I'm not exactly sure when, but you guys should be able to start to be able to stream straight from Adobe fresco.",
+    "Uhm, I know that's coming.",
+    "But I'm not sure when, but yeah, so I'm kind of part of the pilot group to test it out though.",
+    "Devika are says hi Lisa, hey there.",
+    "Thanks for joining in.",
+    "Where are you joining in from?",
+    "And right now I'm just kind of trying to see if I can.",
+    "Mess with this.",
+    "Tree a little bit more and make it a little more.",
+    "Interesting and fun.",
+    "'cause right now it feels a little boring.",
+    "And.",
+    "As I've been kind of saying throughout this, uhm.",
+    "The trees out in Washington or anything but boring.",
+    "They are.",
+    "They have a whole.",
+    "Mind of their own so.",
+    "Seeing if I can kind of like make it.",
+    "A lot more funky.",
+    "And just as a time check, I just looked up and I'm seeing it's 937 at least where I am.",
+    "Like another kind of fun.",
+    "Um?",
+    "Verbiage for this is.",
+    "You know it's the upper left USA.",
+    "Or maybe even like upper left coast.",
+    "Especially 'cause it's.",
+    "We've got a little see critter.",
+    "In this one.",
+    "Upper left Coast maybe Fonda?",
+    "Play with the.",
+    "The more nautical Part of it OK.",
+    "Upper left coast.",
+    "Straighten that out a little bit more.",
+    "It's pretty decent, uhm, and then.",
+    "I usually feel like I need to like put.",
+    "Some type of other verbiage down there.",
+    "Maybe I could do like la push Washington, 'cause That's technically.",
+    "A lot of the different imagery that I'm I'm drawing.",
+    "La push.",
+    "And one of my favorite things about uhm.",
+    "Branding stuff is like.",
+    "You know, there's obviously this relationship between.",
+    "The drawings and the words.",
+    "So it's kind of like this like Puzzle Piece that you have to figure out, like how they can go together well.",
+    "You know what makes sense?",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        5,
+        6
+      ],
+      "sentence": [
+        "Can you do it, you know?"
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        41,
+        42
+      ],
+      "sentence": [
+        "Do you work for Adobe?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        60,
+        61
+      ],
+      "sentence": [
+        "Where are you joining in from?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        99,
+        100
+      ],
+      "sentence": [
+        "You know what makes sense?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "ANSWER",
+      "span": [
+        6,
+        7
+      ],
+      "sentence": [
+        "and I would say yeah, I can do that and."
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        7,
+        8
+      ],
+      "sentence": [
+        "How to draw?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "ANSWER",
+      "span": [
+        44,
+        49
+      ],
+      "sentence": [
+        "I know I don't work for Adobe, I actually have my own freelancing company, so I uhm.",
+        "I'm a one woman show, so I work for myself and take on different clients.",
+        "In all different industries.",
+        "But mostly the outdoor industry as well as the design industry so.",
+        "I have done some work for Adobe UM like contract work, but I'm not in an employee."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T0",
+      "answer": "T1",
+      "question_sentence": [
+        "Can you do it, you know?"
+      ],
+      "answer_sentence": [
+        "and I would say yeah, I can do that and."
+      ]
+    },
+    "R2": {
+      "id": "R2",
+      "label": "Relevance",
+      "question": "T5",
+      "answer": "T2",
+      "question_sentence": [
+        "Do you work for Adobe?"
+      ],
+      "answer_sentence": [
+        "I know I don't work for Adobe, I actually have my own freelancing company, so I uhm.",
+        "I'm a one woman show, so I work for myself and take on different clients.",
+        "In all different industries.",
+        "But mostly the outdoor industry as well as the design industry so.",
+        "I have done some work for Adobe UM like contract work, but I'm not in an employee."
+      ]
+    }
+  }
+}

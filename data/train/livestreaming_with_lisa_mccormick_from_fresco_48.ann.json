@@ -1,0 +1,205 @@
+{
+  "sentence": [
+    "Landscape one was around like a couple weeks ago and then I guess I just made this.",
+    "Tree stump up right now in the spot, but.",
+    "But yeah, I just um.",
+    "Yeah, art is.",
+    "There is totaly like therapy for me.",
+    "It's really nice way of.",
+    "Kind of processing things and.",
+    "And also just kinda like focusing your mind on.",
+    "Um?",
+    "Like beauty and.",
+    "Hope and different.",
+    "Different things so.",
+    "Thanks for joining with me tonight and just kind of exploring these little sketchbook drawings that I wasn't quite sure.",
+    "You know what?",
+    "What was going to come with it, um?",
+    "But I am really happy at how they're turning out.",
+    "Like I said, I actually think my favorite one is, uhm.",
+    "This little tree stump.",
+    "Garden thing that is happening over there, um.",
+    "His think that's like super fun.",
+    "I don't know if that's quite the right.",
+    "Color background.",
+    "See.",
+    "He turned that.",
+    "Made by Lisa Marie of.-.",
+    "Yeah, it's kind of fun to play around and.",
+    "Um?",
+    "Kinda just like intuitively draw and see where.",
+    "Serious sketch can take us.",
+    "Sometimes too, like when I was trying to like pull colors from the actual.",
+    "Uh, yeah, what?",
+    "What?",
+    "What's going on in the art work?",
+    "OK.",
+    "How can I mix these things together like?",
+    "Um?",
+    "For instance, like I was saying like I like, I do have that like Super Girly side to me.",
+    "But then I also have the adventurous outdoors like sports side as well, which.",
+    "I feel like this piece definitely shines through with that, like, I mean, I'm using this hot bright pink.",
+    "And mixing it with all these like outdoor things and.",
+    "So yeah, I'd say uhm.",
+    "Really.",
+    "Really follow what feels.",
+    "Feels like genuinely.",
+    "A true to like what you like.",
+    "Because everyone is so unique and.",
+    "Um?",
+    "Yeah, there's.",
+    "There's this other thing that uhm, I remember hearing.",
+    "I forget who said this but something about like how?",
+    "Good artists, uhm?",
+    "Originally are good tastemakers so there they have good taste or they should have good taste.",
+    "So like.",
+    "Um?",
+    "You know, like having that that I for like fashion or or music like what's the new upcoming band or?",
+    "Whatever, and it's starting to pay attention and really study all these different.",
+    "Other.",
+    "Almost like genres of art that are different from yours, but you're kind of like learning like what's going on in the other.",
+    "Other creative worlds and.",
+    "Yeah, so I just kind of rambled on, but hopefully that made sense.",
+    "Basically fall, just keep following your.",
+    "Um your Curiosity's and um.",
+    "Like what what hobbies you genuinely love.",
+    "That's always a good good starting point.",
+    "'cause That's another thing if we're not.",
+    "If we don't love it.",
+    "If we're not like actually interested in.",
+    "Something like we're not going to put in the time and effort to become a student of it, so like.",
+    "In school growing up, I feel like I hated history uhm?",
+    "But then like now, now that I'm out of school and have been out of school I like freaking love researching and learning.",
+    "But it's only about things that I want to know, right?",
+    "So it's kind of funny how that.",
+    "That comes full circle, but.",
+    "Yeah, no problem.",
+    "I hope that helps.",
+    "All right, and just checking the time, it's 955 over here for me, so I've got about 5 more minutes, um.",
+    "She can see I'm trying to kind of quickly.",
+    "Lay down these colors.",
+    "And.",
+    "Clean this one up.",
+    "And I still need to figure out how to stream from my desktop.",
+    "One of these days, I'll I'll learn how to do that.",
+    "Because I do want to show you guys with my final process looks like so I mean I'm not quite done with with all this yet.",
+    "I still have some more details I would want to.",
+    "Go in and work on, fix up and Whatnot, But.",
+    "Another thing that I always like doing when I'm finishing these is going into photo shop actually and adding texture and tweaking.",
+    "You know tweaking the colors a little bit maybe, or at least like the brightness up the curves.",
+    "See I gotta figure out how to set up.",
+    "My life stream on desktop still, but.",
+    "Just letting you know that.",
+    "That's who is another part of my.",
+    "Kind of final touches and what I really think helps make this make my.",
+    "My final pieces pop a little bit more.",
+    "I have this cool texture.",
+    "PSD file that.",
+    "So this is just a little much.",
+    "So we can kind of just.",
+    "Pull some.",
+    "Convert back OK.",
+    "Um?",
+    ""
+  ],
+  "entity": {
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        13,
+        14
+      ],
+      "sentence": [
+        "You know what?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        14,
+        15
+      ],
+      "sentence": [
+        "What was going to come with it, um?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        34,
+        35
+      ],
+      "sentence": [
+        "How can I mix these things together like?"
+      ]
+    },
+    "T15": {
+      "id": "T15",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        70,
+        71
+      ],
+      "sentence": [
+        "But it's only about things that I want to know, right?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        30,
+        33
+      ],
+      "sentence": [
+        "Uh, yeah, what?",
+        "What?",
+        "What's going on in the art work?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "ANSWER",
+      "span": [
+        36,
+        45
+      ],
+      "sentence": [
+        "For instance, like I was saying like I like, I do have that like Super Girly side to me.",
+        "But then I also have the adventurous outdoors like sports side as well, which.",
+        "I feel like this piece definitely shines through with that, like, I mean, I'm using this hot bright pink.",
+        "And mixing it with all these like outdoor things and.",
+        "So yeah, I'd say uhm.",
+        "Really.",
+        "Really follow what feels.",
+        "Feels like genuinely.",
+        "A true to like what you like."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Relevance",
+      "question": "T7",
+      "answer": "T4",
+      "question_sentence": [
+        "How can I mix these things together like?"
+      ],
+      "answer_sentence": [
+        "For instance, like I was saying like I like, I do have that like Super Girly side to me.",
+        "But then I also have the adventurous outdoors like sports side as well, which.",
+        "I feel like this piece definitely shines through with that, like, I mean, I'm using this hot bright pink.",
+        "And mixing it with all these like outdoor things and.",
+        "So yeah, I'd say uhm.",
+        "Really.",
+        "Really follow what feels.",
+        "Feels like genuinely.",
+        "A true to like what you like."
+      ]
+    }
+  }
+}

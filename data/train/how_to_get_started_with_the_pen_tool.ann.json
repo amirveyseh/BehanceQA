@@ -1,0 +1,926 @@
+{
+  "sentence": [
+    "Good afternoon, everybody.",
+    "Welcome welcome welcome.",
+    "It's that time of day once again happy to be live streaming to you on another beautiful Monday afternoon.",
+    "Hopefully it is beautiful where you are.",
+    "Actually it's a little cloudy here.",
+    "A little rainy here in the go to ATL but nonetheless I know that many of you are probably at this point suffering from a little cabin fever, just like tired of the news.",
+    "I know I am and if you're affected directly by the coronavirus.",
+    "My sincerest.",
+    "I wish is for good health and fast recovery for anyone that is affected.",
+    "But with that said, We're going to divert our attention away from that.",
+    "Today, we're going to take a look at something that's been around literally since the beginning, and it is called the pin tool.",
+    "I was.",
+    "I was just thinking about topics today and I asked a friend of mine and I look at it like I feel like I've already streamed everything.",
+    "I think I can stream about what is true about and he was like screw up the pen tool.",
+    "Like really, the pen tool like the pen tool that people hate.",
+    "The one that's been around for years.",
+    "Yes, the pen tool because there are still so many people that don't know how to take advantage of it.",
+    "Don't know why they should take advantage of it.",
+    "Don't know if they should take advantage of it and even some of us that use it.",
+    "Also have a just an issue with.",
+    "Just learning how it works and someone says there's an echo.",
+    "Are you guys hearing an echo?",
+    "Shouldn't hear an echo.",
+    "Let me turn off one thing here and it might help with that echo.",
+    "Alright, let's see if that helps.",
+    "If you heard an echo, just let me know.",
+    "Uh, I don't know what else I can do about it, but other than turning off this one, monitoring pink.",
+    "But anyway, with that said, We're going to go ahead and dive right in, so I'm going to show you just kind of a quick.",
+    "Like literally nuts and bolts of how the pen tool works and then we'll dive into win.",
+    "And how you would use it like in a program like Photoshop or even illustrate.",
+    "So let's go.",
+    "Let's go ahead and I've been on the computer here.",
+    "I've got illustrator open.",
+    "We're going to start in illustrator and the reason why I started illustrators because literally this is where the pin tool was born.",
+    "It was illustrator around 1986.",
+    "I know I started with illustrator 88 so literally that long ago that's how it has.",
+    "How long the pin tools been around then over the years photo shop got it.",
+    "Uh, in design even got it.",
+    "So unlike other programs, have the pen tool, but the pen tool originate it here in illustrator and it was for people that wanted to draw or trace things.",
+    "So I'm going to go ahead and dive in and show you.",
+    "Show you how to begin, so let's go ahead and create a new document.",
+    "I'm just going to just make an empty letter size.",
+    "Why document there nice and easy and I will zoom in a little bit just to fill up the page or fill up the screen and we're just going to go ahead and jump over to the pen tool itself.",
+    "Now the pen tool.",
+    "Is actually it's the pen tool is one tool, but it's a series of tools that work together, so I'm going to hold it down.",
+    "I'm just going to go ahead.",
+    "This is one of the cool things about illustrators you can tear off groups of tools, so I'm going to tear off this group and this is the primary group of pin tools.",
+    "It's literally been around since Day One, so you have the pin you have the ad anchor point you have these delete anchor point.",
+    "I'm going to subtract, delete anchor point and you have the anchor point tool.",
+    "It used to be called the convert anchor point tool I believe, but anyway, those are the four tools that have literally been around since the beginning of time.",
+    "Alright, so.",
+    "Here's what I'm gonna do.",
+    "I'm just going to go ahead and say what do we do?",
+    "So first thing people might think with a tool like this is you start dragging it and then you get this.",
+    "It was like whoa, what's that?",
+    "What do I do with that?",
+    "And then you let go and I'll know I'm style God what am I so you end up with this kind of like this weird let's just get rid of that and then you stop using the pen tool because you don't use it like you would think you don't use it like any other tool.",
+    "Any other tool you pick it up.",
+    "You start drawing with it.",
+    "You would pick it up and you would start painting with it.",
+    "But the pen tool is the only one that just doesn't work with clicking it and starting to drag it around.",
+    "You can drag it around, but you have to know why you would be doing that.",
+    "So let's say for the for the sake of example.",
+    "I'm not an artist, never claimed to be.",
+    "Let's say I was going to attempt to draw one of those newfangled cyber trucks.",
+    "One of those new cars.",
+    "So I might start with the left side.",
+    "I just draw from left to right.",
+    "That's just the way I do it, but I would click.",
+    "And that's going to put down a point.",
+    "Now when I move away from that point in the previous versions of illustrator, back in the day, you would move away and just see whitespace.",
+    "Now when you move away, you get a preview of what that path is going to look like.",
+    "So that's a huge improvement for beginners to just know.",
+    "OK, if I wanted to draw straight line, this is the angle of the line that I'm going to get.",
+    "So that's an illustrator specific thing.",
+    "By the way, the pen tools in the other applications don't do that yet.",
+    "So that's a enhancement that came along way, way, way further along in illustrator's history, like in the last five years or a couple of years that came along alright, so now I'm going to click again.",
+    "OK, that will give me that point in this, just like I can now go anywhere else.",
+    "I want to go with it, so I'm going to go over here actually an because it kind of angles up and then down a little bit, so I'm going to go all the way over here an angle down.",
+    "And then maybe go out here to the front of the car and click again.",
+    "And then I want to come down here and the front of the car is kind of curved.",
+    "Well if I wanted to put a curve right now, we've already seen that click click, click gives me straight lines, but How do I get a curve anywhere that I want to start one?",
+    "Will you get a curve by like what we did first?",
+    "Time holding and dragging when you hold in drag wherever you want it to be?",
+    "That will give you that.",
+    "Curve based on whatever angle you drag it in, so you drag in the direction that you want the curve to be.",
+    "You drag as far as you want the curve to extend, like In other words, how how steep you want that curve to be.",
+    "So again, if I don't click like like for example, if I if I don't drag, if I were to pull the handles all the way in you would see is going to give me more of a straight line, but as I pull the handles out I'm still holding down the mouse the entire time.",
+    "It's going to give me that curve that I'm asking for and if I pulled too far I'm going to get that kind of a curve.",
+    "I don't pull that far then going to get less of a curve, so click click, click straight lines, click drag curve point.",
+    "So now when I let go and by the way the one thing I want to teach beginners is that.",
+    "It will not be perfect the first time like so.",
+    "In other words, don't don't worry about.",
+    "Oh, I'm the angles.",
+    "Not quite right.",
+    "I don't know where I'm going to go next.",
+    "Is gonna throw it off.",
+    "You get a chance to fix it.",
+    "So this is just getting the basic shape down and then you can tweak the heck out of it.",
+    "If you added the wrong point in the wrong spot, you can change it if you if the handle should have been higher up like one of that.",
+    "That roof line to be higher up.",
+    "I can move it later so don't don't get so wrapped up in Oh no, I messed up.",
+    "The point isn't exactly the one I want it where I wanted it and how I want it to be because you'll always be able to go and change it.",
+    "That's the whole point about working with vectors.",
+    "Alright so when I let go that gives me that curve and again I'm getting the rest of the curve to continue on.",
+    "Now as we know by clicking to get a corner point by clicking drag, I'm going to get a curve point so it's.",
+    "Me determining what I want at this point, so I'm gonna go ahead and just come down a little further.",
+    "And I apologize Tesla.",
+    "This is your cyber truck is really screwed up here.",
+    "That's OK, I'll just giving people tutorial on basic shapes.",
+    "Alright, so let's go ahead and click again.",
+    "And now if I come over a back to drawing straight lines.",
+    "Now let's say I want to continue and again I want to show to lower down.",
+    "I'm not worried about it.",
+    "I'll fix that later.",
+    "Let's say that I want to now make a wheel whale.",
+    "So In other words where the tires are going to go, so I would click.",
+    "Because they wouldn't start at the very beginning and now I'm going to go up to where the wheel well would come in.",
+    "Let's say at that angle, but obviously they're not.",
+    "They're not a triangle, it would be a curve.",
+    "So to get that curve we already know what to do.",
+    "Drag but dragging the direction that I want to keep going in.",
+    "So I dragged to the left because that's the direction I'm going in.",
+    "And again, you can tweak.",
+    "You will be able to turn these later.",
+    "You don't get it just right, don't worry about it just yet.",
+    "You'll be able to get it the way you want when you finish the shape.",
+    "Alright, so now I'm going to let go and again come down.",
+    "It's just give me that perfect curve because I pulled it handles out far enough to give me that curve that I wanted and now I can continue down.",
+    "I'm even getting smart guys that we didn't have back in the day letting me know.",
+    "OK if you click here to points are going to be lined up so I'm getting everything I need to draw the shapes a lot easier than it would have been.",
+    "Specially back when this tool first came out.",
+    "And by the way, you had no previews, no smart guides back then.",
+    "You were literally using the force.",
+    "Create your shapes because you had to envision.",
+    "If I click here, this is what I'm going to get and then you would.",
+    "You would learn to do it OK.",
+    "So now click again and I keep coming out and maybe go down this far and say OK, that's where the next wheel well is going to start.",
+    "Maybe a little further.",
+    "Again, if I mess it up I can always start over now start over but tweak it.",
+    "Click here and again I'm going to go up.",
+    "And I'm not going to smart guy here, but that's OK.",
+    "I can use a regular guy to align them later an I know I want to curve here, so don't click drag.",
+    "So and by the way I'm going to, I'm going to make a mistake on purpose.",
+    "Which means is not a mistake rights intentional.",
+    "I'm going to make an attempt.",
+    "Intentional error.",
+    "Let's say I don't curve it.",
+    "Let's say, let's say I don't click and drag.",
+    "We know right now we can even see the preview.",
+    "It's going to be a straight line because what I want to show you later is how you would fix that.",
+    "If you did mess up and put the wrong thing there.",
+    "So I'm going to click.",
+    "Oh, now we got these new triangle tires that don't roll very well.",
+    "This is now we want.",
+    "So I'm going to click again and I've messed up now.",
+    "That should have been a curve point too late.",
+    "I've clicked it.",
+    "I moved on.",
+    "We can fix that in a minute.",
+    "So let's say you wanna Start Stop here will put the back of the truck may be starting there and then of course we always and I'll zoom into can see it.",
+    "We usually want to finish it off where we started, so as soon as I hover over that starting point, I get the you've close it.",
+    "You're ready to close it if you click now, you will close that point and now your pin tools.",
+    "It's unlinked from that path.",
+    "You can now draw new path.",
+    "You could draw your wheels whatever you want to do, but at this point you have now finish your crazy shape.",
+    "My crazy shape in this case needs a lot of work.",
+    "OK, so now that I've gotten the basic shapes done, it's now.",
+    "Time What So Aaron's asking?",
+    "What's the pink line of pink lines?",
+    "A smart guy that appears when two points are lining up so it says, OK, these two points are lined up pink line you can click now let go because now they're perfectly aligned.",
+    "Those are very helpful.",
+    "Alright, so now let's say that I screwed this up and by the way, there aren't just always level.",
+    "They could be at any angle, but just an they usually horizontal vertical, but they could be at any angle.",
+    "Smart guides are awesome, but let's say now, oh God, this is I'm looking at this is a horrible like I just messed this up all along the way.",
+    "No problem, because everyone of those points in paths can be adjusted and moved.",
+    "So for example, if I want to just make the whole thing higher, taller, well, I would start with the point that I first put down, but I don't move it with the pen tool like the pen tool is.",
+    "Therefore creating and deleting an adjusting points.",
+    "So if I click on that point right now you see the tool is going to give me a minus and say, Oh you want to delete that point.",
+    "I'll delete it for you.",
+    "That's not what we want.",
+    "We don't want to delete or add new points at this point.",
+    "At this point, at this juncture we want to adjust the ones that are already here so we don't use the pen tool.",
+    "We use all the rest of the tools or the direct selection tool, so you have a selection tool.",
+    "That's the one you use most of the time, but now we learn why we have a direct selection tool.",
+    "The direct selection tool allows me to manipulate individual points without adjusting the whole path.",
+    "So In other words, I want to move that up.",
+    "I want to move this one up.",
+    "Yeah, there we go.",
+    "Now I'm feeling better about the way this looks even though we have a ways to go, but I just I did not like the initial shape but I want to pull this down a bit because maybe it's not going to go straight off the edge.",
+    "I can move that curve point.",
+    "I can move this corner point and now I can curb it down a bit.",
+    "So any point that needs to be adjusted can be adjusted after the fact and that's the whole reason why I kept telling you.",
+    "Don't worry if you didn't get it right the first time because you will be able to go back and adjust it.",
+    "Now the big mistake.",
+    "That will, well, that shouldn't be.",
+    "A triangle should be a curve.",
+    "What do I have to delete that point and redraw it?",
+    "No, that's what this last tool is for this last tool.",
+    "The anchor point tool, which again used to be called the convert anchor point tool it was that was a better name because that's exactly what it was for by click.",
+    "The convert anchor point and then go to that point that already exists.",
+    "Let me zoom in on so you can see it.",
+    "Let's groove over.",
+    "Let's roll over, scroll over, go to that point that already exist an it's hover over saying OK, you got me now what?",
+    "What should I have done the first time I should've clicked and dragged.",
+    "So at this point I can still use this tool to click and drag in the direction I should have gone in the 1st place.",
+    "So that let's me convert that point from a corner point into a curve point after the fact and vice versa.",
+    "If you said, hey, I don't think the cyber charts curved in the front.",
+    "I think it's like it goes in an angle like a straight down the line and I can say OK, no problem click.",
+    "Click there we go and that converts that into a corner point.",
+    "So this tool literally let you convert whatever point it is into the opposite of what it is.",
+    "So that way we get.",
+    "Complete control, you get to decide after the fact after you've drawn something how you want it to be.",
+    "So if I say no, no should be occur, but maybe not as curved.",
+    "Then I can drop a handles just a little bit more, and maybe this one should be curved.",
+    "I can draw out those handles just a little bit more, and then I can move that point around, move it around with the right tool.",
+    "There we go.",
+    "And there are all kinds.",
+    "Not the path.",
+    "The actual point there are all kinds of Modifyers too.",
+    "So for example, instead of having to constantly switch tools, maybe you hold down a modifier to temporarily switch to the direct selection tool, but one of the most important modifyers I want to teach you now is, and this is the one.",
+    "If you don't learn any other key to hold down, it's your option or your alt key when you're dealing with a curve point.",
+    "Why do I want to hold down the option of the alt key?",
+    "Because if you haven't noticed yet.",
+    "Whenever in here I'll I'll just do it on this one here.",
+    "Whenever you grab the handles, let me zoom in a little bit more.",
+    "You see that that's the point, and there's a right handle on the left handle every curve point by default is going to have those two handles.",
+    "If I click on this one, there are.",
+    "Those are the two handles.",
+    "Without, well, they work like a like.",
+    "A Teeter Totter.",
+    "They.",
+    "Basically, when you turn 1, it adjust the other one we turn the other one.",
+    "It's just that.",
+    "So if you were to tilt this one, it's automatically going to tilt the other side.",
+    "And if I were to tilt this one is automatically going to tilt the other side.",
+    "And that's fine if that's what you want.",
+    "But what if I just want the bottom to be more curved or less curved?",
+    "What if I wanted the top to be more curved, or less curved?",
+    "Well, in that case, then I only really would want to move one side of a handle, not both sides, so that's what the modifier key does by hold down my option or alt key.",
+    "Then I can go in and I can just mess with one side of the handle.",
+    "While I'm holding that key down so that will help you get the exact shape you're trying to get by not necessarily having to draw two points or finagle it, you know some weird kind of way.",
+    "Just hold on your option key and that kind of breaks the link so that you can move them independent of each other and that way get exactly what you want.",
+    "Alright, let's zoom out.",
+    "So you would just keep working on this and do it like for example you can also with the direct selection tool, pick up a point, move it around, you get the handles for that point so that one wasn't quite in center.",
+    "You could use your ruler guides, you can pull down a guide if I wanted to line up those points so those wheel wells would be exactly where they lined up with each other, and I can do the same thing.",
+    "I can measure between these two to make sure exact same and so it's just really at this point.",
+    "Straight lines, curved lines, and everything in between.",
+    "Now let's say.",
+    "Well, I've covered three of the five tools.",
+    "One of the other two.",
+    "Then they're kind of even self explanatory just by their icons.",
+    "They let you add another point to an existing path to let you delete a point from an existing path.",
+    "That's it.",
+    "So what are nunchucks that's correct?",
+    "So what have I decided that there should be another angle on this shape so I could click the plus sign one and I could go anywhere along the path and click and that gives me that corner point.",
+    "Or click and drag and it would give me that curve point.",
+    "So now I've got another bend point to bend on, so if I click on that one I can now been that angle even more to make my weird looking car alright.",
+    "Maybe I want to move it up a little.",
+    "Maybe there's you know there's more of a windshield is more of a been there and maybe this one should be a little higher.",
+    "So by adding that point I'm able to make my car even uglier.",
+    "But you get the idea, you can make make these points anyway you want.",
+    "Now I added a corner point so if I want to add a curve point, same thing.",
+    "Clicking you would do the curve points the way you always do curve points.",
+    "You would click and drag, so that's going to.",
+    "Should have given me.",
+    "Oh no, maybe not.",
+    "Maybe it's just going to corner point.",
+    "Sorry, it's been awhile since I've done this all right then I can convert it.",
+    "Alright, so yeah, clicking clicking is always going to give you a corner point.",
+    "Then if you want to make it into a curve point you would use the same method to convert it all right.",
+    "There was a slight error there.",
+    "Sorry about that.",
+    "Alright, If I decided to you've gone off the deep in this, no one's going to buy this car.",
+    "It's not no longer aerodynamics in the longer safe, but I can grab the one of the minus and say no no.",
+    "I really should have added these points groups.",
+    "Sorry.",
+    "I really should have added that point.",
+    "There we go and that point actually should go back to being a corner point.",
+    "It should be there, but it should be.",
+    "Straight up and down.",
+    "That's it.",
+    "Five tools Four of which are under the pen tool, so pen tool add an anchor point, removing anchorpoint, convert an anchor point or the anchor point tool, and then the direct selection to move them around.",
+    "Just keep practicing those things and you will be a pin tool master.",
+    "Now if you are the kind of person that draws things.",
+    "By all means head over to illustrator or Photoshop for that matter and start using the pen tool to draw things.",
+    "If you're not like main here, I'm just not going to draw things.",
+    "You see how bad I am at it?",
+    "I'm not going to draw things, so When would I use the pen tool?",
+    "Well, this header photo shop.",
+    "Before we had all the various ways of selecting objects in Photoshop, the pin tool was and still is the most accurate for non zsoft edge is In other words not hair, not fur, not.",
+    "You know something's feather on the edges but for a sharp edges.",
+    "Now I needed an example of something that race so I wanted something with some curves and some straight lines in it.",
+    "So I had my assistant take a picture of my arm.",
+    "Just so I could, you know, have something decent to trace.",
+    "So yeah, took my shirt off and had kidding not my arm.",
+    "I don't think I had to tell you that did it.",
+    "Anyway, we got this shape and want to cut it out.",
+    "Now this is on the white background.",
+    "You could argue, OK, you can select the white inverse.",
+    "The selection, you have the arm selected and be pretty good, but it's also got wide around the edges, so and it's reflecting white into the subject.",
+    "And This is why people always say Oh you're shooting on a white background.",
+    "You made it easy.",
+    "No shooting on a white background actually makes it harder.",
+    "Shooting on a Gray background makes it easier, but any other color will reflect onto your subject.",
+    "So if we were to zoom in down here, that makes it harder for any kind of automated selection tool to know the difference.",
+    "And this is what people ask for when they say hey, how do we select things that are hard to select?",
+    "Well, if there's no contrast from the subject in the background, it becomes harder.",
+    "So now that you've seen how the pen tool works, how would I use to bend tool?",
+    "Over here in photo shop.",
+    "Well, it's got those same four tools pen tool at anchor point to link anchor point convert point tool here.",
+    "It's still call convert by the way and you got some new tools.",
+    "You gotta new freeform pin tool and you gotta new curvature pin tool in the curvature pin tool is awesome and it's in illustrator as well.",
+    "I'm going to grab the pen tool.",
+    "Doesn't matter where I start anywhere along the edge, just know what you're going to make.",
+    "So In other words, If I click here in the corner, probably going to be a corner point because that's what it's going to need to be.",
+    "So I click here.",
+    "That gives me a point to start with, and again, it doesn't matter where I start now.",
+    "Let me zoom in a little bit.",
+    "As we're starting to work our way around, you're not going to get that preview insider photo shop going to get that path letting you know what's going, what's going to look like.",
+    "So when I click, I'm not getting a preview.",
+    "I gotta decide myself.",
+    "So in this case, I'm going to.",
+    "I know I need a curve 'cause I'm on a curve if I need a curve, then I'm going to click in drag, then I will start to see the path that I'm making.",
+    "So and by the way, do I click right on the edge?",
+    "Like do I try and line up the.",
+    "Tip of the pen point right on the edge while you could.",
+    "But in that case you're always going to run the risk of not being right on the edge.",
+    "In other words, you're going to run the risk of leaving some white around the edges, so I would say come in about a pixel or two.",
+    "It's OK, no one will notice that pixel missing from the image in your edges will be dead on.",
+    "Your edges will be sharper.",
+    "And by the way, if you don't get it right, you can always adjust it like we already learned, so I'm going to click and drag, and now that's going to start to show Maine.",
+    "The curve that I'm making him dragging in the direction that I'm going to continue tracing.",
+    "So where do?",
+    "Where do you click your next point?",
+    "That's the next thing about tracing.",
+    "You click your point.",
+    "Usually where there's going to be a direction or a.",
+    "Type of path change.",
+    "In other words, that's a direction change.",
+    "Going to go down here, and it's going to change directions and go that way.",
+    "A type of path changes.",
+    "I'm coming off a curve point into a corner, so maybe I don't drag it as far.",
+    "Maybe I just drag it just a little bit, 'cause there's a little bit of curvature there.",
+    "Then I can skip and go all the way down here because nothing's happening in between here.",
+    "There's no direction change.",
+    "It is no path type change, so I come down here and I just click because that was pretty much straight line.",
+    "I come here well, OK, it's starting to curb again and I kind of dips down ever so slightly there so maybe I want to put my next point there and you're never going to guess this right 100% of the time until you get really good at it.",
+    "Then you will guess most of the time where you should put them.",
+    "But even if you don't get it right, you can always go back and adjust it.",
+    "Alright so same thing here, the direction starts to change right about their curve.",
+    "Drag it out a little bit and we just keep going.",
+    "So it's like literally connect the dots.",
+    "Kind of drawing.",
+    "That's going into a corner.",
+    "Then we're coming up here to a curve and you just keep going just like that and keep dragging in the direction of your next point.",
+    "Hold down the spacebar to move it that way.",
+    "I don't have to zoom out that way.",
+    "I have to switch tools.",
+    "Spacebar is awesome for that.",
+    "Now there's a little bit of a dip in here, so maybe I want to and will be anxious by the way, because you want to get it over with.",
+    "Nobody likes doing this.",
+    "This is not fun, so you may want to cheat and try and skip all the way up here.",
+    "If you if you treat your path going to look like you cheated.",
+    "In other words, going to look like you skip spots, and then you're going to be missing spot, so as much as I want to cheat and jump ahead, it's just basically easier.",
+    "Just make that little path point right there, make another one right there and another one here.",
+    "All right direction change right about here.",
+    "Same thing curb in the direction of going in curve in the direction I'm going in curve in the direction of going in and you will be mastering to pin tool quicker than I can say Master in depend tool.",
+    "Alright so same thing here this word direction changes.",
+    "Drag out occur and once you know that little tip about dragging the curve as much as you need in the direction you're going, this does go pretty quickly.",
+    "I'm taking my time here explaining it and taking a little extra time just looking at it, but I would probably do this faster and just tweak whatever I missed.",
+    "All right.",
+    "So again, you might be saying, well, Terry, I've got select subject.",
+    "I've got quick select tool.",
+    "I've got magic one.",
+    "I've got all these other selection methods.",
+    "Why would I ever do it this way?",
+    "Because if you are being paid for your work and you need that selection to be perfect.",
+    "As perfect as possible, this is the most perfect way to make a selection around hard edges.",
+    "Now again, if I were using our cutting a personality, have soft edges all the way around.",
+    "Nope, I wouldn't even bother with us.",
+    "I would use all those other methods we just talked about or I just talked about, but for this type of work where I'm trying to cut something out very precisely, this is where the pin tool comes in.",
+    "Also, if you're still using an application that honors.",
+    "But honors on trying to say Paps for transparency like back in the work express' days in design doesn't need this, but programs like that use these paths to cut out the background.",
+    "Because it didn't understand transparency, so you and by the way, I see that corner just dragging out the curb to match that corner, and then I'm going to keep going.",
+    "Just keep dragging in the direction you want to go in.",
+    "Alright, can you save it as a path before you complete the actual path?",
+    "Yeah, whenever you stop it will it will the minute you start drawing?",
+    "In other words it will be a path on the past palette so you don't have to finish it.",
+    "That path will be there.",
+    "Again.",
+    "Those direction changes and again you'll get better as you as you practice at predicting what kind of path like that.",
+    "When I messed up on what kind of path you want, where you should drag your next point so forth and so and it's OK to mess up.",
+    "It's OK not for not to be perfect because you're going to always be able to go back and tweak it.",
+    "So click.",
+    "Come up here and click.",
+    "And we're done.",
+    "We're done with the initial pack now at this point.",
+    "All the other things I talked about, so I kind of want that want to be in a little bit more.",
+    "So I go to my other tools.",
+    "I'd go to my direct selection tool, which is right there.",
+    "Your tools maybe in different places, 'cause I've customized my toolbar.",
+    "But anyway I can go in and I can say, Oh yeah, I wanna move that one around when I get that one little bit tighter in there and I can zoom in and do all kinds of things to make it just right.",
+    "But you have the ability to do everything I already told you about, including holding down her option, key tweaking just one side of it, getting that one side just right.",
+    "Oh yeah, here is really screwed up.",
+    "Let me see what I want to do to fix that.",
+    "Can that be fixed?",
+    "Yep, hold down the option key.",
+    "I can probably fix that.",
+    "Yeah, so you just go walk your way around visually around your subject and make you make your adjustments.",
+    "Alright, I can spend probably next 20 minutes tweaking this.",
+    "We don't have 20 minutes to tweak it, so just keep in mind you would just keep making it the way you want and here like for example, this would be a good example of where let's see if I can do it this way.",
+    "Option key yeah OK see I'm just hold down the option key to come bring that in tighter.",
+    "But anyway, if you can add points, delete points, convert points the same way we show an illustrator now, How do I save this so I don't ever have to do it again paths?",
+    "There is work path already made, one called arm, so I'm going to call this one arm live.",
+    "Since we started a new one from scratch and now that I have arm live ID select it and I never want to hear let me zoom out by ever want to select that arm again.",
+    "This is saved with the file so I would always be able to come back in and say, you know, I really love to select that arm.",
+    "Hold on my command key and clip and I've got a selection by don't hold down the command key and click.",
+    "I've got a path so command J put it on its own layer.",
+    "Go to my layers panel and turn off the background and I've got a perfect cut out.",
+    "I spent more time on it, a perfect cut out, meaning perfect just the way I wanted it to be without having to manipulate or try and figure out edges of pixels and so forth and so on.",
+    "I've got it cut just the way I wanted it to be, and that's the whole point.",
+    "So now I'm going to transparent layer.",
+    "I've gotten a separate arm layer all by itself.",
+    "I can do whatever I want to it because it is now separate.",
+    "An Asian is saying is going to be a game changer.",
+    "It's been around for decades.",
+    "But again, people are afraid of it because they clicked it may start trying to draw with it and they don't understand how it works because it doesn't work like any other tool, and that's the whole point.",
+    "Of me giving you this tutorial so that you can really no, it's not hard.",
+    "It takes practice, but it's not hard.",
+    "Its click or click and drag, it's.",
+    "Click and drag without worrying it's clicking without worrying because I'll always be able to go back and fix those points about if I messed up, but I clicked the wrong point, convert it if I don't like the way that handles go, hold down the option key or alt key and adjust them if I don't need a point, delete it.",
+    "If I needed a point where I didn't add one, I skipped ahead too far.",
+    "Click the add plus click the pin with plus sign and away you go, so don't be afraid of the pen tool.",
+    "Would like to send this in 2001.",
+    "I might have done in 2001.",
+    "You never know, so go to my YouTube channel.",
+    "You might see it from 2001.",
+    "But I think I'd explained it probably better than I ever have today.",
+    "Thanks to you guys.",
+    "Alright, So what that said?",
+    "I hope that you got something out of this.",
+    "Don't be afraid of the pen tool.",
+    "The pen tool is amazing.",
+    "I don't use as much as I do.",
+    "So with that said, join me tomorrow.",
+    "We're just keep doing.",
+    "But don't be afraid of this.",
+    "This is definitely the way to go.",
+    "Hang out with look at one thing.",
+    "Alright cool alright so with that cheers alright thanks for watching and we will catch you on the next one yet they're all kinds of.",
+    "Q Modifyers Mark like I said, hold on the caps lock to make across error 7 arroz.",
+    "Absolutely wonderful.",
+    "Alright so chooser right.",
+    "Thanks for watching and will catch you next.",
+    "One fiber body.",
+    "You",
+    ""
+  ],
+  "entity": {
+    "T0": {
+      "id": "T0",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        21,
+        22
+      ],
+      "sentence": [
+        "Are you guys hearing an echo?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "QUESTION",
+      "span": [
+        52,
+        53
+      ],
+      "sentence": [
+        "I'm just going to go ahead and say what do we do?"
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "QUESTION",
+      "span": [
+        54,
+        55
+      ],
+      "sentence": [
+        "It was like whoa, what's that?"
+      ]
+    },
+    "T3": {
+      "id": "T3",
+      "label": "QUESTION",
+      "span": [
+        55,
+        56
+      ],
+      "sentence": [
+        "What do I do with that?"
+      ]
+    },
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION",
+      "span": [
+        81,
+        82
+      ],
+      "sentence": [
+        "Well if I wanted to put a curve right now, we've already seen that click click, click gives me straight lines, but How do I get a curve anywhere that I want to start one?"
+      ]
+    },
+    "T5": {
+      "id": "T5",
+      "label": "QUESTION",
+      "span": [
+        82,
+        83
+      ],
+      "sentence": [
+        "Will you get a curve by like what we did first?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION",
+      "span": [
+        83,
+        84
+      ],
+      "sentence": [
+        "Time holding and dragging when you hold in drag wherever you want it to be?"
+      ]
+    },
+    "T7": {
+      "id": "T7",
+      "label": "QUESTION",
+      "span": [
+        168,
+        169
+      ],
+      "sentence": [
+        "Time What So Aaron's asking?"
+      ]
+    },
+    "T8": {
+      "id": "T8",
+      "label": "QUESTION",
+      "span": [
+        169,
+        170
+      ],
+      "sentence": [
+        "What's the pink line of pink lines?"
+      ]
+    },
+    "T9": {
+      "id": "T9",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        197,
+        198
+      ],
+      "sentence": [
+        "What do I have to delete that point and redraw it?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION",
+      "span": [
+        203,
+        204
+      ],
+      "sentence": [
+        "Let's roll over, scroll over, go to that point that already exist an it's hover over saying OK, you got me now what?"
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "QUESTION",
+      "span": [
+        222,
+        223
+      ],
+      "sentence": [
+        "Why do I want to hold down the option of the alt key?"
+      ]
+    },
+    "T12": {
+      "id": "T12",
+      "label": "QUESTION",
+      "span": [
+        237,
+        238
+      ],
+      "sentence": [
+        "But what if I just want the bottom to be more curved or less curved?"
+      ]
+    },
+    "T13": {
+      "id": "T13",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        238,
+        239
+      ],
+      "sentence": [
+        "What if I wanted the top to be more curved, or less curved?"
+      ]
+    },
+    "T14": {
+      "id": "T14",
+      "label": "QUESTION",
+      "span": [
+        254,
+        255
+      ],
+      "sentence": [
+        "So what are nunchucks that's correct?"
+      ]
+    },
+    "T15": {
+      "id": "T15",
+      "label": "QUESTION",
+      "span": [
+        287,
+        288
+      ],
+      "sentence": [
+        "You see how bad I am at it?"
+      ]
+    },
+    "T16": {
+      "id": "T16",
+      "label": "QUESTION",
+      "span": [
+        288,
+        289
+      ],
+      "sentence": [
+        "I'm not going to draw things, so When would I use the pen tool?"
+      ]
+    },
+    "T17": {
+      "id": "T17",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        306,
+        307
+      ],
+      "sentence": [
+        "And this is what people ask for when they say hey, how do we select things that are hard to select?"
+      ]
+    },
+    "T18": {
+      "id": "T18",
+      "label": "QUESTION",
+      "span": [
+        308,
+        309
+      ],
+      "sentence": [
+        "So now that you've seen how the pen tool works, how would I use to bend tool?"
+      ]
+    },
+    "T19": {
+      "id": "T19",
+      "label": "QUESTION",
+      "span": [
+        324,
+        325
+      ],
+      "sentence": [
+        "So and by the way, do I click right on the edge?"
+      ]
+    },
+    "T20": {
+      "id": "T20",
+      "label": "QUESTION",
+      "span": [
+        333,
+        334
+      ],
+      "sentence": [
+        "So where do?"
+      ]
+    },
+    "T21": {
+      "id": "T21",
+      "label": "QUESTION",
+      "span": [
+        334,
+        335
+      ],
+      "sentence": [
+        "Where do you click your next point?"
+      ]
+    },
+    "T22": {
+      "id": "T22",
+      "label": "QUESTION",
+      "span": [
+        376,
+        377
+      ],
+      "sentence": [
+        "Why would I ever do it this way?"
+      ]
+    },
+    "T23": {
+      "id": "T23",
+      "label": "QUESTION",
+      "span": [
+        386,
+        387
+      ],
+      "sentence": [
+        "Alright, can you save it as a path before you complete the actual path?"
+      ]
+    },
+    "T24": {
+      "id": "T24",
+      "label": "QUESTION",
+      "span": [
+        387,
+        388
+      ],
+      "sentence": [
+        "Yeah, whenever you stop it will it will the minute you start drawing?"
+      ]
+    },
+    "T25": {
+      "id": "T25",
+      "label": "QUESTION",
+      "span": [
+        406,
+        407
+      ],
+      "sentence": [
+        "Can that be fixed?"
+      ]
+    },
+    "T26": {
+      "id": "T26",
+      "label": "QUESTION",
+      "span": [
+        413,
+        414
+      ],
+      "sentence": [
+        "But anyway, if you can add points, delete points, convert points the same way we show an illustrator now, How do I save this so I don't ever have to do it again paths?"
+      ]
+    },
+    "T27": {
+      "id": "T27",
+      "label": "QUESTION",
+      "span": [
+        440,
+        441
+      ],
+      "sentence": [
+        "Alright, So what that said?"
+      ]
+    },
+    "T28": {
+      "id": "T28",
+      "label": "ANSWER",
+      "span": [
+        170,
+        171
+      ],
+      "sentence": [
+        "A smart guy that appears when two points are lining up so it says, OK, these two points are lined up pink line you can click now let go because now they're perfectly aligned."
+      ]
+    },
+    "T29": {
+      "id": "T29",
+      "label": "ANSWER",
+      "span": [
+        307,
+        308
+      ],
+      "sentence": [
+        "Well, if there's no contrast from the subject in the background, it becomes harder."
+      ]
+    },
+    "T30": {
+      "id": "T30",
+      "label": "ANSWER",
+      "span": [
+        407,
+        408
+      ],
+      "sentence": [
+        "Yep, hold down the option key."
+      ]
+    },
+    "T31": {
+      "id": "T31",
+      "label": "ANSWER",
+      "span": [
+        22,
+        23
+      ],
+      "sentence": [
+        "Shouldn't hear an echo."
+      ]
+    },
+    "T32": {
+      "id": "T32",
+      "label": "ANSWER",
+      "span": [
+        198,
+        202
+      ],
+      "sentence": [
+        "No, that's what this last tool is for this last tool.",
+        "The anchor point tool, which again used to be called the convert anchor point tool it was that was a better name because that's exactly what it was for by click.",
+        "The convert anchor point and then go to that point that already exists.",
+        "Let me zoom in on so you can see it."
+      ]
+    },
+    "T33": {
+      "id": "T33",
+      "label": "ANSWER",
+      "span": [
+        239,
+        244
+      ],
+      "sentence": [
+        "Well, in that case, then I only really would want to move one side of a handle, not both sides, so that's what the modifier key does by hold down my option or alt key.",
+        "Then I can go in and I can just mess with one side of the handle.",
+        "While I'm holding that key down so that will help you get the exact shape you're trying to get by not necessarily having to draw two points or finagle it, you know some weird kind of way.",
+        "Just hold on your option key and that kind of breaks the link so that you can move them independent of each other and that way get exactly what you want.",
+        "Alright, let's zoom out."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Chitchat",
+      "question": "T8",
+      "answer": "T28",
+      "question_sentence": [
+        "What's the pink line of pink lines?"
+      ],
+      "answer_sentence": [
+        "A smart guy that appears when two points are lining up so it says, OK, these two points are lined up pink line you can click now let go because now they're perfectly aligned."
+      ]
+    },
+    "R2": {
+      "id": "R2",
+      "label": "Chitchat",
+      "question": "T17",
+      "answer": "T29",
+      "question_sentence": [
+        "And this is what people ask for when they say hey, how do we select things that are hard to select?"
+      ],
+      "answer_sentence": [
+        "Well, if there's no contrast from the subject in the background, it becomes harder."
+      ]
+    },
+    "R3": {
+      "id": "R3",
+      "label": "Chitchat",
+      "question": "T25",
+      "answer": "T30",
+      "question_sentence": [
+        "Can that be fixed?"
+      ],
+      "answer_sentence": [
+        "Yep, hold down the option key."
+      ]
+    },
+    "R4": {
+      "id": "R4",
+      "label": "Chitchat",
+      "question": "T0",
+      "answer": "T31",
+      "question_sentence": [
+        "Are you guys hearing an echo?"
+      ],
+      "answer_sentence": [
+        "Shouldn't hear an echo."
+      ]
+    },
+    "R5": {
+      "id": "R5",
+      "label": "Relevance",
+      "question": "T9",
+      "answer": "T32",
+      "question_sentence": [
+        "What do I have to delete that point and redraw it?"
+      ],
+      "answer_sentence": [
+        "No, that's what this last tool is for this last tool.",
+        "The anchor point tool, which again used to be called the convert anchor point tool it was that was a better name because that's exactly what it was for by click.",
+        "The convert anchor point and then go to that point that already exists.",
+        "Let me zoom in on so you can see it."
+      ]
+    },
+    "R6": {
+      "id": "R6",
+      "label": "Relevance",
+      "question": "T13",
+      "answer": "T33",
+      "question_sentence": [
+        "What if I wanted the top to be more curved, or less curved?"
+      ],
+      "answer_sentence": [
+        "Well, in that case, then I only really would want to move one side of a handle, not both sides, so that's what the modifier key does by hold down my option or alt key.",
+        "Then I can go in and I can just mess with one side of the handle.",
+        "While I'm holding that key down so that will help you get the exact shape you're trying to get by not necessarily having to draw two points or finagle it, you know some weird kind of way.",
+        "Just hold on your option key and that kind of breaks the link so that you can move them independent of each other and that way get exactly what you want.",
+        "Alright, let's zoom out."
+      ]
+    }
+  }
+}

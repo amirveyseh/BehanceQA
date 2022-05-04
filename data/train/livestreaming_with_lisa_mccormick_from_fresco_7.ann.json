@@ -1,0 +1,229 @@
+{
+  "sentence": [
+    "Duplicate that overtime.",
+    "Um?",
+    "If this did end up just being more of like A.",
+    "Like a long Canvas instead of a square like a rectangle.",
+    "There's the word rectangle.",
+    "Alright, let's see.",
+    "For some reason for Macy's.",
+    "App settings.",
+    "Huh?",
+    "For some reason.",
+    "Keep on going back and redoing it and.",
+    "Um?",
+    "Just trying to like rough out that perfect angle.",
+    "Yeah, I'm not sure if.",
+    "I guess I actually don't really have.",
+    "That big of an angle?",
+    "Um, looking at the other.",
+    "Other letters said I shouldn't have it as curved.",
+    "Maybe something more like that?",
+    "Yeah, that probably looks a little bit more accurate, so then I would move this over.",
+    "It would be something like that.",
+    "Potentially.",
+    "So another thing that's going to be very interesting is trying to.",
+    "Now figure out how to write National Park underneath this because.",
+    "The Y.",
+    "Cuts right through it.",
+    "Hi so conveniently forgot about the last time.",
+    "Um?",
+    "My mom says this is the most favorite part of her day.",
+    "Thanks mom mom for the bus.",
+    "How is always the biggest fan?",
+    "Um?",
+    "Pull the city says, yet this is looking really doubt.",
+    "Hey, thanks so much, um.",
+    "Colby, I believe you you are also a streamer.",
+    "Uhm?",
+    "I'm pretty sure I feel like I.",
+    "I don't think I have a senior work quite yet, but I uhm.",
+    "Like I've seen your name in the discord group that we're in, so that's really awesome.",
+    "So if you guys are looking for more streamers, you guys should definitely check out Colby and see what see what he's up to school that Adobe is kind of developing this bigger group of Streamers.",
+    "And yeah, it's really.",
+    "It's really fun to learn from each other and dumb.",
+    "I know I love watching people work and kind of trying to.",
+    "Um?",
+    "Just learn and see how everyone approaches their own work differently and it's just it's super fun.",
+    "I've been loving it, so yeah, shut out Colby and I will definitely check out your work after this.",
+    "I've tried clicking out of this.",
+    "Stream before to go like.",
+    "To a website, and since I'm streaming right from my iPad, it actually just ends the screen, so I would have.",
+    "I would go in and show your your website if I could, but uhm.",
+    "Yeah, sorry about that, um.",
+    "Actually called what kind of illustration worker design work do you do?",
+    "I'm curious, I want to hear more about.",
+    "A little bit more about your work.",
+    "I'll also be the first to say that I am not a professional letter.",
+    "Is that how you say it letter or?",
+    "Something that I'm trying to get better at um.",
+    "So some of this is looking a little ugly and rough and.",
+    "It's all part of the learning process.",
+    "Who qualifies lately I've been working in in design A lot.",
+    "Oh, that's awesome.",
+    "Um, are you doing a lot of Lake layout work?",
+    "I haven't used in design and Oh my gosh, that's actually probably been a couple of years.",
+    "Fun fact, back in college I was the.",
+    "Or like I got like a little side job at my University being the newspaper layout editor so.",
+    "Uhm, I would take like the weekly lab or articles and.",
+    "You know all the photos and Whatnot and.",
+    "Put them all together and I got to kind of create a whole new type system and.",
+    "Let me know.",
+    "OK, so.",
+    "I would like to start with.",
+    "A pencil which I've pretty much got here.",
+    "Oh, and I also have this color scheme that I was playing with.",
+    "Um, which was inspired, uhm.",
+    "By John Alcorn.",
+    "Who is this incredible illustrator?",
+    "He actually he's passed away.",
+    "A couple of decades ago, but uhm.",
+    "He's just an incredible illustrator.",
+    "And really, uh.",
+    "Got really popular during like the 60s seventies, 80s.",
+    "So I just I thought his palette was really cool and I wanted to come.",
+    "You something similar for this?",
+    "Since it kind of his work has that very whimsical feel to it.",
+    "And that's what I'm kind of hoping to do for this.",
+    "I'm doing well.",
+    "Thanks for thanks for asking.",
+    "I'm glad you're doing good.",
+    "Anna um and yeah, thank you.",
+    "Thanks about the answers.",
+    "Love the color palette.",
+    "Yeah, I.",
+    "I like that like happy medium between.",
+    "I think like having pops of bright color as well as silk and, uh, sticking to.",
+    "Like thinking to an earth tone palette I guess.",
+    "And especially for this, since it is obviously this place out in the outdoors, I want to make sure to have some earth tones for sure, but it's also it's just the most magical, whimsical place I've ever been, so.",
+    "I certainly Wanda throw in.",
+    "Some just kind of wild colors as well, so.",
+    "Hum.",
+    "And again, this project is just for fun, so I'm I'm probably going to be.",
+    ""
+  ],
+  "entity": {
+    "T4": {
+      "id": "T4",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        18,
+        19
+      ],
+      "sentence": [
+        "Maybe something more like that?"
+      ]
+    },
+    "T6": {
+      "id": "T6",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        30,
+        31
+      ],
+      "sentence": [
+        "How is always the biggest fan?"
+      ]
+    },
+    "T10": {
+      "id": "T10",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        51,
+        52
+      ],
+      "sentence": [
+        "Actually called what kind of illustration worker design work do you do?"
+      ]
+    },
+    "T11": {
+      "id": "T11",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        55,
+        56
+      ],
+      "sentence": [
+        "Is that how you say it letter or?"
+      ]
+    },
+    "T12": {
+      "id": "T12",
+      "label": "QUESTION-OTHER-ADOBE-PRODUCT",
+      "span": [
+        61,
+        62
+      ],
+      "sentence": [
+        "Um, are you doing a lot of Lake layout work?"
+      ]
+    },
+    "T13": {
+      "id": "T13",
+      "label": "QUESTION-CHITCHAT",
+      "span": [
+        75,
+        76
+      ],
+      "sentence": [
+        "Who is this incredible illustrator?"
+      ]
+    },
+    "T1": {
+      "id": "T1",
+      "label": "ANSWER",
+      "span": [
+        19,
+        20
+      ],
+      "sentence": [
+        "Yeah, that probably looks a little bit more accurate, so then I would move this over."
+      ]
+    },
+    "T2": {
+      "id": "T2",
+      "label": "ANSWER",
+      "span": [
+        76,
+        81
+      ],
+      "sentence": [
+        "He actually he's passed away.",
+        "A couple of decades ago, but uhm.",
+        "He's just an incredible illustrator.",
+        "And really, uh.",
+        "Got really popular during like the 60s seventies, 80s."
+      ]
+    }
+  },
+  "relation": {
+    "R1": {
+      "id": "R1",
+      "label": "Relevance",
+      "question": "T4",
+      "answer": "T1",
+      "question_sentence": [
+        "Maybe something more like that?"
+      ],
+      "answer_sentence": [
+        "Yeah, that probably looks a little bit more accurate, so then I would move this over."
+      ]
+    },
+    "R2": {
+      "id": "R2",
+      "label": "Chitchat",
+      "question": "T13",
+      "answer": "T2",
+      "question_sentence": [
+        "Who is this incredible illustrator?"
+      ],
+      "answer_sentence": [
+        "He actually he's passed away.",
+        "A couple of decades ago, but uhm.",
+        "He's just an incredible illustrator.",
+        "And really, uh.",
+        "Got really popular during like the 60s seventies, 80s."
+      ]
+    }
+  }
+}
